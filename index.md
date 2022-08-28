@@ -19,9 +19,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Events
+          description: More information click here
+          url: https://dunmansec.moe.edu.sg/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,6 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
