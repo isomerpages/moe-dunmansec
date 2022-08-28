@@ -1,4 +1,5 @@
 collections:
   contact-us:
     output: true
-    order: []
+    order:
+      - Getting Here.md
