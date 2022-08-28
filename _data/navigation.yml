@@ -2,7 +2,7 @@ logo: /images/logo.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our School
     collection: our-school
+  - title: Our Academic Programme
+    collection: our-academic-programme
