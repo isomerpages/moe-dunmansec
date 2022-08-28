@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /our-school/principals-message
 description: ""
 ---
-# <span style = "color: #a70303"> <b>Principal's Message</b> </span>
+# <span style = "color: #a70303; text-align:center"> <b>Principal's Message</b> </span>
 
 
 ![](/images/Our%20School/Mr%20Toh_4.jpeg)
