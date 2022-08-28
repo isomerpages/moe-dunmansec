@@ -8,6 +8,7 @@ description: ""
 ### <span style = "color: #a70303"> <b>School Mission & Vision</b> </span>
 
 **Vision**
+
 Empathetic Leaders, Impactful Innovators  
 
 
