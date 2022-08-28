@@ -21,7 +21,6 @@ Discernment, Daring, Discipline, Determination, Duty
 
 ### <span style = "color: #a70303"> <b>The Dunmanite Creed</b> </span>
 
-
 Together you and I will leave  
 As distinctive Dunmanites,  
 Discerning in our choice of right from what is not,  
@@ -31,9 +30,6 @@ Determined in all that we do;
 As it is our Duty  
 To serve and better our school, community and nation.
 
-Philosophy
-----------
-
-  
+### <span style = "color: #a70303"> <b>Philosophy</b> </span>
 
 Every child has different abilities, can become an enquiring and independent learner, and can learn to accept responsibility for his learning outcome.
