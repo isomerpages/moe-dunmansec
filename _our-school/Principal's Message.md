@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /our-school/principals-message
 description: ""
 ---
-![Mr Toh_4.jpeg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20School/Mr%20Toh_4.jpeg)
+![](/images/Our%20School/Mr%20Toh_4.jpeg)
 
 <p style="text-align: justify;"> Dunman Secondary School has distinguished itself as an outstanding choice school in the East for more than half a century, bearing the hallmarks of excellence, innovation and ethics. It has inspired and transformed generations of Dunmanites into responsible citizens, equipped with future ready competencies, to actualise their aspirations while serving the community and nation with sound values and compassion. </p> 
 
