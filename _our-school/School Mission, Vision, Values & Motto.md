@@ -33,3 +33,6 @@ To serve and better our school, community and nation.
 ### <span style = "color: #a70303"> <b>Philosophy</b> </span>
 
 Every child has different abilities, can become an enquiring and independent learner, and can learn to accept responsibility for his learning outcome.
+
+ <img src="/images/Our%20School/distinctively_dunman.jpg"
+     style="width:40%">
