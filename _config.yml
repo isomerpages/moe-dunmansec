@@ -1,6 +1,6 @@
 title: Dunman Secondary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.png
 colors:
   primary-color: "#e75b5b"
   secondary-color: "#a70303"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dn9twugy8aohm.amplifyapp.com
 prod: https://master.dn9twugy8aohm.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
