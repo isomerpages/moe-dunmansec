@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Staff Contact.md
       - Getting Here.md
