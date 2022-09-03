@@ -15,3 +15,7 @@ third_nav_title: Contact Us
 ![](/images/Our%20School/Contacts_Sec12.jpg)
 
 ![](/images/Our%20School/Contacts_Sec34.jpg)
+
+![](/images/Our%20School/Contacts_Sec5.jpg)
+
+![](/images/Our%20School/Contacts_Others.jpg)
