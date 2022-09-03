@@ -8,13 +8,9 @@ third_nav_title: The Dunman Story
 
 ### <span style = "color: black"> <b>The Haig Road Years<br>In the Beginning: Planting a Strong Foundation</b> </span>
 
-
-<br>
-
 > _“We have every intention of making our school the prestigious school for Katong first, and finally the prestigious school for the whole of Singapore... this is no pipe dream. It is an attainable goal. It may take time, but I am serious - we shall overcome”._
 
-
-#### Establishing Dunman Integrated Secondary School
+#### <span style = "color: black"> <b>Establishing Dunman Integrated Secondary School</b> </span>
 
 <p style="text-align: justify;">Against the backdrop of the Communists infiltrating Chinese schools for political gains in the 1950s, an All-Party Committee on Chinese Education in Singapore was appointed. The Committee presented a report that addressed the challenges of fostering social cohesion among students in Singapore and emphasized the importance of bilingual education as well as the, inter-mingling of students from different language-medium schools. As a result, the government set up schools where two or more language streams were housed under one administration and one principal. Called Integrated Schools, these establishments brought students of various ethnicities into close proximity, creating an environment and opportunity for fostering racial harmony. The pioneering spirit of Dunman and the boldness to break new ground were encoded in its very being when it was founded. Dunman Secondary School, founded in 1963, was the first of its kind, as it was one of the first Integrated Schools in Singapore, and it was the first with triple integration. This foreshadowed subsequent attempts for schools to become the common space for forging a common identity, regardless of race, language or religion.</p>
 
