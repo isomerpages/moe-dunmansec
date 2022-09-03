@@ -179,54 +179,31 @@ _The EZ COE have collaborated with various strategic partners namely the Natio
 
 _The key programmes and workshops organized by the EZ COE over the span of the past 19 years included :_
 
-_Staff:_
-
-\-        _Designing STEM Curriculum Workshops (Primary & Secondary)_
-
-\-        _STEM Applications Workshops (Primary & Secondary)_
-
-\-        _STEM-related Workshops (Primary & Secondary)_
-
-\-        _Artificial Intelligence Workshops (Primary & Secondary)_
-
-\-        _Science Process Skills Workshops (Secondary)_
-
-\-        _Assessment Literacy Workshops (Secondary)_
-
-\-        _Microscale Chemistry Workshops (Secondary)_
-
-\-        _Nutrition & Food Science Workshops (Secondary)_
-
-\-        _Workshops for Science Techinical Support Officers (TSOs) (Secondary)_
-
-\-        _Teacher Lecture Series by Centre for Research and Applied Learning in Science (CRADLΣ) (Secondary)_
-
+_Staff:_  
+\-        _Designing STEM Curriculum Workshops (Primary & Secondary)_  
+\-        _STEM Applications Workshops (Primary & Secondary)_  
+\-        _STEM-related Workshops (Primary & Secondary)_  
+\-        _Artificial Intelligence Workshops (Primary & Secondary)_  
+\-        _Science Process Skills Workshops (Secondary)_  
+\-        _Assessment Literacy Workshops (Secondary)_  
+\-        _Microscale Chemistry Workshops (Secondary)_  
+\-        _Nutrition & Food Science Workshops (Secondary)_  
+\-        _Workshops for Science Techinical Support Officers (TSOs) (Secondary)_  
+\-        _Teacher Lecture Series by Centre for Research and Applied Learning in Science (CRADLΣ) (Secondary)_  
 \-        _Science ‘Alive’ Workshops (Primary)_
 
-_Students:_
-
-\-        _East Zone Enviro-Life Science Symposium (Primary & Secondary)_
-
-\-        _Life Science Workshops (Primary & Secondary)_
-
-\-        _STEM-related Workshops (Secondary)_
-
-\-        _Biotechnology Workshops (Secondary)_
-
-\-        _Nutrition & Food Science Workshops (Secondary)_
-
-\-        _Sustainability-related Workshops (Secondary)_
-
-\-        _Energy Workshops (Secondary)_
-
-\-        _Centre for Research and Applied Learning in Science (CRADLΣ) Workshops (Secondary)_
-
-\-        _Terrarium Workshops (Primary)_
-
-\-        _Junior Scientist Workshops (Primary)_
-
-\-        _Kitchen Science Camp (Primary)_
-
+_Students:_  
+\-        _East Zone Enviro-Life Science Symposium (Primary & Secondary)_  
+\-        _Life Science Workshops (Primary & Secondary)_  
+\-        _STEM-related Workshops (Secondary)_  
+\-        _Biotechnology Workshops (Secondary)_   
+\-        _Nutrition & Food Science Workshops (Secondary)_   
+\-        _Sustainability-related Workshops (Secondary)_   
+\-        _Energy Workshops (Secondary)_   
+\-        _Centre for Research and Applied Learning in Science (CRADLΣ) Workshops (Secondary)_   
+\-        _Terrarium Workshops (Primary)_   
+\-        _Junior Scientist Workshops (Primary)_   
+\-        _Kitchen Science Camp (Primary)_   
 \-        _STEM Exploratory Experience (comprises of STEM Introductory Class Series, STEM Design Challenge and STEM Game Challenges) (Primary)_
 
 The COE model was reviewed for its relevance and strategic value in view of the evolving needs in teaching and learning. The COE model for East Zone will cease with effect from 1 January 2022.
