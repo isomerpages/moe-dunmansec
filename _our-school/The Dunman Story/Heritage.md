@@ -158,8 +158,77 @@ In Dunman’s drive to realise the nation’s vision of building a SMART nation,
 
 In their pursuit of excellence, many former Dunmanites have made a name for themselves internationally in 2017. On 22 May 2017, Ms Nur Yusrina from the class of 2003 became the first Malay-Muslim woman to reach the summit of Mount Everest after more than 50 days of trekking. Ms Laanya Asogan from the class of 2012 was crowned Miss World Singapore 2017. These are former Dunmanites who have displayed determination and a daring spirit, and they are an inspiration to all Dunmanites.
 
+
 **CENTRE OF EXCELLENCE**   
 **East Zone COE for the Life Sciences (2002 – 2009)**   
 **East Zone COE for innovations in Science (2010 - 2021)**
 
 Since the inception of the COE model in 1999, it has served East Zone for 21 years to nurture a vibrant teaching and learning zonal culture. East Zone COEs have collectively raised the quality of teaching and learning in schools through enhancing teacher competencies; built synergistic collaborations amongst COEs, MOE HQ and academies; fostered greater learning and collaboration amongst East Zone schools; as well as provided opportunities for students’ development.
+
+_The East Zone Centre of Excellence ( EZ COE) at Dunman was first set up in 2002 as the East Zone Centre of Excellence for the Life-Sciences with a vision of becoming the “Leading Life-Science Research Centre” in the East. The EZ COE cultivated interest amongst students in field of forensic science, microbiology, the environmental sciences and molecular biology through workshops and research projects. All the activities culminated in the Enviro-Life Science Symposium, a major annual event organized for East Zone Schools._
+
+_In 2010, to keep abreast with the evolving landscape in Science, Dunman Secondary repositioned its EZ COE as the “East Zone Centre of Excellence for Innovations in Science” and expanded the scope of its EZ COE beyond the Life-Sciences to all Sciences. It established close collaboration with Institutes of Higher Learning (IHLs) and industrial partners to provide enhanced support to East Zone schools. It’s primary  focus was on Innovations in Science, and prides itself to lead in continuous improvements in the teaching and learning of Science with originality and creativity._
+
+_In 2011, the D’Experimental Hub & Science Learning Hub was set up to provide more real life applications and hands-on learning with experimental science stations._
+
+_From 2015, to provide more authentic and in-depth learning for students and teachers, the COE pillars was conceptualized to focus on Life-science, Chemistry, Physics and Environmental-science._
+
+_Through its diverse programmes and activities for both students and teachers, the EZ COE have increased its outreach and impacted more schools in the East Zone over the years. By creating opportunities in the learning and teaching of Science beyond the classroom, the EZ COE have inspired both students and teachers to cultivate the spirit of innovation in Science, both at the individual level and at the school level._
+
+_The EZ COE have collaborated with various strategic partners namely the National Institute of Education (NIE), Science Centre Singapore (SCS), Temasek Polytechnic (TP), AMGEN Foundation and Academy of Singapore Teachers (AST) to offer professional development opportunities for Science Professionals as well as fun-filled and enriching workshops for students._
+
+_The key programmes and workshops organized by the EZ COE over the span of the past 19 years included :_
+
+_Staff:_
+
+\-        _Designing STEM Curriculum Workshops (Primary & Secondary)_
+
+\-        _STEM Applications Workshops (Primary & Secondary)_
+
+\-        _STEM-related Workshops (Primary & Secondary)_
+
+\-        _Artificial Intelligence Workshops (Primary & Secondary)_
+
+\-        _Science Process Skills Workshops (Secondary)_
+
+\-        _Assessment Literacy Workshops (Secondary)_
+
+\-        _Microscale Chemistry Workshops (Secondary)_
+
+\-        _Nutrition & Food Science Workshops (Secondary)_
+
+\-        _Workshops for Science Techinical Support Officers (TSOs) (Secondary)_
+
+\-        _Teacher Lecture Series by Centre for Research and Applied Learning in Science (CRADLΣ) (Secondary)_
+
+\-        _Science ‘Alive’ Workshops (Primary)_
+
+_Students:_
+
+\-        _East Zone Enviro-Life Science Symposium (Primary & Secondary)_
+
+\-        _Life Science Workshops (Primary & Secondary)_
+
+\-        _STEM-related Workshops (Secondary)_
+
+\-        _Biotechnology Workshops (Secondary)_
+
+\-        _Nutrition & Food Science Workshops (Secondary)_
+
+\-        _Sustainability-related Workshops (Secondary)_
+
+\-        _Energy Workshops (Secondary)_
+
+\-        _Centre for Research and Applied Learning in Science (CRADLΣ) Workshops (Secondary)_
+
+\-        _Terrarium Workshops (Primary)_
+
+\-        _Junior Scientist Workshops (Primary)_
+
+\-        _Kitchen Science Camp (Primary)_
+
+\-        _STEM Exploratory Experience (comprises of STEM Introductory Class Series, STEM Design Challenge and STEM Game Challenges) (Primary)_
+
+The COE model was reviewed for its relevance and strategic value in view of the evolving needs in teaching and learning. The COE model for East Zone will cease with effect from 1 January 2022.
+
+Moving forward, East Zone Schools’ distinctive strengths will continue to be harnessed to strengthen teaching and learning capabilities and foster a zonal collaborative and learning culture.
