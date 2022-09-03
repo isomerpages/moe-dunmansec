@@ -7,6 +7,8 @@ description: ""
 
 <h3><span style="text-align: center;">School Mission & Vision</span></h3>
 
+fdfg
+
 **Vision**
 
 Empathetic Leaders, Impactful Innovators  
