@@ -32,7 +32,7 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">In the same year, Mr Tiong Dak Yu became the second Principal. The school’s first Advisory Committee was officially formed with Mr Tan Tock San as the Chairman.</p>
 
-#### Building an Identity
+#### <span style = "color: black"> <b>Building an Identity</b> </span>
 
 <p style="text-align: justify;">One of the most memorable events in the history of the school took place in 1970 when the Dunmanites put up a display, ‘Fountain of Youth’ at the Padang during the National Day Parade. Dunman was the only school to perform that year and the display was the finale for the parade. Every single Dunman girl and 336 boys took part in the performance. The event contributed to the bonding of all Dunmanites. The results for the GCE ‘O’ level that year was the best ever.</p>
 
