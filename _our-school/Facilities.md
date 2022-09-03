@@ -3,9 +3,9 @@ title: Facilities
 permalink: /our-school/facilities/
 description: ""
 ---
-# <span style = "color: #a70303"> <b>Facilities</b> </span>
+# Facilities
 
-#### <span style = "color: #a70303"> <b>Our Facilities</b> </span>
+#### Our Facilities
 
 <p style="text-align: justify;">The continuing development of our school facilities and expansion of our network of ‘Real World’ learning environments offered by our strategic partners are designed to create a supportive and collaborative space for our students to learn, collaborate and play together. It is to provide a ‘Second Home’ experience where your child feels secure, connected and motivated to participate in learning and be inspired to grow into an ethical change-maker.</p>
 
