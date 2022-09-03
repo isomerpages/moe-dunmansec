@@ -9,3 +9,9 @@ third_nav_title: Contact Us
 ### Academic Year 2022
 
 ![](/images/Our%20School/Contacts_SLsHODs.jpg)
+
+![](/images/Our%20School/Contacts_SDT.jpg)
+
+![](/images/Our%20School/Contacts_Sec12.jpg)
+
+![](/images/Our%20School/Contacts_Sec34.jpg)
