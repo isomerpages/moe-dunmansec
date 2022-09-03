@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - Facilities.md
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
       - Organisation Chart.md
+      - Facilities.md
