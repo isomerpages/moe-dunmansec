@@ -3,9 +3,9 @@ title: School Mission, Vision, Values & Motto
 permalink: /our-school/school-mission-vision-values-n-motto/
 description: ""
 ---
-School Mission, Vision, Values & Motto
+# School Mission, Vision, Values & Motto
 
-School Mission & Vision
+### School Mission & Vision
 
 **Vision**
 
