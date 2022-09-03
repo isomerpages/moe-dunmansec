@@ -83,3 +83,83 @@ In 1996, Mrs Chua Siew Eng became Dunman’s ninth Principal, and an old boy of 
 #### The New Millennium - Soaring to Greater Heights: Growing a Legacy
 
 > “All Dunmanites should be proud of your heritage and your efforts and those of your predecessors in making the school what it is today… I am certain that the torch will keep blazing for Dunman.”   - Mrs Angela Ow, Director, Training and Development, Ministry of Education at the school’s 40th Speech and Prize-Giving Day in 2003.
+
+#### Meeting the Challenges of the Future
+
+The new millennium marked a period of change. It was an exciting time in the education sector. The shift to a Knowledge Based Economy led the Ministry of Education to launch the vision of ‘Thinking Schools, Learning Nation’ (TSLN). This vision describes a nation of thinking and committed citizens capable of meeting the challenges of the future, and an education system geared towards the needs of the 21st century.
+
+As the demands of a changing and increasingly globalized world will be very different in the future, Dunman understood that a good legacy to leave to the students would be developing them to be future-ready while also rooted in sound values. In addition, the profiles of its students have changed over the years. 
+
+Dunman responded to the challenge by participating in several initiatives under the leadership of the Ministry of Education. In 1997, Dunman became part of the East One Cluster, a pilot project of the Ministry of Education to divide the schools into clusters for better support. During the first ICT Masterplan, Dunman piloted the eduPADproject in 1999, a Research and Development pilot held in collaboration with the Education Technology Division, Ministry of Education, National Computer Board and Kent Ridge Digital Lab. Secondary one express students that year were issued electronic palmtop notebooks in which they inserted thumb-sized microchip textbooks for their lessons. They could also log on to the Internet in a wireless fashion to conduct research.
+
+In 1999, another milestone was reached when Dunman became a single session school.
+
+In 2000, Mrs Edelweis Neo was appointed to lead the school as its 11th Principal.
+
+#### Moving towards Organisational Excellence
+
+The new millennium also ushered in a period of organisational excellence for Dunman. By this time, the school had shown notable achievements in many diverse areas. Dunman has since developed its distinct culture and strengths achieved Autonomous Status in 2000, and was awarded the Singapore Quality Class in 2001.
+
+#### Strengthening Culture of Thinking and Innovation
+
+To better meet the needs, abilities and aspirations of its students, Dunman needed to innovate. A strong culture of thinking and innovation among staff and students was encouraged, and a six ‘D’, Daring, was added to the school values in 2001 to inspire students to be creative, be innovative and take risks.
+
+It was also the time when the school carved out its strength in the sciences. In 2001, Dunman opened the Life Sciences Training and Research Centre. Currently, Dunman serves as the East Zone Centre of Excellence for Innovations in Science with the mission of uplifting the learning of its students and those of the schools in the East.
+
+#### Forging Partnerships
+
+Greater emphasis was also placed on forging partnerships with the community and corporate institutions. In 2001, collaboration with partners was extended with the adoption of the All Saints’ Home. The school also teamed up with Singapore Airlines as its corporate partner.
+
+#### Providing Quality Education for all Dunmanities
+
+The educational landscape continued to evolve, and in 2004, the ‘Teach Less Learn More’ (TLLM) movement was launched to re-examine the core of education – why we teach, what we teach and how we teach. It continued the ‘Thinking Schools, Learning Nation’ journey to improve the quality of interaction between teachers and learners, shifting the focus from ‘quantity’ to ‘quality’ in education.Dunman thus embarked on school-based curriculum innovations to better meet the needs, talents and aspirations of its students. One example is the Music-English-Literature Fusion (MEL) project, which was a TLLM Ignite! Project.
+
+Dunman thus embarked on school-based curriculum innovations to better meet the needs, talents and aspirations of its students. One example is the Music-English-Literature Fusion (MEL) project, which was a TLLM Ignite! Project.
+
+2007 was a watershed year for Dunman. During that year, in recognition for its exemplary school processes and practices, Dunman received the School Distinction Award. To move ahead, the school also undertook a review and rebranding exercise. The school badge was changed. The school also streamlined the values in the ‘5Ds’ again. They are Discernment, Discipline, Daring, Determination and Duty. 2007, was also the year Dunman underwent the upgrading of its premises under the Programme for Rebuilding and IMproving Existing schools (PRIME).
+
+Building on its earlier efforts to holistically develop the student, the school came up with the DARE Framework in 2008 to guide the school in nurturing students in the cognitive, social, moral, physical, and aesthetics areas. The DARE Framework was ahead of its time, and up to today, is used to anchor the school’s programmes.
+
+Dunman’s commitment to bringing out the best in its students by catering to their various needs was acknowledged when it received the inaugural Lee Hsien Loong Award for Innovation in the Normal Course in 2009.
+
+In 2009, Ms Beatrice Chong was appointed to lead Dunman as its 12th Principal. There was a commitment to build on the strengths and heritage of the school.
+
+#### Soaring High
+
+2010 was a memorable year for the school. In terms of organisational recognition, it was a great honour for Dunman to receive the School Excellence Award, the highest and most prestigious award that serves as a mark of excellence for schools that have sustained achievements in a wide spectrum of student development processes. The school also received the Outstanding Development Award for Character Development.
+
+Dr Ng Eng Hen, the Minister of Education at that time, officially opened the new campus after it had undergone PRIME for three years The Ministry of Education once again invited the school to be a trailblazer by undertaking a pilot project for three years. The purpose of the project was to explore various teaching approaches of the 21st Century competencies in the otal curriculum.
+
+As part of a holistic education, the school encouraged Co-Curricular Activities to flourish for the development of the students. Dunman particularly carved out a reputation as a powerhouse in the area of sports. In 2010, the school celebrated a double victory with the B Division Boys’ and Girls’ Basketball teams, both sweeping the National Championships. The Volleyball Girls’ team also made its mark on the national scene with B Division Girls’ national titles in 2010 and 2013.
+
+#### Celebrating Dunman’s Year of Jubilee
+
+2013 was yet another significant year for Dunman. The school celebrated its Jubilee (50 years of founding) with the theme of ‘One Heart, One Voice, One Spirit, One Dunman’. It sought to bridge the past and the present, and to cast a vision for the future.
+
+Moving ahead, the school is refocusing on character education and on building an ethical community in the school. Dunman strongly believes in inculcating in the students the duty to give back to the community that has nourished them—‘饮水思源’. The school is also committed to nurturing grateful and positive change makers in society. Guided by the vision to ‘light up the nation as One Dunman’, the school embarked on a 50 acts of service to be a blessing to others. The students and staff were encouraged to find creative ways in which they can make a positive difference in the larger community. This was also a challenge to the young to lead and organize themselves, and to know that they were never too young to start to make a positive difference. As part of the jubilee celebrations, the school opened the Dunman Heritage Centre with gratitude for how far it had come as a school, and to honour the vision, hard work and sacrifices made by generations of principals and staff who were supported by the alumni, School Advisory Committees, the dedicated and supportive parents’ group and other key partners. It serves to remind future generations of Dunmanites of the heritage of the school, and inspire them to proactively contribute to the Dunman legacy. In December 2013, Mr Suresh Balakrishnan was appointed as the 13th Principal of the school.
+
+#### Realising its vision
+
+Following the jubilee celebrations, the school unveiled a compelling and future-oriented Vision - 'An Institution of Excellence which Nurtures Ethical Change-Makers'. The vision marries the school's strive for excellence, with a nurturing environment, and its aspirations for the future to produce ethical change-makers who are the beneficiaries of the school's Total Curriculum. It also highlights the focus on character development and sound ethics, as well as on nurturing students to be active citizens who will make a positive difference in small or big ways.
+
+The 50 acts of service provided the impetus for the school to embark on providing opportunities for the school as One Dunman to reach out to the community. In 2014, the school invited pioneers in the Tampines community and Dunman to celebrate their contributions to nation building. To celebrate SG50, the entire school created small gift packs to give out to everyday people all around Singapore to bring a little cheer for the work they had done.
+
+To strengthen its focus on providing for the well-being of its students, the school piloted the Student Development Team in 2015. The Dunman Youth Alumni was set up in 2014 to enlist graduates and to transit them to the Dunman Secondary Alumni when they turn 30 years old.
+
+#### Remembering and Revalidating
+
+In 2016, Dunman offered its inaugural Heritage Module to all Sec 1 students to imbue in them a love for Dunman Secondary School through an understanding of the school’s history, culture and heritage.
+
+To affirm the hard work of both the staff and students, Dunman was also revalidated for its autonomous status and received the School Distinction Award. It achieved all five Best Practice Awards given by the Ministry of Education and the school attained the Singapore Quality Class Award and the People Developer Standard which was awarded by Spring Singapore. Dunman was one of two schools in Singapore that was revalidated and awarded the Lee Hsien Loong Award for Innovations in the Normal Stream Course and continues to sustain its innovative practices to engage its Normal Course students.
+
+#### Realising the Nation's Vision
+
+In Dunman’s drive to realise the nation’s vision of building a SMART nation, Dunman embarked on several projects to become a SMART school. Dunman was certified as a Green Mark (Gold) school by the Building and Construction Authority (BCA) to endorse its building energy performance, resource stewardship as well as smart and healthy building efforts.
+
+In their pursuit of excellence, many former Dunmanites have made a name for themselves internationally in 2017. On 22 May 2017, Ms Nur Yusrina from the class of 2003 became the first Malay-Muslim woman to reach the summit of Mount Everest after more than 50 days of trekking. Ms Laanya Asogan from the class of 2012 was crowned Miss World Singapore 2017. These are former Dunmanites who have displayed determination and a daring spirit, and they are an inspiration to all Dunmanites.
+
+**CENTRE OF EXCELLENCE**   
+**East Zone COE for the Life Sciences (2002 – 2009)**   
+**East Zone COE for innovations in Science (2010 - 2021)**
+
+Since the inception of the COE model in 1999, it has served East Zone for 21 years to nurture a vibrant teaching and learning zonal culture. East Zone COEs have collectively raised the quality of teaching and learning in schools through enhancing teacher competencies; built synergistic collaborations amongst COEs, MOE HQ and academies; fostered greater learning and collaboration amongst East Zone schools; as well as provided opportunities for students’ development.
