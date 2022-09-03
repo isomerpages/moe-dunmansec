@@ -16,7 +16,7 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">Dunman Integrated Secondary School was situated at Haig Road and shared a large field with other schools. It was named after Sir Thomas Dunman, the first Commissioner of Police in Singapore from 1856 to 1871. Mr Ng Yeow Chong, then the Assemblyman for Mountbatten, officially opened the school premises on 16 October 1963. Dunman’s first  Principal was Mr Au Keng Chu. As the school pioneer, he created both the school badge and the school motto: ‘Knowledge is the Torch of Life’.</p>
 
-#### Setting the Cornerstones
+#### <span style = "color: black"> <b>Setting the Cornerstones</b> </span>
 
 <p style="text-align: justify;">The early years of Dunman were about planting a strong foundation. Excellence, innovation and ethics, the cornerstones of the school, were set right from the beginning.</p>
 
