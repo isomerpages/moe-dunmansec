@@ -2,8 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Administration/.keep
-      - Our Community/.keep
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
@@ -15,3 +13,5 @@ collections:
       - Contact Us/.keep
       - Contact Us/Getting Here.md
       - Contact Us/Staff Contact.md
+      - Our Community/.keep
+      - Administration/.keep
