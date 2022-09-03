@@ -44,7 +44,7 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">The school’s development in its earlier years was not without its challenges. This included the need for greater organizational efficiency, and student-related issues. The school also suffered from falling enrolment. Juxtaposed against the larger educational landscape, the Singapore education system had embarked on an efficiency-driven phase where the focus was on reducing the attrition rate and wastage in the system.</p>
 
-#### Trailblazing in the 1980s
+#### <span style = "color: black"> <b>Trailblazing in the 1980s</b> </span>
 
 <p style="text-align: justify;">In the 1980s, the school leaders and staff took on these challenges with a bold and determined spirit. Many important school-based initiatives were introduced to ensure a healthy organizational culture. Once again as a pioneer, Dunman was the first school to institute the now familiar Heads-of-Department scheme to better serve the needs of staff and students. The Former Dunmanites Association (FDA), an idea mooted during the school’s 20th anniversary dinner celebrations in 1983, was inaugurated in October 1985. In addition, an increasing awareness of the need to nurture students holistically, and in leadership development existed. The school wanted to look into the socio-emotional needs of the students and to give them a voice. The formation of the Student Welfare Unit and Class Committees in 1985 provided numerous opportunities for students to lead and organise themselves. Dunman was also the first school to launch the Pastoral Care programme to look into a student’s development holistically. The main aim of the Pastoral Care programme was to enable every student to have at least one teacher as a mentor to care and develop his or her potential. This move affirmed the importance of building positive teacher-student relationship which remains a cornerstone of the school till today.</p>
 
@@ -53,12 +53,12 @@ third_nav_title: The Dunman Story
 <p style="text-align: justify;">Mrs Tay Sor Har who became the seventh Principal of Dunman, carried out the school’s movement to its new premises.</p>
 
 
-#### Dunman @ Tampines Road (A New Home) Breaking New Ground: Bearing Good fruit
+#### <span style = "color: black"> <b>Dunman @ Tampines Road (A New Home) Breaking New Ground: Bearing Good fruit</b> </span>
 
 > “We have come to Tampines to realise a dream – to make it one of the best schools in Tampines, a school that will be sought after for its academic performance and character development.” - Mrs Tay Sor Har, Principal, 1993
 
 
-#### Moving to Tampines
+#### <span style = "color: black"> <b>Moving to Tampines</b> </span>
 
 <p style="text-align: justify;">On 20 May 1990, Dunman began a new phase in its history at Tampines Street 45. It was a memorable event for the school as staff and students made their way to the new premises via the Mass Rapid Transit (MRT), cars, buses and road relay. Dunman was one of the earliest schools in the Tampines New Town. Discussions took place about changing the school’s name because it was no longer in the Haig Road/Dunman Road area. However, the school leaders fought to keep the name as the school had not been named after a road but rather after the first Police Commissioner of Singapore. The school was eventually allowed to retain its name which meant that all former students would still have an alma mater, and the school would still have recourse to establish ties with the big pool of people who had received their education at Dunman since its earliest years.</p>
 
