@@ -5,7 +5,7 @@ description: ""
 ---
 <h1><span style="text-align: center;">School Mission, Vision, Values & Motto</span></h1>
 
-### <span style="text-align: center;">School Mission & Vision</span>
+<h3><span style="text-align: center;">School Mission & Vision</span></h3>
 
 **Vision**
 
