@@ -3,7 +3,7 @@ title: Organisation Chart
 permalink: /our-school/organisation-chart/
 description: ""
 ---
-# <span style = "color: #a70303"> <b>Organisation Chart</b> </span>
+# Organisation Chart
 
 
 ![](/images/Our%20School/SL.png)
