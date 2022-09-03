@@ -208,6 +208,6 @@ _Students:_
 \-        _Kitchen Science Camp (Primary)_   
 \-        _STEM Exploratory Experience (comprises of STEM Introductory Class Series, STEM Design Challenge and STEM Game Challenges) (Primary)_
 
-The COE model was reviewed for its relevance and strategic value in view of the evolving needs in teaching and learning. The COE model for East Zone will cease with effect from 1 January 2022.
+<p style="text-align: justify;">The COE model was reviewed for its relevance and strategic value in view of the evolving needs in teaching and learning. The COE model for East Zone will cease with effect from 1 January 2022.</p>
 
-Moving forward, East Zone Schools’ distinctive strengths will continue to be harnessed to strengthen teaching and learning capabilities and foster a zonal collaborative and learning culture.
+<p style="text-align: justify;">Moving forward, East Zone Schools’ distinctive strengths will continue to be harnessed to strengthen teaching and learning capabilities and foster a zonal collaborative and learning culture.</p>
