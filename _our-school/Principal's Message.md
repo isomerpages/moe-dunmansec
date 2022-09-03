@@ -1,9 +1,9 @@
 ---
 title: Principal's Message
-permalink: /our-school/principals-message
+permalink: /our-school/principals-message/
 description: ""
 ---
-# <span style = "color: #a70303"> <b>Principal's Message</b> </span>
+# Principal's Message
 
 
 ![](/images/Our%20School/Mr%20Toh_4.jpeg)
