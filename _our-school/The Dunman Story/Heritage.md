@@ -79,3 +79,7 @@ A second statue to show the special bond between teacher and student was erected
 The school encouraged the development of the arts which enriched the students’ lives. Students had opportunities to put on public performances. The first drama performance put on at the Drama Centre was ‘The Lion, the Witch and the Wardrobe’ in 1994. Since then, public performances by the school’s performing arts groups such as the Choir, the Concert Band and the String Ensemble have become a regular feature of the school to showcase the students’ artistic talents.
 
 In 1996, Mrs Chua Siew Eng became Dunman’s ninth Principal, and an old boy of the School, Mr Gan Chin Huat, took over as the 10th Principal in 1997. This change in school leadership came as the school entered the new millennium.
+
+#### The New Millennium - Soaring to Greater Heights: Growing a Legacy
+
+> “All Dunmanites should be proud of your heritage and your efforts and those of your predecessors in making the school what it is today… I am certain that the torch will keep blazing for Dunman.”   - Mrs Angela Ow, Director, Training and Development, Ministry of Education at the school’s 40th Speech and Prize-Giving Day in 2003.
