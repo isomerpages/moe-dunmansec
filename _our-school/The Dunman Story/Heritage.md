@@ -60,3 +60,23 @@ Mrs Tay Sor Har who became the seventh Principal of Dunman, carried out the scho
 #### Dunman @ Tampines Road (A New Home) Breaking New Ground: Bearing Good fruit
 
 > “We have come to Tampines to realise a dream – to make it one of the best schools in Tampines, a school that will be sought after for its academic performance and character development.” - Mrs Tay Sor Har, Principal, 1993
+
+
+#### Moving to Tampines
+
+On 20 May 1990, Dunman began a new phase in its history at Tampines Street 45. It was a memorable event for the school as staff and students made their way to the new premises via the Mass Rapid Transit (MRT), cars, buses and road relay. Dunman was one of the earliest schools in the Tampines New Town. Discussions took place about changing the school’s name because it was no longer in the Haig Road/Dunman Road area. However, the school leaders fought to keep the name as the school had not been named after a road but rather after the first Police Commissioner of Singapore. The school was eventually allowed to retain its name which meant that all former students would still have an alma mater, and the school would still have recourse to establish ties with the big pool of people who had received their education at Dunman since its earliest years.
+
+On 3 April 1993, Dunman was officially declared open by Mr Sidek Saniff, Minister of State for Education and a Member of Parliament for Eunos GRC. Mr Sidek Saniff used to be a member of the school staff in its founding years.
+
+#### Focusing on Character Development: The ‘5Ds’
+
+The school continued to progress and establish itself as a reputable institution in the East. It was during this time that the school’s beliefs and aspirations were formalised after the school’s vision and mission as well as its values, known as the ‘5Ds,’ came into being. Discipline, Diligence, Determination, Discernment and Duty became the values that guided the staff and students in all they did. In 1993, the leadership torch was passed to Mr Tng Kim Guan who was appointed to serve as the school’s eighth Principal. The focus on character and leadership development continued. With the aim of character development and instilling the values of the ‘5Ds’, a comprehensive Pastoral Care and Career Guidance (PCCG) programme was put in place, and is still in effect today. The ‘5Ds’ were further crystallised into the Dunman Creed in 1993 which spelt out the desired outcomes for a Dunmanite. To continue to signal the importance of the ‘5Ds’, the Distinctive Dunmanite Award was given out for the first time in 1995 to recognise outstanding and all-rounded Dunmanites who were good role-models to their peers.
+
+A second statue to show the special bond between teacher and student was erected in the school’s garden in 1996. Art teacher, Mr Dzulkifli b Mohd Akbar created the form and substance of the statue. Ms Hasnah Abdullah, a clerical officer with the school, composed a special dedication.
+
+#### Developing the Arts
+
+The school encouraged the development of the arts which enriched the students’ lives. Students had opportunities to put on public performances. The first drama performance put on at the Drama Centre was ‘The Lion, the Witch and the Wardrobe’ in 1994. Since then, public performances by the school’s performing arts groups such as the Choir, the Concert Band and the String Ensemble have become a regular feature of the school to showcase the students’ artistic talents.
+
+In 1996, Mrs Chua Siew Eng became Dunman’s ninth Principal, and an old boy of the School, Mr Gan Chin Huat, took over as the 10th Principal in 1997. This change in school leadership came as the school entered the new millennium.
+
