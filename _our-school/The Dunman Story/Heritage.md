@@ -6,8 +6,8 @@ third_nav_title: The Dunman Story
 ---
 # Heritage
 
-### **The Haig Road Years**
-### **In the Beginning: Planting a Strong Foundation**
+### <span style = "color: black"> <b>The Haig Road Years<br>In the Beginning: Planting a Strong Foundation</b> </span>
+
 
 <br>
 
