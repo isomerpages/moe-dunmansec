@@ -64,23 +64,23 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">On 3 April 1993, Dunman was officially declared open by Mr Sidek Saniff, Minister of State for Education and a Member of Parliament for Eunos GRC. Mr Sidek Saniff used to be a member of the school staff in its founding years.</p>
 
-#### Focusing on Character Development: The ‘5Ds’
+#### <span style = "color: black"> <b>Focusing on Character Development: The ‘5Ds’</b> </span>
 
 <p style="text-align: justify;">The school continued to progress and establish itself as a reputable institution in the East. It was during this time that the school’s beliefs and aspirations were formalised after the school’s vision and mission as well as its values, known as the ‘5Ds,’ came into being. Discipline, Diligence, Determination, Discernment and Duty became the values that guided the staff and students in all they did. In 1993, the leadership torch was passed to Mr Tng Kim Guan who was appointed to serve as the school’s eighth Principal. The focus on character and leadership development continued. With the aim of character development and instilling the values of the ‘5Ds’, a comprehensive Pastoral Care and Career Guidance (PCCG) programme was put in place, and is still in effect today. The ‘5Ds’ were further crystallised into the Dunman Creed in 1993 which spelt out the desired outcomes for a Dunmanite. To continue to signal the importance of the ‘5Ds’, the Distinctive Dunmanite Award was given out for the first time in 1995 to recognise outstanding and all-rounded Dunmanites who were good role-models to their peers.</p>
 
 <p style="text-align: justify;">A second statue to show the special bond between teacher and student was erected in the school’s garden in 1996. Art teacher, Mr Dzulkifli b Mohd Akbar created the form and substance of the statue. Ms Hasnah Abdullah, a clerical officer with the school, composed a special dedication.</p>
 
-#### Developing the Arts
+#### <span style = "color: black"> <b>Developing the Arts</b> </span>
 
 <p style="text-align: justify;">The school encouraged the development of the arts which enriched the students’ lives. Students had opportunities to put on public performances. The first drama performance put on at the Drama Centre was ‘The Lion, the Witch and the Wardrobe’ in 1994. Since then, public performances by the school’s performing arts groups such as the Choir, the Concert Band and the String Ensemble have become a regular feature of the school to showcase the students’ artistic talents.</p>
 
 <p style="text-align: justify;">In 1996, Mrs Chua Siew Eng became Dunman’s ninth Principal, and an old boy of the School, Mr Gan Chin Huat, took over as the 10th Principal in 1997. This change in school leadership came as the school entered the new millennium.</p>
 
-#### The New Millennium - Soaring to Greater Heights: Growing a Legacy
+#### <span style = "color: black"> <b>The New Millennium - Soaring to Greater Heights: Growing a Legacy</b> </span>
 
 > “All Dunmanites should be proud of your heritage and your efforts and those of your predecessors in making the school what it is today… I am certain that the torch will keep blazing for Dunman.”   - Mrs Angela Ow, Director, Training and Development, Ministry of Education at the school’s 40th Speech and Prize-Giving Day in 2003.
 
-#### Meeting the Challenges of the Future
+#### <span style = "color: black"> <b>Meeting the Challenges of the Future</b> </span>
 
 <p style="text-align: justify;">The new millennium marked a period of change. It was an exciting time in the education sector. The shift to a Knowledge Based Economy led the Ministry of Education to launch the vision of ‘Thinking Schools, Learning Nation’ (TSLN). This vision describes a nation of thinking and committed citizens capable of meeting the challenges of the future, and an education system geared towards the needs of the 21st century.</p>
 
@@ -92,21 +92,21 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">In 2000, Mrs Edelweis Neo was appointed to lead the school as its 11th Principal.</p>
 
-#### Moving towards Organisational Excellence
+#### <span style = "color: black"> <b>Moving towards Organisational Excellence</b> </span>
 
 <p style="text-align: justify;">The new millennium also ushered in a period of organisational excellence for Dunman. By this time, the school had shown notable achievements in many diverse areas. Dunman has since developed its distinct culture and strengths achieved Autonomous Status in 2000, and was awarded the Singapore Quality Class in 2001.</p>
 
-#### Strengthening Culture of Thinking and Innovation
+#### <span style = "color: black"> <b>Strengthening Culture of Thinking and Innovation</b> </span>
 
 <p style="text-align: justify;">To better meet the needs, abilities and aspirations of its students, Dunman needed to innovate. A strong culture of thinking and innovation among staff and students was encouraged, and a six ‘D’, Daring, was added to the school values in 2001 to inspire students to be creative, be innovative and take risks.</p>
 
 <p style="text-align: justify;">It was also the time when the school carved out its strength in the sciences. In 2001, Dunman opened the Life Sciences Training and Research Centre. Currently, Dunman serves as the East Zone Centre of Excellence for Innovations in Science with the mission of uplifting the learning of its students and those of the schools in the East.</p>
 
-#### Forging Partnerships
+#### <span style = "color: black"> <b>Forging Partnerships</b> </span>
 
 <p style="text-align: justify;">Greater emphasis was also placed on forging partnerships with the community and corporate institutions. In 2001, collaboration with partners was extended with the adoption of the All Saints’ Home. The school also teamed up with Singapore Airlines as its corporate partner.</p>
 
-#### Providing Quality Education for all Dunmanities
+#### <span style = "color: black"> <b>Providing Quality Education for all Dunmanities</b> </span>
 
 <p style="text-align: justify;">The educational landscape continued to evolve, and in 2004, the ‘Teach Less Learn More’ (TLLM) movement was launched to re-examine the core of education – why we teach, what we teach and how we teach. It continued the ‘Thinking Schools, Learning Nation’ journey to improve the quality of interaction between teachers and learners, shifting the focus from ‘quantity’ to ‘quality’ in education.Dunman thus embarked on school-based curriculum innovations to better meet the needs, talents and aspirations of its students. One example is the Music-English-Literature Fusion (MEL) project, which was a TLLM Ignite! Project.</p>
 
@@ -120,7 +120,7 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">In 2009, Ms Beatrice Chong was appointed to lead Dunman as its 12th Principal. There was a commitment to build on the strengths and heritage of the school.</p>
 
-#### Soaring High
+#### <span style = "color: black"> <b>Soaring High</b> </span>
 
 <p style="text-align: justify;">2010 was a memorable year for the school. In terms of organisational recognition, it was a great honour for Dunman to receive the School Excellence Award, the highest and most prestigious award that serves as a mark of excellence for schools that have sustained achievements in a wide spectrum of student development processes. The school also received the Outstanding Development Award for Character Development.</p>
 
@@ -128,13 +128,13 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">As part of a holistic education, the school encouraged Co-Curricular Activities to flourish for the development of the students. Dunman particularly carved out a reputation as a powerhouse in the area of sports. In 2010, the school celebrated a double victory with the B Division Boys’ and Girls’ Basketball teams, both sweeping the National Championships. The Volleyball Girls’ team also made its mark on the national scene with B Division Girls’ national titles in 2010 and 2013.</p>
 
-#### Celebrating Dunman’s Year of Jubilee
+#### <span style = "color: black"> <b>Celebrating Dunman’s Year of Jubilee</b> </span>
 
 <p style="text-align: justify;">2013 was yet another significant year for Dunman. The school celebrated its Jubilee (50 years of founding) with the theme of ‘One Heart, One Voice, One Spirit, One Dunman’. It sought to bridge the past and the present, and to cast a vision for the future.</p>
 
 <p style="text-align: justify;">Moving ahead, the school is refocusing on character education and on building an ethical community in the school. Dunman strongly believes in inculcating in the students the duty to give back to the community that has nourished them—‘饮水思源’. The school is also committed to nurturing grateful and positive change makers in society. Guided by the vision to ‘light up the nation as One Dunman’, the school embarked on a 50 acts of service to be a blessing to others. The students and staff were encouraged to find creative ways in which they can make a positive difference in the larger community. This was also a challenge to the young to lead and organize themselves, and to know that they were never too young to start to make a positive difference. As part of the jubilee celebrations, the school opened the Dunman Heritage Centre with gratitude for how far it had come as a school, and to honour the vision, hard work and sacrifices made by generations of principals and staff who were supported by the alumni, School Advisory Committees, the dedicated and supportive parents’ group and other key partners. It serves to remind future generations of Dunmanites of the heritage of the school, and inspire them to proactively contribute to the Dunman legacy. In December 2013, Mr Suresh Balakrishnan was appointed as the 13th Principal of the school.</p>
 
-#### Realising its vision
+#### <span style = "color: black"> <b>Realising its vision</b> </span>
 
 <p style="text-align: justify;">Following the jubilee celebrations, the school unveiled a compelling and future-oriented Vision - 'An Institution of Excellence which Nurtures Ethical Change-Makers'. The vision marries the school's strive for excellence, with a nurturing environment, and its aspirations for the future to produce ethical change-makers who are the beneficiaries of the school's Total Curriculum. It also highlights the focus on character development and sound ethics, as well as on nurturing students to be active citizens who will make a positive difference in small or big ways.</p>
 
@@ -142,13 +142,13 @@ third_nav_title: The Dunman Story
 
 <p style="text-align: justify;">To strengthen its focus on providing for the well-being of its students, the school piloted the Student Development Team in 2015. The Dunman Youth Alumni was set up in 2014 to enlist graduates and to transit them to the Dunman Secondary Alumni when they turn 30 years old.</p>
 
-#### Remembering and Revalidating
+#### <span style = "color: black"> <b>Remembering and Revalidating</b> </span>
 
 <p style="text-align: justify;">In 2016, Dunman offered its inaugural Heritage Module to all Sec 1 students to imbue in them a love for Dunman Secondary School through an understanding of the school’s history, culture and heritage.</p>
 
 <p style="text-align: justify;">To affirm the hard work of both the staff and students, Dunman was also revalidated for its autonomous status and received the School Distinction Award. It achieved all five Best Practice Awards given by the Ministry of Education and the school attained the Singapore Quality Class Award and the People Developer Standard which was awarded by Spring Singapore. Dunman was one of two schools in Singapore that was revalidated and awarded the Lee Hsien Loong Award for Innovations in the Normal Stream Course and continues to sustain its innovative practices to engage its Normal Course students.</p>
 
-#### Realising the Nation's Vision
+#### <span style = "color: black"> <b>Realising the Nation's Vision</b> </span>
 
 <p style="text-align: justify;">In Dunman’s drive to realise the nation’s vision of building a SMART nation, Dunman embarked on several projects to become a SMART school. Dunman was certified as a Green Mark (Gold) school by the Building and Construction Authority (BCA) to endorse its building energy performance, resource stewardship as well as smart and healthy building efforts.</p>
 
