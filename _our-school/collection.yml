@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Organisation Chart.md
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
