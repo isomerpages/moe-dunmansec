@@ -4,9 +4,7 @@ permalink: /our-school/The-Dunman-Story/heritage/
 description: ""
 third_nav_title: The Dunman Story
 ---
-# <span> <b>Heritage</b> </span>
-### sfds
-
+# Heritage
 
 ### **The Haig Road Years**
 ### **In the Beginning: Planting a Strong Foundation**
