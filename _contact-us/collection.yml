@@ -1,6 +1,0 @@
-collections:
-  contact-us:
-    output: true
-    order:
-      - Getting Here.md
-      - Staff Contact.md
