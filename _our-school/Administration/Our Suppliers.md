@@ -45,9 +45,7 @@ Overseas Associates Pte Ltd, c/o Dunman Secondary School
 </tbody>
 </table>
 
-
-
-For more information on the purchase of books and stationery from the School Bookshop, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Book%20Sales%20Information.pdf).
+For more information on the purchase of books and stationery from the School Bookshop, please click <a href="/files/Administration/Year%20End%20Book%20Sales%20Information.pdf" target="_blank">here</a>.
 
 ### 2.    School Uniform Vendor
 
@@ -88,4 +86,4 @@ Intrend Uniforms
 </tbody>
 </table>
 
-For more information on the purchase of school uniform, please click <a href="https://www.intrenduniforms.com/" target="_blank">here</a>.
+For more information on the purchase of school uniform, please click <a href="/files/Administration/Year%20End%20Uniform%20Sales%20Information.pdf" target="_blank">here</a>.
