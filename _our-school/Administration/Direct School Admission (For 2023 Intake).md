@@ -83,12 +83,12 @@ Please submit your registration for the school through the DSA portal (Period of
   </tr>
   <tr>
     <td style="text-align:center">Leadership</td>
-    <td style="text-align:center">Mr Ron Tan<br><br><br>(<a href="mailto:tan_chen_loong_ron@moe.edu.sg">tan_chen_loong_ron@moe.edu.sg</a>)</td>
-    <td>Selection Criteria and details:<br><br><br>Click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Student%20Leadership%202022.pdf">here</a> for details</td>
+    <td style="text-align:center">Mr Ron Tan<br>(<a href="mailto:tan_chen_loong_ron@moe.edu.sg">tan_chen_loong_ron@moe.edu.sg</a>)</td>
+    <td>Selection Criteria and details:<br><br>Click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Student%20Leadership%202022.pdf">here</a> for details</td>
   </tr>
   <tr>
     <td style="text-align:center"> STEM</td>
-    <td style="text-align:center">Ms Adeline Yong<br><br>(<a href="mailto:adeline_yong_yean_pin@moe.edu.sg">adeline_yong_yean_pin@moe.edu.sg</a>)<br><br><br></td>
+    <td style="text-align:center">Ms Adeline Yong<br>(<a href="mailto:adeline_yong_yean_pin@moe.edu.sg">adeline_yong_yean_pin@moe.edu.sg</a>)<br><br><br></td>
     <td>Selection Criteria and details:<br><br>Click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_STEM%202022%20v2.pdf">here</a> for details</td>
   </tr>
 </tbody>
