@@ -21,24 +21,19 @@ The Humanities Department is determined to provide students with a holistic and 
 
 ### Curriculum, Pedagogy and Assessment (CPA)
 
-<b><u>History</u><b>
+<b><u>History</u></b>
 
 The History Team in Dunman Secondary school seeks to develop a student who is a self-directed, active and concerned citizen. Our goal is for our students to be informed, discerning in judgement, asks questions and reflects on their process of learning. At the heart of history education lies the quest to uncover the complexities that define the human experience. This is especially valuable in a world where attention is often divided between concerns over the present and the future. Learning to manage the present and anticipate the future would not be possible without looking back at the past. Learning history helps students draw connections between the nature and impact of past developments, and how they affect the present world we live in.
 
-<b><u>Geography</u><b>
+<b><u>Geography</u></b>
 
 With the adoption of an issues-based approach that focuses on contemporary geographical issues, the syllabus provides students with an opportunity to explore geographical questions. The Geography Team at Dunman Secondary School utilizes the pedagogy of inquiry to expose students to geographical data from a variety of sources. They learn how to do so in a responsible and critical manner, which also helps them develop communication, collaboration and information skills effectively. This way, students gain a global awareness of current geographical issues and challenges, and develop a concern and appreciation for the environment around them.
-
-  
-
-**Social Studies**
+ 
+<b><u>Social Studies</u></b>
 
 The Social Studies Team at Dunman Secondary School seeks to prepare students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the bigger world they live in, and appreciate complexities of the human experience. We try our best to create authentic learning experiences for our students through a range of different pedagogies that pique their interest in important societal issues. We hope that our students become informed, concerned and participative citizens that care about contributing responsibly to the society and world they live in.
 
-  
-
-Programmes and Activities
--------------------------
+### Programmes and Activities
 
 **Inquiry-Based Learning**
 
