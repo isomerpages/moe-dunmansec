@@ -69,7 +69,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Volleyball<br> </td>
     <td style="text-align:center">Mr Hariharan Subramaniam<br>(<a href="mailto:hariharan_subramaniam@moe.edu.sg">hariharan_subramaniam@moe.edu.sg</a>)</td>
-    <td><br>Task 1: Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br>Task 2: Game-Play Assessment</td>
+    <td><br><b>Task 1:</b> Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br><b>Task 2:</b> Game-Play Assessment</td>
   </tr>
   <tr>
     <td style="text-align:center">Choir</td>
