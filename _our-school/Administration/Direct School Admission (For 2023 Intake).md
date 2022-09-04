@@ -35,8 +35,8 @@ Please submit your registration for the school through the DSA portal (Period of
 <table style="undefined;table-layout: fixed; width: 621px">
 <colgroup>
 <col style="width: 105px">
-<col style="width: 259px">
-<col style="width: 257px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
