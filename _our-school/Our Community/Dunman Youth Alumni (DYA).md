@@ -30,12 +30,12 @@ third_nav_title: Our Community
 
 ![](/images/Our%20Community/Group%20pic%203.jpeg)
 
-<p><img src="/images/Our%20Community/tn_google.jpg"
+<p><img src="/images/Our%20Community/tn_facebook.jpg"
      style="width:10%;float:left"></p>
 
 Find us at <a href="https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info" target= "_blank">Facebook</a>.
 
-<p><img src="/images/Our%20Community/tn_facebook.jpg"
+<p><img src="/images/Our%20Community/tn_google.jpg"
      style="width:10%;float:left"></p>
-		 
+
 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEGSN0gNhYr9AEFc5gvA_mpFkOhqhxzSaMNsuksYewX2ZmvA/viewform" target= "_blank">here</a> to join us today!
