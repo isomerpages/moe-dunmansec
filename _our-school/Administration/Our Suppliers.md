@@ -6,8 +6,7 @@ third_nav_title: Administration
 ---
 # Our Suppliers
 
-1.    School Bookshop Vendor
-----------------------------
+### 1.    School Bookshop Vendor
 
 Overseas Associates Pte Ltd, c/o Dunman Secondary School
 
@@ -25,8 +24,7 @@ For more information on the purchase of books and stationery from the School Boo
 
   
 
-2.    School Uniform Vendor
----------------------------
+### 2.    School Uniform Vendor
 
 Intrend Uniforms
 
