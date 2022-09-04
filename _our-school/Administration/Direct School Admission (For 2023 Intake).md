@@ -30,3 +30,15 @@ Please submit your registration for the school through the DSA portal (Period of
 ### Information on the various talent areas
 
 <p style="text-align: justify;"><b>We are pleased to share the DSA Talent Areas offered for our potential Secondary One Students and their parents for the academic year of 2023. Information on the selection criteria and process will be updated from early-May.</b></p>
+
+
+### For general DSA enquiry, please contact
+
+Mr Ron Tan  
+SH Student Leadership/CCA   
+[tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)
+
+
+Mr Teo Khong Beng  
+HOD PE/CCA   
+[teo\_khong\_beng@moe.edu.sg](mailto:teo_khong_beng@moe.edu.sg)
