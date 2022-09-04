@@ -40,29 +40,52 @@ Overseas Associates Pte Ltd, c/o Dunman Secondary School
   </tr>
   <tr>
     <td>Website:</td>
-    <td>https://www.oapl.sg/</td>
+    <td><a href="https://www.oapl.sg/" target="_blank">https://www.oapl.sg/</a></td>
   </tr>
 </tbody>
 </table>
 
-For more information on the purchase of books and stationery from the School Bookshop, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Book%20Sales%20Information.pdf).
 
-  
+
+For more information on the purchase of books and stationery from the School Bookshop, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Book%20Sales%20Information.pdf).
 
 ### 2.    School Uniform Vendor
 
 Intrend Uniforms
 
-Address:    729 Geylang Road, Singapore 389640
-
-Phone:       6741 0930
-
-Fax:           6744 7689
-
-Email:        sales@itu.com.sg
-
-Website:    [https://www.intrenduniforms.com/](https://www.intrenduniforms.com/)  
-
-  
+<table style="undefined;table-layout: fixed; width: 382px">
+<colgroup>
+<col style="width: 110px">
+<col style="width: 272px">
+</colgroup>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Address:</td>
+    <td>729 Geylang Road, Singapore 389640</td>
+  </tr>
+  <tr>
+    <td>Phone:</td>
+    <td>6741 0930</td>
+  </tr>
+  <tr>
+    <td>Fax:</td>
+    <td>6744 7689</td>
+  </tr>
+  <tr>
+    <td>Email:</td>
+    <td>sales@itu.com.sg</td>
+  </tr>
+  <tr>
+    <td>Website:</td>
+    <td><a href="https://www.intrenduniforms.com/" target="_blank">https://www.intrenduniforms.com/</a></td>
+  </tr>
+</tbody>
+</table>
 
 For more information on the purchase of school uniform, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Uniform%20Sales%20Information.pdf).
