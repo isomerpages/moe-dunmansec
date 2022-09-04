@@ -54,7 +54,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center"> Basketball </td>
     <td style="text-align:center">Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
-    <td><br><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><b>Task 2:</b> Game Assessment<br>-	Technique<br><br>-	Posture</td>
+    <td><br><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><br><b>Task 2:</b> Game Assessment<br>-	Technique<br>-	Posture</td>
   </tr>
   <tr>
     <td style="text-align:center">Football<br> </td>
