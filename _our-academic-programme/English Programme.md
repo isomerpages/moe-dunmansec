@@ -63,3 +63,23 @@ The department strives to enrich the students' learning experience beyond the co
 **2) Speak Good English and Live(L)it Week** 
 
 During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.
+
+![](/images/Our%20Academic%20Programme/IMG-20170303-WA0017.jpg)
+
+![](/images/Our%20Academic%20Programme/IMG-20170303-WA0046.jpg)
+
+![](/images/Our%20Academic%20Programme/IMG-20180309-WA0021.jpg)
+
+![](/images/Our%20Academic%20Programme/IMG-20190315-WA0007.jpg)
+
+![](/images/Our%20Academic%20Programme/20211103_131538.jpg)
+
+With the restrictions of Covid, though activities have had to be scaled down, the learning and fun continues albeit limited to the classroom setting.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eb2e8iwxYs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**3) Competitions and courses** 
+
+*   Commonwealth Essay Writing Competition: Selected students will participate in this competition.
+
+*   Other ad-hoc external and internal competitions.
