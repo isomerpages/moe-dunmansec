@@ -8,17 +8,13 @@ description: ""
 
 ![](/images/Our%20Academic%20Programme/C&T_2019.jpg)
 
-Mission / Objectives of Department
-----------------------------------
-
+### Mission / Objectives of Department
   
 
 The C&T & Aesthetics department is a closely bonded and knitted department where every teacher contributes willingly and selfless to motivate and engage to learn in class. We firmly believe every child can learn and we work hard at ensuring that not only the child learns but most importantly enjoys the learning process. Through the process, we hope to instil and nurture in students values like determination, perseverance, respect, time management and teamwork which will see them throughout their journey in life.
 
-Vision Of The Department
-------------------------
+### Vision Of The Department
 
-  
 
 **Students**
 
@@ -30,10 +26,8 @@ To develop students to become empathetic and independent self-directed learners,
 
 To develop a caring and nurturing department where teachers are bonded and are willing to share and help out one another so as to continue to inspire each other in their teaching.
 
-Curriculum, Pedagogy & Assessment
----------------------------------
+### Curriculum, Pedagogy & Assessment
 
-  
 
 Craft and Technology Department & Aesthetics (C&T&A) comprises of Four subjects area;
 
