@@ -49,12 +49,12 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Badminton</td>
     <td style="text-align:center">Mr Chern Meng Hock<br><br>(<a href="mailto:chern_meng_hock@moe.edu.sg">chern_meng_hock@moe.edu.sg</a>)</td>
-    <td><br>Task 1: To execute different strokes to demonstrate their abilities.<br>Task 2: To play a short game among themselves to observe their application of skills.<br><br></td>
+		<td><br><b>Task 1:</b> To execute different strokes to demonstrate their abilities.<br><b>Task 2:</b> To play a short game among themselves to observe their application of skills.<br><br></td>
   </tr>
   <tr>
     <td style="text-align:center"> Basketball </td>
     <td style="text-align:center">Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
-    <td><br><br>Task 1: Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br>Task 2: Game Assessment<br>-	Technique<br><br>-	Posture</td>
+    <td><br><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><b>Task 2:</b> Game Assessment<br>-	Technique<br><br>-	Posture</td>
   </tr>
   <tr>
     <td style="text-align:center">Football<br> </td>
