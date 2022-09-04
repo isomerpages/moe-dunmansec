@@ -13,11 +13,11 @@ description: ""
 
 **Our Vision**
 
-A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.
+<p style="text-align: justify;">A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.</p>
 
 **Our Mission**
 
-The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.
+<p style="text-align: justify;">The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.</p>
 
 ### Curriculum, Pedagogy and Assessment (CPA)
 
