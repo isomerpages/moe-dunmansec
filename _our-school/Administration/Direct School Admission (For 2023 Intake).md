@@ -22,3 +22,7 @@ b) Shortlisted applicants will be informed by the school on the date and time of
 c) All trial/audition and interview will be conducted physically on the school campus.
 
 d) You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
+
+### Registration:
+
+Please submit your registration for the school through the DSA portal (Period of registration: TBC)
