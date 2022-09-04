@@ -11,7 +11,7 @@ description: ""
 
 ### Mission / Objectives of Department
 
-We seek to nurture our pupils to **think creatively and seek innovative solutions** to problems. We believe in the holistic development of students, in particular in the pursuit of academic excellence.
+We seek to nurture our pupils to <b>think creatively and seek innovative solutions</b> to problems. We believe in the holistic development of students, in particular in the pursuit of academic excellence.
 
 ### Curriculum, Pedagogy and Assessment
 
