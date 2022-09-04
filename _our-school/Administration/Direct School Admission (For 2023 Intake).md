@@ -74,7 +74,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Choir</td>
     <td style="text-align:center">Ms Kathy Cheong<br>(<a href="mailto:cheong_kah_keh_kathy@moe.edu.sg">cheong_kah_keh_kathy@moe.edu.sg</a>)<br> </td>
-    <td><br><br>Task: Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Choir%202022.pdf">here</a> for the assessment rubrics </td>
+    <td><br><b>Task:</b> Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Choir%202022.pdf">here</a> for the assessment rubrics </td>
   </tr>
   <tr>
     <td style="text-align:center">Concert Band<br> </td>
