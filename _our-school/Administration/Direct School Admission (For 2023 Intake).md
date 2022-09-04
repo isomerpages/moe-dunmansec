@@ -4,3 +4,20 @@ permalink: /our-school/Administration/direct-school-admission-for-2023-intake/
 description: ""
 third_nav_title: Administration
 ---
+# Direct School Admission (For 2023 Intake)
+
+Have a special talent or ability in sports, aesthetics, leadership and STEM? We welcome all interested primary 6 students to participate in the Direct School Admission (DSA) exercise for the academic year 2023 into Dunman Secondary School.
+Parents and students are encouraged to choose wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 - 5.
+
+
+### Selection Considerations:
+
+a) Past years CCA track records (no submission of document is needed).
+
+b) Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview.
+
+c) All trial/audition and interview will be conducted physically on the school campus.
+
+d) You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
