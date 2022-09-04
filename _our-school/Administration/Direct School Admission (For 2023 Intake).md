@@ -29,4 +29,4 @@ Please submit your registration for the school through the DSA portal (Period of
 
 ### Information on the various talent areas
 
-<p style="text-align: justify;">We are pleased to share the DSA Talent Areas offered for our potential Secondary One Students and their parents for the academic year of 2023. Information on the selection criteria and process will be updated from early-May.</p>
+<p style="text-align: justify;"><b>We are pleased to share the DSA Talent Areas offered for our potential Secondary One Students and their parents for the academic year of 2023. Information on the selection criteria and process will be updated from early-May.</b></p>
