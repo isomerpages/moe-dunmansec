@@ -88,4 +88,4 @@ Intrend Uniforms
 </tbody>
 </table>
 
-For more information on the purchase of school uniform, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Uniform%20Sales%20Information.pdf).
+For more information on the purchase of school uniform, please click <a href="https://www.intrenduniforms.com/" target="_blank">here</a>.
