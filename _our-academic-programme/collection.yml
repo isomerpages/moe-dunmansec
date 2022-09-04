@@ -2,5 +2,6 @@ collections:
   our-academic-programme:
     output: true
     order:
+      - Humanities Programme.md
       - Craft and Technology Programme.md
       - English Programme.md
