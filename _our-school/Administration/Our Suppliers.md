@@ -10,15 +10,40 @@ third_nav_title: Administration
 
 Overseas Associates Pte Ltd, c/o Dunman Secondary School
 
-Address:    21 Tampines Street 45, Singapore 529093
-
-Phone:       6382 6789     
-
-Fax:           6382 9537  
-
-Email:        sales@oapl.sg
-
-Website:    [https://www.oapl.sg/](https://www.oapl.sg/)
+<table style="undefined;table-layout: fixed; width: 382px">
+<colgroup>
+<col style="width: 110px">
+<col style="width: 272px">
+</colgroup>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Address:</td>
+    <td>21 Tampines Street 45, Singapore 529093</td>
+  </tr>
+  <tr>
+    <td>Phone:</td>
+    <td>6382 6789</td>
+  </tr>
+  <tr>
+    <td>Fax:</td>
+    <td>6382 9537</td>
+  </tr>
+  <tr>
+    <td>Email:</td>
+    <td>sales@oapl.sg</td>
+  </tr>
+  <tr>
+    <td>Website:</td>
+    <td>https://www.oapl.sg/</td>
+  </tr>
+</tbody>
+</table>
 
 For more information on the purchase of books and stationery from the School Bookshop, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Our%20Suppliers/Year%20End%20Book%20Sales%20Information.pdf).
 
