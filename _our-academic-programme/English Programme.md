@@ -44,8 +44,6 @@ Due to the constraints of COVID, our Sec 2 students were unable to showcase thei
 
 Click [here](https://sites.google.com/moe.edu.sg/mdd2020/home) to view their masterpieces.
 
-  
-
 **2) MEDAL Programme for lower sec students** 
 
 MEDAL: Mastering English, Drama, the Art of Communication and Literature.
@@ -56,9 +54,9 @@ The MEDAL curriculum is paced. The Secondary One students explore language and L
 
 MEDAL is exploratory and an effort to "open a new frontier in our exploration of good teaching". (Palmer) It will not be a stranger to established teaching practices. What it will develop into is practical and effective pedagogy bearing semblances to the old but fuelled by the hearts of its teachers to cultivate thinking learners.  
 
-### **Activities**  
+**Activities**  
 
-#### **1) Learning Journeys** 
+**1) Learning Journeys** 
 
 The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible. 
 
