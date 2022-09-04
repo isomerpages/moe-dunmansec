@@ -1,0 +1,4 @@
+collections:
+  our-special-programme:
+    output: true
+    order: []
