@@ -43,14 +43,11 @@ Dunman’s Geographical Investigation (GI) provides students with the opportunit
 
 **2017/2018/2019 GI Highlights**
 
-![GI HIGHLIGHTS.png](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/GI%20HIGHLIGHTS.png)
+![](/images/Our%20Academic%20Programme/Humanities/GI%20HIGHLIGHTS.png)
 
-  
+![](/images/Our%20Academic%20Programme/Humanities/GI%202019.jpg)
 
-![GI 2019.jpg](https://dunmansec.moe.edu.sg/qql/slot/u194/images/departments/humanities/GI%202019.jpg)  
-
-![GI 2019 1.jpg](https://dunmansec.moe.edu.sg/qql/slot/u194/images/departments/humanities/GI%202019%201.jpg)  
-
+![](/images/Our%20Academic%20Programme/Humanities/GI%202019%201.jpg)
   
 <b><u>2. Historical Investigation</u></b>
 
@@ -59,8 +56,6 @@ In our quest to pique students’ historical curiosity and provide them with a c
 **2017/2018/2019 HI Highlights**
 
 ![](/images/Our%20Academic%20Programme/Humanities/HI%20HIGHLIGHTS.png)
-
-![](/images/Our%20Academic%20Programme/Humanities/HI%20Indian%20Heritage%20Centre%202018.jpg)
 
 ![](/images/Our%20Academic%20Programme/Humanities/HI%20Indian%20Heritage%20Centre%202018.jpg)
  
