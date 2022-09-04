@@ -136,11 +136,12 @@ Inter-School War and Diplomacy Card Game Challenge
 
   
 
-![War and Diplomacy Card Game 2018 Team.jpg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Team.jpg)  
 
-![War and Diplomacy Card Game 2018 Individual.jpg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Individual.jpg)  
+![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Team.jpg)
 
-![War and Diplomacy Card Game.jpg](https://dunmansec.moe.edu.sg/qql/slot/u194/images/departments/humanities/War%20and%20Diplomacy%20Card%20Game.jpg)  
+![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Individual.jpg)
+
+![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game.jpg)  
 
 National Library Board Historical Investigation Challenge 2016  
 
