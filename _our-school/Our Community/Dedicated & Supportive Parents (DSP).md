@@ -8,7 +8,7 @@ third_nav_title: Our Community
 
 ![](/images/Our%20Community/1%20v2.png)
 
-![](/images/Our%20Community/_2.png)
+![](/images/Our%20Community/v_2.png)
 
 Click <a href="https://go.gov.sg/dmn-dsp-sign-up" target="_blank">here</a> to sign up and Find us at <a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a> today!
 
