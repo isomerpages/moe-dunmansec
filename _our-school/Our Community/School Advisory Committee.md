@@ -4,3 +4,6 @@ permalink: /our-school/Our-Community/school-advisory-committee/
 description: ""
 third_nav_title: Our Community
 ---
+# School Advisory Committee
+
+![](/images/Our%20Community/SAC%202021.png)
