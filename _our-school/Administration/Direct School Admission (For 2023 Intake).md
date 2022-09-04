@@ -59,7 +59,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Football<br> </td>
     <td style="text-align:center">Mr Harris Alexander<br>(<a href="mailto:harris_alexander@moe.edu.sg">harris_alexander@moe.edu.sg</a>)<br> </td>
-    <td><br><br>Task 1: Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br>Task 2: Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
+    <td><br><b>Task 1:</b> Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br><br><b>Task 2:</b> Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
   </tr>
   <tr>
     <td style="text-align:center">Netball<br> </td>
