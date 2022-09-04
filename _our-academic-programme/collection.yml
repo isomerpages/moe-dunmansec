@@ -2,7 +2,6 @@ collections:
   our-academic-programme:
     output: true
     order:
-      - Science Programme.md
       - Craft and Technology Programme.md
       - English Programme.md
       - Humanities Programme.md
@@ -10,3 +9,4 @@ collections:
       - Mathematics Programme.md
       - Mother Tongue Programme.md
       - Physical Education Programme.md
+      - Science Programme.md
