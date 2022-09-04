@@ -33,7 +33,7 @@ third_nav_title: Our Community
 <p><img src="/images/Our%20Community/tn_google.jpg"
      style="width:10%;float:left"></p>
 
-Find us at [Facebook](https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info).
+Find us at <a href="https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info" target= "_blank">Facebook</a>.
 
 <p><img src="/images/Our%20Community/tn_facebook.jpg"
      style="width:10%;float:left"></p>
