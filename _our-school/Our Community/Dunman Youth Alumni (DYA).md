@@ -29,3 +29,11 @@ third_nav_title: Our Community
 ![](/images/Our%20Community/Group%20pic%202.jpeg)
 
 ![](/images/Our%20Community/Group%20pic%203.jpeg)
+
+<p><img src="/images/Our%20Community/tn_google.jpg"
+     style="width:10%;float:left"></p>
+
+
+
+<p><img src="/images/Our%20Community/tn_facebook.jpg"
+     style="width:10%;float:left"></p>
