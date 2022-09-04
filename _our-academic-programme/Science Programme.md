@@ -38,7 +38,6 @@ Note: Photo reflects the members of the Science Department in 2019.
 
 ### Programmes and Activities
 
-
 <p style="text-align: justify;">Our STEM Talent Development Programme aims to create a positive STEM immersion experience for our students, through the following programmes:</p>
 
   
