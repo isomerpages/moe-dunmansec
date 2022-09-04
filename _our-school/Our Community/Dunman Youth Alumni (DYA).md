@@ -17,3 +17,15 @@ third_nav_title: Our Community
 <p style="text-align: justify;">But above all, the DYA is a place for all Dunmanites to gather, so that through the stories we tell and the memories we share, we can continue to build strong and sincere relationships as Dunmanites, and strengthen the Dunman community.</p>
 
 <p style="text-align: justify;">The DYA is headed by its President Iris, along with an executive committee team comprised of Mei Yee, Zulfiqar, Kym, Poh Yang, Edwin and Jane. All working in tandem with a sizeable cast of alumni coordinators and volunteers.</p>
+
+![](/images/Our%20Community/Bonding%20Games.jpeg)
+
+![](/images/Our%20Community/Tutorship%20Program.jpeg)
+
+![](/images/Our%20Community/Open%20House.jpeg)
+
+![](/images/Our%20Community/Group%20pic%201.jpeg)
+
+![](/images/Our%20Community/Group%20pic%202.jpeg)
+
+![](/images/Our%20Community/Group%20pic%203.jpeg)
