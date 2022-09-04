@@ -107,13 +107,13 @@ NUS Geography Challenge
 
 *   2019: 1st Place
 
-![Singapore Bird Race 2019.jpeg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/Singapore%20Bird%20Race%202019.jpeg)
+![](/images/Our%20Academic%20Programme/Humanities/Singapore%20Bird%20Race%202019.jpeg)
 
-_Source: The Business Times, 21 November 2019_
+<p style="text-align: center;"><i>Source: The Business Times, 21 November 2019</i></p>
 
 ![](/images/Our%20Academic%20Programme/Humanities/challenge%20shield.jpeg)
 
-![](/images/Our%20Academic%20Programme/Humanities/Singapore%20Bird%20Race%202019.jpeg)
+![](/images/Our%20Academic%20Programme/Humanities/Nature%20Watch%20write%20up.jpeg)
   
 (2) <u>History Competitions</u> 
 
