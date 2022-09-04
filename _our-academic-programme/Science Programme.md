@@ -27,6 +27,8 @@ The **_ESTALA_**, an overarching Department framework, guides the teachers in t
 
 During the enactment of this framework, students are exposed to the Practices of Science. Students become more aware that Science is not just a body of facts but also a cumulative learning experiences which can be affected by Social, Economic, Technology and Environmental factors.
 
+![](/images/Our%20Academic%20Programme/Science%20Programme/JOY%20OF%20LEARNING.png)
+
 **EST** – **E**lements of **S**cientific **T**houghts
 
 **AL** – **A**ctive **L**earning
