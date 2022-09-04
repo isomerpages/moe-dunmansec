@@ -10,7 +10,7 @@ third_nav_title: Administration
 
 <p style="text-align: justify;">The objective of the Financial Assistance Scheme (FAS) is to help needy Singaporean students to meet their basic schooling expenses. The FAS could be funded by MOE or the school.</p>
 
-<p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">MOE financial assistance scheme</a>(https://www.moe.gov.sg/financial-matters/financial-assistance)</p>
+<p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">MOE financial assistance scheme</a> (https://www.moe.gov.sg/financial-matters/financial-assistance)</p>
 
 Please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Administration/Financial%20Assistance/MOE-FAS-application-form.pdf) for the MOE FAS form.
 
