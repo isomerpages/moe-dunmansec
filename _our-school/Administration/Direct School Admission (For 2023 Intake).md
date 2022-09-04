@@ -52,43 +52,43 @@ Please submit your registration for the school through the DSA portal (Period of
     <td><br>Task 1: To execute different strokes to demonstrate their abilities.<br>Task 2: To play a short game among themselves to observe their application of skills.<br><br></td>
   </tr>
   <tr>
-    <td> Basketball </td>
-    <td>Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
+    <td style="text-align:center"> Basketball </td>
+    <td style="text-align:center">Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
     <td><br><br>Task 1: Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br>Task 2: Game Assessment<br>-	Technique<br><br>-	Posture</td>
   </tr>
   <tr>
-    <td>Football<br> </td>
-    <td>Mr Harris Alexander<br>(<a href="mailto:harris_alexander@moe.edu.sg">harris_alexander@moe.edu.sg</a>)<br> </td>
+    <td style="text-align:center">Football<br> </td>
+    <td style="text-align:center">Mr Harris Alexander<br>(<a href="mailto:harris_alexander@moe.edu.sg">harris_alexander@moe.edu.sg</a>)<br> </td>
     <td><br><br>Task 1: Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br>Task 2: Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
   </tr>
   <tr>
-    <td>Netball<br> </td>
-    <td>Ms Witty Goh<br>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg">goh_wen_ti_witty@moe.edu.sg</a>)</td>
+    <td style="text-align:center">Netball<br> </td>
+    <td style="text-align:center">Ms Witty Goh<br>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg">goh_wen_ti_witty@moe.edu.sg</a>)</td>
     <td><br>Task 1: Movement ability<br>Focus: Speed, Agility and Balance<br>Task 2: Technical skills<br>Focus: Ball handling and footwork<br>Task 3: Game play assessment<br><br>Focus: Attacking and defending<br></td>
   </tr>
   <tr>
-    <td>Volleyball<br> </td>
-    <td>Mr Hariharan Subramaniam<br>(<a href="mailto:hariharan_subramaniam@moe.edu.sg">hariharan_subramaniam@moe.edu.sg</a>)</td>
+    <td style="text-align:center">Volleyball<br> </td>
+    <td style="text-align:center">Mr Hariharan Subramaniam<br>(<a href="mailto:hariharan_subramaniam@moe.edu.sg">hariharan_subramaniam@moe.edu.sg</a>)</td>
     <td><br>Task 1: Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br>Task 2: Game-Play Assessment</td>
   </tr>
   <tr>
-    <td>Choir</td>
-    <td>Ms Kathy Cheong<br>(<a href="mailto:cheong_kah_keh_kathy@moe.edu.sg">cheong_kah_keh_kathy@moe.edu.sg</a>)<br> </td>
+    <td style="text-align:center">Choir</td>
+    <td style="text-align:center">Ms Kathy Cheong<br>(<a href="mailto:cheong_kah_keh_kathy@moe.edu.sg">cheong_kah_keh_kathy@moe.edu.sg</a>)<br> </td>
     <td><br><br>Task: Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Choir%202022.pdf">here</a> for the assessment rubrics </td>
   </tr>
   <tr>
-    <td>Concert Band<br> </td>
-    <td>Ms Jeanette Tan<br>(<a href="mailto:tan_ai_bee_jeanette@moe.edu.sg">tan_ai_bee_jeanette@moe.edu.sg</a>)</td>
+    <td style="text-align:center">Concert Band<br> </td>
+    <td style="text-align:center">Ms Jeanette Tan<br>(<a href="mailto:tan_ai_bee_jeanette@moe.edu.sg">tan_ai_bee_jeanette@moe.edu.sg</a>)</td>
     <td><br><br>Using a music instrument of your choice, <br>Percussion: Play two passage of music with dynamic contrast not less than 48 bars each. One at 120 bpm, the other less than 84 bpm.<br>Wind and Mallet: Play two of the following major scales (tongued and legato): C, G, D, A, F, B♭ and E♭. For each note of the scale, tongue only four crotchets and eight quaver notes ascending and descending. Tempo should be 120 bpm.<br><br>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Concert%20Band%202022.pdf">here</a> for the assessment rubrics</td>
   </tr>
   <tr>
-    <td>Leadership</td>
-    <td>Mr Ron Tan<br><br><br>(<a href="mailto:tan_chen_loong_ron@moe.edu.sg">tan_chen_loong_ron@moe.edu.sg</a>)</td>
+    <td style="text-align:center">Leadership</td>
+    <td style="text-align:center">Mr Ron Tan<br><br><br>(<a href="mailto:tan_chen_loong_ron@moe.edu.sg">tan_chen_loong_ron@moe.edu.sg</a>)</td>
     <td>Selection Criteria and details:<br><br><br>Click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_Student%20Leadership%202022.pdf">here</a> for details</td>
   </tr>
   <tr>
-    <td> STEM</td>
-    <td>Ms Adeline Yong<br><br>(<a href="mailto:adeline_yong_yean_pin@moe.edu.sg">adeline_yong_yean_pin@moe.edu.sg</a>)<br><br><br></td>
+    <td style="text-align:center"> STEM</td>
+    <td style="text-align:center">Ms Adeline Yong<br><br>(<a href="mailto:adeline_yong_yean_pin@moe.edu.sg">adeline_yong_yean_pin@moe.edu.sg</a>)<br><br><br></td>
     <td>Selection Criteria and details:<br><br>Click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/DSA2022/DSA%20Rubric_STEM%202022%20v2.pdf">here</a> for details</td>
   </tr>
 </tbody>
