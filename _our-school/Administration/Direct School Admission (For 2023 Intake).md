@@ -64,7 +64,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Netball<br> </td>
     <td style="text-align:center">Ms Witty Goh<br>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg">goh_wen_ti_witty@moe.edu.sg</a>)</td>
-    <td><br>Task 1: Movement ability<br>Focus: Speed, Agility and Balance<br>Task 2: Technical skills<br>Focus: Ball handling and footwork<br>Task 3: Game play assessment<br><br>Focus: Attacking and defending<br></td>
+    <td><br><b>Task 1:</b> Movement ability<br>Focus: Speed, Agility and Balance<br><b>Task 2:</b> Technical skills<br>Focus: Ball handling and footwork<br><b>Task 3:</b> Game play assessment<br><br>Focus: Attacking and defending<br></td>
   </tr>
   <tr>
     <td style="text-align:center">Volleyball<br> </td>
