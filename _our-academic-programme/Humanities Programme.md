@@ -111,13 +111,11 @@ NUS Geography Challenge
 
 _Source: The Business Times, 21 November 2019_
 
-![challenge shield.jpeg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/challenge%20shield.jpeg)  
+![](/images/Our%20Academic%20Programme/Humanities/challenge%20shield.jpeg)
 
-![Nature Watch write up.jpeg](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Academic%20Programme/Humanities/Nature%20Watch%20write%20up.jpeg)
-
+![](/images/Our%20Academic%20Programme/Humanities/Singapore%20Bird%20Race%202019.jpeg)
   
-
-(2) History Competitions  
+(2) <u>History Competitions</u> 
 
 Inter-School War and Diplomacy Card Game Challenge  
   
