@@ -95,7 +95,7 @@ Dunman Secondary also conducts a biennial Overseas Immersion Programme to Jakart
 
 The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential.
 
-(1) Geography Competitions  
+(1) <u>Geography Competitions</u>  
 
 NUS Geography Challenge
 
