@@ -37,7 +37,7 @@ The Social Studies Team at Dunman Secondary School seeks to prepare students to 
 
 **Inquiry-Based Learning**
 
-**1\. Geographical Investigation**
+<b><u>1. Geographical Investigation</u></b>
 
   
 
