@@ -2,8 +2,8 @@ collections:
   our-academic-programme:
     output: true
     order:
-      - Mathematics Programme.md
       - Craft and Technology Programme.md
       - English Programme.md
       - Humanities Programme.md
       - ICT Programme.md
+      - Mathematics Programme.md
