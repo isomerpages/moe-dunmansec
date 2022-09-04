@@ -7,6 +7,8 @@ description: ""
 
 ### Members
 
+![](/images/Our%20Academic%20Programme/ICT_Dept_2019.jpg)
+
 ### Mission / Objectives of Department
 
 1.  Students as Innovative and Discerning users of IT.
