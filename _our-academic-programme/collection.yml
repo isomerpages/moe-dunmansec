@@ -2,9 +2,9 @@ collections:
   our-academic-programme:
     output: true
     order:
-      - Mother Tongue Programme.md
       - Craft and Technology Programme.md
       - English Programme.md
       - Humanities Programme.md
       - ICT Programme.md
       - Mathematics Programme.md
+      - Mother Tongue Programme.md
