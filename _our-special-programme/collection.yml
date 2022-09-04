@@ -2,4 +2,5 @@ collections:
   our-special-programme:
     output: true
     order:
+      - ELIXiR/ELIXiR.md
       - ELIXiR/.keep
