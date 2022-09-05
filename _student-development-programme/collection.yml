@@ -2,7 +2,6 @@ collections:
   student-development-programme:
     output: true
     order:
-      - Student Guidance.md
       - CCA Programme/.keep
       - CCA Programme/LEAPS 2.md
       - CCA Programme/Uniformed Groups.md
@@ -15,3 +14,4 @@ collections:
       - Character & Citizenship/Character & Citizenship Programme.md
       - Service Learning Programme.md
       - Aesthetic Programme.md
+      - Student Guidance.md
