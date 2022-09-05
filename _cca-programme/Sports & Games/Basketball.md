@@ -20,9 +20,11 @@ Our students come from various ethnic groups (Chinese, Malay, Indian, Eurasian a
 
 The consistent performances from the various groups from Dunman Basketball have established itself as a force to be reckoned with in the nationwide schools basketball scene! We will continue to strive hard for zonal and national competitions in the future.
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Basketball%20pic%201-min.jpg)
+<img src="/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Basketball%20pic%201-min.jpg"
+     style="width:50%">
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Basketball%20pic%202-min.jpg)
+<img src="/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Basketball%20pic%202-min.jpg"
+     style="width:50%">
 
 ### Achievements
 
