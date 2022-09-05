@@ -41,7 +41,7 @@ With dedicated and passionate scouts, venture and adult leaders and supportive p
 
 ### Trainings
 
-Every Friday (1430hr – 1800)      
+Every Friday (1430hr – 1800)   
 \*Saturday (0830hr – 1230hr) – For ad hoc HQ events / outdoor activities/ courses
 
   
