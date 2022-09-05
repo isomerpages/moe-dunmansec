@@ -13,8 +13,7 @@ description: ""
 
 **Vision:** Dunmanites who are Disciplined in Mind and Conduct.
 
-**Mission:**
-
+**Mission:**   
 1\. To provide Dunmanites with a conducive environment to
 
 *    achieve academic excellence in line with the school’s academic goals.
