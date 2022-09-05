@@ -36,9 +36,9 @@ Listed below are some of the achievements that the club has obtained over the pa
 
 **1     Biannual Singapore Garden Festival Gardeners’ Cup**  
 
-2012: National Champion  & Biodiversity Award
-2016: Biodiversity Award        
-2016: Best Eco Award & Peoples’ Choice Award        
+2012: National Champion  & Biodiversity Award   
+2016: Biodiversity Award   
+2016: Best Eco Award & Peoples’ Choice Award  
 2018: Biodiversity Award   
 
 **2     Community In Bloom Award by NParks**        
