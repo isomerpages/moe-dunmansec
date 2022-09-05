@@ -84,7 +84,7 @@ description: ""
 
 **Competitions & Achievements**  
 
-<p style="text-align: justify;">The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential.
+<p style="text-align: justify;">The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential. </p>
 
 (1) <u>Geography Competitions</u>  
 
