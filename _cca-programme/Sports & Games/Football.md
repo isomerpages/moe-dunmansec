@@ -18,6 +18,31 @@ third_nav_title: Sports & Games
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/cr%20Football%20Camp%202019.jpg)
 
+Our Mission Statement
+---------------------
+
+  
+
+Our mission is to provide an inclusive, fun-loving and nurturing environment for our players to hone their football skills while upholding the highest standards of sportsmanship and character.
+
+### Our Philosophy
+
+We love the fun in football! However, we also understand the importance of respect, commitment and teamwork and strive to achieve excellence in character and skill.
+
+### Our Identity
+
+We are football players who are:  
+\- united in our Goals  
+\- committed to play football to our best ability  
+\- willing to overcome any difficulties  
+\- respectful towards our team members, coaches and opponents
+
+### Achievements
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/NSG%20C%20Division%20National%204th.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Futsal%20U14%20National%202nd.jpg)
+
 **2017**  
 
 *   NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2017 (Participation)
