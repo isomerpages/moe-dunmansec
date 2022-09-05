@@ -2,6 +2,7 @@ collections:
   student-development-programme:
     output: true
     order:
+      - Student Development.md
       - CCA Programme/.keep
       - CCA Programme/LEAPS 2.md
       - CCA Programme/Uniformed Groups.md
