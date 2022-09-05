@@ -30,9 +30,9 @@ ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot
 
 ### Trainings
 
-•       Coding (Mobile App) (Upper Sec) – Thursdays, 4.00pm to 5.45pm 
-•       Swift Coding (Sec 1, selected Sec 2) – Fridays 1.30pm to 4.00pm
-•       Robotics (Sec 2) – Fridays 1.30pm to 3.30pm
+* Coding (Mobile App) (Upper Sec) – Thursdays, 4.00pm to 5.45pm 
+* Swift Coding (Sec 1, selected Sec 2) – Fridays 1.30pm to 4.00pm
+* Robotics (Sec 2) – Fridays 1.30pm to 3.30pm
 
 ### Teachers-in-charge
 
