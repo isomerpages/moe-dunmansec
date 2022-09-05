@@ -1,4 +1,5 @@
 collections:
   student-development-programme:
     output: true
-    order: []
+    order:
+      - CCA Programme/.keep
