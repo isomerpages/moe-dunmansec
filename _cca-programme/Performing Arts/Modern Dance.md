@@ -47,3 +47,14 @@ We, at Dunman Modern Dance CCA believe the spirit of Dunman Dancers will carry o
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/DANCE%20CCA%2003.jpg)
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/SYF%20TEAM%202021%2001.jpeg)
+
+### Trainings  
+
+Tuesdays - 3 pm to 6 pm  
+Fridays - 2 pm to 6 pm
+
+\*occasional Thursdays to be used for training for Dance competitions
+
+Mrs Vicky Wong – [liu\_mei\_ting\_vicky@moe.edu.sg](mailto:liu_mei_ting_vicky@moe.edu.sg)
+
+Ms Masnita – [Nurmasnita\_mohd\_dena@moe.edu.sg](mailto:Nurmasnita_mohd_dena@moe.edu.sg)
