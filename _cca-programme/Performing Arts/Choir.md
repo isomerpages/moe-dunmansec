@@ -29,3 +29,16 @@ We are thankful and blessed for the constant support from the school, parents an
 If you have any enquiries regarding our programme, you may contact our Choir Overall Teacher In-Charge, Ms Kathy Cheong via email through this address:
 
 [](mailto:cheong_kah_keh_kathy@moe.edu.sg)[cheong\_kah\_keh\_kathy@moe.edu.sg](mailto:cheong_kah_keh_kathy@moe.edu.sg)
+
+### Achievements
+
+**2019 :** Distinction
+
+**2017 :** Distinction
+
+**2015 :** Distinction
+
+### Trainings
+
+Tuesday (1500hr – 1830hr)  
+Friday (1330hr – 1700hr)
