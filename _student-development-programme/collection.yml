@@ -2,8 +2,6 @@ collections:
   student-development-programme:
     output: true
     order:
-      - Character & Citizenship/Character & Citizenship Programme.md
-      - Character & Citizenship/.keep
       - CCA Programme/.keep
       - CCA Programme/LEAPS 2.md
       - CCA Programme/Uniformed Groups.md
@@ -12,3 +10,5 @@ collections:
       - CCA Programme/Clubs & Societies.md
       - Student Development.md
       - Student Management.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Character & Citizenship Programme.md
