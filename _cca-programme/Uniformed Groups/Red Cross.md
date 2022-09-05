@@ -31,16 +31,11 @@ In 2021, two Secondary Three cadets also competed individually in the Ambassador
 
 ### Trainings
 
-School-based Trainings 
-
-Every Friday 
-
+School-based Trainings  
+Every Friday  
 2.30 pm to 6pm
 
-  
-
-HQ Trainings
-
+HQ Trainings  
 Ad-hoc Tuesdays
 
 For enquires, please contact Ms. Chandramita Halder (chandramita\_halder@moe.edu.sg).
