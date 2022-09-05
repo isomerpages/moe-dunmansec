@@ -14,43 +14,28 @@ Our netballers also seize the chance to train & interact during the bonding camp
 
 Our netballers have vast opportunities to compete in friendly matches and the National School tournaments. Together, we can scale greater heights and your names will go down Dunman’s Netball history!
 
-Achievements
-------------
+### Achievements
 
-**B Girls National** 
-
+**B Girls National**   
 **2016:** 2nd 
 
-**B Girls Zonal** 
-
-**2019:** 4th 
-
-**2018:** 1st 
-
-**2017:** 1st 
-
-**2016:** 1st 
-
+**B Girls Zonal**   
+**2019:** 4th   
+**2018:** 1st   
+**2017:** 1st   
+**2016:** 1st   
 **2015:** 2nd 
 
-**C Girls National** 
-
-**2018:** 4th 
-
-**2017:** 1st 
-
+**C Girls National**   
+**2018:** 4th   
+**2017:** 1st   
 **2015:** 2nd 
 
-**C Girls Zonal** 
-
-**2019:** 4th 
-
-**2018:** 2nd 
-
-**2017:** 4th 
-
-**2016:** 3rd 
-
+**C Girls Zonal**    
+**2019:** 4th   
+**2018:** 2nd   
+**2017:** 4th   
+**2016:** 3rd   
 **2015:** 1st
 
   
@@ -66,6 +51,4 @@ Tuesday: 3 pm to 6 pm
 Thursday: 3 pm to 6 pm   
 Friday: 2:30 pm to 5:30 pm
 
-> Besides training to prepare ourselves for competitions, we learnt many values and lessons that are applicable to our lives and for the future. Netball is not only a sport but can also bring people together despite our differences. Dunman has given me many opportunities to play with people from other schools and even other countries. These opportunities to play, observe, learn from others are rare and I appreciate it very much. While the trainings can be intense, I have also learnt to manage my time to balance academic work, cca and family. After every training, I feel a sense of achievement that I have improved and grown not only as a netballer but also as a person. 
-> 
-> ~ Kathy Mok, 3G
+Besides training to prepare ourselves for competitions, we learnt many values and lessons that are applicable to our lives and for the future. Netball is not only a sport but can also bring people together despite our differences. Dunman has given me many opportunities to play with people from other schools and even other countries. These opportunities to play, observe, learn from others are rare and I appreciate it very much. While the trainings can be intense, I have also learnt to manage my time to balance academic work, cca and family. After every training, I feel a sense of achievement that I have improved and grown not only as a netballer but also as a person.  ~ Kathy Mok, 3G
