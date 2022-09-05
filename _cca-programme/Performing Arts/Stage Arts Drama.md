@@ -45,14 +45,8 @@ SYF Awards:
 *   Improvisation – What you do is about creativity and exploration
 *   Stagecraft – What you do is an artistic creation of the stage/ presentation
 
-  
-
 **CCA Days:**
 
-  
-
-Tuesday 3:45pm - 6:10pm
-
-Thursday 3:45pm - 6:10pm
-
+Tuesday 3:45pm - 6:10pm  
+Thursday 3:45pm - 6:10pm  
 Venue: The Dance Studio and Humanities Room
