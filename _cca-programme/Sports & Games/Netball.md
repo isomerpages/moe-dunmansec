@@ -59,17 +59,11 @@ I have been playing netball since primary school and I have never felt the thril
 
 For almost 3 years of experience I had in Dunman, I have to say that there are countless proud memories I have. One of the most memorable one was the achievement of the team being able to achieve 2nd in the East Zone competition and 4th in nationals in 2018 as we went through a lot of tough times, going through thick and thin as a team. Although we did not achieve our goal to become champions in the East, we fought hard in the national round to become 4th in national which I felt was something to be proud of. ~ Bernice Goh, 3F 2020
 
-Trainings
----------
+### Trainings
 
-  
-
-The Dunman Netball Team usually train 3 times a week.  
-
-Tuesday: 3 pm to 6 pm
-
-Thursday: 3 pm to 6 pm
-
+The Dunman Netball Team usually train 3 times a week.   
+Tuesday: 3 pm to 6 pm   
+Thursday: 3 pm to 6 pm   
 Friday: 2:30 pm to 5:30 pm
 
 > Besides training to prepare ourselves for competitions, we learnt many values and lessons that are applicable to our lives and for the future. Netball is not only a sport but can also bring people together despite our differences. Dunman has given me many opportunities to play with people from other schools and even other countries. These opportunities to play, observe, learn from others are rare and I appreciate it very much. While the trainings can be intense, I have also learnt to manage my time to balance academic work, cca and family. After every training, I feel a sense of achievement that I have improved and grown not only as a netballer but also as a person. 
