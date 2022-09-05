@@ -4,6 +4,7 @@ permalink: /cca-programme/Uniformed-Groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+# please upload video to youtube
 # NCC Air
 
 ### Introduction
@@ -13,6 +14,10 @@ Established in 1999, Dunman NCC Air aims to instill in our cadets pride, honor a
 ### Achievements
 
 In 2020, we received our 18th consecutive Distinction Award for our performance in 2019 in the Unit Recognition (UR) award. We thank our cadets for their dedication and perseverance in training, and the parents and teachers of our cadets for their continuous support in spite of the exceptional circumstances this year.
+
+
+We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets and to identify and encourage the next budding pilot in our midst.
+
 
 ### Trainings
 
