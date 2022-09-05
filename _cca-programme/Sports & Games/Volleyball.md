@@ -75,10 +75,7 @@ Saturday: During Competition Season
 
 
 **Volleyball Teachers**   
-Mr Hariharan: [hariharan\_subramaniam@moe.edu.sg](mailto:hariharan_subramaniam@moe.edu.sg)  
- 
-Ms Loh Jing Min: [loh\_jing\_min@moe.edu.sg](mailto:loh_jing_min@moe.edu.sg)  
-  
-Mr Ron Tan: [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)  
-  
+Mr Hariharan: [hariharan\_subramaniam@moe.edu.sg](mailto:hariharan_subramaniam@moe.edu.sg)    
+Ms Loh Jing Min: [loh\_jing\_min@moe.edu.sg](mailto:loh_jing_min@moe.edu.sg)     
+Mr Ron Tan: [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)   
 Ms Chayarnee: [Chayarnee\_marnee-in@moe.edu.sg](mailto:Chayarnee_marnee-in@moe.edu.sg)
