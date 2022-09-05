@@ -8,5 +8,5 @@ third_nav_title: CCA Programme
 #### [Concert Band](/cca-programme/Performing-Arts/concert-band/)
 #### [Guitar Ensemble](/cca-programme/Performing-Arts/guitar-ensemble/)
 #### [Modern Dance](/cca-programme/Performing-Arts/modern-dance/)
-#### [Modern Dance](/cca-programme/Performing-Arts/stage-arts-drama/)
-#### [Modern Dance](/cca-programme/Performing-Arts/string-ensemble/)
+#### [Stage Arts Drama](/cca-programme/Performing-Arts/stage-arts-drama/)
+#### [String Ensemble](/cca-programme/Performing-Arts/string-ensemble/)
