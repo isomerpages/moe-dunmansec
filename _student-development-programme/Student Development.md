@@ -20,8 +20,7 @@ description: ""
 *    excel in CCA in line with the school goals.
 *    be creative and innovative and forge breakthroughs
 
-2\. To instil in students Discipline and Discernment through a set of expectations.
-
+2\. To instil in students Discipline and Discernment through a set of expectations.   
 3\. To develop a caring and sharing environment, where pupils put the interest of others before their own.
 
 ### Programmes and Activities
