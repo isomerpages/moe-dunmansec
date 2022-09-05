@@ -8,6 +8,10 @@ third_nav_title: Sports & Games
 
 ### Introduction
 
+![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/netball.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/netball2.jpg)
+
 If you love team work, speed and challenge, Netball is the game for you! Under the supervision of our coach, Ms Vivian De Silva, you will gain invaluable experiences. You will be taught the various techniques and strategies of playing netball. 
 
 Our netballers also seize the chance to train & interact during the bonding camp to forge friendships among the newcomers and teachers. We seek to develop our netballers holistically by connecting their experiences to values, skills and competencies learnt.  
