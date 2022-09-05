@@ -2,4 +2,5 @@ collections:
   student-development-programme:
     output: true
     order:
+      - CCA Programme/LEAPS 2.md
       - CCA Programme/.keep
