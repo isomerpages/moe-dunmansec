@@ -31,9 +31,9 @@ This includes:
 
 <b><u>Our Coaches</u></b>
 
-<p style="text-align: justify;">Mr Shen Ke Qin, an **ex-National Team player for China & Singapore**. Mr Shen brings with him a wealth of experience from his time as a national team player & coach from **1981 to 1993**. Over the years, he has continually adapted and refined his coaching approach to engage the student athletes. At the same time, he places **strong emphasis on the character development** of the athletes in the program. Mr Shen has consistently guided our ‘B’ Division teams to greater heights, cementing our position as a major contender in the volleyball arena.</p>
+<p style="text-align: justify;">Mr Shen Ke Qin, an <b>ex-National Team player for China & Singapore</b>. Mr Shen brings with him a wealth of experience from his time as a national team player & coach from <b>1981 to 1993</b>. Over the years, he has continually adapted and refined his coaching approach to engage the student athletes. At the same time, he places <b>strong emphasis on the character development</b> of the athletes in the program. Mr Shen has consistently guided our ‘B’ Division teams to greater heights, cementing our position as a major contender in the volleyball arena.</p>
 
-<p style="text-align: justify;">Mdm Chen Yi Yi, an **ex-Shanghai State Team player from 1981 to 1985**. With her specialised coaching for **developing strong foundational skills**, she has since led our ‘C’ Division girls to 6 East Zone and 1 National titles, after making our maiden appearance in the Girls competition in 2008.</p>
+<p style="text-align: justify;">Mdm Chen Yi Yi, an <b>ex-Shanghai State Team player from 1981 to 1985</b>. With her specialised coaching for <b>developing strong foundational skills</b>, she has since led our ‘C’ Division girls to 6 East Zone and 1 National titles, after making our maiden appearance in the Girls competition in 2008.</p>
 
 ### Achievements
 
