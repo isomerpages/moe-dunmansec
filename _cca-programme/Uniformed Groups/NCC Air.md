@@ -25,6 +25,13 @@ NCC Air offers a variety of activities, such as hands-on training at the Republi
 
 Our cadets also get the opportunities to enhance their knowledge on Total Defence through various activities such as facilitating the Total Defence Strategy Card Game to other Secondary 2 students during Total Defence Day.
 
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%203.jpg)
+
+Aeromodelling workshops such as Balsa wood plane-making and drone workshops enable our cadets to learn the mechanics of flight and some basic flying skills.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%204.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%205.jpg)
 
 We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets and to identify and encourage the next budding pilot in our midst.
 
