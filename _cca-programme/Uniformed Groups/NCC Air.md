@@ -13,3 +13,8 @@ Established in 1999, Dunman NCC Air aims to instill in our cadets pride, honor a
 ### Achievements
 
 In 2020, we received our 18th consecutive Distinction Award for our performance in 2019 in the Unit Recognition (UR) award. We thank our cadets for their dedication and perseverance in training, and the parents and teachers of our cadets for their continuous support in spite of the exceptional circumstances this year.
+
+### Trainings
+
+Every Friday 3pm to 6pm.   
+Tuesday 3pm to 6pm - Ad Hoc events (FSD, PDS, drone).
