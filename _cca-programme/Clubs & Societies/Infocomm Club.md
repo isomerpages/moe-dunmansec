@@ -16,8 +16,14 @@ The club has a dedicated Robotics Room which houses our lower secondary members.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Pic02.jpg)
 
+This year, Secondary 1 and selected Secondary 2 members are introduce to Swift Coding Programming, using their iPads to learn on this programming for App Development. They are part of the inaugural Swift Coding Club, which will continue next year to go deeper in learning Swift Coding.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Pic03.jpg)
 
+Upper secondary members are trained in Mobile Application Development using Thunkable on iMacs or iPads to learn the process of creating digital media, developing critical thinking and analytic skills as they seek to understand the power of the game development engine.
+
+### Achievements
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Pic04.jpg)
+
+ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot Challenge
