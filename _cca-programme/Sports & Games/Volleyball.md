@@ -74,8 +74,7 @@ Friday: 4pm to 6pm
 Saturday: During Competition Season
 
 
-#### Volleyball Teachers
-
+**Volleyball Teachers**   
 Mr Hariharan: [hariharan\_subramaniam@moe.edu.sg](mailto:hariharan_subramaniam@moe.edu.sg)  
  
 Ms Loh Jing Min: [loh\_jing\_min@moe.edu.sg](mailto:loh_jing_min@moe.edu.sg)  
