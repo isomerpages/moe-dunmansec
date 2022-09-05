@@ -27,3 +27,16 @@ Upper secondary members are trained in Mobile Application Development using Thun
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Pic04.jpg)
 
 ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot Challenge
+
+### Trainings
+
+•       Coding (Mobile App) (Upper Sec) – Thursdays, 4.00pm to 5.45pm 
+•       Swift Coding (Sec 1, selected Sec 2) – Fridays 1.30pm to 4.00pm
+•       Robotics (Sec 2) – Fridays 1.30pm to 3.30pm
+
+### Teachers-in-charge
+
+*   Mr Ng Aik Koon (IC), email: [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
+*   Ms Chua Sok Hoon, email: [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
+*   Mr Tang Kim Yong, email: [tang\_kim\_yong@moe.edu.sg](mailto:tang_kim_yong@moe.edu.sg)
+*   Mr Wong Tong Aun James, email: [james\_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
