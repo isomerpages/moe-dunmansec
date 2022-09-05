@@ -32,10 +32,8 @@ If you have any enquiries regarding our programme, you may contact our Choir Ove
 
 ### Achievements
 
-**2019 :** Distinction
-
-**2017 :** Distinction
-
+**2019 :** Distinction  
+**2017 :** Distinction  
 **2015 :** Distinction
 
 ### Trainings
