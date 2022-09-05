@@ -73,3 +73,5 @@ Despite the challenges at the start of their leadership journey, the Secondary 3
 Despite the challenges at the start of their leadership journey, the Secondary 3 cadet leaders have become more confident and are putting in their best efforts to engage the junior cadets. The Secondary 1 and 2 cadets look forward to CCA sessions as well, with high attendance rates for both physical and e-CCA sessions. 
 
 Let us now hear from some of our cadets and why you should join Dunman NPCC!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
