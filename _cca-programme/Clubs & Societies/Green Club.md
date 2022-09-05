@@ -43,12 +43,10 @@ Listed below are some of the achievements that the club has obtained over the pa
 
 **2     Community In Bloom Award by NParks**        
 
-2012: Silver        
- 
-2014: Silver        
- 2016: Silver        
-
-2018: Gold
+2012: Silver   
+2014: Silver   
+2016: Silver   
+2018: Gold   
 2021: Gold
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%207.jpg)
