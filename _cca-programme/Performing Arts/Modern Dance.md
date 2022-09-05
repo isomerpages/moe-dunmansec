@@ -55,6 +55,5 @@ Fridays - 2 pm to 6 pm
 
 \*occasional Thursdays to be used for training for Dance competitions
 
-Mrs Vicky Wong – [liu\_mei\_ting\_vicky@moe.edu.sg](mailto:liu_mei_ting_vicky@moe.edu.sg)
-
+Mrs Vicky Wong – [liu\_mei\_ting\_vicky@moe.edu.sg](mailto:liu_mei_ting_vicky@moe.edu.sg)   
 Ms Masnita – [Nurmasnita\_mohd\_dena@moe.edu.sg](mailto:Nurmasnita_mohd_dena@moe.edu.sg)
