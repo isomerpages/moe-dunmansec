@@ -24,8 +24,7 @@ third_nav_title: Character & Citizenship
 
 <p style="text-align: justify;">Armed with these knowledge and skills, the students implemented a variety of strategies in Term 1 and 2, in a bid to raise awareness on the need for good cyber wellness practices. These initiatives include:</p>
 
-1.    Pasting of motivational quotes around the school.
-
+1.    Pasting of motivational quotes around the school.   
 2.    Set up of cyberwellness feedback box to get input from students and staff.
 
 <p style="text-align: justify;">The ambassadors have also gone for many external activities, the most recent being the prestigious Cyber Wellness Conference at Anglo-Chinese School (Independent).</p>
