@@ -35,10 +35,7 @@ SYF Awards:
 **2017:** Distinction  
 **2015:** Accomplishment
 
-Trainings
----------
-
-  
+### Trainings
 
 **We learn:**
 
