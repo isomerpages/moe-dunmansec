@@ -31,16 +31,14 @@ Opportunities are provided for students to expose them to the various forms of a
 
 Opportunities are provided for students to experience various forms of aesthetics, through:
 
-*   **Classroom lessons (Music, Art, Literature, English)**
-    
+*   **Classroom lessons (Music, Art, Literature, English)**   
     The Music lesson introduces Ukulele, Cajon and Garageband as part of their curriculum to get students to experience the various forms of music instruments. The Art lesson brings to students the Silk Painting, Face Mask, Fan Painting, among many of the different forms of Art techniques the students get to experience. The Literature and English lesson infused poetry and music in their lessons to bring life to the characters.
-    
 
-*   **CCA (performing arts)  
-    **The students are given a choice as part of their CCA to select one of the various forms of performing arts in the school so that they get to experience as well as pick up a musical skill which they can contribute back to the society.
+*   **CCA (performing arts)**   
+     The students are given a choice as part of their CCA to select one of the various forms of performing arts in the school so that they get to experience as well as pick up a musical skill which they can contribute back to the society.
 
-*   **Enrichment activities  
-    **Programmes are planned so that the various levels of students are exposed to the different forms of art.
+*   **Enrichment activities**   
+    Programmes are planned so that the various levels of students are exposed to the different forms of art.
 
 **Excel**
 
