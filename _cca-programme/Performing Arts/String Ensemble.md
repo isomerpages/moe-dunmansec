@@ -39,4 +39,5 @@ The String Orchestra has enjoyed a tremendously wonderful year in 2016 and is ve
 Non SYF: Tuesday 4 pm – 6 pm  &  Friday 2 pm – 4pm  
 SYF: Tuesday 3 pm – 6 pm  &  Friday 2 pm – 5 pm  
 
-**This CCA is no longer accepting new members from 2021.**
+
+<span style = "color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>
