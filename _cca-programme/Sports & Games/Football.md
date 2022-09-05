@@ -18,16 +18,13 @@ third_nav_title: Sports & Games
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/cr%20Football%20Camp%202019.jpg)
 
-Our Mission Statement
----------------------
+### Our Mission Statement
 
-  
-
-Our mission is to provide an inclusive, fun-loving and nurturing environment for our players to hone their football skills while upholding the highest standards of sportsmanship and character.
+<p style="text-align: justify;">Our mission is to provide an inclusive, fun-loving and nurturing environment for our players to hone their football skills while upholding the highest standards of sportsmanship and character.</p>
 
 ### Our Philosophy
 
-We love the fun in football! However, we also understand the importance of respect, commitment and teamwork and strive to achieve excellence in character and skill.
+<p style="text-align: justify;">We love the fun in football! However, we also understand the importance of respect, commitment and teamwork and strive to achieve excellence in character and skill.</p>
 
 ### Our Identity
 
