@@ -67,8 +67,7 @@ Thursday: 2pm to 4pm
 Friday: 1pm to 3pm   
 Saturday: During Competition Season
 
-**B Division Boys/Girls**
-
+**B Division Boys/Girls**   
 Tuesday: 4pm to 6pm   
 Thursday: 4pm to 6pm   
 Friday: 4pm to 6pm   
