@@ -10,15 +10,15 @@ third_nav_title: Clubs & Societies
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/IMG_0682.jpg)
 
-The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
+<p style="text-align: justify;">The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
 
-Where stage events are concerned, we are provided with stage training to outline in detail the situation of an actual concert. With proper equipment, we are also able to practice how lights and sound are optimized to provide the best experience for the audience. We are also fortunate enough to receive training to enhance our craft as photographers. With both of our skills combined, we looked forward to creating and capturing the most memorable events. 
+<p style="text-align: justify;">Where stage events are concerned, we are provided with stage training to outline in detail the situation of an actual concert. With proper equipment, we are also able to practice how lights and sound are optimized to provide the best experience for the audience. We are also fortunate enough to receive training to enhance our craft as photographers. With both of our skills combined, we looked forward to creating and capturing the most memorable events. </p>
 
-IMDA (Infocomm Media Development Authority) is partnering schools to deepen students’ learning in emerging technologies. We are honored to be selected by IDMA to participate in their new program known as Apple New Media Program. This program provides students with an overview of how to use social media and digital marketing technologies.
+<p style="text-align: justify;">IMDA (Infocomm Media Development Authority) is partnering schools to deepen students’ learning in emerging technologies. We are honored to be selected by IDMA to participate in their new program known as Apple New Media Program. This program provides students with an overview of how to use social media and digital marketing technologies.</p>
 
 ### Achievements
 
-In the previous years, we took part in Our Schools Our Stories Competition hosted by the Ministry of Education. The competition aimed to encourage us to develop creativity and teamwork. We benefited by forging closer ties with each other when we collaborated and tried our hands on creativity. We looked forward to more of such experiences.
+<p style="text-align: justify;">In the previous years, we took part in Our Schools Our Stories Competition hosted by the Ministry of Education. The competition aimed to encourage us to develop creativity and teamwork. We benefited by forging closer ties with each other when we collaborated and tried our hands on creativity. We looked forward to more of such experiences.</p>
 
 ### Trainings
 
