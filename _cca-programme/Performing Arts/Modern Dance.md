@@ -43,3 +43,7 @@ We, at Dunman Modern Dance CCA believe the spirit of Dunman Dancers will carry o
 - Singapore Youth Festival (International Dance) 2019 – Certificate of Distinction
 - World Supremacy Battlegrounds Dance Competition 2019   
 - Singapore Youth Festival (International Dance) 2021 – Certificate of Distinction (Team Infini and Team Sonar)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/DANCE%20CCA%2003.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/SYF%20TEAM%202021%2001.jpeg)
