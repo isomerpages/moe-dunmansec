@@ -49,10 +49,9 @@ MEDAL: Mastering English, Drama, the Art of Communication and Literature.
 
 <p style="text-align: justify;">MEDAL represents an integration of the performing arts into the Lower Secondary curriculum so that language learning is made meaningful. MEDAL also proves to be an instrument for the explicit teaching of 21st century competencies as students evolve to become critical and inventive thinkers who collaborate and communicate effectively in their exploration of set socio-cultural contexts. </p>
 
-<p style="text-align: justify;">The MEDAL curriculum is paced. The Secondary One students explore language and Literature texts such as Little Ironies and are given platforms to share their critical appreciation of texts and poems with their peers. At Secondary Two, students explore language through Drama with greater demands to performance delivery and language.</p.>
+<p style="text-align: justify;">The MEDAL curriculum is paced. The Secondary One students explore language and Literature texts such as Little Ironies and are given platforms to share their critical appreciation of texts and poems with their peers. At Secondary Two, students explore language through Drama with greater demands to performance delivery and language.</p>
 
 <p style="text-align: justify;">MEDAL is exploratory and an effort to "open a new frontier in our exploration of good teaching". (Palmer) It will not be a stranger to established teaching practices. What it will develop into is practical and effective pedagogy bearing semblances to the old but fuelled by the hearts of its teachers to cultivate thinking learners. </p>
-
 
 <b>Activities</b>
 <br><br>
