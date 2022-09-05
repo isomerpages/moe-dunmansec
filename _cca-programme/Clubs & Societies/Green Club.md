@@ -28,24 +28,18 @@ The club realises that it is integral to include the community to help to spread
 
 Members of Green club, will be able to learn many new skills. In addition to learning horticulture skills such as plant propagation and care, they will be allowed to choose the enrichment activities that they can partake. Some of these activities include paper origami, flower pressing and making a table lamp using recycled materials, just to name a few. All these experiences ensure that the students are learning beyond the classroom and at the same time, learning how to make Singapore a greener place.
 
-Achievements
-------------
-
-  
+### Achievements
 
 Members of the Green club will also be given the opportunity to represent the school in many competitions such as the Sembcorp Greenwave Competition. The Community In Bloom Award by NParks and the Biannual Singapore Garden Festival Gardeners’ Cup. 
 
 Listed below are some of the achievements that the club has obtained over the past few years.   
 
-**1     Biannual Singapore Garden Festival Gardeners’ Cup**        
+**1     Biannual Singapore Garden Festival Gardeners’ Cup**  
 
-> 2012: National Champion  & Biodiversity Award        
-> 
-> 2016: Biodiversity Award        
-> 
-> 2016: Best Eco Award & Peoples’ Choice Award        
-> 
-> 2018: Biodiversity Award   
+2012: National Champion  & Biodiversity Award
+2016: Biodiversity Award        
+2016: Best Eco Award & Peoples’ Choice Award        
+2018: Biodiversity Award   
 
 **2     Community In Bloom Award by NParks**        
 
@@ -62,7 +56,6 @@ Listed below are some of the achievements that the club has obtained over the pa
 ### Trainings
 
 Training is conducted every Thursday, from 3.30pm to 6pm. During training sessions, students will not only help to maintain the school garden but also work on projects that will help them spread the message of conservation to the school. Most importantly, members will also get to make new friends and bond with one another, hence, enriching their time in Dunman Secondary School.
-
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%204.jpg)
 
