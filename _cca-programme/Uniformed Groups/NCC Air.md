@@ -33,7 +33,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%205.jpg)
 
-<p style="text-align: justify;">These numerous activities act as a platform through which our cadets are exposed to the various aspects of the RSAF and the military, in the hope that some will be inspired to reach for the skies to serve as pilots in the RSAF. These activities also enable our cadets to learn and grow into responsible, knowledgeable and well-rounded leaders.</p> 
+<p style="text-align: justify;">These numerous activities act as a platform through which our cadets are exposed to the various aspects of the RSAF and the military, in the hope that some will be inspired to reach for the skies to serve as pilots in the RSAF. These activities also enable our cadets to learn and grow into responsible, knowledgeable and well-rounded leaders.</p>
 
 <p style="text-align: justify;">As a uniformed group, drills form an integral part of our training. This is where respect, discipline, perseverance and sheer grit are inculcated into our cadets. In this aspect, we are proud to share that our cadets are well-trained and play an important part in various school parades.</p>
 
