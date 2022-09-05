@@ -59,4 +59,9 @@ Listed below are some of the achievements that the club has obtained over the pa
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%207.jpg)
 
+### Trainings
+
+Training is conducted every Thursday, from 3.30pm to 6pm. During training sessions, students will not only help to maintain the school garden but also work on projects that will help them spread the message of conservation to the school. Most importantly, members will also get to make new friends and bond with one another, hence, enriching their time in Dunman Secondary School.
+
+
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%204.jpg)
