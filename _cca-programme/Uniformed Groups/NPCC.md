@@ -46,8 +46,6 @@ Our cadets also participated in ad-hoc competitions organised by NPCC HQ, such a
 
 Link to video: [https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031)  
 
-[](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031)
-
 ### Trainings
   
 In Semester 1 of 2021, the Corps took hold of the opportunity to conduct face-to-face trainings and completed many key milestones for the Secondary 1, 2 and 3 cadets. The Secondary 1 cadets participated in their first area event where the Dunman NPCC unit hosted the Police Procedure Course for Area 8.
