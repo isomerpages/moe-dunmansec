@@ -33,6 +33,28 @@ Aeromodelling workshops such as Balsa wood plane-making and drone workshops enab
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%205.jpg)
 
+These numerous activities act as a platform through which our cadets are exposed to the various aspects of the RSAF and the military, in the hope that some will be inspired to reach for the skies to serve as pilots in the RSAF. These activities also enable our cadets to learn and grow into responsible, knowledgeable and well-rounded leaders.    
+
+As a uniformed group, drills form an integral part of our training. This is where respect, discipline, perseverance and sheer grit are inculcated into our cadets. In this aspect, we are proud to share that our cadets are well-trained and play an important part in various school parades.   
+
+Our training is however not limited to the “AIR” syllabus. Our cadets play different sports during training and take part in competitions such as soccer and basketball to have fun while at the same time building trust, teamwork and camaraderie between themselves.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%206.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%207.jpg)
+
+Our cadets trained with NCC cadets from Saint Patrick’s School to learn the values of teamwork, understanding and care for fellow cadets.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%208.jpg)
+
+As part of their Values-In-Action(VIA) initiative, they visited NTUC Health Nursing Home and performed for the senior residents of the Home. They also enjoyed themselves during the interaction with the residents and in the process, learnt to be more thankful for the good things in their lives.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%209.jpg)
+
+For our more adventurous cadets, they may get a chance to embark on overseas exchange programs, such as the Brunei International Cadet Exchange Program (ICEP) and Desert Trekking in India.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%2010.jpg)
+
 We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets and to identify and encourage the next budding pilot in our midst.
 
 ### Trainings
