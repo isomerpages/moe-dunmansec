@@ -20,3 +20,11 @@ Both the B & C Division Boys took part in the East Zone Inter-school Badminton C
 **2013:** B Division East Zone Top Four  
 **2016:** C Division East Zone Top Eight  
 **2017:** B Division East Zone Top Eight
+
+### Trainings
+
+We train on every Tuesday and Thursday. Nearing our competitions, we have an additional training on Fridays. 
+
+To prepare our players for their competitions, we also arrange frequent friendly matches with other schools. Other than the strenuous weekly physical training, friendly matches had helped to instill mental toughness and self-confidence in our players.
+
+For further queries, please contact Mr Wee Keng Chye at [wee\_keng\_chye@schools.edu.sg](mailto:wee_keng_chye@schools.edu.sg).
