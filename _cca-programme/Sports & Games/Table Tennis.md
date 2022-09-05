@@ -37,4 +37,4 @@ Thursday (330pm – 630pm)
 
 For further queries, please contact Mr Phey Boon Yeow at phey\_boon\_yeow@moe.edu.sg
 
-**This CCA is no longer accepting new members from 2021.**
+<span style = "color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>
