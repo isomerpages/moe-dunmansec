@@ -2,5 +2,6 @@ collections:
   cca-programme:
     output: true
     order:
+      - Performing Arts/.keep
       - Uniformed Groups/.keep
       - Clubs & Societies/.keep
