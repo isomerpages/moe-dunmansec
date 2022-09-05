@@ -6,12 +6,33 @@ third_nav_title: Character & Citizenship
 ---
 # Cyber Wellness
 
-**Members**
+### **Members**
 
 The CCE Cyber Wellness Department currently consists of a team of 4 cyber-wellness student ambassadors. These students are pioneers in the planning and execution of cyber-wellness related activities in Dunman Secondary School, starting from this year (2017). We hope to expand our team in the subsequent years.
 
 ![](/images/Student%20Development%20Programme/CCP/Cyber%20Wellness/cyberwellness_1.jpg)
 
+### **Mission/ Objectives of Department**
+
+Through our programmes and initiatives, the Cyber Wellness Department aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.
+
+### **Programmes and Activities**
+
+The Cyber Wellness Department have been actively involved in cyber-wellness related activities this year. Firstly, the ambassadors have participated in the East Zone Cyber Wellness Conference, hosted by Ngee Ann Secondary School. Through this conference, the students were equipped with strategies and knowledge on how to carry out activities and initiatives within the school.
 ![](/images/Student%20Development%20Programme/CCP/Cyber%20Wellness/cyberwellness_2.jpg)
 
+Armed with these knowledge and skills, the students implemented a variety of strategies in Term 1 and 2, in a bid to raise awareness on the need for good cyber wellness practices. These initiatives include:
+
+1.    Pasting of motivational quotes around the school.
+
+2.    Set up of cyberwellness feedback box to get input from students and staff.
+
+The ambassadors have also gone for many external activities, the most recent being the prestigious Cyber Wellness Conference at Anglo-Chinese School (Independent).
+
+The ambassadors’ efforts were also rewarded, when they were shortlisted, along with another 16 schools nationwide, to set up a booth at the CWC to showcase their initiatives. They also received a certificate of participation for the CWSAS, in recognition of their enthusiasm and continued efforts to promote the importance of cyber wellness in school.
+
 ![](/images/Student%20Development%20Programme/CCP/Cyber%20Wellness/cyberwellness_3.jpg)
+
+Apart from attending external activities, the Cyber Wellness Department have a wide array of in-school programmes, such as assembly talks and CCE lessons that are specially catered to cyber-wellness. This is done throughout the year, in a bid to educate the student body about the relevance and importance of cyber wellness in everybody’s lives, and how to deal with certain issues when they surface.
+
+The Cyber Wellness Department has many more plans in store for the rest of the year, so stay tuned for more updates!
