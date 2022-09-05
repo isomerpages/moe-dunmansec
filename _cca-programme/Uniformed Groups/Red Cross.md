@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align: justify;">Dunman Red Cross Youth (RCY) is part of Singapore Red Cross Society. It is a unique uniformed-group made up by discerning individuals who have chosen to make their secondary school life purposeful by engaging the community through first-aid related services.</p> 
 
-<p style="text-align: justify;">With “Serving Humanity, Saving Lives” as the RCY motto, we aim to develop our cadets as servant leaders by serving the community with the skills that they acquire through the Red Cross activities. </p> 
+<p style="text-align: justify;">With “Serving Humanity, Saving Lives” as the RCY motto, we aim to develop our cadets as servant leaders by serving the community with the skills that they acquire through the Red Cross activities. </p>
 
 <p style="text-align: justify;">We aspire for our Red Cross cadets to be an ethical change maker. Rooted in sound values, they will learn to make discerning decisions, be discipline in everything they do and discharge their duties with the spirit of excellence. </p>
 
