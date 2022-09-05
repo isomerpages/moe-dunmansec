@@ -30,7 +30,7 @@ description: ""
 
 **1) Oral Communication Programme**  
 
-<p style="text-align: justify;">The oral communication programme in Dunman Secondary is a rigorous 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities. </p>
+<p style="text-align: justify;">The oral communication programme in Dunman Secondary is a rigorous 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities.</p>
 
 The programme consists of:
 
@@ -55,8 +55,7 @@ MEDAL: Mastering English, Drama, the Art of Communication and Literature.
 
 
 <b>Activities</b>
-
-
+<br><br>
 <b>1) Learning Journeys</b>
 
 <p style="text-align: justify;">The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible.</p> 
