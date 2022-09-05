@@ -10,8 +10,7 @@ third_nav_title: Performing Arts
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/arts_drama.jpg)
 
-StageArts Drama is led by Ms Angelina Tang, Ms Neeta Rajwani, Mrs Janice Tan, and Ms Nurril. Students are trained by Ms Fanny Kee. 
-
+StageArts Drama is led by Ms Angelina Tang, Ms Neeta Rajwani, Mrs Janice Tan, and Ms Nurril. Students are trained by Ms Fanny Kee.  
 We train the members to live the spirit of performance, encompassing the following aims:
 
 *   We want to be confident in speaking; 
@@ -23,27 +22,17 @@ We train the members to live the spirit of performance, encompassing the followi
 *   We are committed and disciplined;
 *   We always want to do the best for our team.
 
-  
-
 We believe the spirit of performance encompasses life skills that stay with members throughout their lives and allow them to apply these skills in situations within and beyond the school context.
-
-  
 
 Each StageArts Drama member is known as a Drama StageArtisan.  
 
-Achievements
-------------
+### Achievements
 
-  
 
 SYF Awards:
 
-  
-
-**2019:** Distinction
-
-**2017:** Distinction
-
+**2019:** Distinction  
+**2017:** Distinction  
 **2015:** Accomplishment
 
 Trainings
