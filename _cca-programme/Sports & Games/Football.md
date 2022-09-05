@@ -16,6 +16,8 @@ third_nav_title: Sports & Games
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Website4.jpg)
 
+![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/cr%20Football%20Camp%202019.jpg)
+
 **2017**  
 
 *   NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2017 (Participation)
