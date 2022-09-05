@@ -43,3 +43,11 @@ Besides participating in competitions, our cadets contributed to publications fo
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/PYAMag_2020_6.png)
 
 Our cadets also participated in ad-hoc competitions organised by NPCC HQ, such as the NPCC Cadet Learning Video Competition 2021. A group of Secondary 3 cadets produced a short video on the harmful effects of drug use and emerged as the top 3 schools amongst 19 submissions.
+
+Link to video: [https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031)  
+
+[](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031)
+
+### Trainings
+  
+In Semester 1 of 2021, the Corps took hold of the opportunity to conduct face-to-face trainings and completed many key milestones for the Secondary 1, 2 and 3 cadets. The Secondary 1 cadets participated in their first area event where the Dunman NPCC unit hosted the Police Procedure Course for Area 8.
