@@ -9,14 +9,9 @@ description: ""
 
 ![](/images/Student%20Development%20Programme/student%20development%20and%20student%20management%202018.jpg)
 
-Mission / Objectives of Department
-----------------------------------
-
-  
+### Mission / Objectives of Department
 
 **Vision:** Dunmanites who are Disciplined in Mind and Conduct.
-
-  
 
 **Mission:**
 
@@ -28,14 +23,9 @@ Mission / Objectives of Department
 
 2\. To instil in students Discipline and Discernment through a set of expectations.
 
-  
-
 3\. To develop a caring and sharing environment, where pupils put the interest of others before their own.
 
-Programmes and Activities
--------------------------
-
-  
+### Programmes and Activities
 
 A whole-school approach is adopted where teachers are strongly encouraged to manage discipline at the classroom and form-class level.
 
@@ -46,15 +36,11 @@ A whole-school approach is adopted where teachers are strongly encouraged to man
 
 A referral system has been put in place to support teachers in their management of serious (BETA) offenders.
 
-Philosophy on Student Development & Management
-----------------------------------------------
+### Philosophy on Student Development & Management
 
 To promote a **safe & conducive** environment and discipline with **care & dignity**.
 
-Student Development & Management Approches
-------------------------------------------
-
-  
+### Student Development & Management Approches  
 
 The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:  
 
