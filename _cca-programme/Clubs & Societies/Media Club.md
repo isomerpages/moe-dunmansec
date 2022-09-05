@@ -8,6 +8,7 @@ third_nav_title: Clubs & Societies
 
 ### Introduction
 
+![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/IMG_0682.jpg)
 
 The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
 
@@ -15,8 +16,7 @@ Where stage events are concerned, we are provided with stage training to outline
 
 IMDA (Infocomm Media Development Authority) is partnering schools to deepen students’ learning in emerging technologies. We are honored to be selected by IDMA to participate in their new program known as Apple New Media Program. This program provides students with an overview of how to use social media and digital marketing technologies.
 
-Achievements
-------------
+### Achievements
 
 In the previous years, we took part in Our Schools Our Stories Competition hosted by the Ministry of Education. The competition aimed to encourage us to develop creativity and teamwork. We benefited by forging closer ties with each other when we collaborated and tried our hands on creativity. We looked forward to more of such experiences.
 
