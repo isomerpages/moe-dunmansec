@@ -49,3 +49,21 @@ Link to video: [https://www.facebook.com/NationalPoliceCadetCorps/videos/594713
 ### Trainings
   
 In Semester 1 of 2021, the Corps took hold of the opportunity to conduct face-to-face trainings and completed many key milestones for the Secondary 1, 2 and 3 cadets. The Secondary 1 cadets participated in their first area event where the Dunman NPCC unit hosted the Police Procedure Course for Area 8.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/PP_2021_updated.png)
+
+The Secondary 2 cadets went through their Crime Science Investigation course where they learnt and experienced how crime scene investigators handle a crime scene.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/CSI_2021_1.jpg)
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/CS1_2021_2.jpg)
+
+The Secondary 3 cadets participated in their Secondary 3 Classification Shoot where the cadets got the experience to handle the .22 Revolver. 
+
+The Secondary 3 cadet leaders assumed leadership of the unit after the annual Passing Out Parade in April and had to shoulder the responsibility of taking charge of the junior cadets within a short span of time. The Teacher Officers, Honorary Officers and Cadet Inspectors worked closely with the Secondary 3 cadets to ensure that the training standards were not compromised, whether the trainings were physical sessions with Safe Management Measures or e-CCA sessions via video conferencing. 
+
+For example, the Secondary 3 cadets completed their PYA project by reaching out to their family members in order to comply with the prevailing Safe Management Measures. 
+
+With the limited physical sessions in Semester 2, the Corps also had to engage in a blended mode of assessment for the annual promotion test. The Secondary 2 cadets, built a tent model as part of their assessment this year which replaced their usual tent pitching assessment in the field.
+
+![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/Campcraft_Sec2.jpg)
