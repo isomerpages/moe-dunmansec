@@ -67,3 +67,9 @@ For example, the Secondary 3 cadets completed their PYA project by reaching out 
 With the limited physical sessions in Semester 2, the Corps also had to engage in a blended mode of assessment for the annual promotion test. The Secondary 2 cadets, built a tent model as part of their assessment this year which replaced their usual tent pitching assessment in the field.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/Campcraft_Sec2.jpg)
+
+Despite the challenges at the start of their leadership journey, the Secondary 3 cadet leaders have become more confident and are putting in their best efforts to engage the junior cadets. The Secondary 1 and 2 cadets look forward to CCA sessions as well, with high attendance rates for both physical and e-CCA sessions. 
+
+Despite the challenges at the start of their leadership journey, the Secondary 3 cadet leaders have become more confident and are putting in their best efforts to engage the junior cadets. The Secondary 1 and 2 cadets look forward to CCA sessions as well, with high attendance rates for both physical and e-CCA sessions. 
+
+Let us now hear from some of our cadets and why you should join Dunman NPCC!
