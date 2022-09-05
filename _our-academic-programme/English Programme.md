@@ -53,7 +53,8 @@ MEDAL: Mastering English, Drama, the Art of Communication and Literature.
 
 <p style="text-align: justify;">MEDAL is exploratory and an effort to "open a new frontier in our exploration of good teaching". (Palmer) It will not be a stranger to established teaching practices. What it will develop into is practical and effective pedagogy bearing semblances to the old but fuelled by the hearts of its teachers to cultivate thinking learners. </p>
 
-**Activities**  
+**Activities**
+
 
 **1) Learning Journeys** 
 
