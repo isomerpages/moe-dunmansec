@@ -1,4 +1,5 @@
 collections:
   cca-programme:
     output: true
-    order: []
+    order:
+      - Clubs & Societies/.keep
