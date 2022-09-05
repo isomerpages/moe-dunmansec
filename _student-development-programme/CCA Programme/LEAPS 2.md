@@ -12,8 +12,8 @@ third_nav_title: CCA Programme
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/LEAPS%202%20points.jpg)
 
-To find out more of the different levels of attainment, please click <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>.
-For an example, please click <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>.
+To find out more of the different levels of attainment, please click <a href="/files/Student%20Development%20Programme/CCA/LEAPS%20Annex%20A.pdf" target="_blank">here</a>.
+For an example, please click <a href="/files/Student%20Development%20Programme/CCA/LEAPS%20Annex%20B.pdf" target="_blank">here</a>.
 
   
 For enquiries, please contact  
