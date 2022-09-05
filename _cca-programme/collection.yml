@@ -2,7 +2,7 @@ collections:
   cca-programme:
     output: true
     order:
-      - Sports & Games/.keep
-      - Performing Arts/.keep
       - Uniformed Groups/.keep
+      - Performing Arts/.keep
+      - Sports & Games/.keep
       - Clubs & Societies/.keep
