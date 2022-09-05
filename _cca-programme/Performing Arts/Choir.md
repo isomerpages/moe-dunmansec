@@ -21,3 +21,11 @@ Members are also given various opportunities to perform for the public. In 2010,
 Members are also encouraged to contribute to the school and society with their talent by performing in various school celebratory events such as Dunman’s Jubilee and our annual Dunman Appreciation Day. Activities such as welcome tea, farewell parties and Choir retreats have been organized to promote bonding among members. Through these activities, members experience the importance of good leadership and teamwork, as well as the opportunity to develop into mature individuals.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/2019%20Choir%202.jpg)
+
+We believe in character building and leadership training through musical pursuits. Many of our students have benefited from past activities and tours, and are now assuming leadership roles in various areas within the school. They have become better people through the discipline and resilience required in choir and teamwork activities.
+
+We are thankful and blessed for the constant support from the school, parents and family, as well as the Dunman Choir alumni, without which the choir would not have achieved all that it has today.
+
+If you have any enquiries regarding our programme, you may contact our Choir Overall Teacher In-Charge, Ms Kathy Cheong via email through this address:
+
+[](mailto:cheong_kah_keh_kathy@moe.edu.sg)[cheong\_kah\_keh\_kathy@moe.edu.sg](mailto:cheong_kah_keh_kathy@moe.edu.sg)
