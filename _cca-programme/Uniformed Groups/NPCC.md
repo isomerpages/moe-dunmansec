@@ -75,3 +75,28 @@ Despite the challenges at the start of their leadership journey, the Secondary 3
 Let us now hear from some of our cadets and why you should join Dunman NPCC!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Training Details**  
+
+Every Friday 2:30 pm to 6 pm.  
+Every Even Week Tuesday 4 pm to 6pm.
+
+Ad hoc HQ and Area 8 events on other dates.
+
+**Contact Details**
+
+*   (Mr) Toh Zheng Han – OC and Sec 4/5 Squad IC
+
+[toh\_zheng\_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg) (Ext #179)
+
+*   (Mr) Chu Khoon Hwa - DyOC and Sec 2 Squad IC
+
+[chu\_khoon\_hwa@moe.edu.sg](mailto:chu_khoon_hwa@moe.edu.sg) (Ext #167)
+
+*   (Ms) Mabel Neo Yu Qian – Sec 1 Squad IC
+
+[mabel\_neo\_yu\_qian@moe.edu.sg](mailto:mabel_neo_yu_qian@moe.edu.sg) (Ext #319)
+
+*    (Mr) Chua Hock Kheng - Sec 3 Squad IC
+
+[chua\_hock\_kheng@moe.edu.sg](mailto:chua_hock_kheng@moe.edu.sg)
