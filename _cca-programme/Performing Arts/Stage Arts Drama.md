@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/arts_drama.jpg)
 
 StageArts Drama is led by Ms Angelina Tang, Ms Neeta Rajwani, Mrs Janice Tan, and Ms Nurril. Students are trained by Ms Fanny Kee.  
-We train the members to live the spirit of performance, encompassing the following aims:
+<p style="text-align: justify;">We train the members to live the spirit of performance, encompassing the following aims:</p>
 
 *   We want to be confident in speaking; 
 *   We want to express ourselves better; 
@@ -22,9 +22,9 @@ We train the members to live the spirit of performance, encompassing the followi
 *   We are committed and disciplined;
 *   We always want to do the best for our team.
 
-We believe the spirit of performance encompasses life skills that stay with members throughout their lives and allow them to apply these skills in situations within and beyond the school context.
+<p style="text-align: justify;">We believe the spirit of performance encompasses life skills that stay with members throughout their lives and allow them to apply these skills in situations within and beyond the school context.</p>
 
-Each StageArts Drama member is known as a Drama StageArtisan.  
+<p style="text-align: justify;">Each StageArts Drama member is known as a Drama StageArtisan.</p>
 
 ### Achievements
 
