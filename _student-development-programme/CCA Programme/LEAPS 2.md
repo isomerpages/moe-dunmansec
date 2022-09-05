@@ -10,8 +10,7 @@ third_nav_title: CCA Programme
 
 At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/ Good/ Fair. The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Education (JC/ Poly/ ITE).
 
-To find out more of the different levels of attainment, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Student%20Development%20Programme/CCA/LEAPS%202.0/LEAPS%20Annex%20A.pdf).
-
+To find out more of the different levels of attainment, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Student%20Development%20Programme/CCA/LEAPS%202.0/LEAPS%20Annex%20A.pdf).  
 For an example, please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/2019/Our%20Student%20Development%20Programme/CCA/LEAPS%202.0/LEAPS%20Annex%20B.pdf).
 
   
