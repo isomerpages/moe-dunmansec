@@ -26,14 +26,12 @@ In Dunman Table Tennis, we give students the opportunity to explore their intere
 
 ### Trainings
 
-Peak Season:  
-
+Peak Season:   
 Tuesday (330pm - 630pm)  
 Thursday (330pm – 630pm)  
 Friday (1pm - 4pm)  
 
-  
-Non-Peak Season:  
+Non-Peak Season:   
 Tuesday (330pm - 630pm)  
 Thursday (330pm – 630pm)  
 
