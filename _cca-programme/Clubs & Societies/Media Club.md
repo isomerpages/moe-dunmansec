@@ -10,7 +10,7 @@ third_nav_title: Clubs & Societies
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/IMG_0682.jpg)
 
-<p style="text-align: justify;">The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
+<p style="text-align: justify;">The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography. </p>
 
 <p style="text-align: justify;">Where stage events are concerned, we are provided with stage training to outline in detail the situation of an actual concert. With proper equipment, we are also able to practice how lights and sound are optimized to provide the best experience for the audience. We are also fortunate enough to receive training to enhance our craft as photographers. With both of our skills combined, we looked forward to creating and capturing the most memorable events. </p>
 
