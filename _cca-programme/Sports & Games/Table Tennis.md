@@ -15,3 +15,28 @@ In Dunman Table Tennis, we give students the opportunity to explore their intere
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/TableTennis2.jpeg)
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/TableTennis3.jpeg)
+
+### Achievements
+
+**2006** \- Table Tennis East Zone 2nd placing  
+**2007 & 2008** \- Table Tennis East Zone 4th Placing  
+**2009 - 2016** - Participated in Table tennis East Zone Tournament  
+**2016** - National Table Tennis Individual Championship : Advanced to 2nd round (Ong Tat Wei 2B)  
+**2015 - 2016** - Participated in Safra STTA Table Tennis Championship; Dr Ng Eng Hen Cup - STTA Table Tennis Championships
+
+### Trainings
+
+Peak Season:  
+
+Tuesday (330pm - 630pm)  
+Thursday (330pm – 630pm)  
+Friday (1pm - 4pm)  
+
+  
+Non-Peak Season:  
+Tuesday (330pm - 630pm)  
+Thursday (330pm – 630pm)  
+
+For further queries, please contact Mr Phey Boon Yeow at phey\_boon\_yeow@moe.edu.sg
+
+**This CCA is no longer accepting new members from 2021.**
