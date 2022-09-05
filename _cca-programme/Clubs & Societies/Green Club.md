@@ -65,3 +65,17 @@ Training is conducted every Thursday, from 3.30pm to 6pm. During training sessio
 
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%204.jpg)
+
+Dunman Secondary School’s Green club aspires to continue to make the change we want to see in this world and will strive to achieve this mission! 
+
+Teachers In charge:
+
+1\. Mr. Jeffrey Gafar ([Jeffrey\_jefferson\_gafar@moe.edu.sg](mailto:Jeffrey_jefferson_gafar@moe.edu.sg))
+
+2\. Mrs Toh Nguan Keow ([tay\_nguan\_keow@moe.edu.sg](mailto:tay_nguan_keow@moe.edu.sg))
+
+3\. Mrs Florence Lee ([lee\_bak\_hong@moe.edu.sg](mailto:lee_bak_hong@moe.edu.sg))
+
+4\. Mdm Norlinda Ishnin ([norlinda\_ishnin@moe.edu.sg](mailto:norlinda_ishnin@moe.edu.sg))
+
+5\. Ms Adeline Yong ([adeline\_yong\_yean\_pin@moe.edu.sg](mailto:adeline_yong_yean_pin@moe.edu.sg))
