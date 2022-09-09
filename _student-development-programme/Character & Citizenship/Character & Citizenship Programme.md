@@ -77,17 +77,17 @@ Keeping abreast of the emerging trends and developments as well as remain in lin
 <img src="/images/Student%20Development%20Programme/CCP/ECG%201.jpg"
      style="width:50%;float:left">
 		 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
-     style="width:50%;float:left">
-		 
 <img src="/images/Student%20Development%20Programme/CCP/ECG%203.jpg"
      style="width:50%;float:left">
-
+		 
 <img src="/images/Student%20Development%20Programme/CCP/ECG%204.jpg"
      style="width:50%;float:left">
 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%205.jpg"
+<img src="/images/Student%20Development%20Programme/CCP/ECG%206.jpeg"
+     style="width:50%;float:left">
+
+<img src="/images/Student%20Development%20Programme/CCP/ECg%205.jpg"
      style="width:50%;float:left">
 		 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%206.jpg"
+<img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
      style="width:50%;float:left">
