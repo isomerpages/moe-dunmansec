@@ -36,7 +36,7 @@ To find out more of the NDLP at Dunman Secondary School, please click <a href="
 
 Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.
 
-PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click [here](https://go.gov.sg/change-dma-parent-options)).
+PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="\_blank">here</a>).
 
 _**Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.**_
 
