@@ -95,3 +95,11 @@ Keeping abreast of the emerging trends and developments as well as remain in lin
 		 
 <img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
      style="width:50%;float:left">
+
+
+
+
+*   **Values In Action (VIA) Programme**
+
+The Values In Action (VIA) Programme aims to expose students to age-appropriate experiences that promote care, volunteerism and social entrepreneurship in different areas/ways. Through the Design Thinking approach, students will be taught not only how to define the problem but also generate alternative solutions, choose and implement the most appropriate one and evaluate the resulting outcome to solve real-world issues.
+
