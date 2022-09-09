@@ -108,31 +108,31 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>EXP/NA - Principles of Accounts (POA)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/POA%202021.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Additional Mathematics</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Additional%20Math%202021.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - D&amp;T, F&amp;N</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/DT%20and%20FN%202021%20Streaming.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Humanities</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Humanities%202022%20Sec%202%20streaming%20slides.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP - Science</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/2022%20Science%20Slides%20-%20Streaming.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP - Exercise &amp; Sports Science</td>
-    <td> Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td> Please click <a href="/files/Our%20Student%20Life/Exercise%20%20Sports%20Science%20ESS%20Info%201-converted.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP - Literature in English</td>
-    <td> Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td> Please click <a href="/files/Our%20Student%20Life/English%20Literature%20sec%202%20streaming%20slides.pdf" target="_blank">here</a>.</td>
   </tr>
 </tbody>
 </table>
