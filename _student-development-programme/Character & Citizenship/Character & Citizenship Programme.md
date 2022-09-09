@@ -69,3 +69,25 @@ Through our programmes and initiatives, the Cyber-Wellness Committee aims to pro
      style="width:40%;float:left">
 
 ![](/images/Student%20Development%20Programme/CCP/cw_flow.png)
+
+*   **Education and Career Guidance (ECG) Programme**
+
+Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.
+
+<img src="/images/Student%20Development%20Programme/CCP/ECG%201.jpg"
+     style="width:50%;float:left">
+		 
+<img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
+     style="width:50%;float:left">
+		 
+<img src="/images/Student%20Development%20Programme/CCP/ECG%203.jpg"
+     style="width:50%;float:left">
+
+<img src="/images/Student%20Development%20Programme/CCP/ECG%204.jpg"
+     style="width:50%;float:left">
+
+<img src="/images/Student%20Development%20Programme/CCP/ECG%205.jpg"
+     style="width:50%;float:left">
+		 
+<img src="/images/Student%20Development%20Programme/CCP/ECG%206.jpg"
+     style="width:50%;float:left">
