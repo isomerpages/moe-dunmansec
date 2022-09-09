@@ -29,7 +29,7 @@ Please click [**here**](https://gsuite.google.com/dashboard) to login to Googl
 
 *   **Mondays - Fridays: 8:00 am - 4:00 pm**
 *   During school operating hours, students may contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts.
-*   **School-based Helpline:** Please click<a href="https://form.gov.sg/#!/5e3b9317ae17b00011e6b7ff" target="_blank"><b>here</b></a>.
+*   **School-based Helpline:** Please click <a href="https://form.gov.sg/#!/5e3b9317ae17b00011e6b7ff" target="_blank"><b>here</b></a>.
 
 <img src="/images/Our%20Student%20Life/Home%20Based%20Learning/SchBasedHelpline.png"
      style="width:40%">
