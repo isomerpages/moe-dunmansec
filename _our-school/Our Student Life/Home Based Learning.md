@@ -15,7 +15,7 @@ For HBL timetable, please click <a href="/files/Our%20Student%20Life/HBL%20Time
 
 ### Learning Portals
 
-Please click [**here**](https://vle.learning.moe.edu.sg/login) to login to SLS.  
+Please click <a href="https://vle.learning.moe.edu.sg/login" target="_blank"><b>here</b></a> to login to SLS.  
 Please click [**here**](https://gsuite.google.com/dashboard) to login to Google G Suite.  
 
 ### SLS Support for Home-Based Learning
