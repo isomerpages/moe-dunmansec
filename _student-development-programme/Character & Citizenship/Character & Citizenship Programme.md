@@ -66,6 +66,6 @@ Through our programmes and initiatives, the Cyber-Wellness Committee aims to pro
      style="width:50%;float:left">
 		 
 <img src="/images/Student%20Development%20Programme/CCP/halt.png"
-     style="width:50%;float:left">
+     style="width:40%;float:left">
 
 ![](/images/Student%20Development%20Programme/CCP/cw_flow.png)
