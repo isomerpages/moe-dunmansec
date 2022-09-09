@@ -12,6 +12,80 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 
 **Note: Information updated as at 15 March 2022.**
 
+### Important Dates:
+
+<table style="undefined;table-layout: fixed; width: 736px">
+<colgroup>
+<col style="width: 343px">
+<col style="width: 154px">
+<col style="width: 239px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Activity</th>
+    <th>Date</th>
+    <th>Duration</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Parent Zoom Briefing<br></td>
+    <td>Term 1 Week 10<br>9 Mar (Exp)<br>8 Mar (NA)<br>10 Mar (NT)<br></td>
+    <td>1 day</td>
+  </tr>
+  <tr>
+    <td>Target Setting and Streaming Briefing</td>
+    <td>Term 2 Week 2<br>(28 Mar to 1 Apr)</td>
+    <td>1 day<br></td>
+  </tr>
+  <tr>
+    <td>ECG Counsellor/ YHs/ FTs</td>
+    <td>Term 2 Week 3<br>(4 Apr to 8 Apr)</td>
+    <td> 4 days</td>
+  </tr>
+  <tr>
+    <td>Admin Briefing for eStreaming Familiarisation Exercise</td>
+    <td>Term 2 Week 9<br>(16 May to 20 May)</td>
+    <td>1 day</td>
+  </tr>
+  <tr>
+    <td>eStreaming Familiarisation Exercise<br>(via <a href="https://www.nstream.sg/login/login.aspx" target="_blank">eStreaming online portal</a>)<br>Compulsory</td>
+    <td>23 May to 3 Jun    <br></td>
+    <td>12 days<br></td>
+  </tr>
+  <tr>
+    <td>Review of Target Setting</td>
+    <td>Term 3 Week 1<br><br></td>
+    <td>1 day</td>
+  </tr>
+  <tr>
+    <td>Release of Sec 2 Report Books<br>- Last day of school</td>
+    <td>28 Oct<br></td>
+    <td>1 day</td>
+  </tr>
+  <tr>
+    <td>eStreaming Exercise<br>(via <a href="https://www.nstream.sg/login/login.aspx" target="_blank">eStreaming online portal</a>)<br>Compulsory</td>
+    <td>28 Oct (12pm noon) to<br>1 Nov (12pm noon)<br></td>
+    <td>4 days<br></td>
+  </tr>
+  <tr>
+    <td>Release of eStreaming Results</td>
+    <td>10 Nov (12pm noon)    <br></td>
+    <td>10 days after closing of module<br></td>
+  </tr>
+  <tr>
+    <td>Appeal</td>
+    <td>10 Nov (12pm noon) to<br>12 Nov (12pm noon)<br></td>
+    <td>3 working days<br></td>
+  </tr>
+  <tr>
+    <td>Release of Appeal Results/ Final Posting</td>
+    <td>17 Nov (12pm noon)    <br></td>
+    <td>1 week after closing of appeal period</td>
+  </tr>
+</tbody>
+</table>
+
 ### Helpdesk
 
 *   Enquires @ **6786 2668**
