@@ -27,7 +27,7 @@ Please click [**here**](https://gsuite.google.com/dashboard) to login to Googl
 
 **School Operating Hours**
 
-*   ****Mondays - Fridays: 8:00 am - 4:00 pm****
+*   **Mondays - Fridays: 8:00 am - 4:00 pm**
 *   During school operating hours, students may contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts.
 *   **School-based Helpline:** Please click [**here**](https://form.gov.sg/#!/5e3b9317ae17b00011e6b7ff).
 
