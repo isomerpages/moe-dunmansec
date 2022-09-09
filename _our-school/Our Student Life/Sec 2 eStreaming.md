@@ -86,6 +86,80 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 </tbody>
 </table>
 
+### Handout/ Forms
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NT - D&amp;T</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>NT - Elements of Business Skills (EBS)</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>EXP/NA - Principles of Accounts (POA)</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>EXP/NA - Additional Mathematics</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>EXP/NA - D&amp;T, F&amp;N</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>EXP/NA - Humanities</td>
+    <td>Please click here.</td>
+  </tr>
+  <tr>
+    <td>EXP - Science</td>
+    <td>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td>EXP - Exercise &amp; Sports Science</td>
+    <td> Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagement%20Briefing%20Sec%202NA%202022_8%20March_2022.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td>EXP - Literature in English</td>
+    <td> Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagement%20Briefing%20for%20Sec%202%20Express_2022_9%20March%202022.pdf">here</a>.</td>
+  </tr>
+</tbody>
+</table>
+
+Sec 2 eStreaming Parents Engagement Briefing Slides
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Express</td>
+    <td>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagement%20Briefing%20for%20Sec%202%20Express_2022_9%20March%202022.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td>Normal Academic</td>
+    <td>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagement%20Briefing%20Sec%202NA%202022_8%20March_2022.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td>Normal Technical</td>
+    <td>Please click <a href="https://dunmansec.moe.edu.sg/qql/slot/u194/2022%20streaming/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf">here</a>.</td>
+  </tr>
+</tbody>
+</table>
+
 ### Helpdesk
 
 *   Enquires @ **6786 2668**
