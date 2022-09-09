@@ -72,8 +72,6 @@ Through our programmes and initiatives, the Cyber-Wellness Committee aims to pro
 
 Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.
 
-13 46 52
-
 <img src="/images/Student%20Development%20Programme/CCP/ECG%201.jpg"
      style="width:50%;float:left">
 		 
@@ -96,8 +94,7 @@ Keeping abreast of the emerging trends and developments as well as remain in lin
 <img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
      style="width:50%;float:left">
 
-
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 *   **Values In Action (VIA) Programme**
 
