@@ -46,3 +46,13 @@ b. Character and Citizenship Education (CCE)
 **At Dunman Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
 ![](/images/Student%20Development%20Programme/CCP/eTeens.png)
+
+### Information for Parents
+
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://dunmansec.moe.edu.sg/qql/slot/u194/CCE/Annex%20A%20Parents%20Opt%20Out%20Form%20for%20Growing%20Year%202022.pdf). The completed form is to be submitted by 14/01/2022. 
+
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://dunmansec.moe.edu.sg/qql/slot/u194/CCE/Annex%20B%20Parents%20Opt%20Out%20Form%20for%20eteens%202022.pdf).  The completed form is to be submitted by 14/01/2022.
+
+13. Parents can contact the school at 6786-2668 or dunman\_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
