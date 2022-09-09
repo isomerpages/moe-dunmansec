@@ -48,10 +48,10 @@ Parents/Guardians may refer to the softcopy of the Parent Portal Guides and Vide
 
 **DMA Parent Portal Guides**
 
-For Default Settings (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Default%20iPadOS.pdf).
+For Default Settings (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Default%20iPadOS.pdf" target="\_blank">here</a>.
 
-For Default Option A (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Option%20A%20iPadOS.pdf).
+For Default Option A (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="\_blank">here</a>.
 
-For Default Option B (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Option%20B%20iPadOS.pdf).
+For Default Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf" target="\_blank">here</a>.
 
 **DMA Parent Portal Video Guides**
