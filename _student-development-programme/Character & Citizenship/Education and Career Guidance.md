@@ -103,11 +103,11 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a hre
 
 ### Other Useful Links
 
-<table style="undefined;table-layout: fixed; width: 796px">
+<table style="undefined;table-layout: fixed; width: 739px">
 <colgroup>
-<col style="width: 338px">
-<col style="width: 313px">
-<col style="width: 145px">
+<col style="width: 252px">
+<col style="width: 281px">
+<col style="width: 206px">
 </colgroup>
 <thead>
   <tr>
