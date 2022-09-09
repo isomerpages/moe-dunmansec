@@ -54,3 +54,18 @@ The goal of the CCE lessons is to inculcate values and build competencies in our
 		 
 <img src="/images/Student%20Development%20Programme/CCP/CCE%20Lesson%20Components.png"
      style="width:50%;float:left">
+		 
+*   **Cyber-Wellness Programme**
+
+Through our programmes and initiatives, the Cyber-Wellness Committee aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.
+
+![](/images/Student%20Development%20Programme/CCP/CW%20Pic.jpg)
+
+
+<img src="/images/Student%20Development%20Programme/CCP/think_again.jpg"
+     style="width:50%;float:left">
+		 
+<img src="/images/Student%20Development%20Programme/CCP/halt.png"
+     style="width:50%;float:left">
+
+![](/images/Student%20Development%20Programme/CCP/cw_flow.png)
