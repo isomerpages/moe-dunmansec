@@ -1,5 +1,5 @@
 collections:
-  our-special-programme:
+  our-special-programmes:
     output: true
     order:
       - ELIXiR/ELIXiR.md
