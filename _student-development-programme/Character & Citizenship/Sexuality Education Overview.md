@@ -56,3 +56,11 @@ b. Character and Citizenship Education (CCE)
 13. Parents can contact the school at 6786-2668 or dunman_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
 
 14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+### Detailed Content
+
+* Secondary 1
+* Secondary 2
+* Secondary 3
+* Secondary 4
+* Secondary 5
