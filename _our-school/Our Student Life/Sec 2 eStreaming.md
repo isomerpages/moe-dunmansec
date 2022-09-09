@@ -88,6 +88,8 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 
 ### Handout/ Forms
 
+<p style="text-align: center;"><b>Briefing Slides (Subjects)</b></p>
+
 <table>
 <thead>
   <tr>
