@@ -36,15 +36,15 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 ### Sexuality Education Lessons:
 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+<p style="text-align: justify;">6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
-7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+<p style="text-align: justify;">7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
 ### eTeens Programme:
 
-8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+<p style="text-align: justify;">8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.<p>
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+<p style="text-align: justify;">9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
 **At Dunman Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
@@ -52,13 +52,13 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 ### Information for Parents
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Student%20Development%20Programme/Annex%20A%20Parents%20Opt%20Out%20Form%20for%20Growing%20Year%202022.pdf). The completed form is to be submitted by 14/01/2022. 
+<p style="text-align: justify;">11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Student%20Development%20Programme/Annex%20A%20Parents%20Opt%20Out%20Form%20for%20Growing%20Year%202022.pdf">here</a>. The completed form is to be submitted by 14/01/2022. <p>
 
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Student%20Development%20Programme/Annex%20B%20Parents%20Opt%20Out%20Form%20for%20eteens%202022.pdf).  The completed form is to be submitted by 14/01/2022.
+<p style="text-align: justify;">12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Student%20Development%20Programme/Annex%20B%20Parents%20Opt%20Out%20Form%20for%20eteens%202022.pdf">here</a>.  The completed form is to be submitted by 14/01/2022.<p>
 
-13. Parents can contact the school at 6786-2668 or dunman_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+<p style="text-align: justify;">13. Parents can contact the school at 6786-2668 or dunman_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.<p>
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+<p style="text-align: justify;">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.<p>
 
 ### Detailed Content
 
