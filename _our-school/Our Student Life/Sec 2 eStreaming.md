@@ -104,7 +104,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>NT - Elements of Business Skills (EBS)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/EBS%20NT%202021.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Principles of Accounts (POA)</td>
