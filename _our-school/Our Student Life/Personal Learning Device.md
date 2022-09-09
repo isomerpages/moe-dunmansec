@@ -30,13 +30,13 @@ The NDLP aims to equip our students with Digital Literacies. Digital Literacies
 
 ### Our School's Microsite
 
-To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="\_blank">here</a> to visit our school's NDLP Microsite.
+To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="_blank">here</a> to visit our school's NDLP Microsite.
 
 ### Device Management Application (DMA)
 
 Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.
 
-PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="\_blank">here</a>).
+PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="_blank">here</a>).
 
 _**Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.**_
 
@@ -48,10 +48,45 @@ Parents/Guardians may refer to the softcopy of the Parent Portal Guides and Vide
 
 **DMA Parent Portal Guides**
 
-For Default Settings (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Default%20iPadOS.pdf" target="\_blank">here</a>.
+For Default Settings (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Default%20iPadOS.pdf" target="_blank">here</a>.
 
-For Default Option A (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="\_blank">here</a>.
+For Default Option A (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="_blank">here</a>.
 
-For Default Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf" target="\_blank">here</a>.
+For Default Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf" target="_blank">here</a>.
 
 **DMA Parent Portal Video Guides**
+
+<table>
+<thead>
+  <tr>
+    <th>Default Settings</th>
+    <th>Option A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Introductory Guide available <a href="https://go.gov.sg/dma-parents-default-video-guide" target="_blank">here</a>.</td>
+    <td>User Interface Overview available <a href="https://go.gov.sg/dma-option-a-user-interface-overview" target="_blank">here</a>.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Webfilter Reports available <a href="https://go.gov.sg/dma-option-a-webfilter-reports" target="_blank">here</a>.<br></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Setup Sleep Hours available <a href="https://go.gov.sg/dma-option-a-setup-sleep-hours" target="_blank">here</a>.                     <br></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Managing Web Content available <a href="https://go.gov.sg/dma-option-a-managing-web-content" target="_blank">here</a>.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Application Installation available <a href="https://go.gov.sg/dma-option-a-app-installation" target="_blank">here</a>.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Block Application available <a href="https://go.gov.sg/dma-option-a-block-app" target="_blank">here</a>.</td>
+  </tr>
+</tbody>
+</table>
