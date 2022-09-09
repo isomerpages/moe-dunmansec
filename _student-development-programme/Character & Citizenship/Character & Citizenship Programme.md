@@ -38,3 +38,5 @@ third_nav_title: Character & Citizenship
 		 
 <img src="/images/Student%20Development%20Programme/CCP/Speak%20Good%20EL%20Week%20Photo%201.jpg"
      style="width:50%;float:left">
+		 
+<p style="text-align: center;">Speak Good English Week Assembly Programme</p>		 
