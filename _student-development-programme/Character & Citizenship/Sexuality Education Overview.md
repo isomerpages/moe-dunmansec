@@ -59,8 +59,8 @@ b. Character and Citizenship Education (CCE)
 
 ### Detailed Content
 
-* Secondary 1
-* Secondary 2
-* Secondary 3
-* Secondary 4
-* Secondary 5
+* [Secondary 1](/sexuality-education/secondary-1/)
+* [Secondary 2](/sexuality-education/secondary-2/)
+* [Secondary 3](/sexuality-education/secondary-3/)
+* [Secondary 4](/sexuality-education/secondary-4/)
+* [Secondary 5](/sexuality-education/secondary-5/)
