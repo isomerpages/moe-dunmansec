@@ -13,7 +13,7 @@ third_nav_title: Our Student Life
 Please click <a href="https://vle.learning.moe.edu.sg/login" target="_blank"><b>here</b></a> to login.
 
 **Supporting Learning Portal**   
-\- Learning Management System (LMS)   
+<span>- <u><b>Learning Management System (LMS)</b></u></span>   
 Please click <a href="https://lms.asknlearn.com/DUNMAN_SS/login.aspx" target="_blank"><b>here</b></a> to login.
 
 ### SLS Support for Home-Based Learning
