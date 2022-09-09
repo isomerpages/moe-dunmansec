@@ -86,7 +86,7 @@ third_nav_title: Character & Citizenship
 <img src="/images/Student%20Development%20Programme/CCP/ECG%206.jpeg"
      style="width:50%;float:left">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img src="/images/Student%20Development%20Programme/CCP/ECg%205.jpg"
      style="width:50%;float:left">
@@ -94,7 +94,7 @@ third_nav_title: Character & Citizenship
 <img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
      style="width:50%;float:left">
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 *   **Values In Action (VIA) Programme**
 
