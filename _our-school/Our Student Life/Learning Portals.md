@@ -10,11 +10,11 @@ third_nav_title: Our Student Life
 		 
 **Primary Learning Portal**   
 \- Student Learning Space (SLS)   
-Please click [**here**](https://vle.learning.moe.edu.sg/login) to login.
+Please click <a href="https://vle.learning.moe.edu.sg/login" target="_blank"><b>here</b></a> to login.
 
 **Supporting Learning Portal**   
 \- Learning Management System (LMS)   
-Please click [**here**](https://lms.asknlearn.com/DUNMAN_SS/login.aspx) to login.
+Please click <a href="https://lms.asknlearn.com/DUNMAN_SS/login.aspx" target="_blank"><b>here</b></a> to login.
 
 ### SLS Support for Home-Based Learning
 
