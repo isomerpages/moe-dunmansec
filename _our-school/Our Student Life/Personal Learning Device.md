@@ -24,3 +24,5 @@ The NDLP aims to equip our students with Digital Literacies. Digital Literacies
 ![](/images/Our%20Student%20Life/Personal%20Learning%20Device/Find%20Think%20Apply%20Create.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8naiGOWhtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align:center"> MOE Singapore. (2020, March 4). <u>Minister Explains: The Refreshed Curriculum</u>. <br> Available at: https://youtu.be/J8naiGOWhtA </p>
