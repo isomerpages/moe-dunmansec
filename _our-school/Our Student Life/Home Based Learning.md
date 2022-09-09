@@ -20,7 +20,7 @@ Please click [**here**](https://gsuite.google.com/dashboard) to login to Googl
 
 ### SLS Support for Home-Based Learning
 
-**User Guide for Login and Technical Issues:** Please click [here](https://go.gov.sg/sls-troubleshoot-guide)**.**
+**User Guide for Login and Technical Issues:** Please click <a href="https://go.gov.sg/sls-troubleshoot-guide" target="_blank"><b>here</b></a>**.**
 
 ![](/images/Our%20Student%20Life/Home%20Based%20Learning/Cant_Login_SLS.png)
 
