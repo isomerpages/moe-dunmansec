@@ -28,8 +28,6 @@ third_nav_title: Character & Citizenship
 
 <img src="/images/Student%20Development%20Programme/CCP/Assembly%202.jpg"
      style="width:50%">
-		 
-<br><br><br><br><br><br>
 
 <p style="text-align: center;">Feel the Power Assembly Talk</p>
 
