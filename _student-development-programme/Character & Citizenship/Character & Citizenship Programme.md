@@ -21,3 +21,12 @@ third_nav_title: Character & Citizenship
 *   **Assembly Programme**
 
 <p style="text-align: justify;">The Assembly Programme in Dunman Secondary School is closely link to the total curriculum programme of nurturing students holistically. Its objectives are to build a school spirit and identity as well as to showcase projects and talents through a variety of performances, talks and specialised events organised both internally and externally.</p>
+
+
+<img src="/images/Student%20Development%20Programme/CCP/Assembly%201.jpg"
+     style="width:50%;float:left">
+
+<img src="/images/Student%20Development%20Programme/CCP/Assembly%202.jpg"
+     style="width:50%">
+		 
+<br><br><br><br><br><br>
