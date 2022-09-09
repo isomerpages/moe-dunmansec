@@ -110,6 +110,8 @@ The Values In Action (VIA) Programme aims to expose students to age-appropriate
      style="width:50%;float:left">
 
 
-![](/images/Student%20Development%20Programme/CCP/bookmarks.jpg)
+<img src="/images/Student%20Development%20Programme/CCP/bookmarks.jpg"
+     style="width:50%;float:left">
 
-![](/images/Student%20Development%20Programme/CCP/taxi1.jpg)
+<img src="/images/Student%20Development%20Programme/CCP/taxi1.jpg"
+     style="width:50%;float:left">
