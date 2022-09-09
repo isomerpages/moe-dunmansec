@@ -32,3 +32,6 @@ third_nav_title: Character & Citizenship
 <br><br><br><br><br><br>
 
 <p style="text-align: center;">Feel the Power Assembly Talk</p>
+
+<img src="/images/Student%20Development%20Programme/CCP/Speak%20Good%20EL%20Week%20Photo%202.jpg"
+     style="width:50%;float:left">
