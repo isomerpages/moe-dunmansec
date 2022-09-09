@@ -9,7 +9,7 @@ third_nav_title: Our Student Life
      style="width:35%;float:left">
 		 
 **Primary Learning Portal**   
-\- Student Learning Space (SLS)   
+<span>- <u><b>Student Learning Space (SLS)</b></u></span>   
 Please click <a href="https://vle.learning.moe.edu.sg/login" target="_blank"><b>here</b></a> to login.
 
 **Supporting Learning Portal**   
