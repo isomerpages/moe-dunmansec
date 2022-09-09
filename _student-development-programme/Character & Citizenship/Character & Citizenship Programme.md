@@ -80,7 +80,7 @@ Keeping abreast of the emerging trends and developments as well as remain in lin
 <img src="/images/Student%20Development%20Programme/CCP/ECG%203.jpg"
      style="width:50%;float:left">
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 	
 <img src="/images/Student%20Development%20Programme/CCP/ECG%204.jpg"
      style="width:50%;float:left">
