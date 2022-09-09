@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Student Life/.keep
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
@@ -24,3 +23,4 @@ collections:
       - Administration/Financial Assistance.md
       - Administration/Awards.md
       - Administration/Our Suppliers.md
+      - Our Student Life/.keep
