@@ -106,7 +106,7 @@ third_nav_title: Character & Citizenship
 <img src="/images/Student%20Development%20Programme/CCP/VIA%20photo%202.jpeg"
      style="width:50%;float:left">
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <img src="/images/Student%20Development%20Programme/CCP/bookmarks.jpg"
      style="width:50%;float:left">
