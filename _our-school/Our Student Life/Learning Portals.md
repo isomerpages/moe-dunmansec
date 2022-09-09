@@ -4,7 +4,12 @@ permalink: /our-school/Our-Student-Life/learning-portals/
 description: ""
 third_nav_title: Our Student Life
 ---
-### LS Support for Home-Based Learning
+# Learning Portals
+<img src="/images/Our%20Student%20Life/tn_icon_login_.jpg"
+     style="width:20%;float:left">
+
+
+### SLS Support for Home-Based Learning
 
 **School Operating Hours**
 
