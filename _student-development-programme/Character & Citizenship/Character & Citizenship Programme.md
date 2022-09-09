@@ -115,15 +115,15 @@ The Values In Action (VIA) Programme aims to expose students to age-appropriate
      style="width:50%;float:left">
 		 
 		 
-Click on this <a href="https://sites.google.com/moe.edu.sg/mdd2020/g-lettered-words/" target="_blank"><b>link</b></a> to view more hand drawn bookmarks by our students. **(This was a VIA project executed by our secondary two students to promote the love for the English Language as well as to share good public speaking tips.)**
+<p style="text-align: justify;">Click on this <a href="https://sites.google.com/moe.edu.sg/mdd2020/g-lettered-words/" target="_blank"><b>link</b></a> to view more hand drawn bookmarks by our students. (This was a VIA project executed by our secondary two students to promote the love for the English Language as well as to share good public speaking tips.)</p>
 
 *   **Counselling Programme**
 
-The purpose of Counselling Programme providing timely counselling support for the students. Supporting the programme are the ECG counsellor, school counsellors teacher counsellors and AED (LBS - Learning Behaviour Specialist).
+<p style="text-align: justify;">The purpose of Counselling Programme providing timely counselling support for the students. Supporting the programme are the ECG counsellor, school counsellors teacher counsellors and AED (LBS - Learning Behaviour Specialist).</p>
 
 *   **National Education Programme**
 
-The goal of the National Education Programme is to develop national cohesion, cultivate the instinct for survival as a nation and boost student confidence in our nation’s future.
+<p style="text-align: justify;">The goal of the National Education Programme is to develop national cohesion, cultivate the instinct for survival as a nation and boost student confidence in our nation’s future.</p>
 
 <img src="/images/Student%20Development%20Programme/CCP/NE%20photo%202.jpeg"
      style="width:60%;float:left">
