@@ -4,7 +4,7 @@ permalink: /student-development-programme/Character-and-Citizenship/education-an
 description: ""
 third_nav_title: Character & Citizenship
 ---
-# ITE Course Booklet > 5MB
+# ITE Course Booklet, 2022 JAE Booklet, 2022 JIE Booklet, The Next Step Forward > 5MB
 # Education and Career Guidance
 
 ### Introduction
@@ -99,3 +99,6 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a hre
   </tr>
 </tbody>
 </table>
+
+### Other Useful Links
+
