@@ -28,7 +28,7 @@ Please click <a href="https://lms.asknlearn.com/DUNMAN_SS/login.aspx" target="_
 
 **Non-School Operating Hours**
 
-*   Students can only contact the **SLS Helpdesk** outside the school operating hours.
+*   <span>Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.</span>
 *   SLS Helpdesk: 6702 6513
 *   Mondays - Fridays: 4:00 pm - 9:00 pm
 *   Saturdays: 9:00 am - 3:00 pm
