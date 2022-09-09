@@ -30,3 +30,5 @@ third_nav_title: Character & Citizenship
      style="width:50%">
 		 
 <br><br><br><br><br><br>
+
+<p style="text-align: center;">Feel the Power Assembly Talk</p>
