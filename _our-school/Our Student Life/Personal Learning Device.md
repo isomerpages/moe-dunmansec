@@ -26,3 +26,32 @@ The NDLP aims to equip our students with Digital Literacies. Digital Literacies
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8naiGOWhtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="text-align:center"> MOE Singapore. (2020, March 4). <i>Minister Explains: The Refreshed Curriculum</i>. <br> Available at: https://youtu.be/J8naiGOWhtA </p>
+
+
+### Our School's Microsite
+
+To find out more of the NDLP at Dunman Secondary School, please click [here](https://sites.google.com/moe.edu.sg/dmnndlp/home) to visit our school's NDLP Microsite.
+
+### Device Management Application (DMA)
+
+Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.
+
+PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click [here](https://go.gov.sg/change-dma-parent-options)).
+
+_**Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.**_
+
+### DMA Parent Portal
+
+Parent Portal is available for parents on After-School DMA Parent Default Settings/ Option A.
+
+Parents/Guardians may refer to the softcopy of the Parent Portal Guides and Video Guides for setup and how to use the available features.
+
+**DMA Parent Portal Guides**
+
+For Default Settings (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Default%20iPadOS.pdf).
+
+For Default Option A (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Option%20A%20iPadOS.pdf).
+
+For Default Option B (iPad OS), please click [here](https://dunmansec.moe.edu.sg/qql/slot/u194/DMA/DMA%20Parent%20Guide%20v2.0%20-%20Option%20B%20iPadOS.pdf).
+
+**DMA Parent Portal Video Guides**
