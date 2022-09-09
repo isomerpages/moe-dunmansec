@@ -5,4 +5,4 @@ description: ""
 ---
 # Secondary 1
 
-# At Dunman Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2021:
+### At Dunman Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2021:
