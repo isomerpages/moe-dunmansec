@@ -19,3 +19,14 @@ Dunmanites are truly keen on their many interests; be it Uniformed Groups, Sport
 |     Red Cross    |      Drama      |  Football (Girls) |    Green Club   |
 |      Scouts      | Guitar Ensemble |  Netball (Girls)  |                 |
 |                  |   Modern Dance  | Volleyball (Boys) |                 |
+
+
+All Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
+
+In Secondary One, the school will organize performing arts auditions and sports trials at the beginning of the year to identify students’ area of strength. During the CCA Fair, there will be exhibition and performances from CCAs to provide students with more information about the CCAs, so that they can decide which CCA they would like to join.
+
+All Secondary 1 students will be allotted a CCA based on one of five choices that the students have selected and they are expected to remain in that CCA for the duration of their secondary school years unless they have medical reasons that preclude them from serving their commitments to the CCA.
+
+Students are reminded to make their choices wisely as they may not be allotted CCA of their first choice in cases where the CCA is oversubscribed and they may be allotted choices other than their 1st choice.
+
+Please click [**here**](https://learnfusion.com/schools/dunmansec/) to submit your choices.
