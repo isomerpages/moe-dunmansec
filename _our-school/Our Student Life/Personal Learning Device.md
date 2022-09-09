@@ -30,7 +30,7 @@ The NDLP aims to equip our students with Digital Literacies. Digital Literacies
 
 ### Our School's Microsite
 
-To find out more of the NDLP at Dunman Secondary School, please click [here](https://sites.google.com/moe.edu.sg/dmnndlp/home) to visit our school's NDLP Microsite.
+To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="\_blank">here</a> to visit our school's NDLP Microsite.
 
 ### Device Management Application (DMA)
 
