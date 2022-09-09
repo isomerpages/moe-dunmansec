@@ -135,7 +135,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 </tbody>
 </table>
 
-Sec 2 eStreaming Parents Engagement Briefing Slides
+<p style="text-align: center;"><b>Sec 2 eStreaming Parents Engagement Briefing Slides</b></p>
 
 <table>
 <thead>
