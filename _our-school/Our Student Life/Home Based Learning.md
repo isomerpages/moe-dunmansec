@@ -11,7 +11,7 @@ third_nav_title: Our Student Life
 Dates: **28 to 30-Jun**  
 Main Learning Portal: Student Learning Space (SLS)  
 Supporting Learning Portal: Google G Suite (dunmansec.edu.sg)  
-For HBL timetable, please click <a href="/files/Our%20Student%20Life/HBL%20Timetable%2028to30Jun.pdf" target="_blank">here</a>.
+For HBL timetable, please click <a href="/files/Our%20Student%20Life/HBL%20Timetable%2028to30Jun.pdf" target="_blank"><b>here</b></a>.
 
 ### Learning Portals
 
