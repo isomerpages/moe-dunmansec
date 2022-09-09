@@ -1,4 +1,5 @@
 collections:
   our-student-life:
     output: true
-    order: []
+    order:
+      - Our Student Life.md
