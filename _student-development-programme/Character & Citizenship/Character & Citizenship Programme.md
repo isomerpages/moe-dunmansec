@@ -45,7 +45,7 @@ third_nav_title: Character & Citizenship
 
 *   **Character and Citizenship Education (CCE) Lessons**
 
-The goal of the CCE lessons is to inculcate values and build competencies in our students so as to develop them not just to be good individuals but useful citizens. Students are engaged and enriched through the special crafted in-house heritage modules where students learn about the school’s rich history. Student leaders also conduct leadership modules for their peer during CCE lessons using the leadership challenge model.
+<p style="text-align: justify;">The goal of the CCE lessons is to inculcate values and build competencies in our students so as to develop them not just to be good individuals but useful citizens. Students are engaged and enriched through the special crafted in-house heritage modules where students learn about the school’s rich history. Student leaders also conduct leadership modules for their peer during CCE lessons using the leadership challenge model.</p>
 
 <img src="/images/Student%20Development%20Programme/CCP/CCE%20Photo%201.jpg"
      style="width:50%;float:left">
@@ -55,7 +55,7 @@ The goal of the CCE lessons is to inculcate values and build competencies in our
 		 
 *   **Cyber-Wellness Programme**
 
-Through our programmes and initiatives, the Cyber-Wellness Committee aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.
+<p style="text-align: justify;">Through our programmes and initiatives, the Cyber-Wellness Committee aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.</p>
 
 ![](/images/Student%20Development%20Programme/CCP/CW%20Pic.jpg)
 
@@ -70,7 +70,7 @@ Through our programmes and initiatives, the Cyber-Wellness Committee aims to pro
 
 *   **Education and Career Guidance (ECG) Programme**
 
-Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.
+<p style="text-align: justify;">Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.</p>
 
 <img src="/images/Student%20Development%20Programme/CCP/ECG%201.jpg"
      style="width:50%;float:left">
@@ -98,7 +98,7 @@ Keeping abreast of the emerging trends and developments as well as remain in lin
 
 *   **Values In Action (VIA) Programme**
 
-The Values In Action (VIA) Programme aims to expose students to age-appropriate experiences that promote care, volunteerism and social entrepreneurship in different areas/ways. Through the Design Thinking approach, students will be taught not only how to define the problem but also generate alternative solutions, choose and implement the most appropriate one and evaluate the resulting outcome to solve real-world issues.
+<p style="text-align: justify;">The Values In Action (VIA) Programme aims to expose students to age-appropriate experiences that promote care, volunteerism and social entrepreneurship in different areas/ways. Through the Design Thinking approach, students will be taught not only how to define the problem but also generate alternative solutions, choose and implement the most appropriate one and evaluate the resulting outcome to solve real-world issues.</p>
 
 <img src="/images/Student%20Development%20Programme/CCP/VIA%20Photo.jpg"
      style="width:50%;float:left">
