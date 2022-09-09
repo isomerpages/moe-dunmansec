@@ -6,7 +6,7 @@ third_nav_title: Our Student Life
 ---
 # Learning Portals
 <img src="/images/Our%20Student%20Life/tn_icon_login_.jpg"
-     style="width:20%;float:left">
+     style="width:45%;float:left">
 		 
 **Primary Learning Portal**   
 \- Student Learning Space (SLS)   
