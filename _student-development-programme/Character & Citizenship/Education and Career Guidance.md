@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Character & Citizenship
 ---
 # ITE Course Booklet, 2022 JAE Booklet, 2022 JIE Booklet, The Next Step Forward > 5MB
+# Parent Guide link broken
 # Education and Career Guidance
 
 ### Introduction
@@ -102,3 +103,74 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a hre
 
 ### Other Useful Links
 
+<table style="undefined;table-layout: fixed; width: 796px">
+<colgroup>
+<col style="width: 338px">
+<col style="width: 313px">
+<col style="width: 145px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Title </th>
+    <th>Links</th>
+    <th>Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2022 JAE Booklet</td>
+    <td><a href="https://www.moe.gov.sg/2022jaebooklet">https://www.moe.gov.sg/2022jaebooklet</a></td>
+    <td>For O-level students, 4N students who are interested in PFP</td>
+  </tr>
+  <tr>
+    <td>2022 JIE Booklet<br> </td>
+    <td><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf</a></td>
+    <td>For N-level students seeking admission to ITE College (NITEC, DPP etc.)</td>
+  </tr>
+  <tr>
+    <td>My-Skills-Future Portal (Secondary)</td>
+    <td><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a></td>
+    <td>ECG Portal to explore the world of work and plan education pathways</td>
+  </tr>
+  <tr>
+    <td>Singapore Industry Landscape</td>
+    <td><a href="https://go.gov.sg/industrylandscape-sec">https://go.gov.sg/industrylandscape-sec</a><br><a href="https://go.gov.sg/ecgportalvideos">https://go.gov.sg/ecgportalvideos</a><br><a href="https://go.gov.sg/ecgportalarticles">https://go.gov.sg/ecgportalarticles</a></td>
+    <td>ECG Portal to explore the world of work<br> </td>
+  </tr>
+  <tr>
+    <td>On My Way<br> </td>
+    <td><a href="https://www.nyc.gov.sg/omw/home">https://www.nyc.gov.sg/omw/home</a></td>
+    <td>On My Way (OMW) - learn about the different jobs and industries, connect with industry professionals and get a taster into various job roles of your interest</td>
+  </tr>
+  <tr>
+    <td>Parent Guide<br> </td>
+    <td><a href="https://www.moe.gov.sg/microsites/ecg-parent-guide/">https://www.moe.gov.sg/microsites/ecg-parent-guide/</a></td>
+    <td>A guide for parents/guardians in ECG</td>
+  </tr>
+  <tr>
+    <td>The Next Step Forward</td>
+    <td><a href="https://www.go.gov.sg/next-step-forward">https://www.go.gov.sg/next-step-forward</a>  <br> </td>
+    <td>An e-book that illustrates how 54 individuals go through diverse education and career pathways</td>
+  </tr>
+  <tr>
+    <td>Scholarships</td>
+    <td><a href="https://go.gov.sg/admissions-scholarships">https://go.gov.sg/admissions-scholarships</a></td>
+    <td>Learn about the different merit-based awards and scholarships</td>
+  </tr>
+  <tr>
+    <td>ECG Centre at MOE<br> </td>
+    <td>Email: MOE_ECG@moe.gov.sg<br>Phone: 6831 1420<br>E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a></td>
+    <td>The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.</td>
+  </tr>
+  <tr>
+    <td>Private Education Programme</td>
+    <td><a href="https://go.gov.sg/pei">https://go.gov.sg/pei</a></td>
+    <td>Resources for private education programme</td>
+  </tr>
+  <tr>
+    <td>Community-based Helplines</td>
+    <td><a href="https://www.mindline.sg/">https://www.mindline.sg/</a><br><a href="https://www.ec2.sg/">https://www.ec2.sg/</a><br> </td>
+    <td>For students who would like to have someone to talk to in times of need. Or approach the School Counsellor.</td>
+  </tr>
+</tbody>
+</table>
