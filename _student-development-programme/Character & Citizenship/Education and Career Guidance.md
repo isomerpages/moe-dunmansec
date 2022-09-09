@@ -4,6 +4,7 @@ permalink: /student-development-programme/Character-and-Citizenship/education-an
 description: ""
 third_nav_title: Character & Citizenship
 ---
+# ITE Course Booklet > 5MB
 # Education and Career Guidance
 
 ### Introduction
