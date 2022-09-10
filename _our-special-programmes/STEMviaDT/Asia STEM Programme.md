@@ -22,8 +22,8 @@ In 2021, undeterred by the pandemic, our Sec 3 students dived deep to engage pee
 
 ![](/images/Our%20Special%20Programmes/STEMviaDT/Asia%20Stem%20Programme/Learning%20about%20Sustainability.jpeg)
 
+![](/images/Our%20Special%20Programmes/STEMviaDT/Asia%20Stem%20Programme/Our%20Students%20in%20Action.jpeg)
+
 ![](/images/Our%20Special%20Programmes/STEMviaDT/Asia%20Stem%20Programme/Mr%20Toh%20and%20his%20Counterpart.jpeg)
 
 ![](/images/Our%20Special%20Programmes/STEMviaDT/Asia%20Stem%20Programme/Our%20Principal%20Mr%20Toh.png)
-
-![](/images/Our%20Special%20Programmes/STEMviaDT/Asia%20Stem%20Programme/Our%20Students%20in%20Action.jpeg)
