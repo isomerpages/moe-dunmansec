@@ -11,9 +11,9 @@ The 4 Modules for the 4 levels are as follows:
 <table>
 <thead>
   <tr>
-    <th>Level</th>
+    <th style="text-align: center;">Level</th>
     <th style="text-align: center;">Module</th>
-    <th>Lesson</th>
+    <th style="text-align: center;">Lesson</th>
   </tr>
 </thead>
 <tbody>
