@@ -57,17 +57,17 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 </figure>
 
 <figure>
-	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20pic%204.jpg"
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/Science%20Centre%20Chemistry%20of%20Chocolate%20workshop%20for%20Sec%201.jpg"
      style="width:100%">
 <figcaption>
-	<strong> Pictures above: Parent-Child Workshop: Fruit Oil Extraction at Temasek Polytechnic.</strong>
+	<strong> Chemistry of Chocolate</strong>
 	</figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20pic%204.jpg"
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/science%20centre%20ice%20cream%20making%20workshop%20for%20sec%201.jpg"
      style="width:100%">
 <figcaption>
-	<strong> Pictures above: Parent-Child Workshop: Fruit Oil Extraction at Temasek Polytechnic.</strong>
+	<strong> I Scream for Ice-cream</strong>
 	</figcaption>
 </figure>
