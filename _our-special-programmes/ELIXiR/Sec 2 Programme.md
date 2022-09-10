@@ -26,3 +26,11 @@ _(Collaboration with Science Centre Singapore)_
 
 *   **Science Competition**
     *   Greenwave Competition
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%202/sec%202%20life%20science%20lesson.jpg"
+     style="width:100%">
+<figcaption>
+	<strong> Life Science Lessons </strong>
+	</figcaption>
+</figure>
