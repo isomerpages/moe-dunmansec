@@ -71,3 +71,16 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 	<strong> I Scream for Ice-cream</strong>
 	</figcaption>
 </figure>
+
+<u>Term 3</u>
+
+*   **Science "On-The-Go" Mixology Show** _(collaboration with Science Centre Singapore)_
+
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/Science%20mixology%20show.jpg"
+     style="width:100%">
+<figcaption>
+	<strong> Mixology Show</strong>
+	</figcaption>
+</figure>
