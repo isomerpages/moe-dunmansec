@@ -22,3 +22,11 @@ a)    Workshops (E.g. Design Thinking)
 b)    Choice Enrichment Activities
 
 Students get to choose one activity from a diverse range of activities such as AMGEM workshop 1, Forensic Science, DNA extraction, etc to take part.
+
+<figure>
+	 <img src="/images/Our%20Special%20Programmes/ELIXiR/DNA%20Extraction.png"
+     style="width:50%">
+<figcaption>
+	<strong> DNA Extraction</strong>
+	</figcaption>
+</figure>
