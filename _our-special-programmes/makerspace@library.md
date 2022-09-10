@@ -22,7 +22,13 @@ description: ""
 	</figcaption>
 </figure>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image03.jpg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image03.jpg"
+     style="width:70%">
+<figcaption>
+	Building our Tampines community with LEGO bricks
+	</figcaption>
+</figure>
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image04.jpeg)
 
