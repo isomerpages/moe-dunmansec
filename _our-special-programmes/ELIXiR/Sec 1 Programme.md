@@ -23,7 +23,7 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 
 <figure>
 	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20pic%204.jpg"
-     style="width:50%">
+     style="width:100%">
 <figcaption>
 	<strong> Staff Activity to Jewel @ Changi Airport </strong>
 	</figcaption>
