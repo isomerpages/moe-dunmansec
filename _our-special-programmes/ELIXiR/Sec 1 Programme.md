@@ -89,8 +89,6 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 
 *   **Choice Learning Journey**
 
-*   Gardens by the Bay
-
-*   Singapore Botanic Gardens
-
-*   Sungei Buloh Wetland Reserve
+    *   Gardens by the Bay
+    *   Singapore Botanic Gardens
+    *   Sungei Buloh Wetland Reserve
