@@ -30,7 +30,13 @@ description: ""
 	</figcaption>
 </figure>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image04.jpeg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image04.jpeg"
+     style="width:100%">
+<figcaption>
+	Making miniature local food
+	</figcaption>
+</figure>
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image05.jpg)
 
