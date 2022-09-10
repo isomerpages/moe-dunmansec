@@ -16,6 +16,5 @@ _The school-wide programmes aims to instill a sense of Individual Responsibility
 
 *   _**Science Panel Exhibitions** (Collaboration with National Parks Board)_
 
-*   _An exhibition of “People, Forest & Environment”_
-
-*   _Biodiversity Exhibition_
+    *   _An exhibition of “People, Forest & Environment”_
+    *   _Biodiversity Exhibition_
