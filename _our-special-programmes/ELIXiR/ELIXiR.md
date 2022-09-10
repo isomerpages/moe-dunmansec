@@ -48,9 +48,11 @@ Students get to choose one activity from a diverse range of activities such as A
 </figure>
 
 c)    Learning Journey   
-Learning Journey to Sungei Buloh Wetland, Botanic Garden, etc are arranged to extend their learning beyond the classroom.   
+Learning Journey to Sungei Buloh Wetland, Botanic Garden, etc are arranged to extend their learning beyond the classroom. 
+
 d)    Online micro-modules   
 In 2022 onwards, students can dive deeper to learn more about  climate change, Emerging Technology, Sustainability etc during their HBL slot. In each module, there will tasks for students to complete to deepen their understanding.   
+
 e)    Competitions (for selected students):   
 
 *   The Genetic Modification Advisory Committee (GMAC) Students Challenge
