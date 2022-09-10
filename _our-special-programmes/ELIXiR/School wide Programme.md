@@ -57,7 +57,7 @@ third_nav_title: ELIXiR
 
 <b><u>Life Science Research Centre</u></b>
 
-The key facility of the Centre of Excellence at Dunman is the Life Science Research Centre. Established since 2002, the Life Science Research Centre reaches out to all primary and secondary schools in the East Zone to offer exciting Life Science workshops for students. The Life Science Research Centre also supports schools in customizing workshops for their teachers and students. Teachers and students can also make use of the facilities in the Life Science Research Centre to carry out research projects.
+<p style="text-align: justify;">The key facility of the Centre of Excellence at Dunman is the Life Science Research Centre. Established since 2002, the Life Science Research Centre reaches out to all primary and secondary schools in the East Zone to offer exciting Life Science workshops for students. The Life Science Research Centre also supports schools in customizing workshops for their teachers and students. Teachers and students can also make use of the facilities in the Life Science Research Centre to carry out research projects.</p>
 
 <figure>
 	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Life%20Science%20Research%20Centre.jpg" style="width:70%">
