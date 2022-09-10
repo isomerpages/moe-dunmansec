@@ -20,3 +20,11 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 ![](/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20extraction%20workshop%20in%20TP.jpg)
 
 ![](/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20extraction%20workshop%20pic%202.jpg)
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%201/parent%20child%20fruit%20oil%20pic%204.jpg"
+     style="width:50%">
+<figcaption>
+	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	</figcaption>
+</figure>
