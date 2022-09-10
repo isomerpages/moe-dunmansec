@@ -2,7 +2,6 @@ collections:
   our-special-programmes:
     output: true
     order:
-      - Sport and Recreation Club.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -17,3 +16,4 @@ collections:
       - STEMviaDT/Asia STEM Programme.md
       - Student Leadership.md
       - Heritage Module.md
+      - Sport and Recreation Club.md
