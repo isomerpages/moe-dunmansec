@@ -2,6 +2,7 @@ collections:
   our-special-programmes:
     output: true
     order:
+      - STEMviaDT/STEMviaDT.md
       - STEMviaDT/.keep
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
