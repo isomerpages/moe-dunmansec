@@ -13,7 +13,7 @@ third_nav_title: ELIXiR
 In Secondary 1, students get to embark on an exciting journey of exploring various disciplines of Science. These programmes are designed to spark their interest in Science and also to learn Science in a fun and engaging way!
 
 
-<b><u>Term 1</u></b>
+<u>Term 1</u>
 
 *   **Parent-child Workshop: Extraction of Fruit Oils** _(collaboration with Temasek Polytechnic, School of Applied Science)_
 
@@ -28,3 +28,32 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 	<strong> Pictures above: Parent-Child Workshop: Fruit Oil Extraction at Temasek Polytechnic.</strong>
 	</figcaption>
 </figure>
+
+
+<u>Term 2</u>
+
+*   **Choice Enrichment: students choose 1 - 2 science enrichment workshops based on their interest that will be conducted in Dunman or Science Centre.** _(collaboration with Science Centre Singapore)_
+
+*   Forensic Science _(conducted in-house at our Life Science Research Centre)_
+
+*   Blast Off
+
+*   I Scream for Ice-cream
+
+*   Chemistry of Chocolate
+
+*   Food Microbiology
+
+*   Electronics Fundamentals
+
+*   Perfume Factory
+
+*   Solar Eco Car Race
+
+*   Impact!
+
+*   Fun with Boomerangs
+
+*   Science of Coffee
+
+*   A Jam Session
