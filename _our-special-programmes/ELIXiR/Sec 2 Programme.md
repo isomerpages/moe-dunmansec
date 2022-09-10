@@ -21,9 +21,8 @@ third_nav_title: ELIXiR
     *   Topics on Molecular Biology, Microbiology, Biotechnology and Forensic Science
     *   14 lessons programme within our curriculum
 
-*   **Science "On-The-Go" Mixology Show**
-
-    _(Collaboration with Science Centre Singapore)_
+*   **Science "On-The-Go" Mixology Show**   
+_(Collaboration with Science Centre Singapore)_
 
 *   **Science Competition**
     *   Greenwave Competition
