@@ -27,6 +27,12 @@ For authenticity and relevance, these themes take reference from the National Re
 Tan, AL., Teo, T.W., Choy, B.H. _et al._ The S-T-E-M Quartet. _Innov Educ_ **1**, 3 (2019)   
 <a href="https://doi.org/10.1186/s42862-019-0005-x" target="_blank">https://doi.org/10.1186/s42862-019-0005-x</a>
 
-![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic1.jpg)
+### What are some examples of what our students have done?
 
-![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic1.jpg)
+a) A karaoke mobile app targeted at seniors to help them connect during the pandemic.
+
+![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic4.jpg)
+
+b) A mobile app of essential services for seniors.
+
+![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic5.jpg)
