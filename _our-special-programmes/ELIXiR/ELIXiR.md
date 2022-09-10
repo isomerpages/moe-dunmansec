@@ -72,9 +72,9 @@ e)    Competitions (for selected students):
 
 *   Provide opportunities solve solution centric and/or problem centric task via
 
-1.  Engagement Session with Scientist and/or industrial partners
+    1.  Engagement Session with Scientist and/or industrial partners
 
-*   Selected and interested students are given opportunities to interact with Scientist to understand their work better and how emerging technology can be incorporated together to solve real world issue or problem.
+        *   Selected and interested students are given opportunities to interact with Scientist to understand their work better and how emerging technology can be incorporated together to solve real world issue or problem.
 
 3.  National and/or international competitions (for selected students) such as:
 
