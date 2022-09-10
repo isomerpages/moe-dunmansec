@@ -15,7 +15,7 @@ description: ""
 
 <a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NA.pdf" target="_blank">Sec 2 NA Booklist 2022</a>
 
-<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NT.PDF" target="_blank">Sec 2 NT Booklist 2022</a>
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NT.pdf" target="_blank">Sec 2 NT Booklist 2022</a>
 
 <a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3E.pdf" target="_blank">Sec 3 Exp Booklist 2022</a>
 
