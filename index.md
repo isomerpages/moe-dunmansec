@@ -20,8 +20,11 @@ sections:
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Events
-          description: More information click here
+          description: Click here for upcoming events
           url: https://dunmansec.moe.edu.sg/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,4 +32,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
