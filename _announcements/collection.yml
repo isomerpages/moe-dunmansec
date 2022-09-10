@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - AY2022 Semester 2 Class Timetable (wef 13 July 2022).md
       - 2022 Exam Timetable.md
       - Booklist for AY2022.md
       - Advisory For The School Holidays.md
       - Invitation to Parents Gateway.md
+      - AY2022 Semester 2 Class Timetable (wef 13 July 2022).md
