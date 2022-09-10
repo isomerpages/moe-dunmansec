@@ -13,18 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Announcements
+          description: ""
           url: https://gmail.com
         - title: Events
           description: Click here for upcoming events
           url: https://dunmansec.moe.edu.sg/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
