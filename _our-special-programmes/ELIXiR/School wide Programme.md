@@ -30,3 +30,11 @@ third_nav_title: ELIXiR
 *   _Fun with Drones (Conducted in Temasek Polytechnic)_
 *   _Fruit Oil Extraction (Conducted in Temasek Polytechnic)_
 *   _Learning Journey to At-Sunrice GlobalChef Academy_
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/nparks%20biodiversity%20exhibition%20panels.jpg"
+     style="width:70%">
+<figcaption>
+	<strong> Science Panel Exhibitions</strong>
+	</figcaption>
+</figure>
