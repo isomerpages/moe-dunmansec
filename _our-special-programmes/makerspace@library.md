@@ -54,4 +54,14 @@ description: ""
 	</figcaption>
 </figure>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image07.jpg)
+We also held meet-the-artist series where students interact with artists to learn more of their trade and the joy and challenges they face in their creative journey. One such activity was digital doodling where art students meet up a local doodling artist.
+
+
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image07.jpg"
+     style="width:100%">
+<figcaption>
+	Digital doodling
+	</figcaption>
+</figure>
