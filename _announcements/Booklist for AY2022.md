@@ -5,7 +5,7 @@ description: ""
 ---
 [**Booklist for AY2022**](https://dunmansec.moe.edu.sg/#)
 
-[Sec 1 Exp Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1E.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1E.pdf" target="_blank">Sec 1 Exp Booklist 2022</a>
 
 [Sec 1 NA Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1NA.pdf)
 
