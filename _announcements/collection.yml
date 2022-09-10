@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Advisory For The School Holidays.md
       - 2022 Exam Timetable.md
       - Booklist for AY2022.md
