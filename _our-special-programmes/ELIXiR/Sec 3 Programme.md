@@ -25,5 +25,5 @@ third_nav_title: ELIXiR
 
 <p style="text-align: justify;">In addition, there are enrichment programmes for students to learn certain scientific principles outside of their classroom for a more enhanced learning experience!</p>
 
-*   Curie Me Away! Musical
+* Curie Me Away! Musical
 * NKF Health Booth Kidney Dialysis Talks _(Collaboration with National Kidney Foundation)_
