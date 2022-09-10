@@ -9,7 +9,9 @@ description: ""
 
 <a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1NA.pdf" target="_blank">Sec 1 NA Booklist 2022</a>
 
-[Sec 1 NT Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1NT.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1NT.pdf" target="_blank">Sec 1 NT Booklist 2022</a>
+
+
 
 [Sec 2 Exp Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2E.pdf)
 
