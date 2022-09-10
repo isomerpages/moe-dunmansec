@@ -4,7 +4,15 @@ permalink: /our-special-programmes/makerspace-at-library/
 description: ""
 ---
 # makerspace@library
-![](/images/Our%20Special%20Programmes/Makerspace@library/image01.jpeg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image01.jpeg"
+     style="width:100%">
+<figcaption>
+	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	</figcaption>
+</figure>
+
+The Knowledge Place @ Library
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image02.jpg)
 
