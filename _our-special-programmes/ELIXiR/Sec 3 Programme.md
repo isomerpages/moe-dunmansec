@@ -14,12 +14,12 @@ third_nav_title: ELIXiR
 
 *   **Science Competitions**
 
-*   Ignite Science Challenge
-*   National Science Challenge
-*   East Zone A\*STAR Science Fair Competition @ VJC
-*   Singapore Junior Biology Olympiad
-*   Singapore Junior Physics Olympiad
-*   Singapore Junior Chemistry Olympiad
+    *   Ignite Science Challenge
+    *   National Science Challenge
+    *   East Zone A\*STAR Science Fair Competition @ VJC
+    *   Singapore Junior Biology Olympiad
+    *   Singapore Junior Physics Olympiad
+    *   Singapore Junior Chemistry Olympiad
 
 *   **Enrichments**
 
