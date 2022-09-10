@@ -8,7 +8,7 @@ description: ""
 	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image01.jpeg"
      style="width:100%">
 <figcaption>
-	<strong> The Knowledge Place @ Library </strong>
+	The Knowledge Place @ Library
 	</figcaption>
 </figure>
 
