@@ -34,3 +34,19 @@ _(Collaboration with Science Centre Singapore)_
 	<strong> Life Science Lessons </strong>
 	</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%202/Sec%202%20Forensic%20Science%20workshop.jpg"
+     style="width:100%">
+<figcaption>
+	<strong> Life Science Lessons </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/Sec%202/Mixology%20show%20for%20Secondary%202%20students.jpg"
+     style="width:100%">
+<figcaption>
+	<strong> Mixology Show </strong>
+	</figcaption>
+</figure>
