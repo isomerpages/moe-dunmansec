@@ -12,9 +12,8 @@ third_nav_title: ELIXiR
 
 <p style="text-align: justify;">In Secondary 2, students get to be exposed to various branches of Life Sciences in a fully equipped lab. They get hands-on experience learning essential scientific techniques which are used in current laboratories and they get to deepen their knowledge on the applications of Life Sciences in a real world context.</p>
 
-*   **Life Science- Biotech Programme (Express)**
-
-    _(Collaboration with Science Centre Singapore and AMGEN Foundation)_
+*   **Life Science- Biotech Programme (Express)**  
+  _(Collaboration with Science Centre Singapore and AMGEN Foundation)_
 
 *   **Life Science Programme (NA/NT)**
 
