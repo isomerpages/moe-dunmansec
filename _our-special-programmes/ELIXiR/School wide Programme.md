@@ -38,3 +38,27 @@ third_nav_title: ELIXiR
 	<strong> Science Panel Exhibitions</strong>
 	</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/east%20zone%20programmes%20nutrition%20strategies%20talk.jpg"
+     style="width:70%">
+<figcaption>
+	<strong> Nutrition Strategies for Sports Excellence Talk</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/nparks%20biodiversity%20exhibition%20panels.jpg"
+     style="width:70%">
+<figcaption>
+	<strong> Science Panel Exhibitions</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/nparks%20biodiversity%20exhibition%20panels.jpg"
+     style="width:70%">
+<figcaption>
+	<strong> Science Panel Exhibitions</strong>
+	</figcaption>
+</figure>
