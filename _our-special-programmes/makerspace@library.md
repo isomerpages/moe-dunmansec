@@ -65,3 +65,5 @@ We also held meet-the-artist series where students interact with artists to lear
 	Digital doodling
 	</figcaption>
 </figure>
+
+<span style = "color: red"> <b>Makerspace</b></span> is the place to be creative, to build and explore new possibilities. This creative space fosters self-directedness and collaborative skills in our students. At the same time, it promotes the value of innovative ideas by allowing students an opportunity to tinker with their ideas in a hands-on learning environment to create innovative prototypes.
