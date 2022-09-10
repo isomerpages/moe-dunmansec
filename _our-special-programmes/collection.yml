@@ -2,7 +2,6 @@ collections:
   our-special-programmes:
     output: true
     order:
-      - makerspace@library.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -18,3 +17,4 @@ collections:
       - Student Leadership.md
       - Heritage Module.md
       - Sport and Recreation Club.md
+      - makerspace@library.md
