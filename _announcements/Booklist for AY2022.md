@@ -21,13 +21,12 @@ description: ""
 
 <a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NA.pdf" target="_blank">Sec 3 NA Booklist 2022</a>
 
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NT.pdf" target="_blank">Sec 3 NT Booklist 2022</a>
 
-[Sec 3 NT Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NT.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4E.pdf" target="_blank">Sec 4 Exp Booklist 2022</a>
 
-[Sec 4 Exp Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4E.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4NA.pdf" target="_blank">Sec 4 NA Booklist 2022</a>
 
-[Sec 4 NA Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4NA.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4NT.pdf" target="_blank">Sec 4 NT Booklist 2022</a>
 
-[Sec 4 NT Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_4NT.pdf)
-
-[Sec 5 NA Booklist 2022](/files/Announcements/Booklist%20AY2022/Sec%205N%202022%20book%20lists.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Sec%205N%202022%20book%20lists.pdf" target="_blank">Sec 5 NA Booklist 2022</a>
