@@ -20,11 +20,9 @@ For authenticity and relevance, these themes take reference from the National Re
 
 <sup>2</sup><a href="https://www.ntu.edu.sg/about-us/ntu-2025/introduction-to-ntu-2025" target="_blank">https://www.ntu.edu.sg/about-us/ntu-2025/introduction-to-ntu-2025</a>
 
+### How will students learn it?
 
-
-
-
-![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic1.jpg)
+![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic3.jpg)
 
 ![](/images/Our%20Special%20Programmes/STEMviaDT/STEMviaDT_pic1.jpg)
 
