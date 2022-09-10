@@ -30,3 +30,19 @@ Students get to choose one activity from a diverse range of activities such as A
 	<strong> DNA Extraction</strong>
 	</figcaption>
 </figure>
+
+<figure>
+	 <img src="/images/Our%20Special%20Programmes/ELIXiR/Forensic%20Science.png"
+     style="width:50%">
+<figcaption>
+	<strong> Forensic Science</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	 <img src="/images/Our%20Special%20Programmes/ELIXiR/Clean%20Energy%20Vehicle.png"
+     style="width:50%">
+<figcaption>
+	<strong> Clean Energy Vehicle</strong>
+	</figcaption>
+</figure>
