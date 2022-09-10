@@ -64,7 +64,7 @@ e)    Competitions (for selected students):
 
        * Similar to secondary 1, students get to choose one activity from a diverse range of activities. Some of these activities such as AMGEM 2 is a progressive module where the skills learnt in Secondary 1 are further enhanced and sharpen.
 
-*   Others such as Fun with electronic provide opportunities for students to explore further. 
+*   Others such as Fun with electronic provide opportunities for students to explore further.   
 
 ### Sec 3 - Innovations in STEM
 
