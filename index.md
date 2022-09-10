@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: ""
+          description: Click here for announcements.
           url: https://gmail.com
         - title: Events
           description: Click here for upcoming events
