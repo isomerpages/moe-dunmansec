@@ -11,7 +11,7 @@ description: ""
 
 <p style="text-align: justify;">Dunman Secondary School’s Student Leadership Development (SLD) programme is founded on the belief that the secondary school years are invaluable to developing character and inculcating the school’s values of Discernment, Discipline, Daring, Determination and Duty in our students.</p>
 
-<p style="text-align: justify;">In line with the school’s vision of **Empathetic Leaders, Impactful Innovators**, Student Leadership Development provides a purposeful platform for our student leaders to explore complex issues related to the school and the Tampines community, and ideate for meaningful solutions.</p>
+<p style="text-align: justify;">In line with the school’s vision of <b>Empathetic Leaders, Impactful Innovators</b>, Student Leadership Development provides a purposeful platform for our student leaders to explore complex issues related to the school and the Tampines community, and ideate for meaningful solutions.</p>
 
 ![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%201_Student%20leaders.jpeg)
 
