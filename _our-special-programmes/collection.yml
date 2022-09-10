@@ -2,9 +2,6 @@ collections:
   our-special-programmes:
     output: true
     order:
-      - STEMviaDT/.keep
-      - STEMviaDT/STEMviaDT.md
-      - STEMviaDT/FLINT MSI.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -13,3 +10,6 @@ collections:
       - ELIXiR/Sec 4 Programme.md
       - ELIXiR/School wide Programme.md
       - ELIXiR PLUS.md
+      - STEMviaDT/.keep
+      - STEMviaDT/STEMviaDT.md
+      - STEMviaDT/FLINT MSI.md
