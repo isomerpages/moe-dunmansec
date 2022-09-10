@@ -84,3 +84,13 @@ In Secondary 1, students get to embark on an exciting journey of exploring vario
 	<strong> Mixology Show</strong>
 	</figcaption>
 </figure>
+
+<u>Term 4</u>
+
+*   **Choice Learning Journey**
+
+*   Gardens by the Bay
+
+*   Singapore Botanic Gardens
+
+*   Sungei Buloh Wetland Reserve
