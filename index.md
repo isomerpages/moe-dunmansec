@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
