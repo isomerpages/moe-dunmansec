@@ -14,7 +14,13 @@ description: ""
 
 <p style="text-align: justify;">The library team started conceptualising the use of library space as early as January 2018. The team carries extensive research on re-zoning library spaces to include zones for other activities like <span style = "color: red"> <b>Makerspace</b></span>, consultation rooms, other than reading. People visit the library for various reasons, not just to borrow books. The new library is re-zoned to cater to the various activities, where students learn new knowledge through reading and skills from the many activities, and it is the one place to go to, a truly <b>The Knowledge Place.</b></p>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image02.jpg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image02.jpg"
+     style="width:70%">
+<figcaption>
+	Makerspace
+	</figcaption>
+</figure>
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image03.jpg)
 
