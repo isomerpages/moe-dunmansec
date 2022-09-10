@@ -2,7 +2,6 @@ collections:
   our-special-programmes:
     output: true
     order:
-      - Student Leadership.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -15,3 +14,4 @@ collections:
       - STEMviaDT/STEMviaDT.md
       - STEMviaDT/FLINT MSI.md
       - STEMviaDT/Asia STEM Programme.md
+      - Student Leadership.md
