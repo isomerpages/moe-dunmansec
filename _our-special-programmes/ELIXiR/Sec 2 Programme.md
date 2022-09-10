@@ -17,16 +17,13 @@ third_nav_title: ELIXiR
 
 *   **Life Science Programme (NA/NT)**
 
-*   Conducted at Life Science Research Centre in Dunman Secondary School
-
-*   Topics on Molecular Biology, Microbiology, Biotechnology and Forensic Science
-
-*   14 lessons programme within our curriculum
+    *   Conducted at Life Science Research Centre in Dunman Secondary School
+    *   Topics on Molecular Biology, Microbiology, Biotechnology and Forensic Science
+    *   14 lessons programme within our curriculum
 
 *   **Science "On-The-Go" Mixology Show**
 
     _(Collaboration with Science Centre Singapore)_
 
 *   **Science Competition**
-
-*   Greenwave Competition
+    *   Greenwave Competition
