@@ -76,14 +76,14 @@ e)    Competitions (for selected students):
 
         *   Selected and interested students are given opportunities to interact with Scientist to understand their work better and how emerging technology can be incorporated together to solve real world issue or problem.
 
-3.  National and/or international competitions (for selected students) such as:
+    2.  National and/or international competitions (for selected students) such as:
 
-*   Olympiad competition (training will be provided)
-*   Ignite Science Challenge
-*   Youth Innovation Challenge
-*   National Science Challenge
-*   NExplorer
-*   Green Wave etc
+        *   Olympiad competition (training will be provided)
+        *   Ignite Science Challenge
+        *   Youth Innovation Challenge
+        *   National Science Challenge
+        *   NExplorer
+        *   Green Wave etc
 
 ### Sec 4/5 - eXcel in STEM
 
