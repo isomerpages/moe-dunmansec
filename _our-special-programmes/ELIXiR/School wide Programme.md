@@ -56,7 +56,14 @@ third_nav_title: ELIXiR
 </figure>
 
 <figure>
-	<img src="!/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Life%20Science%20Research%20Centre.jpg"
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Life%20Science%20Research%20Centre.jpg" style="width:70%">
+<figcaption>
+	<strong> Interior of Life Science Research Centre</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Outside%20Life%20Science%20Research%20Centre.jpg"
      style="width:70%">
 <figcaption>
 	<strong> Interior of Life Science Research Centre</strong>
