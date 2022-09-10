@@ -60,9 +60,9 @@ e)    Competitions (for selected students):
 
 *   Understand and apply scientific concept and Design Thinking to solve a problem based task. 
 
-*   Choice Enrichment Activities (available from 2022 onwards)
+*   Choice Enrichment Activities (available from 2022 onwards)   
 
-*   Similar to secondary 1, students get to choose one activity from a diverse range of activities. Some of these activities such as AMGEM 2 is a progressive module where the skills learnt in Secondary 1 are further enhanced and sharpen.
+       * Similar to secondary 1, students get to choose one activity from a diverse range of activities. Some of these activities such as AMGEM 2 is a progressive module where the skills learnt in Secondary 1 are further enhanced and sharpen.
 
 *   Others such as Fun with electronic provide opportunities for students to explore further. 
 
