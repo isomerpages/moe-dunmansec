@@ -93,6 +93,5 @@ e)    Competitions (for selected students):
 ### School-wide - individual Responsibility
 
 *   To educate each individual on their roles that they played and their impact via:
-
-1.  Assembly Programme
-2.  Exhibitions
+    1.  Assembly Programme
+    2.  Exhibitions
