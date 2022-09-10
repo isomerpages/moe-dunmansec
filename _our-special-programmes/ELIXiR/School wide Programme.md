@@ -48,17 +48,17 @@ third_nav_title: ELIXiR
 </figure>
 
 <figure>
-	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/nparks%20biodiversity%20exhibition%20panels.jpg"
+	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Fun%20with%20Electronics.jpg"
      style="width:70%">
 <figcaption>
-	<strong> Science Panel Exhibitions</strong>
+	<strong> Fun with Electronics</strong>
 	</figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/nparks%20biodiversity%20exhibition%20panels.jpg"
+	<img src="!/images/Our%20Special%20Programmes/ELIXiR/School%20Wide%20Programme/Life%20Science%20Research%20Centre.jpg"
      style="width:70%">
 <figcaption>
-	<strong> Science Panel Exhibitions</strong>
+	<strong> Interior of Life Science Research Centre</strong>
 	</figcaption>
 </figure>
