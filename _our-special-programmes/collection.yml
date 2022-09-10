@@ -2,5 +2,6 @@ collections:
   our-special-programmes:
     output: true
     order:
+      - ELIXiR/Sec 1 Programme.md
       - ELIXiR/ELIXiR.md
       - ELIXiR/.keep
