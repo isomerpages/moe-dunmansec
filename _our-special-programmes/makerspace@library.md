@@ -24,7 +24,7 @@ description: ""
 
 <figure>
 	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image03.jpg"
-     style="width:70%">
+     style="width:100%">
 <figcaption>
 	Building our Tampines community with LEGO bricks
 	</figcaption>
