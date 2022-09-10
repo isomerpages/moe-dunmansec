@@ -10,7 +10,7 @@ third_nav_title: ELIXiR
 
 <b><u>Life in Science - Secondary 2 Programme</u></b>
 
-In Secondary 2, students get to be exposed to various branches of Life Sciences in a fully equipped lab. They get hands-on experience learning essential scientific techniques which are used in current laboratories and they get to deepen their knowledge on the applications of Life Sciences in a real world context.
+<p style="text-align: justify;">In Secondary 2, students get to be exposed to various branches of Life Sciences in a fully equipped lab. They get hands-on experience learning essential scientific techniques which are used in current laboratories and they get to deepen their knowledge on the applications of Life Sciences in a real world context.</p>
 
 *   **Life Science- Biotech Programme (Express)**
 
