@@ -11,17 +11,16 @@ description: ""
 
 <a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_1NT.pdf" target="_blank">Sec 1 NT Booklist 2022</a>
 
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2E.pdf" target="_blank">Sec 2 Exp Booklist 2022</a>
 
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NA.pdf" target="_blank">Sec 2 NA Booklist 2022</a>
 
-[Sec 2 Exp Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2E.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NT.PDF" target="_blank">Sec 2 NT Booklist 2022</a>
 
-[Sec 2 NA Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NA.pdf)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3E.pdf" target="_blank">Sec 3 Exp Booklist 2022</a>
 
-[Sec 2 NT Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_2NT.PDF)
+<a href="/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NA.pdf" target="_blank">Sec 3 NA Booklist 2022</a>
 
-[Sec 3 Exp Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3E.pdf)
-
-[Sec 3 NA Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NA.pdf)
 
 [Sec 3 NT Booklist 2022](/files/Announcements/Booklist%20AY2022/Booklist%202022_DMS_3NT.pdf)
 
