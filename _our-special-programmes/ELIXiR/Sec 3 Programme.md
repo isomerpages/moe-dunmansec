@@ -10,4 +10,20 @@ third_nav_title: ELIXiR
 
 <b><u>Innovations in Science - Secondary 3 Programme</u></b>
 
-In Secondary 3, selected students have the opportunity apply their critical and inventive thinking skills in Science Competitions that will build on their mental resilience and also to improve their ability to work as a team.
+<p style="text-align: justify;">In Secondary 3, selected students have the opportunity apply their critical and inventive thinking skills in Science Competitions that will build on their mental resilience and also to improve their ability to work as a team.</p>
+
+*   **Science Competitions**
+
+*   Ignite Science Challenge
+*   National Science Challenge
+*   East Zone A\*STAR Science Fair Competition @ VJC
+*   Singapore Junior Biology Olympiad
+*   Singapore Junior Physics Olympiad
+*   Singapore Junior Chemistry Olympiad
+
+*   **Enrichments**
+
+In addition, there are enrichment programmes for students to learn certain scientific principles outside of their classroom for a more enhanced learning experience!
+
+*   Curie Me Away! Musical
+*   NKF Health Booth Kidney Dialysis Talks _(Collaboration with National Kidney Foundation)_
