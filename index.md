@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -19,10 +17,4 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: https://dunmansec.moe.edu.sg/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
