@@ -8,11 +8,11 @@ description: ""
 	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image01.jpeg"
      style="width:100%">
 <figcaption>
-	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	<strong> The Knowledge Place @ Library </strong>
 	</figcaption>
 </figure>
 
-The Knowledge Place @ Library
+
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image02.jpg)
 
