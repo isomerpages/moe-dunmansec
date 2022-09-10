@@ -22,8 +22,7 @@ third_nav_title: ELIXiR
 
 <b><u><i>East-Zone Programmes (Optional)</i></u></b>
 
-
-On top of the various programmes offered, all students have the opportunity to participate in East Zone Programmes that are organized by our Centre of Excellence for Innovations in Science. Students learn concepts that are not taught in the classroom and also to network with students from other schools and tertiary institutes.
+<p style="text-align: justify;"><i>On top of the various programmes offered, all students have the opportunity to participate in East Zone Programmes that are organized by our Centre of Excellence for Innovations in Science. Students learn concepts that are not taught in the classroom and also to network with students from other schools and tertiary institutes.</i></p>
 
 *   _Scientific Poster & Presentation Skills Talk (Conducted in Dunman by Science Centre)_
 *   _Fun with Electronics (Conducted in Dunman by Science Centre)_
