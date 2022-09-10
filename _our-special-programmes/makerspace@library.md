@@ -38,8 +38,20 @@ description: ""
 	</figcaption>
 </figure>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image05.jpg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image05.jpg"
+     style="width:100%">
+<figcaption>
+	Building retro arcade machine
+	</figcaption>
+</figure>
 
-![](/images/Our%20Special%20Programmes/Makerspace@library/image06.jpg)
+<figure>
+	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image06.jpg"
+     style="width:100%">
+<figcaption>
+	Leathercrafting
+	</figcaption>
+</figure>
 
 ![](/images/Our%20Special%20Programmes/Makerspace@library/image07.jpg)
