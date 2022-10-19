@@ -22,7 +22,7 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ""
       - other: ""
     title: Careers
 ---
