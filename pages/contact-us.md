@@ -16,10 +16,10 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6786 2668
+      - email: dunman_ss@moe.edu.sg
+      - other: ""
+    title: General Enquiries
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
