@@ -20,9 +20,4 @@ contacts:
       - email: dunman_ss@moe.edu.sg
       - other: ""
     title: General Enquiries
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: Careers
 ---
