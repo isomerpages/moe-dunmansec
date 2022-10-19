@@ -14,13 +14,6 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: Address
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Branch
 contacts:
   - content:
       - phone: +65 6123 4567
