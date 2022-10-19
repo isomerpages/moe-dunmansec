@@ -19,5 +19,5 @@ contacts:
       - phone: +65 6786 2668
       - email: dunman_ss@moe.edu.sg
       - other: ""
-    title: General Enquiries
+    title: Contact Number
 ---
