@@ -2,7 +2,7 @@
 layout: homepage
 title: Dunman Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/home_logo.png
 permalink: /
 notification: ""
 sections:
@@ -16,3 +16,4 @@ sections:
           description: Click here for upcoming events
           url: https://dunmansec.moe.edu.sg/
 ---
+
