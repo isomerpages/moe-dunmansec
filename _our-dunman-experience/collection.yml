@@ -2,6 +2,7 @@ collections:
   our-dunman-experience:
     output: true
     order:
+      - Sec 2 eStreaming.md
       - Sec 1 CCA Selection.md
       - School Calendar.md
       - ELIXiR/.keep
