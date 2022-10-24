@@ -3,9 +3,6 @@ title: Science Programme
 permalink: /our-programmes/science-programme/
 description: ""
 ---
-
-# Science Programme
-
 ### Members
 
 ![](/images/Our%20Academic%20Programme/Science%20Programme/Science%20Dept%202019.jpg)
