@@ -31,5 +31,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-![](/images/Our%20Student%20Life/2022.png)
