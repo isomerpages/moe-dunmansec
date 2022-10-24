@@ -2,11 +2,6 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - Personal Learning Device Experience.md
-      - Home Based Learning.md
-      - Sec 2 eStreaming.md
-      - Sec 1 CCA Selection.md
-      - School Calendar.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -21,3 +16,8 @@ collections:
       - Sport and Recreation Club.md
       - makerspace@library.md
       - Our Student Life.md
+      - Home Based Learning.md
+      - Personal Learning Device Experience.md
+      - Sec 1 CCA Selection.md
+      - Sec 2 eStreaming.md
+      - School Calendar.md
