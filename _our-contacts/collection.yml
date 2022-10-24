@@ -1,4 +1,5 @@
 collections:
   our-contacts:
     output: true
-    order: []
+    order:
+      - Direct School Admission (For 2023 Intake).md
