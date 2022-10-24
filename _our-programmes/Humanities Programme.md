@@ -3,8 +3,6 @@ title: Humanities Programme
 permalink: /our-programmes/humanities-programme/
 description: ""
 ---
-# Humanities Programme
-
 ### Members
 <img src="/images/Department%20Photos/humanities%20department%20i.jpg"
      style="width:78%">
