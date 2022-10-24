@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports & Games/.keep
-      - Sports & Games/Table Tennis.md
       - Sports & Games/Volleyball.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Green Club.md
