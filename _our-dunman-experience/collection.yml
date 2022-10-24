@@ -2,7 +2,6 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - Our Student Life.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -16,3 +15,4 @@ collections:
       - Heritage Module.md
       - Sport and Recreation Club.md
       - makerspace@library.md
+      - Our Student Life.md
