@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Performing Arts.md
       - Uniformed Groups.md
       - LEAPS 2.md
       - Service Learning Programme.md
