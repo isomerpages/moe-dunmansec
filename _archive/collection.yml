@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - faq.md
-      - terms-of-use.md
       - Example Title.md
       - Awards.md
       - Our Student Life.md
