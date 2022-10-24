@@ -4,8 +4,8 @@ permalink: /our-programmes/mathematics-programme/
 description: ""
 ---
 ### Members
-
-![](/images/Our%20Academic%20Programme/Math/Math%20Dept%202019.png)
+<img src="/images/Department%20Photos/mathematics%20department%20i.jpg"
+     style="width:78%">
 
 ### Mission / Objectives of Department
 
