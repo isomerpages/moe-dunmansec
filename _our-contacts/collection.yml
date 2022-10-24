@@ -2,6 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
+      - Staff Contact.md
       - Getting Here.md
       - Bookshop and Uniform Vendors.md
       - Financial Assistance.md
