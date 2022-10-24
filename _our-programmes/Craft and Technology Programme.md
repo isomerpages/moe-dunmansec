@@ -3,8 +3,6 @@ title: Craft and Technology Programme
 permalink: /our-programmes/craft-and-technology-programme/
 description: ""
 ---
-
-# Craft and Technology Programme 
 ### Members
 
 ![](/images/Our%20Academic%20Programme/C&T_2019.jpg)
