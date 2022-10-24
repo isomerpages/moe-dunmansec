@@ -4,7 +4,6 @@ permalink: /student-development-programme/Character-and-Citizenship/sexuality-ed
 description: ""
 third_nav_title: Character & Citizenship
 ---
-
 # Sexuality Education Overview
 
 ### MOE Sexuality Education in Schools
@@ -61,7 +60,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 <p style="text-align: justify;">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
 
-### Detailed Content
+### Secondary 1 to 5 Programmes
 
 * [Secondary 1](/sexuality-education/secondary-1/)
 * [Secondary 2](/sexuality-education/secondary-2/)
