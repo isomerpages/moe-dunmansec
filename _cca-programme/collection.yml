@@ -2,7 +2,6 @@ collections:
   cca-programme:
     output: true
     order:
-      - Sports & Games/.keep
       - Clubs & Societies/.keep
       - Clubs & Societies/Green Club.md
       - Clubs & Societies/Infocomm Club.md
