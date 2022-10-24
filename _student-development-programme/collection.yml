@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CCA Programme/.keep
-      - CCA Programme/Sports & Games.md
       - CCA Programme/Clubs & Societies.md
