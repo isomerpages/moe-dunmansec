@@ -3,9 +3,6 @@ title: ICT Programme
 permalink: /our-programmes/ict-programme/
 description: ""
 ---
-
-# ICT Programme
-
 ### Members
 
 ![](/images/Our%20Academic%20Programme/ICT_Dept_2019.jpg)
