@@ -4,10 +4,6 @@ permalink: /our-programmes/character-and-citizenship/character-n-citizenship-pro
 description: ""
 third_nav_title: Character And Citizenship
 ---
-
-
-# Character and Citizenship Programme
-
 ### Members
 
 ![](/images/Student%20Development%20Programme/CCP/character&citizenship.jpg)
