@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Clubs & Societies.md
       - Sports & Games.md
       - Performing Arts.md
       - Uniformed Groups.md
