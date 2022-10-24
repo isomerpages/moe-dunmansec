@@ -2,6 +2,7 @@ collections:
   our-dunman-experience:
     output: true
     order:
+      - Personal Learning Device Experience.md
       - Home Based Learning.md
       - Sec 2 eStreaming.md
       - Sec 1 CCA Selection.md
