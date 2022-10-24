@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - privacy.md
       - terms-of-use.md
       - Example Title.md
       - Awards.md
