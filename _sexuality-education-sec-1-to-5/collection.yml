@@ -1,4 +1,5 @@
 collections:
   sexuality-education-sec-1-to-5:
     output: true
-    order: []
+    order:
+      - Secondary 1.md
