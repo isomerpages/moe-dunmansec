@@ -14,7 +14,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2015.png" alt="2015.PNG"><br>2015<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157650202286507/" target="_blank">here</a>.<br></td>
+    <td style="text-align: center;">**2015**<img src="/images/Our%20Student%20Life/2015.png" alt="2015.PNG"><br>2015<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157650202286507/" target="_blank">here</a>.<br></td>
     <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2016.png" alt="2016.PNG"><br>2016<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157661893601593/" target="_blank">here</a>.<br></td>
     <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2017.png" alt="2017.PNG"><br>2017<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157676416368984/" target="_blank">here</a>.<br></td>
   </tr>
