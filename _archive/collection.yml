@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - faq.md
-      - privacy.md
       - terms-of-use.md
       - Example Title.md
       - Awards.md
