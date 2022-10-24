@@ -3,12 +3,11 @@ title: Humanities Programme
 permalink: /our-programmes/humanities-programme/
 description: ""
 ---
-
 # Humanities Programme
 
 ### Members
-
-![](/images/Our%20Academic%20Programme/Humanities/humanities%202019.jpg)
+<img src="/images/Department%20Photos/humanities%20department%20i.jpg"
+     style="width:78%">
 
 ### Mission / Objectives of Department
 
