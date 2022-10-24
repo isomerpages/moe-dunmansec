@@ -10,3 +10,4 @@ description: ""
 ![](/images/Our%20School/ST.png)
 
 ### School Management Committee
+![](/images/Department%20Photos/smc%20i.jpg)
