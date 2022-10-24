@@ -1,5 +1,5 @@
 collections:
-  our-academic-programme:
+  our-programmes:
     output: true
     order:
       - Craft and Technology Programme.md
