@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /our-dunman/principals-message/
 description: ""
 ---
-# Principal's Message
 <img src="/images/Our%20School/Mr_Toh_Principal.jpeg"
      style="width:65%">
 
