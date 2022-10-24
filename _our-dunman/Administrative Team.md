@@ -3,8 +3,7 @@ title: Administrative Team
 permalink: /our-dunman/administrative-team/
 description: ""
 ---
-<img src="/images/Department%20Photos/executive%20and%20administrative%20staff%20i.jpg"
-     style="width:78%">
+
 
 > “We Don’t Just Do Our Job – It’s How We Make A Difference To You.”
 
