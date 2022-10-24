@@ -2,6 +2,7 @@ collections:
   our-dunman:
     output: true
     order:
+      - Dedicated & Supportive Parents (DSP).md
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
