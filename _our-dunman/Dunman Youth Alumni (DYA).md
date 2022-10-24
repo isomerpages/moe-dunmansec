@@ -3,10 +3,6 @@ title: Dunman Youth Alumni (DYA)
 permalink: /our-dunman/dunman-youth-alumni-dya/
 description: ""
 ---
-
-
-# Dunman Youth Alumni (DYA)
-
 ![](/images/Our%20Community/DMN%20Sec%20Alumni%20%20-%20Announcement.png)
 
 ### Introduction
