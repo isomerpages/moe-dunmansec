@@ -3,9 +3,6 @@ title: English Programme
 permalink: /our-programmes/english-programme/
 description: ""
 ---
-
-# English Programme
-
 ### Members
 
 ![](/images/Our%20Academic%20Programme/EL_Dept_2019.jpg)
