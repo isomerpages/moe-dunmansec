@@ -4,10 +4,6 @@ permalink: /our-programmes/student-development/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-
-
-# Student Development
-
 ### Members
 
 ![](/images/Student%20Development%20Programme/student%20development%20and%20student%20management%202018.jpg)
