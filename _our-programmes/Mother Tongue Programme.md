@@ -7,7 +7,7 @@ description: ""
 
 ### Members
 
-![](/images/Our%20Academic%20Programme/MTL%20Dept%202019.png)
+![](/images/Department%20Photos/mother%20tongue%20language%20department%20i.jpg)
 
 ### Mission / Objectives of Department
 
