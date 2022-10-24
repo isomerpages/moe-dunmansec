@@ -8,3 +8,5 @@ description: ""
 ![](/images/Our%20School/AYH.png)
 ![](/images/Our%20School/SH.png)
 ![](/images/Our%20School/ST.png)
+
+### School Management Committee
