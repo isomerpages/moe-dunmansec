@@ -3,9 +3,6 @@ title: Mathematics Programme
 permalink: /our-programmes/mathematics-programme/
 description: ""
 ---
-
-# Mathematics Programme
-
 ### Members
 
 ![](/images/Our%20Academic%20Programme/Math/Math%20Dept%202019.png)
