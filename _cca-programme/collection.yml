@@ -2,7 +2,6 @@ collections:
   cca-programme:
     output: true
     order:
-      - Uniformed Groups/.keep
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Concert Band.md
