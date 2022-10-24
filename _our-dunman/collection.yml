@@ -2,6 +2,7 @@ collections:
   our-dunman:
     output: true
     order:
+      - School Advisory Committee.md
       - Dunman Youth Alumni (DYA).md
       - Dedicated & Supportive Parents (DSP).md
       - Principal's Message.md
