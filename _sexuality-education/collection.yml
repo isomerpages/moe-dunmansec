@@ -2,5 +2,4 @@ collections:
   sexuality-education:
     output: true
     order:
-      - Secondary 4.md
       - Secondary 5.md
