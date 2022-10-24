@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - CCA Programme/.keep
       - English Programme.md
       - Mother Tongue Programme.md
       - Humanities Programme.md
@@ -11,3 +10,4 @@ collections:
       - ICT Programme.md
       - Craft and Technology Programme.md
       - Physical Education Programme.md
+      - CCA Programme/.keep
