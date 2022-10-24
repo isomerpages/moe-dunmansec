@@ -2,4 +2,5 @@ collections:
   our-contacts:
     output: true
     order:
+      - Financial Assistance.md
       - Direct School Admission (For 2023 Intake).md
