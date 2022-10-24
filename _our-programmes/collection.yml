@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - NPCC.md
       - English Programme.md
       - Mother Tongue Programme.md
       - Humanities Programme.md
