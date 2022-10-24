@@ -2,8 +2,8 @@ collections:
   our-contacts:
     output: true
     order:
-      - Staff Contact.md
-      - Getting Here.md
-      - Bookshop and Uniform Vendors.md
-      - Financial Assistance.md
       - Direct School Admission (For 2023 Intake).md
+      - Financial Assistance.md
+      - Bookshop and Uniform Vendors.md
+      - Getting Here.md
+      - Staff Contact.md
