@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA Programme/.keep
-      - CCA Programme/LEAPS 2.md
       - CCA Programme/Uniformed Groups.md
       - CCA Programme/Performing Arts.md
       - CCA Programme/Sports & Games.md
