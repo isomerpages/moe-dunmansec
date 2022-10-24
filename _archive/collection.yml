@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Our Student Life.md
       - Clubs & Societies.md
       - Sports & Games.md
       - Performing Arts.md
