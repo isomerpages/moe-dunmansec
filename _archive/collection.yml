@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Service Learning Programme.md
       - Asia STEM Programme.md
       - FLINT MSI.md
