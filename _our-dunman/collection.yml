@@ -2,9 +2,6 @@ collections:
   our-dunman:
     output: true
     order:
-      - School Advisory Committee.md
-      - Dunman Youth Alumni (DYA).md
-      - Dedicated & Supportive Parents (DSP).md
       - Principal's Message.md
       - School Mission, Vision, Values & Motto.md
       - School Crest & School Song.md
@@ -14,6 +11,9 @@ collections:
       - Organisation Chart.md
       - Facilities.md
       - Administrative Team.md
+      - Dedicated & Supportive Parents (DSP).md
+      - Dunman Youth Alumni (DYA).md
+      - School Advisory Committee.md
       - Contact Us/.keep
       - Contact Us/Getting Here.md
       - Contact Us/Staff Contact.md
