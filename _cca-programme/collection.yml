@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/Scouts.md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Concert Band.md
