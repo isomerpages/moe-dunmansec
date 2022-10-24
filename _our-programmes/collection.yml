@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Craft and Technology Programme.md
       - English Programme.md
-      - Humanities Programme.md
-      - ICT Programme.md
-      - Mathematics Programme.md
       - Mother Tongue Programme.md
-      - Physical Education Programme.md
+      - Humanities Programme.md
+      - Mathematics Programme.md
       - Science Programme.md
+      - ICT Programme.md
+      - Craft and Technology Programme.md
+      - Physical Education Programme.md
