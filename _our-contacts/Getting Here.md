@@ -11,4 +11,4 @@ description: ""
 
 Please click [here](https://www.google.com/maps/place/21+Tampines+Street+45,+Singapore+529093/@1.3611031,103.9555435,18.35z/data=!4m5!3m4!1s0x31da3d00df545591:0x4a2ad87dba51b83f!8m2!3d1.3608811!4d103.9562762) to view map.
 
-![](/images/Our%20School/Get%20here%20jpeg.jpg)
+![Getting to Dunman Secondary School.](/images/Our%20Contacts/Get%20here%20jpeg.jpg)
