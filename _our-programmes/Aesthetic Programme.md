@@ -3,17 +3,13 @@ title: Aesthetic Programme
 permalink: /our-programmes/aesthetic-programme/
 description: ""
 ---
-
-
-# Aesthetic Programme
-
 <p style="text-align: justify;">The Dunman Aesthetic programme was envisioned where students of Dunman Secondary School get to enjoy aesthetics which encompasses of Music, Drama, Dance and Art and in return take the initiative in engaging in aesthetics-related activities so that they can contribute to the community.</p>
 
-**Approach**
+### Approach
 
 <p style="text-align: justify;">The school anchors on a triple ‘E’ approach in implementing the aesthetic programmes and activities.</p>
 
-**Exposed**
+### Exposed
 
 <p style="text-align: justify;">Opportunities are provided for students to expose them to the various forms of aesthetics through:</p>
 
@@ -28,7 +24,7 @@ description: ""
     
     <p style="text-align: justify;">Students get to attend various art activities within the school premise or in the community where they get to mingle with the local artist and their art pieces.</p>
 
-**Experience**
+### Experience
 
 <p style="text-align: justify;">Opportunities are provided for students to experience various forms of aesthetics, through:</p>
 
@@ -41,7 +37,7 @@ description: ""
 *   **Enrichment activities**   
     <p style="text-align: justify;">Programmes are planned so that the various levels of students are exposed to the different forms of art.</p>
 
-**Excel**
+### Excel
 
 <p style="text-align: justify;">Opportunities are provided for students to excel in various forms of aesthetics, through:</p>
 
@@ -51,16 +47,16 @@ description: ""
 *   Art/Photography Exhibitions  
     <p style="text-align: justify;">Art and Photography exhibitions are held every term where our own students get to display their art or photography pieces which always generate a lot of buzz and excitement.</p>
 
-**Activities**
+#### Activities
 
-RECESS TIME CONCERT
+**RECESS TIME CONCERT**
 
 ![](/images/Student%20Development%20Programme/Aesthetic%20Programme/RecessTimeConcert.jpg)
 
-ART EXHIBITION
+**ART EXHIBITION**
 
 ![](/images/Student%20Development%20Programme/Aesthetic%20Programme/ArtExihibition.png)
 
-AESTHETIC ENRICHMENT ACTIVITIES
+**AESTHETIC ENRICHMENT ACTIVITIES**
 
 ![](/images/Student%20Development%20Programme/Aesthetic%20Programme/Aesthetic%20Enrichment%20Activities.png)
