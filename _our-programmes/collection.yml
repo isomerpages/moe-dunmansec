@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Student Development/.keep
       - English Programme.md
       - Mother Tongue Programme.md
       - Humanities Programme.md
