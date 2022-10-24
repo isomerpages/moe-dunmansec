@@ -1,5 +1,5 @@
 collections:
-  our-special-programmes:
+  our-dunman-experience:
     output: true
     order:
       - ELIXiR/.keep
