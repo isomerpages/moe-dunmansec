@@ -2,8 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Student Guidance.md
-      - Aesthetic Programme.md
       - English Programme.md
       - Mother Tongue Programme.md
       - Humanities Programme.md
@@ -35,8 +33,10 @@ collections:
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Management.md
+      - Character & Citizenship/.keep
       - Character & Citizenship/Character & Citizenship Programme.md
       - Character & Citizenship/Education and Career Guidance.md
       - Character & Citizenship/Cyberwellness.md
       - Character & Citizenship/Sexuality Education Overview.md
-      - Character & Citizenship/.keep
+      - Aesthetic Programme.md
+      - Student Guidance.md
