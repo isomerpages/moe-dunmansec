@@ -3,9 +3,6 @@ title: Physical Education Programme
 permalink: /our-programmes/physical-education-programme/
 description: ""
 ---
-
-# Physical Education Programme
-
 ### Members
 
 ![](/images/Our%20Academic%20Programme/Physical%20Education/PE%20_%20CCA%20Department_Fun.jpg)
