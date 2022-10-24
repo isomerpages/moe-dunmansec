@@ -5,7 +5,8 @@ description: ""
 ---
 ### Members
 
-![](/images/Our%20Academic%20Programme/EL_Dept_2019.jpg)
+<img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg"
+     style="width:78%">
 
 ### Mission/ Objectives of Department
 
