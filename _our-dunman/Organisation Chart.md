@@ -10,5 +10,5 @@ description: ""
 ![](/images/Our%20School/ST.png)
 
 ### School Management Committee
-<img src="/images/Department%20Photos/executive%20and%20administrative%20staff%20i.jpg"
-     style="width:78%">
+<img src="/images/Department%20Photos/school%20management%20committee%20i.jpg"
+     style="width:80%">
