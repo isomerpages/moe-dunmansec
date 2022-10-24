@@ -3,15 +3,11 @@ title: Student Management
 permalink: /our-programmes/student-management/
 description: ""
 ---
-
-
-# Student Management
-
-**Philosophy on Student Development & Management**
+### Philosophy on Student Development & Management
 
 To promote a safe & conducive environment and discipline with care & dignity.
 
-**Student Development & Management Approaches**
+### Student Development & Management Approaches
 
 The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:
 
