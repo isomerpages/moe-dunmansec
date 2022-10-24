@@ -25,10 +25,9 @@ description: ""
   </tr>
   <tr>
     <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2021.png" alt="2021.JPG"><br>2021<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157719745220144/" target="_blank">here</a>.</td>
- <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2012.png" alt="2022.PNG"><br>2022<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157650202286507/" target="_blank">here</a>.<br></td>
+ <td style="text-align: center;"><img src="/images/Our%20Student%20Life/2022.png" alt="2022.PNG"><br>2022<br><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157721180438009/" target="_blank">here</a>.<br></td>
     <td> <br><br></td>
     <td> <br></td>
   </tr>
 </tbody>
 </table>
-
