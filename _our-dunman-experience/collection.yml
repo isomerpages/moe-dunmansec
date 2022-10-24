@@ -2,7 +2,6 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - STEMviaDT.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -11,6 +10,7 @@ collections:
       - ELIXiR/Sec 4 Programme.md
       - ELIXiR/School wide Programme.md
       - ELIXiR PLUS.md
+      - STEMviaDT.md
       - Student Leadership.md
       - Heritage Module.md
       - Sport and Recreation Club.md
