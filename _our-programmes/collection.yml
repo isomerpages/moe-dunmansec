@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Student Management.md
       - English Programme.md
       - Mother Tongue Programme.md
       - Humanities Programme.md
@@ -31,5 +30,6 @@ collections:
       - CCA Programme/String Ensemble.md
       - CCA Programme/Guitar Ensemble.md
       - CCA Programme/Stage Arts Drama.md
-      - Student Development/Student Development.md
       - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Management.md
