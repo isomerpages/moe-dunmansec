@@ -1,4 +1,5 @@
 collections:
   archive:
     output: true
-    order: []
+    order:
+      - FLINT MSI.md
