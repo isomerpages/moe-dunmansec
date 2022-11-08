@@ -3,10 +3,6 @@ title: Financial Assistance
 permalink: /our-contacts/financial-assistance/
 description: ""
 ---
-
-
-# Financial Assistance
-
 ### MOE FINANCIAL ASSISTANCE SCHEME (FAS)
 
 <p style="text-align: justify;">The objective of the Financial Assistance Scheme (FAS) is to help needy Singaporean students to meet their basic schooling expenses. The FAS could be funded by MOE or the school.</p>
