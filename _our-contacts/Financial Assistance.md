@@ -9,7 +9,7 @@ description: ""
 
 <p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">MOE financial assistance scheme</a> (https://www.moe.gov.sg/financial-matters/financial-assistance)</p>
 
-Please click <a href="/files/Our-Contacts/Financial-Assistance/MOE-FAS-Application-Form-Oct-2022.pdf" target="_blank">here</a> for the MOE FAS form.
+Please click <a href="/files/Our%Contacts/Financial%Assistance/MOE-FAS-Application-Form-Oct-2022.pdf" target="_blank">here</a> for the MOE FAS form.
 
 
 ### SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (FAS)
