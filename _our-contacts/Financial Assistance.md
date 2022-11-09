@@ -32,7 +32,6 @@ The MOE Financial Assistance (FAS) Application is now open for application for 2
 
 
 **Note:**
-
 1. If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
 2. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
 3. Please get ready all softcopy supporting documents to be prepared in advance.  
