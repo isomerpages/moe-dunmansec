@@ -25,21 +25,17 @@ The MOE Financial Assistance (FAS) Application is now open for application for 2
 
 **Application strictly via hardcopy form is required for below scenario:**
 
-a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-
-b. family with more than 5 children in govt school
-
-c. family with more than 4 unmarried children not in govt school
-
-d. family with more than 3 grandparents in the household
+1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+2. family with more than 5 children in govt school
+3. family with more than 4 unmarried children not in govt school
+4. family with more than 3 grandparents in the household
 
 
 **Note:**
 
-i. If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
-
-ii. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
-iii. Please get ready all softcopy supporting documents to be prepared in advance.  
+1. If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
+2. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
+3. Please get ready all softcopy supporting documents to be prepared in advance.  
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
