@@ -43,6 +43,7 @@ If you have any queries, please contact the school at Tel: 6786 2668 or you can 
 Parents who want to know more about MOE FAS and the eligibility calculator can visit MOE website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ### SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (FAS)
+
 Students who are not eligible for MOE FAS but require assistance, may approach the school General Office for further information and assistance.
 
 Completed forms with supporting documents can be submitted through the school to be processed. Applicants will then be informed by the school of the outcome.
