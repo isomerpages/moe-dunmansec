@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Student Development
 ---
 ### Members
-
-![](/images/Student%20Development%20Programme/student%20development%20and%20student%20management%202018.jpg)
+![](/images/Department%20Photos/student%20development%20and%20student%20management%20committee%20i.jpg)
 
 ### Mission / Objectives of Department
 
