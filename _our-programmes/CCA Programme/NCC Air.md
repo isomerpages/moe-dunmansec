@@ -36,7 +36,7 @@ These numerous activities act as a platform through which our cadets are exposed
 
 As a uniformed group, drills form an integral part of our training. This is where respect, discipline, perseverance and sheer grit are inculcated into our cadets. In this aspect, we are proud to share that our cadets are well-trained and play an important part in various school parades.
 
-(insert video 1)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6uagYwCinQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our training is however not limited to the “AIR” syllabus. Our cadets play different sports during training and take part in competitions such as soccer where they achieved third position in the district finals. In doing so, our cadets learn the values of sportsmanship and teamwork, while building camaraderie between themselves and with cadets from other schools.
 
@@ -46,7 +46,7 @@ Our training is however not limited to the “AIR” syllabus. Our cadets play d
 
 We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets to develop the next generation of future leaders.
 
-(insert video 2)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IehAtdCsTRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Trainings
 
