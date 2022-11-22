@@ -85,7 +85,7 @@ Lastly, the Sec 2 students have also been invited to share their nature journali
 ### Competitions & Achievements
 The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential.
 
-**(1) Geography Competitions**
+#### (1) Geography Competitions
 
 **NUS Geography Challenge**
 
@@ -102,7 +102,7 @@ The Dunman Humanities Department provides every Humanities student with opportun
 
 ![](/images/Department%20Photos/Humanities/Nature%20Watch%20write%20up.jpeg)
 
-**(2) History Competitions**
+#### (2) History Competitions
 
 **Inter-School War and Diplomacy Card Game Challenge**
 * 2015: Certificate of Participation
