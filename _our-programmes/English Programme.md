@@ -62,19 +62,19 @@ MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **
 
 <p style="text-align: justify;">During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.</p>
 
-![](/images/Our%20Academic%20Programme/IMG-20170303-WA0017.jpg)
+![](/images/Department%20Photos/English%20Language/EL_1.jpg)
 
-![](/images/Our%20Academic%20Programme/IMG-20170303-WA0046.jpg)
+![](/images/Department%20Photos/English%20Language/EL_2.jpg)
 
-![](/images/Our%20Academic%20Programme/IMG-20180309-WA0021.jpg)
+![](/images/Department%20Photos/English%20Language/EL_3.jpg)
 
-![](/images/Our%20Academic%20Programme/IMG-20190315-WA0007.jpg)
+![](/images/Department%20Photos/English%20Language/EL_4.jpg)
 
-![](/images/Our%20Academic%20Programme/20211103_131538.jpg)
+![](/images/Department%20Photos/English%20Language/EL_5.jpg)
 
 <p style="text-align: justify;">With the restrictions of Covid, though activities have had to be scaled down, the learning and fun continues albeit limited to the classroom setting.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eb2e8iwxYs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Eb2e8iwxYs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 **3) Competitions and courses**
 
