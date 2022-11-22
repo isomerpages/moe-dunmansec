@@ -4,15 +4,13 @@ permalink: /our-programmes/craft-and-technology-programme/
 description: ""
 ---
 ### Members
-
-![](/images/Department%20Photos/craft%20and%20technology%20department%20i.jpg)
+<img src="/images/Department%20Photos/craft%20and%20technology%20department%20i.jpg"
+     style="width:78%">
 
 ### Mission / Objectives of Department
-  
-<p style="text-align: justify;">The Craft & Technology department  is committed to motivate and engage our learners. We firmly believe every child can learn but more importantly, we ensure that the child enjoys the learning process. Through the process, we seek to instill values like determination, perseverance, respect, time management and teamwork in our learners.</p>
+  <p style="text-align: justify;">The Craft & Technology department  is committed to motivate and engage our learners. We firmly believe every child can learn but more importantly, we ensure that the child enjoys the learning process. Through the process, we seek to instill values like determination, perseverance, respect, time management and teamwork in our learners.</p>
 
 ### Vision Of The Department
-
 
 #### Students
 <p style="text-align: justify;">To develop students to become empathetic, self-directed learners, critical and innovative problem solvers capable of facing and handlng life challenges confidently. Students who can be nurtured to appreciate and enjoy the aesthetics and culture in their environment and are willing to use the skills which they have learnt to serve and give back to the community.</p>
