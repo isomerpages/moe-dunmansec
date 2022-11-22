@@ -6,8 +6,8 @@ description: ""
 ### Members
 
 <img src="/images/Department%20Photos/humanities%20department%20i.jpg"
-     style="width:78%">
-
+		 style="width:78%">
+		 
 ### Mission / Objectives of Department
 
 #### Our Vision
@@ -42,7 +42,11 @@ Dunman’s Geographical Investigation (GI) provides students with the opportunit
 
 **GI Highlights**
 
+![](/images/Department%20Photos/Humanities/GI%20HIGHLIGHTS.png)
 
+![](/images/Department%20Photos/Humanities/GI%202019.jpg)
+
+![](/images/Department%20Photos/Humanities/GI%202019%201.jpg)
 
 **2\. Historical Investigation**
 
@@ -52,7 +56,13 @@ In our quest to pique students’ historical curiosity and provide them with a c
   
 **HI Highlights**
 
+![](/images/Department%20Photos/Humanities/HI%20HIGHLIGHTS.png)
 
+![](/images/Department%20Photos/Humanities/HI%20Indian%20Heritage%20Centre%202018.jpg)
+
+![](/images/Department%20Photos/Humanities/Sec%201%20HI%202019.jpg)
+
+![](/images/Department%20Photos/Humanities/Sec%201%20HI%202019%201.jpg)
 
 **Sensory Skills Programme**
 
@@ -85,7 +95,12 @@ The Dunman Humanities Department provides every Humanities student with opportun
 **35th Singapore Bird Race**
 * 2019: 1st Place
 
+![](/images/Department%20Photos/Humanities/Singapore%20Bird%20Race%202019.jpeg)
+*Source: The Business Times, 21 November 2019*
 
+![](/images/Department%20Photos/Humanities/challenge%20shield.jpeg)
+
+![](/images/Department%20Photos/Humanities/Nature%20Watch%20write%20up.jpeg)
 
 **(2) History Competitions**
 
@@ -97,11 +112,9 @@ The Dunman Humanities Department provides every Humanities student with opportun
 * 2018: 1st Place- Individual Category (Rhea Lim: 3 Harmony)
 * 2019: 3rd Place – Individual Category (Rhea Lim: 4 Harmony)
 
-
+![](/images/Department%20Photos/Humanities/War%20and%20Diplomacy%20Card%20Game.jpg)
 
 **National Library Board Historical Investigation Challenge 2016**
 * 2016: Certificate of Participation
 * 2017: Certificate of Participation
 * 2018: Certificate of Participation
-
-
