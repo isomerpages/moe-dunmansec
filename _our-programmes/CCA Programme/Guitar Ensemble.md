@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/guitar-ensemble/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Guitar Ensemble
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/Dunman%20Secondary%20School%20Guitar%20Ensemble%20SYF%202021.jpg)
