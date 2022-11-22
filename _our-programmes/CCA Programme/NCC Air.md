@@ -6,31 +6,30 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
  
-<p style="text-align: justify;">Established in 1999, Dunman NCC Air aims to instill in our cadets pride, honor and mutual respect.  We aim to do our best in all our endeavors, be it in competitions or involving our cadets in enriching activities. </p>
+Established in 1999, Dunman NCC Air aims to instill in our cadets pride, honor and mutual respect.  We aim to do our best in all our endeavors, be it in competitions or involving our cadets in enriching activities.
 
 ### Achievements
 
-<p style="text-align: justify;">In 2020, we received our 18th consecutive Distinction Award for our performance in 2019 in the Unit Recognition (UR) award. We thank our cadets for their dedication and perseverance in training, and the parents and teachers of our cadets for their continuous support in spite of the exceptional circumstances this year.</p>
-
+In 2020, we received our 18th consecutive Distinction Award for our performance in 2019 in the Unit Recognition (UR) award. We thank our cadets for their dedication and perseverance in training, and the parents and teachers of our cadets for their continuous support in spite of the exceptional circumstances this year.
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%201.jpg)
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%202.jpg)
 
 ### Trainings
 
-<p style="text-align: justify;">NCC Air offers a variety of activities, such as hands-on training at the Republic of Singapore Air Force (RSAF) fighter and helicopter simulator centres, military plane joyrides, SAR-21 shooting, aeromodelling courses, Outward Bound Courses and airbase visits. In addition, there are also camps such as Camp Forge, Camp Steel and Senior Specialist Leaders’ Camp. The list goes on. </p>
+NCC Air offers a variety of activities, such as hands-on training at the Republic of Singapore Air Force (RSAF) fighter and helicopter simulator centres, military plane joyrides, SAR-21 shooting, aeromodelling courses, Outward Bound Courses and airbase visits. In addition, there are also camps such as Camp Forge, Camp Steel and Senior Specialist Leaders’ Camp. The list goes on.
 
-<p style="text-align: justify;">Our cadets also get the opportunities to enhance their knowledge on Total Defence through various activities such as facilitating the Total Defence Strategy Card Game to other Secondary 2 students during Total Defence Day.</p>
+Our cadets also get the opportunities to enhance their knowledge on Total Defence through various activities such as facilitating the Total Defence Strategy Card Game to other Secondary 2 students during Total Defence Day.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%203.jpg)
 
-<p style="text-align: justify;">Aeromodelling workshops such as Balsa wood plane-making and drone workshops enable our cadets to learn the mechanics of flight and some basic flying skills.</p>
+Aeromodelling workshops such as Balsa wood plane-making and drone workshops enable our cadets to learn the mechanics of flight and some basic flying skills.
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%204.jpg)
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NCC%20Air/Photo%205.jpg)
 
-<p style="text-align: justify;">These numerous activities act as a platform through which our cadets are exposed to the various aspects of the RSAF and the military, in the hope that some will be inspired to reach for the skies to serve as pilots in the RSAF. These activities also enable our cadets to learn and grow into responsible, knowledgeable and well-rounded leaders.</p>
+These numerous activities act as a platform through which our cadets are exposed to the various aspects of the RSAF and the military, in the hope that some will be inspired to reach for the skies to serve as pilots in the RSAF. These activities also enable our cadets to learn and grow into responsible, knowledgeable and well-rounded leaders.
 
 <p style="text-align: justify;">As a uniformed group, drills form an integral part of our training. This is where respect, discipline, perseverance and sheer grit are inculcated into our cadets. In this aspect, we are proud to share that our cadets are well-trained and play an important part in various school parades.</p>
 
