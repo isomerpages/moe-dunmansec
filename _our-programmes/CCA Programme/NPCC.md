@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/NPCC_Members_2021.jpg)
+![](/images/CCA%20Photos/NPCC/NPCC_Members_2021.jpg)
 
 ### Mission
 
@@ -45,32 +45,30 @@ third_nav_title: CCA Programme
 Link to video: [https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031)  
 
 ### Trainings
-  
-<p style="text-align: justify;">In Semester 1 of 2021, the Corps took hold of the opportunity to conduct face-to-face trainings and completed many key milestones for the Secondary 1, 2 and 3 cadets. The Secondary 1 cadets participated in their first area event where the Dunman NPCC unit hosted the Police Procedure Course for Area 8.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/PP_2021_updated.png)
+As the COVID situation improves in 2022, the Corps actively participated in many interesting events to engage our cadets and challenge them. As part of exposure to the work of the Singapore Police Force (SPF), the Secondary 1 cadets visited the Tampines Neighbourhood Police Centre (NPC) and got to better understand the operational work of the SPF and how law and order is enforced.
 
-<p style="text-align: justify;">The Secondary 2 cadets went through their Crime Science Investigation course where they learnt and experienced how crime scene investigators handle a crime scene.</p>
+![](/images/CCA%20Photos/NPCC/Sec%201%20Visit%20To%20Tampines%20NPC.png)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/CSI_2021_1.jpg)
+Our Secondary 1 cadets also get to go through enrichment activities such as Dragonboating. While not directly related to police work, such enrichment activities foster camaraderie amongst the Secondary 1 cadets and builds up their team spirit which is crucial as they take on more important roles with the Corps as they progress.
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/CS1_2021_2.jpg)
+![](/images/CCA%20Photos/NPCC/Sec%201%20Dragonboating.jpg)
 
-<p style="text-align: justify;">The Secondary 3 cadets participated in their Secondary 3 Classification Shoot where the cadets got the experience to handle the .22 Revolver. </p>
+Our Secondary 3 cadet leaders’ first challenge of the year was to plan for the Unit Camp which was held over 2 days during the March holidays and involved the Secondary 1 and 2 cadets as participants. The planning and running of the camp was not smooth sailing throughout as the Secondary 3 cadets lack camp experience. However, with their tenacity and resilience as well as support provided by the teachers, alumni volunteers and Secondary 4s, the Secondary 3s managed to overcome the challenges faced.
 
-<p style="text-align: justify;">The Secondary 3 cadet leaders assumed leadership of the unit after the annual Passing Out Parade in April and had to shoulder the responsibility of taking charge of the junior cadets within a short span of time. The Teacher Officers, Honorary Officers and Cadet Inspectors worked closely with the Secondary 3 cadets to ensure that the training standards were not compromised, whether the trainings were physical sessions with Safe Management Measures or e-CCA sessions via video conferencing. </p>
+![](/images/CCA%20Photos/NPCC/UnitCamp.jpg)
 
-<p style="text-align: justify;">For example, the Secondary 3 cadets completed their PYA project by reaching out to their family members in order to comply with the prevailing Safe Management Measures. </p>
+The annual Adventure Training Camp (ATC) at Pulau Ubin is one of the highlights for Secondary 2 cadets. The camp is usually a 3 day 2 night camp organised by cadet inspectors. With the segmented resumption of camps and face-to-face activities, our Secondary 2 and 3 cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were challenged with a 3km hike to the NPCC Campsite and then engaged in a series of activities which include a pioneering competition and field cooking. The cadets had an enriching experience and displayed much perseverance throughout the day.
 
-<p style="text-align: justify;">With the limited physical sessions in Semester 2, the Corps also had to engage in a blended mode of assessment for the annual promotion test. The Secondary 2 cadets, built a tent model as part of their assessment this year which replaced their usual tent pitching assessment in the field.</p>
+_insert ATCpic 1, 2,3 and 4 (2 by 2)_
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/Campcraft_Sec2.jpg)
+Educating the public forms a significant part of police work and the Secondary 2 and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.
 
-<p style="text-align: justify;">Despite the challenges at the start of their leadership journey, the Secondary 3 cadet leaders have become more confident and are putting in their best efforts to engage the junior cadets. The Secondary 1 and 2 cadets look forward to CCA sessions as well, with high attendance rates for both physical and e-CCA sessions. </p>
+_insert cssp and pya pic (side by side_)
 
-<p style="text-align: justify;">Despite the challenges at the start of their leadership journey, the Secondary 3 cadet leaders have become more confident and are putting in their best efforts to engage the junior cadets. The Secondary 1 and 2 cadets look forward to CCA sessions as well, with high attendance rates for both physical and e-CCA sessions. </p>
+2022 proved to be a challenging year as the Corps transits into pre-COVID modus operandi while ensuring the readiness and safety our cadets, alumni volunteers and teachers. We look forward to 2023 which will prove to be a challenging yet fulfilling year.
 
-<p style="text-align: justify;">Let us now hear from some of our cadets and why you should join Dunman NPCC!</p>
+Let us now hear from some of our cadets and why you should join Dunman NPCC!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
