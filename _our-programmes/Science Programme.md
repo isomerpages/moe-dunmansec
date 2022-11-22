@@ -15,7 +15,7 @@ description: ""
 
 <p style="text-align: justify;">During the enactment of this framework, students are exposed to the Practices of Science. Students become more aware that Science is not just a body of facts but also a cumulative learning experiences which can be affected by Social, Economic, Technology and Environmental factors.</p>
 
-![](/images/Our%20Academic%20Programme/Science%20Programme/JOY%20OF%20LEARNING.png)
+![](/images/Department%20Photos/Science/JOY%20OF%20LEARNING.png)
 
 **EST** – **E**lements of **S**cientific **T**houghts
 
@@ -30,7 +30,6 @@ description: ""
 <p style="text-align: justify;">Our department also believes in providing varied mode of assessments ranging from projects to practical and written papers are used to provide a holistic assessment of our students. Formative assessment in the form of quizzes, online games, model making are also deployed to provide constant feedbacks to our students to inform them of where they are, where they should be and how to move forward.</p>
 
 ### Programmes and Activities
-
 <p style="text-align: justify;">Our STEM Talent Development Programme aims to create a positive STEM immersion experience for our students, through the following programmes:</p>
   
 #### 1) STEM-infused Science Curriculum (SiSc)
@@ -38,7 +37,7 @@ description: ""
 
 <p style="text-align: justify;">We are currently developing our four-year STEM-infused Science curriculum. By infusing STEM in our science curriculum, it provides a platform for students to acquire the fundamental ideas essential for the understanding of Science and thereby building a strong science fundamental. In addition, it also allows the students to see the connectivity across various subject disciplines and hopefully to pursue STEM for future learning and work.</p>
 
-![](/images/Our%20Academic%20Programme/Science%20Programme/Sci%20Students%20presenting%20prototype.jpg)
+![](/images/Department%20Photos/Science/Sci%20Students%20presenting%20prototype.jpg)
 
 #### 2) ELIXiR STEM Programme
 For more information on this programme, click on the link <a href="/our-special-programmes/ELIXiR/" target="_blank">here</a>.
