@@ -38,7 +38,8 @@ description: ""
 
 <p style="text-align: justify;">We are currently developing our four-year STEM-infused Science curriculum. By infusing STEM in our science curriculum, it provides a platform for students to acquire the fundamental ideas essential for the understanding of Science and thereby building a strong science fundamental. In addition, it also allows the students to see the connectivity across various subject disciplines and hopefully to pursue STEM for future learning and work.</p>
 
-![](/images/Department%20Photos/Science/Sci%20Students%20presenting%20prototype.jpg)
+<img src="/images/Department%20Photos/Science/Sci%20Students%20presenting%20prototype.jpg"
+     style="width:65%">
 
 #### 2) ELIXiR STEM Programme
 For more information on this programme, click on the link <a href="/our-special-programmes/ELIXiR/" target="_blank">here</a>.
