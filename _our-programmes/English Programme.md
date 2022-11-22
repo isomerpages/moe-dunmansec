@@ -27,7 +27,7 @@ description: ""
 
 ### Programmes and Activities
 
-**1) Oral Communication Programme**  
+#### 1) Oral Communication Programme
 
 <p style="text-align: justify;">The oral communication programme in Dunman Secondary is a rigorous 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities.</p>
 
@@ -38,11 +38,11 @@ The programme consists of:
 *   Sec 3: EL ambassadors programme
 *   Sec 4/5: Individual oral consultation sessions
 
-<p style="text-align: justify;">Due to the constraints of COVID, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary. </p>
+<p style="text-align: justify;">Due to the constraints of COVID, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary.</p>
 
 Click [here](https://sites.google.com/moe.edu.sg/mdd2020/home) to view their masterpieces.
 
-**2) MEDAL Programme for lower sec students** 
+#### 2) MEDAL Programme for lower sec students
 
 MEDAL: Mastering English, Drama, the Art of Communication and Literature.
 
