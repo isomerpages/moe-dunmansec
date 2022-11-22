@@ -6,21 +6,19 @@ description: ""
 <p style="text-align: justify;">The Dunman Aesthetic programme was envisioned where students of Dunman Secondary School get to enjoy aesthetics which encompasses of Music, Drama, Dance and Art and in return take the initiative in engaging in aesthetics-related activities so that they can contribute to the community.</p>
 
 ### Approach
-
 <p style="text-align: justify;">The school anchors on a triple ‘E’ approach in implementing the aesthetic programmes and activities.</p>
 
 ### Exposed
-
 <p style="text-align: justify;">Opportunities are provided for students to expose them to the various forms of aesthetics through:</p>
 
-*   **Assembly programmes**
+*   **Assembly Programmes**
     <p style="text-align: justify;">Local talent groups which specialises in various forms of cultural music are invited to the school where students are exposed to the different forms of music which transcends across different cultures.</p>
     
-*   **Learning journeys**
+*   **Learning Journeys**
     
     <p style="text-align: justify;">Trips to Art museums are planned so that students are exposed to the different learning environments as well as the various forms of Art paintings and installations.</p>
     
-*   **Attending various arts activities**
+*   **Attending Various Arts Activities**
     
     <p style="text-align: justify;">Students get to attend various art activities within the school premise or in the community where they get to mingle with the local artist and their art pieces.</p>
 
@@ -38,7 +36,6 @@ description: ""
     <p style="text-align: justify;">Programmes are planned so that the various levels of students are exposed to the different forms of art.</p>
 
 ### Excel
-
 <p style="text-align: justify;">Opportunities are provided for students to excel in various forms of aesthetics, through:</p>
 
 *   Performances (SYF, public concerts, recess-time concerts, etc)  
