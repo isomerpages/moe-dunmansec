@@ -44,7 +44,7 @@ Click [here](https://sites.google.com/moe.edu.sg/mdd2020/home) to view their m
 
 #### 2) MEDAL Programme For Lower Secondary Students
 
-MEDAL: Mastering English, Drama, the Art of Communication and Literature.
+MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **L**iterature.
 
 <p style="text-align: justify;">MEDAL represents an integration of the performing arts into the Lower Secondary curriculum so that language learning is made meaningful. MEDAL also proves to be an instrument for the explicit teaching of 21st century competencies as students evolve to become critical and inventive thinkers who collaborate and communicate effectively in their exploration of set socio-cultural contexts. </p>
 
