@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/string-ensemble/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# String Ensemble
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/string_ensemble.jpg)
