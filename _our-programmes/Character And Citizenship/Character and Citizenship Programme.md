@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Character And Citizenship
 ---
 ### Members
-
-![](/images/Student%20Development%20Programme/CCP/character&citizenship.jpg)
+![](/images/Department%20Photos/character%20and%20citizenship%20education%20department%20i.jpg)
 
 ### Mission/ Objectives of Department
 
