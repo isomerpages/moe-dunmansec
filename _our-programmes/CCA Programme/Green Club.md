@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/green-club/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Green Club
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/picture%201.jpg)
