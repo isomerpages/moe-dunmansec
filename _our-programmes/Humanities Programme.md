@@ -64,6 +64,8 @@ In our quest to pique students’ historical curiosity and provide them with a c
 
 ![](/images/Department%20Photos/Humanities/Sec%201%20HI%202019%201.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pZyY8eDiR68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Sensory Skills Programme**
 
 The Geography Unit from the Humanities Department introduced an initiative named the ‘**Sensory Skills Programme (SSP)**’ in 2019. It is linked to the **NSS** (Nature Society Singapore)-**ESN** (Every Singaporean A Naturalist) Biodiversity programme where lower secondary students were encouraged to monitor the urban biodiversity, particularly the bird biodiversity, in and around the school. The data they collected were uploaded on an online citizenry platform called iNaturalist for scientists and naturalist around the world to use for data interpretation of the biodiversity of the world. 
