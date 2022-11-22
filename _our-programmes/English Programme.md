@@ -16,10 +16,10 @@ description: ""
 
 <p style="text-align: justify;">Students are expected to acquire different learning objectives at various stages of their secondary school course. Generally, these objectives fall into four broad domains of learning:</p>
 
-*   Communication and Language Development
-*   Thinking Skills
-*   Learning How to Learn
-*   Language and Culture
+* Communication and Language Development
+* Thinking Skills
+* Learning How to Learn
+* Language and Culture
 
 <p style="text-align: justify;">Through the use of innovative and engaging pedagogies like Differentiated Instruction, the Gradual Release of Responsibility and Learning Study teachers aim to achieve these objectives and develop 21st century competencies in the learner.</p>
 
