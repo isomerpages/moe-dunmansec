@@ -4,11 +4,6 @@ permalink: /our-programmes/cca-programme/ncc-air/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# please upload video to youtube
-# NCC Air
-
 ### Introduction
  
 <p style="text-align: justify;">Established in 1999, Dunman NCC Air aims to instill in our cadets pride, honor and mutual respect.  We aim to do our best in all our endeavors, be it in competitions or involving our cadets in enriching activities. </p>
