@@ -68,6 +68,7 @@ third_nav_title: CCA Programme
 **2017:** 4th
 
 #### C Girls Zonal ####  
+**2022:** 4th
 **2018:** 2nd  
 **2017:** 3rd  
 **2016:** 4th  
