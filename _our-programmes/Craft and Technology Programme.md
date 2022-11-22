@@ -34,6 +34,6 @@ The main approach that teachers adopt in engaging student learning are **Design 
 
 #### Design & Technology (D&T)
 ![Ideation/ Sketching](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file2.jpeg)
-*Ideation/ Sketching*
+<p style="text-align: center;"><i>Ideation/ Sketching</i><p>
 
 For the lower sec D&T programme, the students will need observe and research around the school and are tasked to ideate via sketching and mock-up to develop a prototype to address the problem. Through the curriculum, students will learn to think critically, communicate their ideas via sketching and make a prototype using 3 resistive materials (i.e. Acrylic, Wood and Metal).
