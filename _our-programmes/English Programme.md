@@ -52,13 +52,13 @@ MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **
 
 <p style="text-align: justify;">MEDAL is exploratory and an effort to "open a new frontier in our exploration of good teaching". (Palmer) It will not be a stranger to established teaching practices. What it will develop into is practical and effective pedagogy bearing semblances to the old but fuelled by the hearts of its teachers to cultivate thinking learners. </p>
 
-<b>Activities</b>
-<br><br>
-<b>1) Learning Journeys</b>
+#### Activities
+
+**1) Learning Journeys**
 
 <p style="text-align: justify;">The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible.</p> 
 
-<b>2) Speak Good English and Live(L)it Week</b>
+**2) Speak Good English and Live(L)it Week**
 
 <p style="text-align: justify;">During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.</p>
 
@@ -76,8 +76,7 @@ MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eb2e8iwxYs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<b>3) Competitions and courses</b>
+**3) Competitions and courses**
 
-*   Commonwealth Essay Writing Competition: Selected students will participate in this competition.
-
-*   Other ad-hoc external and internal competitions.
+* Commonwealth Essay Writing Competition: Selected students will participate in this competition.
+* Other ad-hoc external and internal competitions.
