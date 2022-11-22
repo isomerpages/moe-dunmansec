@@ -18,6 +18,5 @@ description: ""
 
 ![](/images/Our%20Academic%20Programme/Physical%20Education/GAMES%20(1).png)
 
-*   You can download NAPFA Standards <a href="/files/pe_napfa.pdf" target="_blank">here</a>.
-
-You can download NAPFA Standards <a href="/files/pe_napfa.pdf" target="_blank">here</a>.
+#### NAPFA
+You can download NAPFA Standards <a href="/files/pe_napfa.pdf" target="_blank">here</a>.
