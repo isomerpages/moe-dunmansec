@@ -9,7 +9,6 @@ description: ""
 		 style="width:78%">
 		 
 ### Mission / Objectives of Department
-
 #### Our Vision
 
 A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.
