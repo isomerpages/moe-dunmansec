@@ -10,15 +10,12 @@ description: ""
 ### Mission / Objectives of Department
 
 #### Our Vision:
-
 <p style="text-align: justify;">Dunmanites use their Mother Tongue Languages with confidence and proficiency, and through their mastery of their Mother Tongue Languages, they are able to unlock the door to their own culture.</p>
 
 #### Our Mission:
-
 <p style="text-align: justify;">The MTL department provides Chinese, Malay and Tamil language courses catered to the different needs and proficiency levels of our students. These differentiated courses allow students who are well-versed in their Mother Tongue, the opportunity to stretch their potential and at the same time, allow the rest of the students to learn their Mother Tongue Languages at their own pace. Our teachers deploy engaging and innovative pedagogies such as Differentiated Instruction, Thinking Routines, and Learning Study to engage students in their learning. Through literature and a myriad of activities, we inculcate moral values, enhance social emotional skills and love for culture. The department conducts ongoing formative and summative assessments that assess our students’ learning holistically. Through real-life application of MTL, meaningful assessments of our students’ learning are also carried out. Ultimately, we aim to nurture our students to become effective communicators with strong collaboration skills.</p>
 
 ### Programmes and Activities
-
 <p style="text-align: justify;">The MTL department encourages students in the active learning of their Mother Tongue Languages through our programmes. In the various activities, our students developed an appreciation for their unique cultures. Students also had opportunities to express themselves and hone their creativity by using their Personal Learning Devices (PLD) to create posters, videos and comics etc.</p>
 
 Our Departmental programmes include:
