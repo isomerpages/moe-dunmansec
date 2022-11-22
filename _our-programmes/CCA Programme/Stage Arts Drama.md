@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/stage-arts-drama/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Stage-Arts Drama
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/arts_drama.jpg)
