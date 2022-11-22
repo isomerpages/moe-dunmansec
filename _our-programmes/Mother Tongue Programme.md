@@ -41,3 +41,4 @@ Please click **[here](https://mingming2017.wixsite.com/my-site)** to see our stu
 | 3 | 连士升文学作品读后感征文比赛 | 2021 | 2 students awarded the Best Essay Award（最佳作品奖)<br>2 students awarded the Excellent Essay Award (佳作奖) |
 | 4 | 翰墨盈香庆国庆”书法比赛 | 2021 | 1 student awarded Consolation Prize （安慰奖）|
 | 5 | 第三届南洋华文青少年文学奖2020 | 2020 | 1 student awarded Winning Award (优胜奖) |
+
