@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/concert-band/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Concert Band
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/2019%20Band.jpg)
