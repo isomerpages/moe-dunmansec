@@ -47,8 +47,3 @@ Our training is however not limited to the “AIR” syllabus. Our cadets play d
 We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets to develop the next generation of future leaders.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IehAtdCsTRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Trainings
-
-Every Friday 3pm to 6pm.   
-Tuesday 3pm to 6pm - Ad Hoc events (FSD, PDS, drone).
