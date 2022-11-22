@@ -47,13 +47,10 @@ description: ""
 #### Activities
 
 **RECESS TIME CONCERT**
-
-![](/images/Student%20Development%20Programme/Aesthetic%20Programme/RecessTimeConcert.jpg)
+![](/images/Aesthetic/RecessTimeConcert.jpg)
 
 **ART EXHIBITION**
-
-![](/images/Student%20Development%20Programme/Aesthetic%20Programme/ArtExihibition.png)
+![](/images/Aesthetic/ArtExihibition.png)
 
 **AESTHETIC ENRICHMENT ACTIVITIES**
-
-![](/images/Student%20Development%20Programme/Aesthetic%20Programme/Aesthetic%20Enrichment%20Activities.png)
+![](/images/Aesthetic/Aesthetic%20Enrichment%20Activities.png)
