@@ -9,5 +9,5 @@ description: ""
 ![](/images/Our%20School/SH.png)
 ![](/images/Our%20School/ST.png)
 
-### School Management Committee
+### <span style = "color: black"> <b>School Management Committee</b> </span>
 ![](/images/Department%20Photos/smc%20i.jpg)
