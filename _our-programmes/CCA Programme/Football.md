@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/football/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Football
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/football.jpg)
