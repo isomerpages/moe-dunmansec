@@ -27,13 +27,13 @@ description: ""
 * deepen Digital Learning: Cyber Wellness and New Media Literacy.
 
 ### Programmes and Activities
-**Sec 1 IMDA Lab on Wheels**
+#### Sec 1 IMDA Lab on Wheels
 <p style="text-align: justify;">Lab on Wheels aims to ignite passion and make exploration of tech fun and engaging for our students to be future ready digital citizens in Singapore’s Smart Nation. The experiential and interactive tech showcases enable students to imagine the possibilities that emerging and future technologies could bring to better everyday lives.</p>
 
-**Sec 1 Mac Experience Workshop**
+#### Sec 1 Mac Experience Workshop
 <p style="text-align: justify;">All Sec 1 students will undergo a 2 hours introductory workshop in the use of Macintosh computers and its suite of productive and creative applications.</p>
 
-**Sec 1 Media Literacy Programme (MLP)**
+#### Sec 1 Media Literacy Programme (MLP)
 <p style="text-align: justify;">The objective of the Media Literacy Programme (MLP) is to introduce and equip our students with the necessary media literacy skills so as to prepare them for a future where social and work literacy and competencies are increasingly being re-configured in web-based and media-centric environments.</p>
 
 <p style="text-align: justify;">Media literacy refers to “the ability to access, analyse, evaluate and create media in a variety of forms”. This definition affirms the need for a media-literate person to both understand (critique/analyse) and produce (create) media. Hence, the media literacy programme will aim to nurture media-literate students who can critically evaluate and create media on their own. The design of the MLP, including curriculum is guided by the following key principles.</p>
@@ -47,16 +47,15 @@ description: ""
 <p style="text-align: justify;">The MLP will focus on the essential media literacy, as well as skills to handle cyber wellness issues. Basic media literacy include the ability to access, analyse, evaluate and create print as well as non-print media in a variety of forms, such as interpreting sources in newspapers, websites, creating a blog or webpage, posting original artwork, photography, stories and videos online, or remixing online content to create new products.</p>
 
 
-**Sec 1 G Suite for Education (Google)**
+#### Sec 1 G Suite for Education (Google)
 <p style="text-align: justify;">All Sec 1 students will undergo a 2 hours workshop where they learn to use Google Classroom and the suite of tools designed to empower teachers and students as they learn and innovate together.</p>
 
-**Sec 2 Code for Fun (Scratch)**
+#### Sec 2 Code for Fun (Scratch)
 <p style="text-align: justify;">All Sec 2 students will undergo a 4 hours workshop where they learn to create animations through visual programming software.</p>
 
 <p style="text-align: justify;">Code for Fun is our platform to increase students' exposure to coding and computational thinking.</p>
 
-**Sec 2 ICT-Driven Project Work**
-
+#### Sec 2 ICT-Driven Project Work
 **Mobile Apps Making (GameSalad), Micro:bit Programming (Let’s Code) and 3D Printing (Tinkercad)**
 <p style="text-align: justify;">All secondary 2 students will undergo one semester of Project Work. There is an IT training component in their Project Work (PW) where they learn to create science-related Apple Apps through coding software, to create programs using Micro:bit or to create 3D printed artefact through 3D modelling software; as innovative products and solutions for defined problems they experience, to improve the quality of life in a SMART ecosystem or for sustainable living.</p>
 
@@ -70,11 +69,11 @@ description: ""
 
 <p style="text-align: justify;">The most innovation product/solution will be awarded the Basil Victor George (Innovation) Award at our annual Dunman Appreciation Day.</p>
 
-**Sec 3 Productivity Tools (Microsoft)**
+#### Sec 3 Productivity Tools (Microsoft)
 <p style="text-align: justify;">All Sec 3 students will undergo a 2 hours training workshop in the use of word processing, spreadsheet and presentation software.</p>
 
-**Maker Workshops at makerspace@library**
+#### Maker Workshops at makerspace@library
 <p style="text-align: justify;">There are many maker workshop activities hosted by the library at TechFridays. Students can sign up for a range of activities that suit their needs and interests such as Building our Community (with LEGO bricks), building a retro arcade machine, leathercraft making, miniature clay food making, digital doodling, drone flying, 3D printing, 3D doodling, paper crafting, Micro:bit programming, etc. In addition, the workshops provide students opportunities to create things together with their peers, MOE Kindergarten, teachers, parents and MINDS.</p>
 
-**Digital Citizenship**
+#### Digital Citizenship
 <p style="text-align: justify;">Cyberwellness and new media literacy are integrated in Character and Citizenship Education (CCE) lessons.</p>
