@@ -30,8 +30,6 @@ Our Departmental programmes include:
 * MTL Intensive Revision Programme 
 * Traditional Festivals’ Celebrations
 
-Please click **[here](https://mingming2017.wixsite.com/my-site)** to see our students’ works!
-
 Please click <b><a href="https://mingming2017.wixsite.com/my-site" target="_blank">here</a></b> to see our students' work!
 
 ### Awards and Accolades
