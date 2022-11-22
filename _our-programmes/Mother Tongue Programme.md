@@ -39,5 +39,5 @@ Please click **[here](https://mingming2017.wixsite.com/my-site)** to see our stu
 | 1 | 第二十届全国中学生华文创作比赛 – 新蕾奖 <br>National Secondary School Chinese Essay Writing Competition – Xin Lei Jiang | 2022 | 1 student awarded 2nd Prize<br>(高年级 二等奖) |
 | 2 | 中小学课文朗诵比赛<br>Text Recital Competition for Primary and Secondary Schools | 2022 | 1 student awarded Bronze (铜奖) |
 | 3 | 连士升文学作品读后感征文比赛 | 2021 | 2 students awarded the Best Essay Award（最佳作品奖)<br>2 students awarded the Excellent Essay Award (佳作奖) |
-| 4 | Text     | 2021 | Text |
-| 5 | Text     | 2020 | Text |
+| 4 | 翰墨盈香庆国庆”书法比赛 | 2021 | 1 student awarded Consolation Prize （安慰奖）|
+| 5 | 第三届南洋华文青少年文学奖2020 | 2020 | 1 student awarded Winning Award (优胜奖) |
