@@ -74,4 +74,4 @@ For the Upper Secondary Programme, only NFS and D&T are offered as electives to 
 | -------- | -------- | -------- |
 | 2022 |Creative Invention (Merit):<br>Ong Zhi Xuan (4F, 2021)| Tan Xie Xing |
 | 2021 & 2022 | *Event disrupted by Covid-19* | - |
-| 2019 |**Creative Innovation:**<br>Joey Heng Zhuo yu (5A, 2018)<br><br>**Creative Adaptation:**<br>Uwais Alqarni Bin Abdul Rahman (4B, 2018)<br>Javier Lai Mao Sheng (4C, 2018)<br>Tang Jing Yi (4G, 2018)| Chayarnee Marnee-In<br><br><br>Elvin Tay<br><br>Elvin Tay<br>Ng Aik Koon |
+| 2019 |**Creative Innovation:**<br>Joey Heng Zhuo yu (5A, 2018)<br><br>**Creative Adaptation:**<br>Uwais Alqarni Bin Abdul Rahman (4B, 2018)<br>Javier Lai Mao Sheng (4C, 2018)<br>Tang Jing Yi (4G, 2018)| Chayarnee Marnee-In<br><br><br><BR>Elvin Tay<br>Elvin Tay<br>Ng Aik Koon |
