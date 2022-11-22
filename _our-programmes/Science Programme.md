@@ -15,7 +15,8 @@ description: ""
 
 <p style="text-align: justify;">During the enactment of this framework, students are exposed to the Practices of Science. Students become more aware that Science is not just a body of facts but also a cumulative learning experiences which can be affected by Social, Economic, Technology and Environmental factors.</p>
 
-![](/images/Department%20Photos/Science/JOY%20OF%20LEARNING.png)
+<img src="/images/Department%20Photos/Science/JOY%20OF%20LEARNING.png"
+     style="width:65%">
 
 **EST** – **E**lements of **S**cientific **T**houghts
 
