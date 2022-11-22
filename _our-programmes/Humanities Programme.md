@@ -4,18 +4,19 @@ permalink: /our-programmes/humanities-programme/
 description: ""
 ---
 ### Members
+
 <img src="/images/Department%20Photos/humanities%20department%20i.jpg"
      style="width:78%">
 
 ### Mission / Objectives of Department
 
-**Our Vision**
+#### Our Vision
 
-<p style="text-align: justify;">A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.</p>
+A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.
 
-**Our Mission**
+#### Our Mission
 
-<p style="text-align: justify;">The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.</p>
+The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.
 
 ### Curriculum, Pedagogy and Assessment (CPA)
 
