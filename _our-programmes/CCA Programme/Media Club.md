@@ -4,8 +4,6 @@ permalink: /our-programmes/cca-programme/media-club/
 description: ""
 third_nav_title: CCA Programme
 ---
-# Media Club
-
 ### Introduction
 ![](/images/CCA%20Photos/Media%20Club/Media%20club_Image%201.jpg)
 
