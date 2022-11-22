@@ -5,18 +5,19 @@ description: ""
 third_nav_title: Student Development
 ---
 ### Members
-![](/images/Department%20Photos/student%20development%20and%20student%20management%20committee%20i.jpg)
+<img src="/images/Department%20Photos/student%20development%20and%20student%20management%20committee%20i.jpg"
+		 style="width:78%">
 
 ### Mission / Objectives of Department
 
-**Vision:** Dunmanites who are Disciplined in Mind and Conduct.
+#### Vision
+Dunmanites who are Disciplined in Mind and Conduct.
 
-**Mission:**   
-1\. To provide Dunmanites with a conducive environment to
-
-*    achieve academic excellence in line with the school’s academic goals.
-*    excel in CCA in line with the school goals.
-*    be creative and innovative and forge breakthroughs
+#### Mission:
+1\. To provide Dunmanites with a conducive environment to:
+* achieve academic excellence in line with the school’s academic goals,
+* excel in CCA in line with the school goals,
+* be creative and innovative and forge breakthroughs.
 
 2\. To instil in students Discipline and Discernment through a set of expectations.   
 3\. To develop a caring and sharing environment, where pupils put the interest of others before their own.
