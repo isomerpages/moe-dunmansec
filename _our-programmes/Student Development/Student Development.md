@@ -23,22 +23,20 @@ Dunmanites who are Disciplined in Mind and Conduct.
 3\. To develop a caring and sharing environment, where pupils put the interest of others before their own.
 
 ### Programmes and Activities
-A whole-school approach is adopted where teachers are strongly encouraged to manage discipline at the classroom and form-class level.
+<p style="text-align: justify;">A whole-school approach is adopted where teachers are strongly encouraged to manage discipline at the classroom and form-class level.</p>
 
-1.  Advisors - Principal and Vice-Principal.
-2.  Overall In charge – Discipline Master.
-3.  Discipline Committee – Level Coordinators, OM and AEDs.
-4.  All staff – managing discipline at the classroom level.
+1. Advisors - Principal and Vice-Principal.
+2. Overall In charge – Discipline Master.
+3. Discipline Committee – Level Coordinators, OM and AEDs.
+4. All staff – managing discipline at the classroom level.
 
-A referral system has been put in place to support teachers in their management of serious (BETA) offenders.
+<p style="text-align: justify;">A referral system has been put in place to support teachers in their management of serious (BETA) offenders.</p>
 
 ### Philosophy on Student Development & Management
-
-To promote a **safe & conducive** environment and discipline with **care & dignity**.
+<p style="text-align: justify;">To promote a **safe & conducive** environment and discipline with **care & dignity**.</p>
 
 ### Student Development & Management Approches  
-
-The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:  
+<p style="text-align: justify;">The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies: </p>
 
 1.  **Whole School Approach** through involving all staff and students in establishing supportive policies, systems and practices.
 2.  Building a **culture of care** through establishing positive school and school classroom environments in which students feel safe and cared for and have a sense of belonging to the school.
