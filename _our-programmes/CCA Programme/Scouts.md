@@ -4,9 +4,6 @@ permalink: /our-programmes/cca-programme/scouts/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Scouts
 ### Introduction
 
 
