@@ -37,3 +37,45 @@ The main approach that teachers adopt in engaging student learning are **Design 
 <p style="text-align: center;"><i>Ideation/ Sketching</i><p>
 
 For the lower sec D&T programme, the students will need observe and research around the school and are tasked to ideate via sketching and mock-up to develop a prototype to address the problem. Through the curriculum, students will learn to think critically, communicate their ideas via sketching and make a prototype using 3 resistive materials (i.e. Acrylic, Wood and Metal).
+
+#### Food and Consumer Education (FCE)
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file3.jpeg)
+<p style="text-align: center;"><i>Healthy Chicken Rice</i><p>
+
+Students in lower secondary FCE programme will be given problem-based learning where students are given cases on certain health conditions to work on suitable healthy meals. They will learn various noteworthy nutrition facts and perform practical cooking sessions to whip up creative   dishes . They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons.
+
+#### Art
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file4.jpeg)
+<p style="text-align: center;"><i>Art Exhibition</i><p>
+
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file5.jpeg)
+	
+<p style="text-align: center;"><i>Digital Photography using LightBox</i><p>
+
+For Art, students will be exposed to artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught  different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography. At the end of each semester, an exhibition will be set up to showcase students' good works.
+
+#### Music
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file6.png)
+<p style="text-align: center;"><i>Performances during the recess (Before Covid-19)</i><p>
+
+In Music, the Secondary 1 students will be introduced to local music in addition to learning the Ukulele, where they will pick up the skill of playing the Hawaiian adaptation of the small guitar, and Cajon. They will also be taught how to appreciate Global Music as well as popular Singaporean folksongs which they will learn and then present their rendition during the Sec 1 cohort recess. For Secondary 2, the students will use their creative ideas to compose their own music through the use of Garageband. They will also be introduced to the instruments of the Western Orchestra where they will learn about the composers of the different periods in western classical music.
+
+For the Upper Secondary Programme, only NFS and D&T are offered as electives to students and the subjects are taught independently to prepare the pupils for the GCE 'N' and 'O' Level Examinations. The subjects are coursework-based. Students research and design an artefact for D&T and design nutrition meals for NFS. In the aim to enhance students’ learning, field trips and enrichment classes are also organized to expose students to the different learning environments.
+
+### ACHIEVEMENT/ OUTCOMES
+
+#### D&T AWARD
+*Award entries in 2019:*
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file7.png)
+
+*Pitching Session (via Zoom):*
+![](/images/Department%20Photos/Craft%20&%20Tech/Insert%20pic_file8.png)
+
+
+
+| YEAR |ACHIEVEMENT/ OUTCOMES|TEACHER-IN-CHARGE|
+| -------- | -------- | -------- |
+| 2022 |Creative Invention (Merit):<br>Ong Zhi Xuan (4F, 2021)| Tan Xie Xing |
+| 2021 & 2022 | *Event disrupted by Covid-19* | - |
+| 2019 |**Creative Innovation:**<br>Joey Heng Zhuo yu (5A, 2018)<br><br>**Creative Adaptation:**<br>Uwais Alqarni Bin Abdul Rahman (4B, 2018)<br>Javier Lai Mao Sheng (4C, 2018)<br>Tang Jing Yi (4G, 2018)| Chayarnee Marnee-In<br><br><br>Elvin Tay<br><br>Elvin Tay<br>Ng Aik Koon |
+
