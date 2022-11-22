@@ -4,9 +4,8 @@ permalink: /our-programmes/physical-education-programme/
 description: ""
 ---
 ### Members
-<img src="/images/Department%20Photos/physical%20education%20department%20i.jpg"
+<img src="/images/Department%20Photos/physical%20education%20and%20cca%20department%20i.jpg"
      style="width:78%">
-![](/images/Our%20Academic%20Programme/Physical%20Education/PE%20_%20CCA%20Department_Fun.jpg)
 
 ### Mission / Objectives of Department
  
