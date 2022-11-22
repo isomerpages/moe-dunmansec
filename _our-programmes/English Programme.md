@@ -60,9 +60,6 @@ MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **
 **2) Speak Good English and Live(L)it Week**
 <p style="text-align: justify;">During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.</p>
 
-<img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg"
-     style="width:78%">
-
 ![](/images/Department%20Photos/English%20Language/EL_1.jpg)
 
 ![](/images/Department%20Photos/English%20Language/EL_2.jpg)
