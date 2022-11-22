@@ -34,107 +34,74 @@ The Social Studies Team at Dunman Secondary School seeks to prepare students to 
 
 ### Programmes and Activities
 
-**Inquiry-Based Learning**
+#### Inquiry-Based Learning
 
-<b><u>1. Geographical Investigation</u></b>
+**1\. Geographical Investigation**
 
-<p style="text-align: justify;"> Dunman’s Geographical Investigation (GI) provides students with the opportunities to appreciate real-world application of geographical knowledge and help them acquire 21st Century Competencies. From Secondary 1 to Secondary 3, Geography students carry out inquiry-based learning on various issues.</p>
+Dunman’s Geographical Investigation (GI) provides students with the opportunities to appreciate real-world application of geographical knowledge and help them acquire 21st Century Competencies. From Secondary 1 to Secondary 3, Geography students carry out inquiry-based learning on various issues.
 
-**2017/2018/2019 GI Highlights**
+**GI Highlights**
 
-![](/images/Our%20Academic%20Programme/Humanities/GI%20HIGHLIGHTS.png)
 
-![](/images/Our%20Academic%20Programme/Humanities/GI%202019.jpg)
 
-![](/images/Our%20Academic%20Programme/Humanities/GI%202019%201.jpg)
-  
-<b><u>2. Historical Investigation</u></b>
-
-<p style="text-align: justify;">In our quest to pique students’ historical curiosity and provide them with a critical historical lens, we have designed Historical Investigation (HI) that makes real what has been learnt in the classroom. Some examples of HI sites include the Fort Canning Battle Box, former Ford factory, Chinatown Heritage Centre, Malay Heritage Centre and Indian Heritage Centre where students interact with sources and apply Historical concepts.</p>
-
-**2017/2018/2019 HI Highlights**
-
-![](/images/Our%20Academic%20Programme/Humanities/HI%20HIGHLIGHTS.png)
-
-![](/images/Our%20Academic%20Programme/Humanities/HI%20Indian%20Heritage%20Centre%202018.jpg)
- 
-![](/images/Our%20Academic%20Programme/Humanities/Sec%201%20HI%202019.jpg)
-
-![](/images/Our%20Academic%20Programme/Humanities/Sec%201%20HI%202019%201.jpg)
-
-**Social Studies Learning Journey**
-
-<p style="text-align: justify;">To help our students negotiate with an increasingly complex, fast-changing society, all Secondary Three students participated in a guided learning tour of various sites. On conclusion of the learning journeys, students delved into an expert-groups sharing of whether there is genuine understanding within the diverse groups (i.e. racial, religious, socio-economic) in Singapore.Some examples of Learning Journey sites include:</p>
-
-*   Jalan Besar Civics Trail
-
-*   Chinatown Cultural Walk
-
-*   Silat Road Sikh Temple
-
-*   Jamae Masjid and Chinatown Heritage Centre
+**2\. Historical Investigation**
 
   
-**Overseas Exchange Programme**  
-
-<p style="text-align: justify;">Every year, the Dunman Humanities Department hosts students and teachers from Santa Laurensia Junior High School on their annual visit to Singapore and Dunman Secondary School. During their visit held between 21 and 23 March 2018, our Secondary 2 students were given the opportunity to act as student buddies. Together, they carried out Values-in-Action programmes and presentations on the topic of ‘Sustainable Environment’.  </p>
-  
-<p style="text-align: justify;">Dunman Secondary also conducts a biennial Overseas Immersion Programme to Jakarta, Indonesia, where we visit Santa Laurensia Junior High School and various geographical and historical places in Jakarta.</p>
-
-**Competitions & Achievements**  
-
-<p style="text-align: justify;">The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential. </p>
-
-(1) <u>Geography Competitions</u>  
-
-NUS Geography Challenge
-
-*   2015: Gold Award
-
-*   2016: Silver Award
-
-35th Singapore Bird Race
-
-*   2019: 1st Place
-
-![](/images/Our%20Academic%20Programme/Humanities/Singapore%20Bird%20Race%202019.jpeg)
-
-<p style="text-align: center;"><i>Source: The Business Times, 21 November 2019</i></p>
-
-![](/images/Our%20Academic%20Programme/Humanities/challenge%20shield.jpeg)
-
-![](/images/Our%20Academic%20Programme/Humanities/Nature%20Watch%20write%20up.jpeg)
-  
-(2) <u>History Competitions</u> 
-
-Inter-School War and Diplomacy Card Game Challenge  
-  
-
-*   2015: Certificate of Participation
-
-*   2016: 2nd Runner-up – Individual Category
-
-*   2017: 1st Place – Individual Category
-
-*   2018:1st Runner-up Team Category
-
-*   2018: 1st Place- Individual Category (Rhea Lim: 3 Harmony)
-
-*   2019: 3rd Place – Individual Category (Rhea Lim: 4 Harmony)
+In our quest to pique students’ historical curiosity and provide them with a critical historical lens, we have designed Historical Investigation (HI) that makes real what has been learnt in the classroom. Some examples of HI sites include the Fort Canning Battle Box, former Ford factory, Chinatown Heritage Centre, Malay Heritage Centre and Indian Heritage Centre where students interact with sources and apply Historical concepts.
 
   
+**HI Highlights**
 
 
-![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Team.jpg)
 
-![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game%202018%20Individual.jpg)
+**Sensory Skills Programme**
 
-![](/images/Our%20Academic%20Programme/Humanities/War%20and%20Diplomacy%20Card%20Game.jpg)  
+The Geography Unit from the Humanities Department introduced an initiative named the ‘**Sensory Skills Programme (SSP)**’ in 2019. It is linked to the **NSS** (Nature Society Singapore)-**ESN** (Every Singaporean A Naturalist) Biodiversity programme where lower secondary students were encouraged to monitor the urban biodiversity, particularly the bird biodiversity, in and around the school. The data they collected were uploaded on an online citizenry platform called iNaturalist for scientists and naturalist around the world to use for data interpretation of the biodiversity of the world. 
 
-National Library Board Historical Investigation Challenge 2016  
+To deepen the students’ observational and reflective skills especially during the Circuit Breaker period, the students were introduced to a mindful activity called **Nature Journaling** in 2020. In 2022, to further create greater awareness of the biodiversity of Dunman Secondary School environment, a few praiseworthy nature journals were selected and published into postcards as part of the school’s outreach efforts to primary schools. 
 
-*   2016: Certificate of Participation
+To create greater interest in the biodiversity of Singapore, the students in the programme have been exposed to a number of external competitions and activities organised by Nature Society Singapore. Our students made the school proud by emerging champions in the **‘35th Bird Race for the Secondary School Category**’ in 2019 and the ‘**Inaugural Biodiversity Race in 2022’**. In addition, a few of the student’s nature journals were used as decorations in the ‘**Tree of the World 2021**’ fund raising project at Singapore Botanic Gardens.  This is in support of Singapore’s ‘One Million Tree Movement’. 
 
-*   2017: Certificate of Participation
+Lastly, the Sec 2 students have also been invited to share their nature journaling experiences in this year’s **Inaugural NSS-ESN Symposium** to be held on the 4th of November 2022. To engage and stimulate interest in the biodiversity of Dunman Secondary School, the students have also created a game called ‘**Avian Watch**’ using the online gamification tool called ‘Genially’. This game will be used in the future as an outreach activity with external organisations especially primary schools and kindergartens. 
 
-*   2018: Certificate of Participation
+**Comments by students :**
+
+>Honestly speaking, this programme was one of the best things about Secondary school. I have benefited in many ways from this programme such as understanding bird sounds and identifying the birds from their unique features, by learning the parts of a bird. Nature journaling has helped me learn how to proportionally draw birds and understand their diet and habitats of the bird. I have gained new knowledge from the research I have done on the different birds.<br>Before I joined the programme, birds used to be present around me but just unobserved. Since the programme, every single bird and animal started to catch my eye and gradually sparked my interest for me to go to parks around Singapore and even overseas to take a look at the variety of species present. All it takes is to notice the great flora and fauna around us.<br>\-Sanjana , 2F<br>
+
+>I signed up to be part of this programme because I felt it would deepen my knowledge on birds and nature in general. It would also be an opportunity to improve my presentation skills. I can create a greater awareness of the biodiversity of the environment via social media, that way many people will be able to access what I share. Additionally, taking part in more opportunities like this would be able to provide me a platform to spread greater awareness about the biodiversity of the environment.<br>\- Natalie Ng, 2F
+
+
+
+### Competitions & Achievements
+The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential.
+
+**(1) Geography Competitions**
+
+**NUS Geography Challenge**
+
+* 2015: Gold Award
+* 2016: Silver Award
+
+**35th Singapore Bird Race**
+* 2019: 1st Place
+
+
+
+**(2) History Competitions**
+
+**Inter-School War and Diplomacy Card Game Challenge**
+* 2015: Certificate of Participation
+* 2016: 2nd Runner-up – Individual Category
+* 2017: 1st Place – Individual Category
+* 2018:1st Runner-up Team Category
+* 2018: 1st Place- Individual Category (Rhea Lim: 3 Harmony)
+* 2019: 3rd Place – Individual Category (Rhea Lim: 4 Harmony)
+
+
+
+**National Library Board Historical Investigation Challenge 2016**
+* 2016: Certificate of Participation
+* 2017: Certificate of Participation
+* 2018: Certificate of Participation
+
+
