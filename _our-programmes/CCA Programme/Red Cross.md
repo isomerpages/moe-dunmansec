@@ -4,10 +4,6 @@ permalink: /our-programmes/cca-programme/red-cross/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Red Cross
-
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/red_cross.jpg)
