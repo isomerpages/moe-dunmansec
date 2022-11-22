@@ -4,7 +4,6 @@ permalink: /our-programmes/english-programme/
 description: ""
 ---
 ### Members
-
 <img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg"
      style="width:78%">
 
