@@ -70,9 +70,6 @@ OTH PassionArts Open Stage Dance Competition 2022 – Best Dance Crew Award; 5-S
 
 Lion City Dance Convention 2022 (Junior Category) – 4th place
 
-
-
-
 ### Trainings  
 
 Tuesdays - 3 pm to 6 pm  
