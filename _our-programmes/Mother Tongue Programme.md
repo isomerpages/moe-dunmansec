@@ -30,11 +30,14 @@ Our Departmental programmes include:
 * MTL Intensive Revision Programme 
 * Traditional Festivals’ Celebrations
 
+Please click **[here](https://mingming2017.wixsite.com/my-site)** to see our students’ works!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LylbR116MD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Awards and Accolades
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JSZc-N_wc8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l07ZD8Sb8Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+| S/N | Column 2 | Column 3 | Columen 4 |
+| -------- | -------- | -------- | -------- |
+| 1 | 第二十届全国中学生华文创作比赛 – 新蕾奖 <br>National Secondary School Chinese Essay Writing Competition – Xin Lei Jiang | 2022 | 1 student awarded 2nd Prize<br>(高年级 二等奖) |
+| 2 | Text     | 2022 | Text |
+| 3 | Text     | 2021| Text |
+| 4 | Text     | 2021 | Text |
+| 5 | Text     | 2020 | Text |
