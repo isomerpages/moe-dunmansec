@@ -41,5 +41,7 @@ Each StageArts Drama member is known as a Drama StageArtisan.
 
 #### CCA Days:
 
-Tuesday: 3.45pm - 6.10pm  
-Thursday: 3.45pm - 6.10pm
+| Day | Time |
+| -------- | -------- |
+| Tuesday | 3.45pm - 6.10pm |
+| Thursday | 3.45pm - 6.10pm |
