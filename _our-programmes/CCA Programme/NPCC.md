@@ -74,8 +74,8 @@ Let us now hear from some of our cadets and why you should join Dunman NPCC!
 
 **Training Details**  
 
-Every Friday 2:30 pm to 6 pm.  
-Every Even Week Tuesday 4 pm to 6pm.
+Every Friday: 2:30 pm to 6 pm.  
+Every Even Week Tuesday: 4 pm to 6pm.
 
 Ad hoc HQ and Area 8 events on other dates.
 
