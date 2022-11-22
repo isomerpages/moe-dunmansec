@@ -23,7 +23,6 @@ Dunmanites who are Disciplined in Mind and Conduct.
 3\. To develop a caring and sharing environment, where pupils put the interest of others before their own.
 
 ### Programmes and Activities
-
 A whole-school approach is adopted where teachers are strongly encouraged to manage discipline at the classroom and form-class level.
 
 1.  Advisors - Principal and Vice-Principal.
