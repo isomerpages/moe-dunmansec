@@ -10,26 +10,20 @@ description: ""
 		 
 ### Mission / Objectives of Department
 #### Our Vision
-
-A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.
+<p style="text-align: justify;">A discerning Dunmanite who appreciates the environment, keeps up-to-date with current issues, and possesses the ability to link the past, present and future.</p>
 
 #### Our Mission
-
-The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.
+<p style="text-align: justify;">The Humanities Department is determined to provide students with a holistic and vigorous learning experience to help our students see the world through multiple lenses. We seek to equip our students with critical thinking and communication skills as well as encourage them to develop a global perspective so that they can become confident persons who are able to navigate the complexities of a rapidly changing world, active contributors and concerned citizens.</p>
 
 ### Curriculum, Pedagogy and Assessment (CPA)
-
 #### History
-
-The History Team in Dunman Secondary school seeks to develop a student who is a self-directed, active and concerned citizen. Our goal is for our students to be informed, discerning in judgement, asks questions and reflects on their process of learning. At the heart of history education lies the quest to uncover the complexities that define the human experience. This is especially valuable in a world where attention is often divided between concerns over the present and the future. Learning to manage the present and anticipate the future would not be possible without looking back at the past. Learning history helps students draw connections between the nature and impact of past developments, and how they affect the present world we live in.
+<p style="text-align: justify;">The History Team in Dunman Secondary school seeks to develop a student who is a self-directed, active and concerned citizen. Our goal is for our students to be informed, discerning in judgement, asks questions and reflects on their process of learning. At the heart of history education lies the quest to uncover the complexities that define the human experience. This is especially valuable in a world where attention is often divided between concerns over the present and the future. Learning to manage the present and anticipate the future would not be possible without looking back at the past. Learning history helps students draw connections between the nature and impact of past developments, and how they affect the present world we live in.</p>
 
 #### Geography
-
-With the adoption of an issues-based approach that focuses on contemporary geographical issues, the syllabus provides students with an opportunity to explore geographical questions. The Geography Team at Dunman Secondary School utilizes the pedagogy of inquiry to expose students to geographical data from a variety of sources. They learn how to do so in a responsible and critical manner, which also helps them develop communication, collaboration and information skills effectively. This way, students gain a global awareness of current geographical issues and challenges, and develop a concern and appreciation for the environment around them.
+<p style="text-align: justify;">With the adoption of an issues-based approach that focuses on contemporary geographical issues, the syllabus provides students with an opportunity to explore geographical questions. The Geography Team at Dunman Secondary School utilizes the pedagogy of inquiry to expose students to geographical data from a variety of sources. They learn how to do so in a responsible and critical manner, which also helps them develop communication, collaboration and information skills effectively. This way, students gain a global awareness of current geographical issues and challenges, and develop a concern and appreciation for the environment around them.</p>
 
 #### Social Studies
-
-The Social Studies Team at Dunman Secondary School seeks to prepare students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the bigger world they live in, and appreciate complexities of the human experience. We try our best to create authentic learning experiences for our students through a range of different pedagogies that pique their interest in important societal issues. We hope that our students become informed, concerned and participative citizens that care about contributing responsibly to the society and world they live in.
+<p style="text-align: justify;">The Social Studies Team at Dunman Secondary School seeks to prepare students to be citizens of tomorrow by helping them to better understand the interconnectedness of Singapore and the bigger world they live in, and appreciate complexities of the human experience. We try our best to create authentic learning experiences for our students through a range of different pedagogies that pique their interest in important societal issues. We hope that our students become informed, concerned and participative citizens that care about contributing responsibly to the society and world they live in.</p>
 
 ### Programmes and Activities
 
