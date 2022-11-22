@@ -60,11 +60,11 @@ Our Secondary 3 cadet leaders’ first challenge of the year was to plan for the
 
 The annual Adventure Training Camp (ATC) at Pulau Ubin is one of the highlights for Secondary 2 cadets. The camp is usually a 3 day 2 night camp organised by cadet inspectors. With the segmented resumption of camps and face-to-face activities, our Secondary 2 and 3 cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were challenged with a 3km hike to the NPCC Campsite and then engaged in a series of activities which include a pioneering competition and field cooking. The cadets had an enriching experience and displayed much perseverance throughout the day.
 
-_insert ATCpic 1, 2,3 and 4 (2 by 2)_
+![](/images/CCA%20Photos/NPCC/ATC%201%20to%204.jpg)
 
 Educating the public forms a significant part of police work and the Secondary 2 and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.
 
-_insert cssp and pya pic (side by side_)
+![](/images/CCA%20Photos/NPCC/CSSP%20&%20PYA.jpg)
 
 2022 proved to be a challenging year as the Corps transits into pre-COVID modus operandi while ensuring the readiness and safety our cadets, alumni volunteers and teachers. We look forward to 2023 which will prove to be a challenging yet fulfilling year.
 
