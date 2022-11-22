@@ -4,9 +4,6 @@ permalink: /our-programmes/cca-programme/badminton/
 description: ""
 third_nav_title: CCA Programme
 ---
-
-
-# Badminton
 ### Introduction
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/2020%20Web%20Page%20Photo%201.jpg)
