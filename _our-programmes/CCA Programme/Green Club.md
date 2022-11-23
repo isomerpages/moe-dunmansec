@@ -19,9 +19,9 @@ third_nav_title: CCA Programme
 
 <p style="text-align: justify;">The club realises that it is integral to include the community to help to spread the message of the importance of conservation. Hence, the club regularly engages its partners in helping to spread these messages. In 2019, the club members taught the children at My First Skool kindergarten the importance of recycling and how to make a self-watering flowerpots using recycled materials. In 2018, the club also went to the All Saints Home to help cheer and teach the elderly how to fold paper flowers using recycled paper. These activities are in line with the club’s mission of forming valuable partnerships to create a green and sustainable environment in Dunman and the community.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/picture%202.jpg)
+![](/images/CCA%20Photos/Green%20Club/picture%202.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%203.jpg)
+![](/images/CCA%20Photos/Green%20Club/Picture%203.jpg)
 
 <p style="text-align: justify;">Members of Green club, will be able to learn many new skills. In addition to learning horticulture skills such as plant propagation and care, they will be allowed to choose the enrichment activities that they can partake. Some of these activities include paper origami, flower pressing and making a table lamp using recycled materials, just to name a few. All these experiences ensure that the students are learning beyond the classroom and at the same time, learning how to make Singapore a greener place.</p>
 
