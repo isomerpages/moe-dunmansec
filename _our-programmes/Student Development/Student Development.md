@@ -33,7 +33,7 @@ Dunmanites who are Disciplined in Mind and Conduct.
 <p style="text-align: justify;">A referral system has been put in place to support teachers in their management of serious (BETA) offenders.</p>
 
 ### Philosophy on Student Development & Management
-<p style="text-align: justify;">To promote a **safe & conducive** environment and discipline with **care & dignity**.</p>
+<p style="text-align: justify;">To promote a <b>safe & conducive</b> environment and discipline with <b>care & dignity</b>.</p>
 
 ### Student Development & Management Approches  
 <p style="text-align: justify;">The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies: </p>
