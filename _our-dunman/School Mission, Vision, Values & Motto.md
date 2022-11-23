@@ -3,6 +3,7 @@ title: School Mission, Vision, Values & Motto
 permalink: /our-dunman/school-mission-vision-values-n-motto/
 description: ""
 ---
+#### School Mission & Vision
 #### Vision
 
 Empathetic Leaders, Impactful Innovators  
