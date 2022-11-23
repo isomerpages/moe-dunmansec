@@ -4,6 +4,7 @@ permalink: /sexuality-education/secondary-1/
 description: ""
 ---
 ### Secondary 1
+
 ![](/images/Department%20Photos/Character%20and%20Citizenship/Sec1%202022.png)
 
 #### At Dunman Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2021:
