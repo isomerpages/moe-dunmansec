@@ -46,7 +46,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Badminton</td>
     <td style="text-align:center">Mr Chern Meng Hock<br><br>(<a href="mailto:chern_meng_hock@moe.edu.sg">chern_meng_hock@moe.edu.sg</a>)</td>
-		<td><br><b>Task 1:</b> To execute different strokes to demonstrate their abilities.<br><b>Task 2:</b> To play a short game among themselves to observe their application of skills.<br><br></td>
+		<td><b>Task 1:</b> To execute different strokes to demonstrate their abilities.<br><b>Task 2:</b> To play a short game among themselves to observe their application of skills.<br><br></td>
   </tr>
   <tr>
     <td style="text-align:center"> Basketball </td>
