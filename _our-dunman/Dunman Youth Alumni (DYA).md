@@ -16,24 +16,24 @@ description: ""
 
 <p style="text-align: justify;">The DYA is headed by its President Iris, along with an executive committee team comprised of Mei Yee, Zulfiqar, Kym, Poh Yang, Edwin and Jane. All working in tandem with a sizeable cast of alumni coordinators and volunteers.</p>
 
-![](/images/Our%20Community/Bonding%20Games.jpeg)
+![](/images/DYA/Bonding%20Games.jpeg)
 
-![](/images/Our%20Community/Tutorship%20Program.jpeg)
+![](/images/DYA/Tutorship%20Program.jpeg)
 
-![](/images/Our%20Community/Open%20House.jpeg)
+![](/images/DYA/Open%20House.jpeg)
 
-![](/images/Our%20Community/Group%20pic%201.jpeg)
+![](/images/DYA/Group%20pic%201.jpeg)
 
-![](/images/Our%20Community/Group%20pic%202.jpeg)
+![](/images/DYA/Group%20pic%202.jpeg)
 
-![](/images/Our%20Community/Group%20pic%203.jpeg)
+![](/images/DYA/Group%20pic%203.jpeg)
 
-<p><img src="/images/Our%20Community/tn_facebook.jpg"
+<p><img src="/images/DYA/tn_facebook.jpg"
      style="width:10%;float:left"></p>
 
 Find us at <a href="https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info" target= "_blank">Facebook</a>.
 <br><br>
-<p><img src="/images/Our%20Community/tn_google.jpg"
+<p><img src="/images/DYA/tn_google.jpg"
      style="width:10%;float:left"></p>
 
 Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEGSN0gNhYr9AEFc5gvA_mpFkOhqhxzSaMNsuksYewX2ZmvA/viewform" target= "_blank">here</a> to join us today!
