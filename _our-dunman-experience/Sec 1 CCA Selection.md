@@ -3,9 +3,6 @@ title: Sec 1 CCA Selection
 permalink: /our-school/Our-Student-Life/sec-1-cca-selection/
 description: ""
 ---
-
-# Sec 1 CCA Selection
-
 <p style="text-align: justify;">At Dunman Secondary School, our students’ Co-Curricular Activities (CCAs) programmes are full and varied. Dunmanites are keen learners in pursuit of their passion and interest, which the school supports whole-heartedly and thoroughly.</p>
 
 <p style="text-align: justify;">Dunmanites are truly keen on their many interests; be it Uniformed Groups, Sports & Games, Performing Arts, or Clubs. Whichever CCA they are in, nurturing a sense of commitment and dedication to their craft is the culture here, and we want to engage them in a CCA which they can develop and excel in.</p>
