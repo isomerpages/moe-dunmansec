@@ -160,6 +160,5 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 </table>
 
 #### Helpdesk
-
-*   Enquires @ **6786 2668**
-    * Mr Ali Sharif Arshad (Year Head) [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)
+* Enquires @ **6786 2668**
+* Mr Ali Sharif Arshad (Year Head) [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)
