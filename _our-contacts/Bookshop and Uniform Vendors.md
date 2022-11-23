@@ -3,11 +3,6 @@ title: Bookshop and Uniform Vendors
 permalink: /our-contacts/bookshop-and-uniform-vendors/
 description: ""
 ---
-
-
-
-# Our Suppliers
-
 ### 1.    School Bookshop Vendor
 
 Overseas Associates Pte Ltd, c/o Dunman Secondary School
