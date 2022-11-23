@@ -57,7 +57,7 @@ Listed below are some of the achievements that the club has obtained over the pa
 
 <p style="text-align: justify;">Dunman Secondary School’s Green club aspires to continue to make the change we want to see in this world and will strive to achieve this mission! </p>
 
-Teachers In charge:   
+Teachers In Charge:   
 1\. Mr. Jeffrey Gafar ([Jeffrey\_jefferson\_gafar@moe.edu.sg](mailto:Jeffrey_jefferson_gafar@moe.edu.sg))   
 2\. Mrs Toh Nguan Keow ([tay\_nguan\_keow@moe.edu.sg](mailto:tay_nguan_keow@moe.edu.sg))   
 3\. Mrs Florence Lee ([lee\_bak\_hong@moe.edu.sg](mailto:lee_bak_hong@moe.edu.sg))   
