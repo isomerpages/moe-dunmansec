@@ -46,7 +46,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
     <td>1 day</td>
   </tr>
   <tr>
-    <td>eStreaming Familiarisation Exercise<br>(via <a href="https://www.nstream.sg/login/login.aspx" target="_blank">eStreaming online portal</a>)<br>Compulsory</td>
+    <td>eStreaming Familiarisation Exercise<br>Compulsory</td>
     <td>23 May to 3 Jun    <br></td>
     <td>12 days<br></td>
   </tr>
