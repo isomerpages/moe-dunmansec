@@ -4,8 +4,6 @@ permalink: /our-special-programmes/ELIXiR/sec-3-programme/
 description: ""
 third_nav_title: ELIXiR
 ---
-# Sec 3 Programme
-
 ### Programmes and Activities
 
 <b><u>Innovations in Science - Secondary 3 Programme</u></b>
