@@ -57,7 +57,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>Release of Sec 2 Report Books<br>- Last day of school</td>
-    <td>28 Oct<br></td>
+    <td>26 Oct<br></td>
     <td>1 day</td>
   </tr>
   <tr>
