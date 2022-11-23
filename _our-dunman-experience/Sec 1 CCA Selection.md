@@ -7,7 +7,7 @@ description: ""
 
 <p style="text-align: justify;">Dunmanites are truly keen on their many interests; be it Uniformed Groups, Sports & Games, Performing Arts, or Clubs. Whichever CCA they are in, nurturing a sense of commitment and dedication to their craft is the culture here, and we want to engage them in a CCA which they can develop and excel in.</p>
 
-### Below are all the CCAs offered in Dunman Secondary School:
+#### Below are all the CCAs offered in Dunman Secondary School:
 
 | Uniformed Groups | Performing Arts |  Sports and Games |      Clubs      |
 |:----------------:|:---------------:|:-----------------:|:---------------:|
