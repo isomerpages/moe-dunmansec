@@ -3,12 +3,10 @@ title: Secondary 1
 permalink: /sexuality-education/secondary-1/
 description: ""
 ---
-
-
-# Secondary 1
+### Secondary 1
 ![](/images/Student%20Development%20Programme/CCP/Sec1%202022.png)
 
-### At Dunman Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2021:
+#### At Dunman Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2021:
 
 <p style="text-align: center;"><b>Secondary 1</b></p>
 
