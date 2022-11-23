@@ -12,9 +12,9 @@ third_nav_title: Character And Citizenship
 
 ### ECG Counselling
 
-We have an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.  
+<p style="text-align: justify;">We have an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.</p>
 
-To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a href="https://go.gov.sg/hblecg" target="_blank">here</a>.
+<p style="text-align: justify;">To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a href="https://go.gov.sg/hblecg" target="_blank">here</a>.</p>
 
 ![](/images/Student%20Development%20Programme/CCP/ECG%20Appt%20QR%20Code.png)
 
