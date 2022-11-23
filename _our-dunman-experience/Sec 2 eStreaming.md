@@ -77,7 +77,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>Release of Appeal Results/ Final Posting</td>
-    <td>17 Nov (12pm noon)    <br></td>
+    <td>15 Nov (12pm noon)    <br></td>
     <td>1 week after closing of appeal period</td>
   </tr>
 </tbody>
