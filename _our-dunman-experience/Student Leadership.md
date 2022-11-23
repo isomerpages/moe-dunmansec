@@ -3,11 +3,7 @@ title: Student Leadership
 permalink: /our-special-programmes/student-leadership/
 description: ""
 ---
-**Student Leadership Development (SLD) in Dunman Secondary School**
-
 #### <span style = "color: black"> <b>Student Leadership Development (SLD) in Dunman Secondary School</b> </span>
-
-### STUDENT LEADERSHIP
 
 <p style="text-align: justify;">Dunman Secondary School’s Student Leadership Development (SLD) programme is founded on the belief that the secondary school years are invaluable to developing character and inculcating the school’s values of Discernment, Discipline, Daring, Determination and Duty in our students.</p>
 
