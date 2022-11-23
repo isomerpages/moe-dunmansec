@@ -3,13 +3,13 @@ title: Sec 2 eStreaming
 permalink: /our-school/Our-Student-Life/sec-2-estreaming/
 description: ""
 ---
-### Sec 2 Streaming Frequently Asked Questions (FAQs)
+#### Sec 2 Streaming Frequently Asked Questions (FAQs)
 
 Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pdf" target="_blank">here</a> for FAQs.  
 
 **Note: Information updated as at 15 March 2022.**
 
-### Important Dates:
+#### Important Dates:
 
 <table style="undefined;table-layout: fixed; width: 736px">
 <colgroup>
@@ -83,7 +83,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 </tbody>
 </table>
 
-### Handout/ Forms
+#### Handout/ Forms
 
 <p style="text-align: center;"><b>Briefing Slides (Subjects)</b></p>
 
@@ -159,7 +159,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 </tbody>
 </table>
 
-### Helpdesk
+#### Helpdesk
 
 *   Enquires @ **6786 2668**
     * Mr Ali Sharif Arshad (Year Head) [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)
