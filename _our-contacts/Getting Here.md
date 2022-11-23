@@ -17,4 +17,5 @@ description: ""
 ### Map
 Please click <b><a href="https://www.google.com/maps/place/21+Tampines+Street+45,+Singapore+529093/@1.3611031,103.9555435,18.35z/data=!4m5!3m4!1s0x31da3d00df545591:0x4a2ad87dba51b83f!8m2!3d1.3608811!4d103.9562762" target="_blank">here</a></b> to view the Google map.
 
-![](/images/Our%20Contacts/DMN_location.png)
+<img src="/images/Our%20Contacts/DMN_location.png"
+     style="width:78%">
