@@ -4,8 +4,6 @@ permalink: /our-special-programmes/ELIXiR/sec-2-programme/
 description: ""
 third_nav_title: ELIXiR
 ---
-# Sec 2 Programme
-
 ### Programmes and Activities
 
 <b><u>Life in Science - Secondary 2 Programme</u></b>
