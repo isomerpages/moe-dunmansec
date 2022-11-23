@@ -76,7 +76,7 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Concert Band<br> </td>
     <td style="text-align:center">Ms Jeanette Tan<br>(<a href="mailto:tan_ai_bee_jeanette@moe.edu.sg">tan_ai_bee_jeanette@moe.edu.sg</a>)</td>
-    <td><br>Using a music instrument of your choice, <br><br><b>Percussion:</b> Play two passage of music with dynamic contrast not less than 48 bars each. One at 120 bpm, the other less than 84 bpm.<br><br><b>Wind and Mallet:</b> Play two of the following major scales (tongued and legato): C, G, D, A, F, B♭ and E♭. For each note of the scale, tongue only four crotchets and eight quaver notes ascending and descending. Tempo should be 120 bpm.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Concert%20Band%202022.pdf" target="_blank">here</a> for the assessment rubrics</td>
+    <td>Using a music instrument of your choice, <br><br><b>Percussion:</b> Play two passage of music with dynamic contrast not less than 48 bars each. One at 120 bpm, the other less than 84 bpm.<br><br><b>Wind and Mallet:</b> Play two of the following major scales (tongued and legato): C, G, D, A, F, B♭ and E♭. For each note of the scale, tongue only four crotchets and eight quaver notes ascending and descending. Tempo should be 120 bpm.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Concert%20Band%202022.pdf" target="_blank">here</a> for the assessment rubrics</td>
   </tr>
   <tr>
     <td style="text-align:center">Leadership</td>
