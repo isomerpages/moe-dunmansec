@@ -6,15 +6,15 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/football.jpg)
+![](/images/CCA%20Photos/Football/football.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Website2.jpg)
+![](/images/CCA%20Photos/Football/Website2.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Website3.jpg)
+![](/images/CCA%20Photos/Football/Website3.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Website4.jpg)
+![](/images/CCA%20Photos/Football/Website4.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/cr%20Football%20Camp%202019.jpg)
+![](/images/CCA%20Photos/Football/cr%20Football%20Camp%202019.jpg)
 
 ### Our Mission Statement
 
@@ -34,9 +34,9 @@ We are football players who are:
 
 ### Achievements
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/NSG%20C%20Division%20National%204th.jpg)
+![](/images/CCA%20Photos/Football/NSG%20C%20Division%20National%204th.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Futsal%20U14%20National%202nd.jpg)
+![](/images/CCA%20Photos/Football/Futsal%20U14%20National%202nd.jpg)
 
 **2017**  
 
@@ -56,7 +56,7 @@ We are football players who are:
 Tuesday: 3:30pm to 6.00pm  
 Thursday: 3.30pm to 6.00pm
 
-### CCA Teachers-in-charge
+### CCA Teachers-In-Charge
   
 **[](mailto:lim_poh_tee@moe.edu.sg)**
 
