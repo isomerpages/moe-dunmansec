@@ -67,7 +67,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>Release of eStreaming Results</td>
-    <td>10 Nov (12pm noon)    <br></td>
+    <td>8 Nov (12pm noon)    <br></td>
     <td>10 days after closing of module<br></td>
   </tr>
   <tr>
