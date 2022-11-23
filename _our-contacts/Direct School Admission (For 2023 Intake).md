@@ -66,12 +66,12 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center">Volleyball<br> </td>
     <td style="text-align:center">Mr Hariharan Subramaniam<br>(<a href="mailto:hariharan_subramaniam@moe.edu.sg">hariharan_subramaniam@moe.edu.sg</a>)</td>
-    <td><br><b>Task 1:</b> Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br><b>Task 2:</b> Game-Play Assessment</td>
+    <td><b>Task 1:</b> Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br><b>Task 2:</b> Game-Play Assessment</td>
   </tr>
   <tr>
     <td style="text-align:center">Choir</td>
     <td style="text-align:center">Ms Kathy Cheong<br>(<a href="mailto:cheong_kah_keh_kathy@moe.edu.sg">cheong_kah_keh_kathy@moe.edu.sg</a>)<br> </td>
-    <td><br><b>Task:</b> Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Choir%202022.pdf" target="_blank">here</a> for the assessment rubrics </td>
+    <td><b>Task:</b> Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Choir%202022.pdf" target="_blank">here</a> for the assessment rubrics </td>
   </tr>
   <tr>
     <td style="text-align:center">Concert Band<br> </td>
