@@ -13,9 +13,9 @@ Future-Ready Ethical Digital Learners.
 
 ### National Digital Literacy Programme (NDLP)
 
-The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready.
+<p style="text-align: justify;">The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready.</p>
 
-The NDLP aims to equip our students with Digital Literacies. Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find, Think, Apply and Create’ framework.
+<p style="text-align: justify;">The NDLP aims to equip our students with Digital Literacies. Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find, Think, Apply and Create’ framework.</p>
 
 ![](/images/Our%20Student%20Life/Personal%20Learning%20Device/Find%20Think%20Apply%20Create.png)
 
@@ -26,21 +26,21 @@ The NDLP aims to equip our students with Digital Literacies. Digital Literacies
 
 ### Our School's Microsite
 
-To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="_blank">here</a> to visit our school's NDLP Microsite.
+<p style="text-align: justify;">To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="_blank">here</a> to visit our school's NDLP Microsite.</p>
 
 ### Device Management Application (DMA)
 
-Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.
+<p style="text-align: justify;">Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.</p>
 
-PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="_blank">here</a>).
+<p style="text-align: justify;">PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="_blank">here</a>).</p>
 
-_**Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.**_
+<p style="text-align: justify;"><b>Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.</b></p>
 
 ### DMA Parent Portal
 
-Parent Portal is available for parents on After-School DMA Parent Default Settings/ Option A.
+<p style="text-align: justify;">Parent Portal is available for parents on After-School DMA Parent Default Settings/ Option A.</p>
 
-Parents/Guardians may refer to the softcopy of the Parent Portal Guides and Video Guides for setup and how to use the available features.
+<p style="text-align: justify;">Parents/Guardians may refer to the softcopy of the Parent Portal Guides and Video Guides for setup and how to use the available features.</p>
 
 **DMA Parent Portal Guides**
 
