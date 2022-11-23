@@ -72,7 +72,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>Appeal</td>
-    <td>10 Nov (12pm noon) to<br>12 Nov (12pm noon)<br></td>
+    <td>8 Nov (12pm noon) to<br>10 Nov (12pm noon)<br></td>
     <td>3 working days<br></td>
   </tr>
   <tr>
