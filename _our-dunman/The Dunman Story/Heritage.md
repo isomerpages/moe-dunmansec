@@ -4,7 +4,7 @@ permalink: /our-dunman/The-Dunman-Story/heritage/
 description: ""
 third_nav_title: The Dunman Story
 ---
-### <span style = "color: black"> <b>The Haig Road Years<br>In the Beginning: Planting a Strong Foundation</b> </span>
+#### <span style = "color: black"> <b>The Haig Road Years<br>In the Beginning: Planting a Strong Foundation</b> </span>
 
 > _“We have every intention of making our school the prestigious school for Katong first, and finally the prestigious school for the whole of Singapore... this is no pipe dream. It is an attainable goal. It may take time, but I am serious - we shall overcome”._
 
