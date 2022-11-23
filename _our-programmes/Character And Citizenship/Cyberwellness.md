@@ -4,19 +4,17 @@ permalink: /our-programmes/character-n-citizenship/cyberwellness/
 description: ""
 third_nav_title: Character And Citizenship
 ---
-# Cyber Wellness
-
-### **Members**
+### Members
 
 <p style="text-align: justify;">The CCE Cyber Wellness Department currently consists of a team of 4 cyber-wellness student ambassadors. These students are pioneers in the planning and execution of cyber-wellness related activities in Dunman Secondary School, starting from this year (2017). We hope to expand our team in the subsequent years.</p>
 
 ![](/images/Department%20Photos/Character%20and%20Citizenship/cyberwellness_1.jpg)
 
-### **Mission/ Objectives of Department**
+### Mission/ Objectives of Department
 
 <p style="text-align: justify;">Through our programmes and initiatives, the Cyber Wellness Department aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.</p>
 
-### **Programmes and Activities**
+### Programmes and Activities
 
 <p style="text-align: justify;">The Cyber Wellness Department have been actively involved in cyber-wellness related activities this year. Firstly, the ambassadors have participated in the East Zone Cyber Wellness Conference, hosted by Ngee Ann Secondary School. Through this conference, the students were equipped with strategies and knowledge on how to carry out activities and initiatives within the school.</p>
 
