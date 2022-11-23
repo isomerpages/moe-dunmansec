@@ -3,16 +3,16 @@ url: https://dunmansec.moe.edu.sg
 favicon: /images/dunman-secondary-school.png
 colors:
   primary-color: "#a61818"
-  secondary-color: "#e9b10a"
+  secondary-color: "#a61818"
   media-colors:
     - title: media-color-one
-      color: "#f5ceaf"
+      color: "#e9b10a"
     - title: media-color-two
-      color: "#f8e7d1"
+      color: "#f5ceaf"
     - title: media-color-three
-      color: "#0d3fe6"
+      color: "#f8e7d1"
     - title: media-color-four
-      color: "#00838f"
+      color: "#0d3fe6"
     - title: media-color-five
       color: "#00838f"
 description: ""
