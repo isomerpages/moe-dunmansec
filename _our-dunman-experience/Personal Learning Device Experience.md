@@ -3,10 +3,6 @@ title: Personal Learning Device Experience
 permalink: /our-school/Our-Student-Life/personal-learning-device/
 description: ""
 ---
-
-
-# Personal Learning Device
-
 ### Mission
 
 Transforming Learners Through Technology.  
