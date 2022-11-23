@@ -51,17 +51,17 @@ Please submit your registration for the school through the DSA portal (Period of
   <tr>
     <td style="text-align:center"> Basketball </td>
     <td style="text-align:center">Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
-    <td><br><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><br><b>Task 2:</b> Game Assessment<br>-	Technique<br>-	Posture</td>
+    <td><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><br><b>Task 2:</b> Game Assessment<br>-	Technique<br>-	Posture</td>
   </tr>
   <tr>
     <td style="text-align:center">Football<br> </td>
     <td style="text-align:center">Mr Harris Alexander<br>(<a href="mailto:harris_alexander@moe.edu.sg">harris_alexander@moe.edu.sg</a>)<br> </td>
-    <td><br><b>Task 1:</b> Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br><br><b>Task 2:</b> Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
+    <td><b>Task 1:</b> Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br><br><b>Task 2:</b> Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
   </tr>
   <tr>
     <td style="text-align:center">Netball<br> </td>
     <td style="text-align:center">Ms Witty Goh<br>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg">goh_wen_ti_witty@moe.edu.sg</a>)</td>
-    <td><br><b>Task 1:</b> Movement ability<br>Focus: Speed, Agility and Balance<br><br><b>Task 2:</b> Technical skills<br>Focus: Ball handling and footwork<br><br><b>Task 3:</b> Game play assessment<br>Focus: Attacking and defending<br></td>
+    <td><b>Task 1:</b> Movement ability<br>Focus: Speed, Agility and Balance<br><br><b>Task 2:</b> Technical skills<br>Focus: Ball handling and footwork<br><br><b>Task 3:</b> Game play assessment<br>Focus: Attacking and defending<br></td>
   </tr>
   <tr>
     <td style="text-align:center">Volleyball<br> </td>
