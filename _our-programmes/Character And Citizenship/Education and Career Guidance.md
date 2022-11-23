@@ -4,13 +4,7 @@ permalink: /our-programmes/character-n-citizenship/education-and-career-guidance
 description: ""
 third_nav_title: Character And Citizenship
 ---
-
-
-
-
-# ITE Course Booklet, 2022 JAE Booklet, 2022 JIE Booklet, The Next Step Forward > 5MB
 # Parent Guide link broken
-# Education and Career Guidance
 
 ### Introduction
 
