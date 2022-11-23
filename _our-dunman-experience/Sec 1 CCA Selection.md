@@ -11,7 +11,7 @@ description: ""
 
 | Uniformed Groups | Performing Arts |  Sports and Games |      Clubs      |
 |:----------------:|:---------------:|:-----------------:|:---------------:|
-| NCC (Air) (Boys) |      Choir      |  Badminton (Boys) |  Info-Comm Club |
+| NCC (Air) (Boys) |      Choir      |  Badminton (Boys) |  Infocomm Club |
 |       NPCC       |   Concert Band  |     Basketball    | Media Club Club |
 |     Red Cross    |      Drama      |  Football (Girls) |    Green Club   |
 |      Scouts      | Guitar Ensemble |  Netball (Girls)  |                 |
