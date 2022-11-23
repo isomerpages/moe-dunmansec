@@ -5,4 +5,4 @@ description: ""
 ---
 ### Secondary 2
 
-![](/images/Student%20Development%20Programme/CCP/Sec2%202022.png)
+![](/images/Department%20Photos/Character%20and%20Citizenship/Sec2%202022.png)
