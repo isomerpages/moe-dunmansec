@@ -61,7 +61,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
     <td>1 day</td>
   </tr>
   <tr>
-    <td>eStreaming Exercise<br>(via <a href="https://www.nstream.sg/login/login.aspx" target="_blank">eStreaming online portal</a>)<br>Compulsory</td>
+    <td>eStreaming Exercise<br>Compulsory</td>
     <td>28 Oct (12pm noon) to<br>1 Nov (12pm noon)<br></td>
     <td>4 days<br></td>
   </tr>
