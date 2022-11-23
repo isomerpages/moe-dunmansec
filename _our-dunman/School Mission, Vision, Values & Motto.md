@@ -27,5 +27,5 @@ To serve and better our school, community and nation.
 ### Philosophy
 <p style="text-align: justify;">Every child has different abilities, can become an enquiring and independent learner, and can learn to accept responsibility for his learning outcome.</p>
 
- <img src="/images/Our%20School/distinctively_dunman.jpg"
+ <img src="/images/School%20Crest%20and%20Song/distinctively_dunman.jpg"
      style="width:40%">
