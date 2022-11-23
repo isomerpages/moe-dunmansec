@@ -71,7 +71,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
     <td>10 days after closing of module<br></td>
   </tr>
   <tr>
-    <td>Appeal</td>
+    <td>Appeal<br>For appeal form, please click <a href="/files/Sec%202%20eStreaming/2022_eStreaming_Letter_of_Appeal.pdf" target="_blank">here</a>.</td>
     <td>8 Nov (12pm noon) to<br>10 Nov (12pm noon)<br></td>
     <td>3 working days<br></td>
   </tr>
