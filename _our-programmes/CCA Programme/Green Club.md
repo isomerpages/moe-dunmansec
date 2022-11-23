@@ -26,7 +26,6 @@ third_nav_title: CCA Programme
 <p style="text-align: justify;">Members of Green club, will be able to learn many new skills. In addition to learning horticulture skills such as plant propagation and care, they will be allowed to choose the enrichment activities that they can partake. Some of these activities include paper origami, flower pressing and making a table lamp using recycled materials, just to name a few. All these experiences ensure that the students are learning beyond the classroom and at the same time, learning how to make Singapore a greener place.</p>
 
 ### Achievements
-
 <p style="text-align: justify;">Members of the Green club will also be given the opportunity to represent the school in many competitions such as the Sembcorp Greenwave Competition. The Community In Bloom Award by NParks and the Biannual Singapore Garden Festival Gardeners’ Cup. </p>
 
 Listed below are some of the achievements that the club has obtained over the past few years.   
