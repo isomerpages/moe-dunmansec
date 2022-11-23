@@ -4,8 +4,6 @@ permalink: /our-special-programmes/ELIXiR/school-wide-programme/
 description: ""
 third_nav_title: ELIXiR
 ---
-# School-wide Programme
-
 ### Programmes and Activities
 
 <b><u><i>Individual Responsibility- School-wide Programmes (For all Secondary 1-5 Students)</i></u></b>
