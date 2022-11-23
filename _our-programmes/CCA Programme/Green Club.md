@@ -45,13 +45,13 @@ Listed below are some of the achievements that the club has obtained over the pa
 2018: Gold   
 2021: Gold
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%207.jpg)
+![](/images/CCA%20Photos/Green%20Club/Picture%207.jpg)
 
 ### Trainings
 
 <p style="text-align: justify;">Training is conducted every Thursday, from 3.30pm to 6pm. During training sessions, students will not only help to maintain the school garden but also work on projects that will help them spread the message of conservation to the school. Most importantly, members will also get to make new friends and bond with one another, hence, enriching their time in Dunman Secondary School.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/Picture%204.jpg)
+![](/images/CCA%20Photos/Green%20Club/Picture%204.jpg)
 
 <p style="text-align: justify;">Dunman Secondary School’s Green club aspires to continue to make the change we want to see in this world and will strive to achieve this mission! </p>
 
