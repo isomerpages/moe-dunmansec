@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Picture1.jpg)
+![](/images/CCA%20Photos/Volleyball/Picture1.jpg)
 
 <p style="text-align: justify;">Dunman's Volleyball CCA provides a vibrant and enriching experience for our student athletes. We value competitive sports for the lessons they teach about leadership teamwork, victory and defeat. Besides just volleyball skills and knowledge, we constantly seek to provide the students in the program with a supportive and engaging environment to develop academically, socially and emotionally too.</p>
 
@@ -21,9 +21,9 @@ This includes:
 *   Individual academic support
 *   Integration of Social-Emotional Learning through Sportsmanship and Leadership
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Picture2.jpg)
+![](/images/CCA%20Photos/Volleyball/Picture2.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/Picture3-min.jpg)
+![](/images/CCA%20Photos/Volleyball/Picture3-min.jpg)
 
 <p style="text-align: justify;">Our volleyball players are also provided vast opportunities to compete in friendly matches leading up to the National School tournaments. We also work closely with post-secondary institutions, Junior Colleges (Nanyang JC), and Polytechnics for Direct School Admission (DSA).</p>
 
