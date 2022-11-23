@@ -3,7 +3,6 @@ title: Heritage Module
 permalink: /our-special-programmes/heritage-module/
 description: ""
 ---
-# Heritage Module
 <p style="text-align: justify;">Heritage Modules aim to impart awareness of the school’s heritage from its humble beginnings; yet historically significant then; as it plays its role as a multi-lingual school in Haig Road to its stellar development in Tampines premises. The modules envision to develop Dunmanites who will walk out of the school portals with a great sense of pride for the school and a mission to impact the community.</p>
 
 The 4 Modules for the 4 levels are as follows:
