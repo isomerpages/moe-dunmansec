@@ -3,20 +3,20 @@ title: School Mission, Vision, Values & Motto
 permalink: /our-dunman/school-mission-vision-values-n-motto/
 description: ""
 ---
-### Vision
+#### Vision
 
 Empathetic Leaders, Impactful Innovators  
 
 
-### Mission
+#### Mission
 
 Nurturing self-directed and inquisitive Dunmanites to lead change in the communities.
 
-### Values
+#### Values
 
 Discernment, Daring, Discipline, Determination, Duty
 
-### The Dunmanite Creed
+#### The Dunmanite Creed
 
 Together you and I will leave  
 As distinctive Dunmanites,  
@@ -27,7 +27,7 @@ Determined in all that we do;
 As it is our Duty  
 To serve and better our school, community and nation.
 
-### Philosophy
+#### Philosophy
 
 <p style="text-align: justify;">Every child has different abilities, can become an enquiring and independent learner, and can learn to accept responsibility for his learning outcome.</p>
 
