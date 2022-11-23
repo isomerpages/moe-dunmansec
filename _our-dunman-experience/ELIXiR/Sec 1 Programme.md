@@ -4,8 +4,6 @@ permalink: /our-special-programmes/ELIXiR/sec-1-programme/
 description: ""
 third_nav_title: ELIXiR
 ---
-# Sec 1 Programme
-
 ### Programmes and Activities
 
 <b><u>Explore Science - Secondary 1 Programme</u></b>
