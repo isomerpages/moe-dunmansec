@@ -6,9 +6,9 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/netball.jpg)
+![](/images/CCA%20Photos/Netball/netball.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Sports%20&%20Games/netball2.jpg)
+![](/images/CCA%20Photos/Netball/netball2.jpg)
 
 <p style="text-align: justify;">If you love team work, speed and challenge, Netball is the game for you! Under the supervision of our coach, Ms Vivian De Silva, you will gain invaluable experiences. You will be taught the various techniques and strategies of playing netball. </p>
 
