@@ -5,8 +5,7 @@ description: ""
 third_nav_title: CCA Programme
 ---
 ### Introduction
-
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/picture%201.jpg)
+![](/images/CCA%20Photos/Green%20Club/picture%201.jpg)
 
 <p style="text-align: justify;">Dunman Secondary School’s Green Club has been serving the school for many years and will continue its mission to empower our students to promote environmental awareness within and beyond the school community through trainings and involvement in community projects and events.</p>
 
@@ -14,9 +13,9 @@ third_nav_title: CCA Programme
 
 <p style="text-align: justify;">The club also embraces and celebrates the school’s past achievements. Dunman Secondary School was one of the first Integrated Schools in Singapore, and it was the first with triple integration. To showcase this milestone, the club has designated a multi-racial garden where herbs and spices commonly used by the three majority ethnic groups of Singaporeans are planted and showcased. Some of these plants include chili, chives and ginger. To honour Singapore’s first police commissioner whom the school was named after, the club has also dedicated a portion of the garden as an English garden where English herbs and flowers are grown.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/picture%205.jpg)
+![](/images/CCA%20Photos/Green%20Club/picture%205.jpg)
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Clubs%20&%20Societies/picture%206.jpg)
+![](/images/CCA%20Photos/Green%20Club/picture%206.jpg)
 
 <p style="text-align: justify;">The club realises that it is integral to include the community to help to spread the message of the importance of conservation. Hence, the club regularly engages its partners in helping to spread these messages. In 2019, the club members taught the children at My First Skool kindergarten the importance of recycling and how to make a self-watering flowerpots using recycled materials. In 2018, the club also went to the All Saints Home to help cheer and teach the elderly how to fold paper flowers using recycled paper. These activities are in line with the club’s mission of forming valuable partnerships to create a green and sustainable environment in Dunman and the community.</p>
 
