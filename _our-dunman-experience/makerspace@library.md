@@ -3,7 +3,6 @@ title: makerspace@library
 permalink: /our-special-programmes/makerspace-at-library/
 description: ""
 ---
-# makerspace@library
 <figure>
 	<img src="/images/Our%20Special%20Programmes/Makerspace@library/image01.jpeg"
      style="width:100%">
