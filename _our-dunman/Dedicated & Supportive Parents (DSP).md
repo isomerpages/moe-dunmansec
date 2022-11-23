@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/DSP/v_2.png)
 
-Click <a href="https://go.gov.sg/dmn-dsp-sign-up" target="_blank">here</a> to sign up and Find us at <a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a> today!
+Click <a href="https://go.gov.sg/dmn-dsp-sign-up" target="_blank">here</a> to sign up and find us at <a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a> today!
 
 ![](/images/DSP/WhoWeAreDSP2022v1.png)
 
