@@ -4,8 +4,6 @@ permalink: /our-special-programmes/ELIXiR/sec-4-programme/
 description: ""
 third_nav_title: ELIXiR
 ---
-# Sec 4 Programme
-
 ### Programmes and Activities
 
 <b><u>eXcel in Science- Secondary 4/5 Programme</u></b>
