@@ -5,7 +5,7 @@ description: ""
 ---
 ### MOE FINANCIAL ASSISTANCE SCHEME (FAS)
 
-The objective of the Financial Assistance Scheme (FAS) is to help needy Singaporean students to meet their basic schooling expenses. The FAS could be funded by MOE or the school.
+<p style="text-align: justify;">The objective of the Financial Assistance Scheme (FAS) is to help needy Singaporean students to meet their basic schooling expenses. The FAS could be funded by MOE or the school.</p>
 
 Detailed information about the household income requirements and benefits can be found on the MOE website: MOE financial assistance scheme ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance))
 
@@ -25,10 +25,10 @@ The MOE Financial Assistance (FAS) Application is now open for application for 2
 
 **Application strictly via hardcopy form is required for below scenario:**
 
-1. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-2. family with more than 5 children in govt school
-3. family with more than 4 unmarried children not in govt school
-4. family with more than 3 grandparents in the household
+a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+b. family with more than 5 children in govt school
+c. family with more than 4 unmarried children not in govt school
+d. family with more than 3 grandparents in the household
 
 
 **Note:**
