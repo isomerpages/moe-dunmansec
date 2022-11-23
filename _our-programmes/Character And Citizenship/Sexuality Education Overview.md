@@ -46,7 +46,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **At Dunman Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
-![](/images/Student%20Development%20Programme/CCP/eTeens.png)
+![](/images/Department%20Photos/Character%20and%20Citizenship/eTeens.png)
 
 ### Information for Parents
 
