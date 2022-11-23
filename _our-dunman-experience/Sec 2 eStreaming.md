@@ -62,7 +62,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>eStreaming Exercise<br>Compulsory</td>
-    <td>28 Oct (12pm noon) to<br>1 Nov (12pm noon)<br></td>
+    <td>26 Oct (12pm noon) to<br>29 Oct (12pm noon)<br></td>
     <td>4 days<br></td>
   </tr>
   <tr>
