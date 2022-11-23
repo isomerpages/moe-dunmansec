@@ -3,9 +3,6 @@ title: Home Based Learning
 permalink: /our-school/Our-Student-Life/home-based-learning/
 description: ""
 ---
-
-# Home Based Learning
-
 ### Sec 1s and Sec 2s HBL (Home-Based Learning) Schedule
 
 Dates: **28 to 30-Jun**  
