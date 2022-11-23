@@ -45,7 +45,8 @@ Listed below are some of the achievements that the club has obtained over the pa
 2018: Gold   
 2021: Gold
 
-![](/images/CCA%20Photos/Green%20Club/Picture%207.jpg)
+<img src="/images/CCA%20Photos/Green%20Club/Picture%207.jpg"
+     style="width:65%">
 
 ### Trainings
 
