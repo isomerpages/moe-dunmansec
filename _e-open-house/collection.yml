@@ -1,5 +1,4 @@
 collections:
   e-open-house:
     output: true
-    order:
-      - e Open House 2022.md
+    order: []
