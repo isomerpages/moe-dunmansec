@@ -16,7 +16,7 @@ description: ""
 
 **Why would you recommend Dunman Secondary School?** 
 
-<p style="text-align: justify;">Overall, Dunman is a good school with helpful and nurturing teachers who believe in you, together with a great school culture where everyone is open to helping others. With various subject combinations, you will be able to choose the subjects that you have an interest in and that are relevant to your post-secondary education as well.<p/>
+<p style="text-align: justify;">Overall, Dunman is a good school with helpful and nurturing teachers who believe in you, together with a great school culture where everyone is open to helping others. With various subject combinations, you will be able to choose the subjects that you have an interest in and that are relevant to your post-secondary education as well.</p>
 
 ### A reflection from Shalyn Loh, Parent of Maxx Ng, 4E 2019
 
