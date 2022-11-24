@@ -18,3 +18,5 @@ You can view the 360 tour from your computer or mobile devices. For interactive 
 Please click <b><a href="https://ths.li/5394El" target="_blank">here</a></b> to view the 360 tour in a new browser tab.
 
 (Download the user guide [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/slot/u194/2021%20eOH/Virtual%20Sch%20Tour/360%20user%20guide.pdf))
+
+To download the appeal form, please click <a href="/files/Sec%202%20eStreaming/2022_eStreaming_Letter_of_Appeal.pdf" target="_blank">here</a>.
