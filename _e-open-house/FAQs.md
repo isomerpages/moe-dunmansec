@@ -29,7 +29,7 @@ Find out more about our CCA programme [**here**](/cca-programme/green-club/).
 **3.        What are the signature programmes of Dunman Secondary?**
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
 
-Please click [**here**](https://dunmansec.moe.edu.sg/our-academic-programme/science-programme) to learn more about our Science curriculum. 
+Please click [**here**](/our-programmes/science-programme/) to learn more about our Science curriculum.
 
 The positive learning experience of our students is not just achieved through our Instructional Program but also through our revised ELIXiR Science Enrichment Programme taking place from 2021 onwards.
 
