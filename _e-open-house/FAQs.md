@@ -47,7 +47,7 @@ We are also currently developing our four-year STEM-infused Science curriculum. 
 
 By infusing STEM in our science curriculum, it provides a platform for students to acquire the fundamental ideas essential for the understanding of Science and thereby build a strong science foundation. In addition, it also allows the students to see the connectivity across various subject disciplines and hopefully to pursue STEM for future learning and work.
 
-The Science enrichment programme is available for all students. You can click [**here**](/our-special-programmes/ELIXiR/) to find out more about our Science enrichment programme.
+The Science enrichment programme is available for all students. You can click [**here**](/our-dunman-experience/ELIXiR/) to find out more about our Science enrichment programme.
 
 We provide a vibrant school-based curriculum such as MEDAL (Mastering English, Drama, the Art of Communication and Literature), which integrates English, Drama and Literature.
 
