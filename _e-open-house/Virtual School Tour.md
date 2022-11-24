@@ -10,8 +10,6 @@ You can view the 360 tour from your computer or mobile devices. For interactive 
 <img src="/images/E%20Open%20House/virtual_sch_tour.png"
      style="width:80%">
 
-### <span style = "color: black">Please click <b><a href="https://ths.li/5394El" target="_blank">here</a></b> to view the 360 tour in a new browser tab.</span>
-
-
+### <p style="text-align: center;"><span style = "color: black">Please click <b><a href="https://ths.li/5394El" target="_blank">here</a></b> to view the 360 tour in a new browser tab.</span></p>
 
 (Download the user guide  <a href="/files/Sec%202%20eStreaming/360_virtual_tour_user_guide.pdf" target="_blank">here</a>.)
