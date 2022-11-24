@@ -3,7 +3,7 @@ title: Why Dunman? An Overview Of the School
 permalink: /e-open-house/why-dunman-an-overview-of-the-school/
 description: ""
 ---
-<p style="text-align: center;"><b>Hear From Our Educators</b></p>
+<p style="text-align: center;"><span style = "color: black"><font size="9"><b>Hear From Our Educators</b></font></span></p>
 
 #### Get To Know Our Vice-Principal
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/aDe3HudbPTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
