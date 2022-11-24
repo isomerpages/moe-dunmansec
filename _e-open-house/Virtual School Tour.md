@@ -3,8 +3,9 @@ title: Virtual School Tour
 permalink: /e-open-house/virtual-school-tour/
 description: ""
 ---
+### Embark On Our Virtual School Tour
 
-Let us take a virtual tour round the school.
+#### Let us take a virtual tour round the school.
 
 
 #### Dunman Secondary School 360 Interactive Virtual School Tour
