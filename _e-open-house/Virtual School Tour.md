@@ -15,6 +15,6 @@ You can view the 360 tour from your computer or mobile devices. For interactive 
 <img src="/images/E%20Open%20House/virtual_sch_tour.png"
      style="width:70%">
 
-Please click [here](https://ths.li/5394El) to view the 360 tour in a new browser tab.
+Please click <b><a href="https://ths.li/5394El" target="_blank">here</a></b> to view the 360 tour in a new browser tab.
 
 (Download the user guide [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/slot/u194/2021%20eOH/Virtual%20Sch%20Tour/360%20user%20guide.pdf))
