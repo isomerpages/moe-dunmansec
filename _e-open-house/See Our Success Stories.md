@@ -6,7 +6,7 @@ description: ""
 ### From Kym Koh, 4C 2015
 
 <img src="/images/E%20Open%20House/Kym%20Koh%204C%202015.jpg"
-     style="width:40%">
+     style="width:25%">
 
 **How has Dunman Secondary helped you grow?**
 
@@ -21,7 +21,7 @@ description: ""
 ### A reflection from Shalyn Loh, Parent of Maxx Ng, 4E 2019
 
 <img src="/images/E%20Open%20House/Parent%20of%20Maxx%20Ng%204E%202019.jpg"
-     style="width:40%">
+     style="width:25%">
 
 <p style="text-align: justify;">You would think that all schools in Singapore are the same, with the syllabus given by MOE. However I witnessed firsthand how Dunman Secondary’s unique culture, mission and values of the school made an impact on the life of my son and me.</p>
 
