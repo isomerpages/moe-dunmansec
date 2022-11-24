@@ -25,4 +25,4 @@ description: ""
 Click <b><a href="https://www.instagram.com/dunmansec/?hl=en" target="_blank">here</a></b> to follow us on Instagram and be the first to catch our creation!
 
 <img src="/images/E%20Open%20House/dmn_instagram.png"
-     style="width:78%">
+     style="width:60%">
