@@ -4,9 +4,13 @@ permalink: /e-open-house/see-our-success-stories/
 description: ""
 ---
 ### From Kym Koh, 4C 2015
+
+<img src="/images/E%20Open%20House/Kym%20Koh%204C%202015.jpg"
+     style="width:60%">
+
 **How has Dunman Secondary helped you grow?**
 
-Dunman had a structure for the leadership journey for the students. From Lower Secondary, there were various opportunities for leadership positions such as through class representatives, CCAs and more. There was also a leadership camp, fully run by alumni and selected Sec 3 leaders, where Sec 2 leaders can get to attend. In Sec 4, they will be putting what they have learnt throughout the years to plan for the Sec 1 orientation camp. Throughout these experiences, many lessons have been learnt and it had helped me to grow and understand myself better both as a person and as a leader.
+<p style="text-align: justify;">Dunman had a structure for the leadership journey for the students. From Lower Secondary, there were various opportunities for leadership positions such as through class representatives, CCAs and more. There was also a leadership camp, fully run by alumni and selected Sec 3 leaders, where Sec 2 leaders can get to attend. In Sec 4, they will be putting what they have learnt throughout the years to plan for the Sec 1 orientation camp. Throughout these experiences, many lessons have been learnt and it had helped me to grow and understand myself better both as a person and as a leader.</p>
 
 The teachers in Dunman were also very friendly and helpful! In Upper Secondary, my classmates and I got closer to my teachers and we were as close as friends! They were always willing to answer our questions and relieve any doubts that we have. They would never discriminate you just because you are a slower learner and they always supported us every step of the way! I still keep in contact with some of my teachers although it has been 6 years since I last graduated!
 
@@ -15,6 +19,9 @@ The teachers in Dunman were also very friendly and helpful! In Upper Secondary, 
 Overall, Dunman is a good school with helpful and nurturing teachers who believe in you, together with a great school culture where everyone is open to helping others. With various subject combinations, you will be able to choose the subjects that you have an interest in and that are relevant to your post-secondary education as well.
 
 ### A reflection from Shalyn Loh, Parent of Maxx Ng, 4E 2019
+
+<img src="/images/E%20Open%20House/Parent%20of%20Maxx%20Ng%204E%202019.jpg"
+     style="width:60%">
 
 You would think that all schools in Singapore are the same, with the syllabus given by MOE. However I witnessed firsthand how Dunman Secondary’s unique culture, mission and values of the school made an impact on the life of my son and me. 
 
