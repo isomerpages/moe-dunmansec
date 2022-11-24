@@ -24,7 +24,7 @@ All Secondary 1 students will be allocated a CCA based on one of five choices th
 
 Students are reminded to make their choices wisely as they may not be allocated a CCA of their first choice in cases where the CCA is oversubscribed and they may be allocated choices other than their first choice.
 
-Find out more about our CCA programme [**here**](/cca-programme/green-club/).
+Find out more about our CCA programme [**here**](/our-programmes/cca-programme/green-club/).
 
 **3.        What are the signature programmes of Dunman Secondary?**
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
