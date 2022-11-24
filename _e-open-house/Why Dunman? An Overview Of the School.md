@@ -5,21 +5,21 @@ description: ""
 ---
 ### Hear From Our Educators
 #### Get To Know Our Vice-Principal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aDe3HudbPTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/aDe3HudbPTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### Get To Know Our Science Teachers
-<iframe width="560" height="315" src="https://www.youtube.com/embed/33Kacyd0VmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/33Kacyd0VmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### Get To Know Our Humanities Teacher
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WEznVqLr2Lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/WEznVqLr2Lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### Hear From Our Students
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BEjBZx4fMSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BEjBZx4fMSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### Get To Know Our Student Leaders
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fpS-pSbW_IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fpS-pSbW_IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### Our Distinguished Heritage
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umOYsTHpQ1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/umOYsTHpQ1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Click [**here**](https://www.instagram.com/dunmansec/?hl=en) to follow us on Instagram and be the first to catch our creation!
