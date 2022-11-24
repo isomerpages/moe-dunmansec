@@ -3,7 +3,7 @@ title: Virtual School Tour
 permalink: /e-open-house/virtual-school-tour/
 description: ""
 ---
-### Embark On Our Virtual School Tour
+<p style="text-align: center;"> Embark On Our Virtual School Tour</p>
 
 #### Let us take a virtual tour round the school.
 
