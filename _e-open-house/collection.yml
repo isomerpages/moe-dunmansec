@@ -2,4 +2,5 @@ collections:
   e-open-house:
     output: true
     order:
+      - Why Dunman? An Overview Of the School.md
       - e Open House 12 Nov 2022 Registration and FAQs.md
