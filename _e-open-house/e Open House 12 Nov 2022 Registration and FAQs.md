@@ -3,7 +3,7 @@ title: e Open House 12 Nov 2022 Registration and FAQs
 permalink: /e-open-house/permalink/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
