@@ -140,7 +140,7 @@ third_nav_title: Character And Citizenship
   </tr>
   <tr>
     <td>Parent Guide<br> </td>
-    <td><a href="https://www.moe.gov.sg/microsites/ecg-parent-guide/">https://www.moe.gov.sg/microsites/ecg-parent-guide/</a></td>
+    <td><a href="https://www.moe.gov.sg/parentkit">https://www.moe.gov.sg/parentkit</a></td>
     <td>A guide for parents/guardians in ECG</td>
   </tr>
   <tr>
