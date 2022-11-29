@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/red_cross.jpg)
+![](/images/CCA%20Photos/Red%20Cross/red_cross.jpg)
 
 <p style="text-align: justify;">Dunman Red Cross Youth (RCY) is part of Singapore Red Cross Society. It is a unique uniformed-group made up by discerning individuals who have chosen to make their secondary school life purposeful by engaging the community through first-aid related services.</p> 
 
