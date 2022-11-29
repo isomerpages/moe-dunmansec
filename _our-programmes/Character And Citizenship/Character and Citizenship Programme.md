@@ -47,13 +47,7 @@ third_nav_title: Character And Citizenship
 
 ![](/images/Department%20Photos/Character%20and%20Citizenship/cyberwellness_3.jpg)
 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/think_again.jpg"
-     style="width:50%;float:left">
-		 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/halt.png"
-     style="width:40%;float:left">
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/cw_flow.png)
+![](/images/Department%20Photos/Character%20and%20Citizenship/CW%20Programme.png)
 
 #### Education and Career Guidance (ECG) Programme
 
