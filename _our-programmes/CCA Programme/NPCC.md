@@ -41,7 +41,6 @@ third_nav_title: CCA Programme
 ![](/images/CCA%20Photos/NPCC/PYAMag_2020_6.png)
 
 <p style="text-align: justify;">Our cadets also participated in ad-hoc competitions organised by NPCC HQ, such as the NPCC Cadet Learning Video Competition 2021. A group of Secondary 3 cadets produced a short video on the harmful effects of drug use and emerged as the top 3 schools amongst 19 submissions.</p>
-
 Click <a href="https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031" target="_blank">here</a> to view the video on Facebook.
 
 ### Trainings
