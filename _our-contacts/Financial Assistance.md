@@ -37,7 +37,9 @@ description: ""
 **Note:**
 
 <b>i.</b> If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
-<b>ii.</b> School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
+
+<b>ii.</b> School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.
+
 <b>iii.</b> Please get ready all softcopy supporting documents to be prepared in advance.  
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
