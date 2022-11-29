@@ -42,6 +42,8 @@ The programme consists of:
 
 Click [here](https://sites.google.com/moe.edu.sg/mdd2020/home) to view their masterpieces.
 
+Click <a href="https://sites.google.com/moe.edu.sg/mdd2020/home" target="_blank">here</a> to view their masterpieces.
+
 #### 2) MEDAL Programme For Lower Secondary Students
 
 MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **L**iterature.
