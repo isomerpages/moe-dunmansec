@@ -44,7 +44,7 @@ description: ""
 
 If you have any queries, please contact the school at Tel: 6786 2668 or you can email us at [dunman\_ss@moe.edu.sg](mailto:dunman_ss@moe.edu.sg).
 
-Parents who want to know more about MOE FAS and the eligibility calculator can visit MOE website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).
+Parents who want to know more about MOE FAS and the eligibility calculator can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.
 
 ### SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (FAS)
 
