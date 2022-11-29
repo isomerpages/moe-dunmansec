@@ -25,20 +25,20 @@ Detailed information about the household income requirements and benefits can be
 
 **Application strictly via hardcopy form is required for below scenario:**
 
-a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+<b>a.</b> families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 
-b. family with more than 5 children in govt school
+<b>b.</b> family with more than 5 children in govt school
 
-c. family with more than 4 unmarried children not in govt school
+<b>c.</b> family with more than 4 unmarried children not in govt school
 
-d. family with more than 3 grandparents in the household
+<b>d.</b> family with more than 3 grandparents in the household
 
 
 **Note:**
 
-i. If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
-ii. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
-iii. Please get ready all softcopy supporting documents to be prepared in advance.  
+<b>i.</b> If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
+<b>ii.</b> School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
+<b>iii.</b> Please get ready all softcopy supporting documents to be prepared in advance.  
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
