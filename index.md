@@ -14,7 +14,7 @@ sections:
           url: /announcements/2022-exam-timetable/
         - title: Events
           description: Click here for upcoming events
-          url: https://dunmansec.moe.edu.sg/
+          url: /events/
   - infopic:
       title: e-Open House 2022
       description: Our e-Open House was on 12 November 2022
