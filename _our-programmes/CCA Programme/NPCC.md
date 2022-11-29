@@ -70,7 +70,7 @@ Click [here](https://www.facebook.com/NationalPoliceCadetCorps/videos/5947137050
 
 <p style="text-align: justify;">Let us now hear from some of our cadets and why you should join Dunman NPCC!</p>
 
-<p style="text-align: justify;"><iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 **Training Details**  
 
