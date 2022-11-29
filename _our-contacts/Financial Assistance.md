@@ -17,7 +17,7 @@ description: ""
 
 (i) eFAS <a href="https://go.gov.sg/moe-efas" target="_blank">https://go.gov.sg/moe-efas</a>
 
-**or  (ii) [Hardcopy form](https://dunmansec.moe.edu.sg/qql/slot/u194/pdf/2023%20FAS/MOE-FAS-Application-Form-2023.pdf).**
+**or  (ii) <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">Hardcopy form</a>.**
 
 2. Both the link for eFAS and hardcopy application form is attached in this notification, including the QR code.
 
