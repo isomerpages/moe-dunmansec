@@ -40,8 +40,6 @@ The programme consists of:
 
 <p style="text-align: justify;">Due to the constraints of COVID, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary.</p>
 
-Click [here](https://sites.google.com/moe.edu.sg/mdd2020/home) to view their masterpieces.
-
 Click <a href="https://sites.google.com/moe.edu.sg/mdd2020/home" target="_blank">here</a> to view their masterpieces.
 
 #### 2) MEDAL Programme For Lower Secondary Students
