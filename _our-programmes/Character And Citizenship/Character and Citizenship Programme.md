@@ -67,26 +67,25 @@ third_nav_title: Character And Citizenship
 
 <p style="text-align: justify;">Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.</p>
 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%201.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECG%201.jpg"
      style="width:50%;float:left">
 		 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%203.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECG%203.jpg"
      style="width:50%;float:left">
 
 <br><br><br><br><br><br><br>
 	
-<img src="/images/Student%20Development%20Programme/CCP/ECG%204.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECG%204.jpg"
      style="width:50%;float:left">
 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%206.jpeg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECG%206.jpeg"
      style="width:50%;float:left">
+<br><br><br><br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<img src="/images/Student%20Development%20Programme/CCP/ECg%205.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECg%205.jpg"
      style="width:50%;float:left">
 		 
-<img src="/images/Student%20Development%20Programme/CCP/ECG%202.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/ECG%202.jpg"
      style="width:50%;float:left">
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -94,18 +93,18 @@ third_nav_title: Character And Citizenship
 
 <p style="text-align: justify;">The Values In Action (VIA) Programme aims to expose students to age-appropriate experiences that promote care, volunteerism and social entrepreneurship in different areas/ways. Through the Design Thinking approach, students will be taught not only how to define the problem but also generate alternative solutions, choose and implement the most appropriate one and evaluate the resulting outcome to solve real-world issues.</p>
 
-<img src="/images/Student%20Development%20Programme/CCP/VIA%20Photo.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/VIA%20Photo.jpg"
      style="width:50%;float:left">
 
-<img src="/images/Student%20Development%20Programme/CCP/VIA%20photo%202.jpeg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/VIA%20photo%202.jpeg"
      style="width:50%;float:left">
 
 <br><br><br><br><br><br>
 
-<img src="/images/Student%20Development%20Programme/CCP/bookmarks.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/bookmarks.jpg"
      style="width:50%;float:left">
 
-<img src="/images/Student%20Development%20Programme/CCP/taxi1.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/taxi1.jpg"
      style="width:50%;float:left">
 		 
 		 
@@ -117,8 +116,8 @@ third_nav_title: Character And Citizenship
 #### National Education Programme
 <p style="text-align: justify;">The goal of the National Education Programme is to develop national cohesion, cultivate the instinct for survival as a nation and boost student confidence in our nation’s future.</p>
 
-<img src="/images/Student%20Development%20Programme/CCP/NE%20photo%202.jpeg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/NE%20photo%202.jpeg"
      style="width:60%;float:left">
 
-<img src="/images/Student%20Development%20Programme/CCP/NE%20Class.jpg"
+<img src="/images/Department%20Photos/Character%20and%20Citizenship/NE%20Class.jpg"
      style="width:40%;float:left">
