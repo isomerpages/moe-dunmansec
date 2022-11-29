@@ -42,4 +42,4 @@ description: ""
      style="width:65%">
 
 #### 2) ELIXiR STEM Programme
-For more information on this programme, click on the link <a href="/our-special-programmes/ELIXiR/" target="_blank">here</a>.
+For more information on this programme, click on the link <a href="/our-dunman-experience/ELIXiR/" target="_blank">here</a>.
