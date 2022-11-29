@@ -9,6 +9,8 @@ description: ""
 
 Detailed information about the household income requirements and benefits can be found on the MOE website: MOE financial assistance scheme ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance))
 
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+
 ### MOE FAS Application Exercise 2023
 
 <p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2023.</p>
