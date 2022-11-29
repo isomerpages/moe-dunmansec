@@ -20,19 +20,11 @@ third_nav_title: Character And Citizenship
 #### Assembly Programme
 <p style="text-align: justify;">The Assembly Programme in Dunman Secondary School is closely link to the total curriculum programme of nurturing students holistically. Its objectives are to build a school spirit and identity as well as to showcase projects and talents through a variety of performances, talks and specialised events organised both internally and externally.</p>
 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/Assembly%201.jpg"
-     style="width:50%;float:left">
-
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/Assembly%202.jpg"
-     style="width:50%">
+![](/images/Department%20Photos/Character%20and%20Citizenship/CCE%20Assembly%20Talk.png)
 
 <p style="text-align: center;"><i>Feel the Power Assembly Talk</i></p>
 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/Speak%20Good%20EL%20Week%20Photo%202.jpg"
-     style="width:50%;float:left">
-		 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/Speak%20Good%20EL%20Week%20Photo%201.jpg"
-     style="width:50%;float:left">
+![](/images/Department%20Photos/Character%20and%20Citizenship/Speak%20Good%20EL%20Week.png)
 		 
 <p style="text-align: center;"><i>Speak Good English Week Assembly Programme</i></p>
 
