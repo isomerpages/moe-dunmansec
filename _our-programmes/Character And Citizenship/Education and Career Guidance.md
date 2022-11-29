@@ -16,7 +16,7 @@ third_nav_title: Character And Citizenship
 
 <p style="text-align: justify;">To make an appointment with Ms Pauline Low, ECG Counsellor, please click <a href="https://go.gov.sg/hblecg" target="_blank">here</a>.</p>
 
-![](/images/Student%20Development%20Programme/CCP/ECG%20Appt%20QR%20Code.png)
+![](/images/Department%20Photos/Character%20and%20Citizenship/ECG%20Appt%20QR%20Code.png)
 
 ### Academic Pathways Exploration
 
