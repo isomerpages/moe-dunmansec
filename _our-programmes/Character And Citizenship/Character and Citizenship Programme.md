@@ -53,7 +53,7 @@ third_nav_title: Character And Citizenship
 
 <p style="text-align: justify;">Through our programmes and initiatives, the Cyber-Wellness Committee aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.</p>
 
-![](/images/Student%20Development%20Programme/CCP/CW%20Pic.jpg)
+![](/images/Department%20Photos/Character%20and%20Citizenship/cyberwellness_3.jpg)
 
 <img src="/images/Student%20Development%20Programme/CCP/think_again.jpg"
      style="width:50%;float:left">
