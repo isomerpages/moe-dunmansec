@@ -13,7 +13,10 @@ description: ""
 
 <p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2023.</p>
 
-1. We have attached the [FAS Application Form](/files/Administration/MOE-FAS-Application-Form-2023.pdf) for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
+1. We have attached the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">FAS Application Form</a>
+2. 
+3.  
+4.    [FAS Application Form](/files/Administration/MOE-FAS-Application-Form-2023.pdf) for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
 
 (i) eFAS ([https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas))     
 
