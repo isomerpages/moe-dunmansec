@@ -25,22 +25,22 @@ description: ""
 
 **Application strictly via hardcopy form is required for below scenario:**
 
-<b>a.</b> families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+**a.** families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
 
-<b>b.</b> family with more than 5 children in govt school
+**b.** family with more than 5 children in govt school
 
-<b>c.</b> family with more than 4 unmarried children not in govt school
+**c.** family with more than 4 unmarried children not in govt school
 
-<b>d.</b> family with more than 3 grandparents in the household
+**d.** family with more than 3 grandparents in the household
 
 
 **Note:**
 
-<b>i.</b> If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
+**i.** If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
 
-<b>ii.</b> School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.
+**ii.** School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.
 
-<b>iii.</b> Please get ready all softcopy supporting documents to be prepared in advance.  
+**iii.** Please get ready all softcopy supporting documents to be prepared in advance.  
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
