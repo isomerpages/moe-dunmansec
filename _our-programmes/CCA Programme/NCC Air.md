@@ -36,6 +36,8 @@ These numerous activities act as a platform through which our cadets are exposed
 
 As a uniformed group, drills form an integral part of our training. This is where respect, discipline, perseverance and sheer grit are inculcated into our cadets. In this aspect, we are proud to share that our cadets are well-trained and play an important part in various school parades.
 
+For more information on this programme, click on the link <a href="/our-dunman-experience/ELIXiR/" target="_blank">here</a>.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6uagYwCinQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our training is however not limited to the “AIR” syllabus. Our cadets play different sports during training and take part in competitions such as soccer where they achieved third position in the district finals. In doing so, our cadets learn the values of sportsmanship and teamwork, while building camaraderie between themselves and with cadets from other schools.
