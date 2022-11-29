@@ -93,11 +93,9 @@ description: ""
 
 ### For general DSA enquiry, please contact
 
-Mr Ron Tan  
-SH Student Leadership/CCA   
-[tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)
 
 
-Mr Teo Khong Beng  
-HOD PE/CCA   
-[teo\_khong\_beng@moe.edu.sg](mailto:teo_khong_beng@moe.edu.sg)
+|  | Email Address |
+| -------- | -------- |
+| Mr Ron Tan<br>SH Student Leadership/CCA     | [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)     |
+| Mr Teo Khong Beng<br>HOD PE/CCA       | [teo\_khong\_beng@moe.edu.sg](mailto:teo_khong_beng@moe.edu.sg)     |
