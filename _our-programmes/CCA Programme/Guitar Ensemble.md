@@ -12,7 +12,7 @@ third_nav_title: CCA Programme
 
 ### Achievements
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t7P9bnWVyjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/t7P9bnWVyjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align: justify;">In 2011, the Dunman Guitar Ensemble clinched the Gold with Honours award. In 2013, 2017, 2019 and 2021 they achieved the Certificate of Distinction in the Singapore Youth Festival Arts Presentation.</p>
 
