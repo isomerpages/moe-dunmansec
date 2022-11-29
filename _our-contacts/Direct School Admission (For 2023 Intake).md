@@ -12,17 +12,17 @@ description: ""
 
 ### Selection Considerations:
 
-a) Past years CCA track records (no submission of document is needed).
+<b>a)</b> Past years CCA track records (no submission of document is needed).
 
-b) Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview.
+<b>b)</b> Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview.
 
-c) All trial/audition and interview will be conducted physically on the school campus.
+<b>c)</b> All trial/audition and interview will be conducted physically on the school campus.
 
-d) You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
+<b>d)</b> You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
 
 ### Registration:
 
-Please submit your registration for the school through the DSA portal (Period of registration: TBC)
+<p style="text-align: justify;">Please submit your registration for the school through the DSA portal (Period of registration: TBC)</p>
 
 ### Information on the various talent areas
 
