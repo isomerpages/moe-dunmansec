@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/2019%20Band.jpg)
+![](/images/CCA%20Photos/Concert%20Band/2019%20Band.jpg)
 
 <p style="text-align: justify;">Dunman Concert Band has always been a distinguished CCA in the history of our school. Founded in 1969, it consists of three instrumental families: Brass, Percussion and Woodwind. </p>
 
