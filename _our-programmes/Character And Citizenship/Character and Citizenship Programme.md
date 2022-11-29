@@ -55,8 +55,6 @@ third_nav_title: Character And Citizenship
 
 ![](/images/Department%20Photos/Character%20and%20Citizenship/cyberwellness_3.jpg)
 
-
-
 <img src="/images/Department%20Photos/Character%20and%20Citizenship/think_again.jpg"
      style="width:50%;float:left">
 		 
