@@ -10,15 +10,15 @@ third_nav_title: CCA Programme
 
 ### Mission
 
-To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
+<p style="text-align: justify;">To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.</p>
 
 ### Vision
 
-To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
+<p style="text-align: justify;">To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.</p>
 
 ### Achievements
 
-In the past few years, the NPCC Unit in Dunman Secondary School has achieved stellar results in the Unit Overall Proficiency Award (UOPA).
+<p style="text-align: justify;">In the past few years, the NPCC Unit in Dunman Secondary School has achieved stellar results in the Unit Overall Proficiency Award (UOPA).</p>
 
 *   2017 – Silver
 *   2018 – Gold
@@ -28,9 +28,9 @@ In the past few years, the NPCC Unit in Dunman Secondary School has achieved st
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/UOPA_2018.jpeg)
 
-In 2019, the unit participated in the NPCC Inter-Unit Drills Competition. During the 2019 Year-End holidays, selected Secondary 2 to 4 cadets were also preparing for the biennial NPCC Inter-Unit Campcraft Competition to be held in February 2020.
+<p style="text-align: justify;">In 2019, the unit participated in the NPCC Inter-Unit Drills Competition. During the 2019 Year-End holidays, selected Secondary 2 to 4 cadets were also preparing for the biennial NPCC Inter-Unit Campcraft Competition to be held in February 2020.</p>
 
-Besides participating in competitions, our cadets contributed to publications for the biannual Police Youth Ambassador (PYA) magazine. The unit submitted four articles which were all featured in the December 2020 issue.
+<p style="text-align: justify;">Besides participating in competitions, our cadets contributed to publications for the biannual Police Youth Ambassador (PYA) magazine. The unit submitted four articles which were all featured in the December 2020 issue.</p>
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/PYAMag_2020_1.png)
 
@@ -40,35 +40,35 @@ Besides participating in competitions, our cadets contributed to publications fo
 
 ![](/images/Student%20Development%20Programme/CCA%20Programme/Uniformed%20Groups/NPCC/PYAMag_2020_6.png)
 
-Our cadets also participated in ad-hoc competitions organised by NPCC HQ, such as the NPCC Cadet Learning Video Competition 2021. A group of Secondary 3 cadets produced a short video on the harmful effects of drug use and emerged as the top 3 schools amongst 19 submissions.
+<p style="text-align: justify;">Our cadets also participated in ad-hoc competitions organised by NPCC HQ, such as the NPCC Cadet Learning Video Competition 2021. A group of Secondary 3 cadets produced a short video on the harmful effects of drug use and emerged as the top 3 schools amongst 19 submissions.</p>
 
 Click [here](https://www.facebook.com/NationalPoliceCadetCorps/videos/594713705004031) to view the video on Facebook.
 
 ### Trainings
 
-As the COVID situation improves in 2022, the Corps actively participated in many interesting events to engage our cadets and challenge them. As part of exposure to the work of the Singapore Police Force (SPF), the Secondary 1 cadets visited the Tampines Neighbourhood Police Centre (NPC) and got to better understand the operational work of the SPF and how law and order is enforced.
+<p style="text-align: justify;">As the COVID situation improves in 2022, the Corps actively participated in many interesting events to engage our cadets and challenge them. As part of exposure to the work of the Singapore Police Force (SPF), the Secondary 1 cadets visited the Tampines Neighbourhood Police Centre (NPC) and got to better understand the operational work of the SPF and how law and order is enforced.</p>
 
 ![](/images/CCA%20Photos/NPCC/Sec%201%20Visit%20To%20Tampines%20NPC.png)
 
-Our Secondary 1 cadets also get to go through enrichment activities such as Dragonboating. While not directly related to police work, such enrichment activities foster camaraderie amongst the Secondary 1 cadets and builds up their team spirit which is crucial as they take on more important roles with the Corps as they progress.
+<p style="text-align: justify;">Our Secondary 1 cadets also get to go through enrichment activities such as Dragonboating. While not directly related to police work, such enrichment activities foster camaraderie amongst the Secondary 1 cadets and builds up their team spirit which is crucial as they take on more important roles with the Corps as they progress.</p>
 
 ![](/images/CCA%20Photos/NPCC/Sec%201%20Dragonboating.jpg)
 
-Our Secondary 3 cadet leaders’ first challenge of the year was to plan for the Unit Camp which was held over 2 days during the March holidays and involved the Secondary 1 and 2 cadets as participants. The planning and running of the camp was not smooth sailing throughout as the Secondary 3 cadets lack camp experience. However, with their tenacity and resilience as well as support provided by the teachers, alumni volunteers and Secondary 4s, the Secondary 3s managed to overcome the challenges faced.
+<p style="text-align: justify;">Our Secondary 3 cadet leaders’ first challenge of the year was to plan for the Unit Camp which was held over 2 days during the March holidays and involved the Secondary 1 and 2 cadets as participants. The planning and running of the camp was not smooth sailing throughout as the Secondary 3 cadets lack camp experience. However, with their tenacity and resilience as well as support provided by the teachers, alumni volunteers and Secondary 4s, the Secondary 3s managed to overcome the challenges faced.</p>
 
 ![](/images/CCA%20Photos/NPCC/UnitCamp.jpg)
 
-The annual Adventure Training Camp (ATC) at Pulau Ubin is one of the highlights for Secondary 2 cadets. The camp is usually a 3 day 2 night camp organised by cadet inspectors. With the segmented resumption of camps and face-to-face activities, our Secondary 2 and 3 cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were challenged with a 3km hike to the NPCC Campsite and then engaged in a series of activities which include a pioneering competition and field cooking. The cadets had an enriching experience and displayed much perseverance throughout the day.
+<p style="text-align: justify;">The annual Adventure Training Camp (ATC) at Pulau Ubin is one of the highlights for Secondary 2 cadets. The camp is usually a 3 day 2 night camp organised by cadet inspectors. With the segmented resumption of camps and face-to-face activities, our Secondary 2 and 3 cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were challenged with a 3km hike to the NPCC Campsite and then engaged in a series of activities which include a pioneering competition and field cooking. The cadets had an enriching experience and displayed much perseverance throughout the day.</p>
 
 ![](/images/CCA%20Photos/NPCC/ATC%201%20to%204.jpg)
 
-Educating the public forms a significant part of police work and the Secondary 2 and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.
+<p style="text-align: justify;">Educating the public forms a significant part of police work and the Secondary 2 and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.</p>
 
 ![](/images/CCA%20Photos/NPCC/CSSP%20&%20PYA.jpg)
 
-2022 proved to be a challenging year as the Corps transits into pre-COVID modus operandi while ensuring the readiness and safety our cadets, alumni volunteers and teachers. We look forward to 2023 which will prove to be a challenging yet fulfilling year.
+<p style="text-align: justify;">2022 proved to be a challenging year as the Corps transits into pre-COVID modus operandi while ensuring the readiness and safety our cadets, alumni volunteers and teachers. We look forward to 2023 which will prove to be a challenging yet fulfilling year.</p>
 
-Let us now hear from some of our cadets and why you should join Dunman NPCC!
+<p style="text-align: justify;">Let us now hear from some of our cadets and why you should join Dunman NPCC!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdUDVwzU5p0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
