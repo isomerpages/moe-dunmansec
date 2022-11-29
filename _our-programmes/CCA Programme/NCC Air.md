@@ -38,7 +38,7 @@ third_nav_title: CCA Programme
 
 <img src="/images/CCA%20Photos/NCC%20Air/NCC%20Air%20Video%201%20Pic.png"
      style="width:78%">
-<p style="text-align: center;">Click <a href="https://www.youtube.com/embed/x6uagYwCinQ" target="_blank">here</a> to view the video on Youtube.</p>
+<p style="text-align: center;"> Click <a href="https://www.youtube.com/embed/x6uagYwCinQ" target="_blank">here</a> to view the video on Youtube.</p>
 
 <p style="text-align: justify;">Our training is however not limited to the “AIR” syllabus. Our cadets play different sports during training and take part in competitions such as soccer where they achieved third position in the district finals. In doing so, our cadets learn the values of sportsmanship and teamwork, while building camaraderie between themselves and with cadets from other schools.</p>
 
