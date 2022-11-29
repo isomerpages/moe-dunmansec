@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/string_ensemble.jpg)
+![](/images/CCA%20Photos/String%20Ensemble/string_ensemble.jpg)
 
 <p style="text-align: justify;">Dunman Secondary School's String Orchestra is an orchestra composed solely or primarily of instruments from the string family. These instruments are the violin, the viola, the cello and the double bass. A piano is sometimes used to accompany the orchestra.</p>
 
