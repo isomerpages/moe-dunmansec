@@ -6,7 +6,7 @@ third_nav_title: CCA Programme
 ---
 ### Introduction
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/Dunman%20Secondary%20School%20Guitar%20Ensemble%20SYF%202021.jpg)
+![](/images/CCA%20Photos/Guitar%20Ensemble/Dunman%20Secondary%20School%20Guitar%20Ensemble%20SYF%202021.jpg)
 
 <p style="text-align: justify;">The Dunman Guitar Ensemble, led by instructor Mr. Kevin Yeo, is a prominent performing arts CCA in the school. The Dunman Guitar Ensemble adopts the Niibori Instrumentation that hails from Fujisawa, Tokyo. The variety of guitars used in our ensemble follows that of an orchestra and are known as the Soprano, Alto, Alto Cembalo, Prime, Bass, Contrabass and even the Guitarron! These guitars produce very different sounds, which widen the orchestral range of the songs produced by the Ensemble, and allow them to produce much more refined and interesting music. This is definitely a unique feature of Dunman's Guitar Ensemble, as not every school has such a privilege.</p>
 
