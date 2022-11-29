@@ -30,7 +30,7 @@ third_nav_title: Character And Citizenship
 
 ![](/images/Department%20Photos/Character%20and%20Citizenship/Dance.jpg)
 
-<p style="text-align: center;">Dance Item by Dunman Dancers</p>
+<p style="text-align: center;"><i>Dance Item by Dunman Dancers</i></p>
 
 #### Character and Citizenship Education (CCE) Lessons
 <p style="text-align: justify;">The goal of the CCE lessons is to inculcate values and build competencies in our students so as to develop them not just to be good individuals but useful citizens. Students are engaged and enriched through the special crafted in-house heritage modules where students learn about the school’s rich history. Student leaders also conduct leadership modules for their peer during CCE lessons using the leadership challenge model.</p>
