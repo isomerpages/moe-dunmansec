@@ -9,7 +9,7 @@ description: ""
 
 <p style="text-align: justify;"><b>From 17 Feb 2020 onwards, the school will be using the PG app as the main communication channel with all parents.</b></p>
 
-<p style="text-align: justify;">Please click <a href="/files/Announcements/PG%20Annex%20A.pdf" target="_blank">here</a> to download user guide to install **Parents Gateway (PG)** App for Android and iOS devices.</p>
+<p style="text-align: justify;">Please click <a href="/files/Announcements/PG%20Annex%20A.pdf" target="_blank">here</a> to download user guide to install <b>Parents Gateway (PG)</b> App for Android and iOS devices.</p>
 
 <p style="text-align: justify;">Please click <a href="https://pg.moe.edu.sg/faq" target="_blank">here</a> for FAQs.</p>
 
