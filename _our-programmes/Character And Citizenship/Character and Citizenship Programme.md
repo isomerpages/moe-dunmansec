@@ -71,8 +71,4 @@ third_nav_title: Character And Citizenship
 #### National Education Programme
 <p style="text-align: justify;">The goal of the National Education Programme is to develop national cohesion, cultivate the instinct for survival as a nation and boost student confidence in our nation’s future.</p>
 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/NE%20photo%202.jpeg"
-     style="width:60%;float:left">
-
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/NE%20Class.jpg"
-     style="width:40%;float:left">
+![](/images/Department%20Photos/Character%20and%20Citizenship/NE%20Programme.png)
