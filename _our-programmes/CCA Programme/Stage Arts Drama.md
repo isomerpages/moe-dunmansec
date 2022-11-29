@@ -18,7 +18,7 @@ StageArts Drama train our members to live in the spirit of performance, encompas
 * We are committed and disciplined;
 * We always want to do the best for our team.
 
-We believe the spirit of performance encompasses life skills that stay with members throughout their lives and allow them to apply these skills in situations within and beyond the school context.
+<p style="text-align: justify;">We believe the spirit of performance encompasses life skills that stay with members throughout their lives and allow them to apply these skills in situations within and beyond the school context.</p>
 
 Each StageArts Drama member is known as a Drama StageArtisan.
 
