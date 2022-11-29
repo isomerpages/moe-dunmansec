@@ -7,7 +7,7 @@ third_nav_title: CCA Programme
 ### Introduction
 <p style="text-align: justify;">The choir is directed by the conductor Mr Toh Ban Sheng and supported by a committed team of teachers. Our Choir made history as the first neighbourhood school choir to clinch Gold in the demanding Singapore Youth Festival (SYF) Choral Competition in 1997. Since then, the Choir continues to attain Gold at SYF in 1999, 2003, and 2005, the prestigious Gold (with Honours) award in 2007, 2009 and 2011 at the SYF and the Distinction award at the 2013, 2015, 2017 and 2019 Singapore Youth Festival Arts Presentations (SYF AP). Together with other school choirs, despite the challenges of the worldwide COVID-19 situation, we also participated in SYF AP 2021, where our choir members got to experience recording our choice piece for the first time.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/2019%20Choir%201.jpg)
+![](/images/CCA%20Photos/Choir/2019%20Choir%201.jpg)
 
 <p style="text-align: justify;">The inaugural overseas tour to Sydney in 1996 was featured in Straits Times, a first among the neighbourhood school then. The past overseas tour to London & Paris (1998), New Zealand (2000), Prague (2003), Czech Republic-Poland-Austria (2005), Bratislava -Slovakia (2007), Czech Republic-Germany (2009), Czech Republic-Austria (2010), Czech Republic-Poland-Hungary (2011) and Czech Republic-Austria-Germany (2013) provided invaluable exposure to our students.</p>
 
@@ -17,7 +17,7 @@ third_nav_title: CCA Programme
 
 <p style="text-align: justify;">Members are also encouraged to contribute to the school and society with their talent by performing in various school celebratory events such as Dunman’s Jubilee and our annual Dunman Appreciation Day. Activities such as welcome tea, farewell parties and Choir retreats have been organized to promote bonding among members. Through these activities, members experience the importance of good leadership and teamwork, as well as the opportunity to develop into mature individuals.</p>
 
-![](/images/Student%20Development%20Programme/CCA%20Programme/Performing%20Arts/2019%20Choir%202.jpg)
+![](/images/CCA%20Photos/Choir/2019%20Choir%202.jpg)
 
 <p style="text-align: justify;">We believe in character building and leadership training through musical pursuits. Many of our students have benefited from past activities and tours, and are now assuming leadership roles in various areas within the school. They have become better people through the discipline and resilience required in choir and teamwork activities.</p>
 
