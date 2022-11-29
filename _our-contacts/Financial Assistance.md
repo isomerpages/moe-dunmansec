@@ -11,7 +11,7 @@ Detailed information about the household income requirements and benefits can be
 
 ### MOE FAS Application Exercise 2023
 
-The MOE Financial Assistance (FAS) Application is now open for application for 2023.
+<p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2023.</p>
 
 1. We have attached the [FAS Application Form](https://dunmansec.moe.edu.sg/qql/slot/u194/pdf/2023%20FAS/MOE-FAS-Application-Form-2023.pdf) for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
 
@@ -26,12 +26,16 @@ The MOE Financial Assistance (FAS) Application is now open for application for 2
 **Application strictly via hardcopy form is required for below scenario:**
 
 a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
+
 b. family with more than 5 children in govt school
+
 c. family with more than 4 unmarried children not in govt school
+
 d. family with more than 3 grandparents in the household
 
 
 **Note:**
+
 i. If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
 ii. School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.  
 iii. Please get ready all softcopy supporting documents to be prepared in advance.  
@@ -44,6 +48,6 @@ Parents who want to know more about MOE FAS and the eligibility calculator can v
 
 ### SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (FAS)
 
-Students who are not eligible for MOE FAS but require assistance, may approach the school General Office for further information and assistance.
+<p style="text-align: justify;">Students who are not eligible for MOE FAS but require assistance, may approach the school General Office for further information and assistance.</p>
 
-Completed forms with supporting documents can be submitted through the school to be processed. Applicants will then be informed by the school of the outcome.
+<p style="text-align: justify;">Completed forms with supporting documents can be submitted through the school to be processed. Applicants will then be informed by the school of the outcome.</p>
