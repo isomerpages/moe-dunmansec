@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/2022-exam-timetable/
+          url: /announcements/invitation-to-parents-gateway/
         - title: Events
           description: Click here for upcoming events
           url: /events/
