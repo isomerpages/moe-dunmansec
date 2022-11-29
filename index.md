@@ -20,6 +20,6 @@ sections:
       description: Our e-Open House was on 12 November 2022
       button: Click here to find out more
       url: /e-open-house/welcome/
-      image: /images/E Open House/Dunman e-Open House Banner 2022 small.png
+      image: /images/E Open House/Dunman e-Open House Banner 2022.png
       alt: Image alt text
 ---
