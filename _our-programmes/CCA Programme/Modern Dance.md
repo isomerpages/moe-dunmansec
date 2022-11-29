@@ -24,9 +24,9 @@ We, at Dunman Modern Dance CCA believe the spirit of Dunman Dancers will carry o
 
 > “A dream doesn’t become reality through magic; it takes sweat, determination and hard work.” <br>– Colin Powell
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raa8jEAKzpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click <a href="https://www.youtube.com/watch?v=raa8jEAKzpM" target="_blank">here</a> to view our video (The Story Of Dunman Dancers) on YouTube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T5Cx5pbsr3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click <a href="https://www.youtube.com/watch?v=T5Cx5pbsr3M" target="_blank">here</a> to view our video (Dunman Dancers - Where Dreams Are Made Of) on YouTube.
 
 ![](/images/CCA%20Photos/Modern%20Dance/LCDC_01.jpeg)
 
