@@ -119,6 +119,8 @@ We currently offer the following Science combinations to Express Stream:
 
 Information for the subject combination for Secondary 2 this year can be found on our website. Please click [**here**](/our-dunman-experience/sec-2-estreaming/) for more information.
 
+<a href="/our-dunman-experience/sec-2-estreaming/"_blank">here</a>
+
 **9.      Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
 Dunman Secondary School aims to provide a holistic environment that inculcates life skills through three approaches – education, experiences and empowerment.
