@@ -6,3 +6,8 @@ description: ""
 <p style="text-align: justify;">Below are some information to help parents and students to adjust to secondary school.</p>
 
 <p style="text-align: justify;">The information includes changes in subjects and demands that students will go through and some useful tips to cope with these changes.</p>
+
+
+[](/files/Sec%201%20Registration/Resource%20Kit_Parent%20Kit_Primary%20to%20Secondary%20Transition.pdf)
+
+Click <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">here</a> to view in PDF.
