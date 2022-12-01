@@ -2,7 +2,7 @@
 layout: homepage
 title: Dunman Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/home_logo.png
+image: /images/Home Page/home_logo.png
 permalink: /
 notification: ""
 sections:
@@ -23,3 +23,4 @@ sections:
       image: /images/E Open House/Dunman e-Open House Banner 2022.png
       alt: Image alt text
 ---
+
