@@ -39,7 +39,7 @@ Thank you for your support and understanding.
 
 ## Quick Checklist
 
-**YH provide info that are currently missing**
+**YH provide info that are currently not available**
 
 | S/N | Items | Form Type | Availability | Deadline |
 | -------- | -------- | -------- | -------- | -------- |
