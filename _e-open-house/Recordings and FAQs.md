@@ -17,8 +17,8 @@ description: ""
 | -------- | -------- |
 | 0900 to 0915     | Start of Webinar |
 | 0915 to 0930    | Introduction by Principal, Mr Toh Thiam Chye     |
-| 0930 to 0950     | **Distinguished speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
-| 0950 to 1010     | **Distinguished speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
+| 0930 to 0950     | **Distinguished Speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
+| 0950 to 1010     | **Distinguished Speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
 
 <img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png"
      style="width:75%">
@@ -46,9 +46,9 @@ description: ""
 
 Extracted from: [https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
-**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?**
+<p style="text-align: justify;"><b>2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?</b></p>
 
-Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
+<p style="text-align: justify;">Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.</p>
 
 In Secondary One, the school will organise performing arts auditions and sports trials at the beginning of the year to identify students’ area of strength. During the CCA Fair, there will be exhibitions and performances from CCAs to provide students with more information about the CCAs, so that they can decide which CCA they would like to join.
 
