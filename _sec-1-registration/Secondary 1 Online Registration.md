@@ -39,17 +39,17 @@ Thank you for your support and understanding.
 
 ## Quick Checklist
 
-
+**YH provide info that are currently missing**
 
 | S/N | Items | Form Type | Availability | Deadline |
 | -------- | -------- | -------- | -------- | -------- |
-| 1   | Text     | Text     | Text     | Text     |
-| 2   | Text     | Text     | Text     | Text     |
-| 3   | Text     | Text     | Text     | Text     |
-| 4   | Text     | Text     | Text     | Text     |
-| 5   | Text     | Text     | Text     | Text     |
-| 6   | Text     | Text     | Text     | Text     |
-| 7   | Text     | Text     | Text     | Text     |
-| 8   | Text     | Text     | Text     | Text     |
-| 9   | Text     | Text     | Text     | Text     |
-| 10   | Text     | Text     | Text     | Text     |
+| 1   | Sec 1 e-Registration Form     | FormSG     | Text     | Text     |
+| 2   | To Register for Zoom Session on 30 Dec 2021, 4pm to 5pm     | -     | Text     | Text     |
+| 3   | Questions to ask during our Zoom engagement session with Parents/ Guardians on 30 Dec 2021     | FormSG     | Text     | Text     |
+| 4   | Eligibility to take a subject at a higher stream     | -     | Text     | Text     |
+| 5   | Eligibility For Higher Mother Tongue (HMT)     | -     | Text     | Text     |
+| 6   | Application for 3rd Language     | Softcopy     | Text     | -     |
+| 7   | Application for Art/ Music Elective Programme (AEP/ MEP)     | Softcopy     | Text     | -     |
+| 8   | Bilingual Policy Forms     | Softcopy     | Text     | -     |
+| 9   | MOE Financial Assistance Scheme (FAS)     | Softcopy     | Text     | -     |
+| 10   | School-based Financial Assistance     | Hardcopy     | Parents/ Guardians to collect the application form from School’s General Office. Complete and submit the application form back to the school’s general office.     | -     |
