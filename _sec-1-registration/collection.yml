@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - First Day Of School.md
       - Purchases.md
       - Frequently Asked Questions (FAQs).md
       - Contact Information.md
