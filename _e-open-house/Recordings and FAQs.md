@@ -46,9 +46,9 @@ description: ""
 
 Extracted from: [https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
-<p style="text-align: justify;"><b>2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?</b></p>
+**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?**
 
-<p style="text-align: justify;">Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.</p>
+Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
 
 In Secondary One, the school will organise performing arts auditions and sports trials at the beginning of the year to identify students’ area of strength. During the CCA Fair, there will be exhibitions and performances from CCAs to provide students with more information about the CCAs, so that they can decide which CCA they would like to join.
 
