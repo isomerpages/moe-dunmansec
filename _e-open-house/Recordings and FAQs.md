@@ -3,8 +3,6 @@ title: Recordings and FAQs
 permalink: /e-open-house/recordings-and-faqs/
 description: ""
 ---
-
-
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <img src="/images/E%20Open%20House/Dunman%20e-Open%20House%20Banner%202022.png"
@@ -24,3 +22,15 @@ description: ""
 
 <img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png"
      style="width:75%">
+
+#### Opening Address By Principal
+
+
+#### Distinguished Speaker 1
+
+
+#### Distinguished Speaker 2
+
+#### Q&A
+
+
