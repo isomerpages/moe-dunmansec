@@ -5,17 +5,21 @@ description: ""
 ---
 Dear Parent/ Guardian,
 
-We are delighted that your child/ ward has chosen to be part of our Dunman family. We understand that this transition stage from primary to secondary school will be a new experience for him/ her. Hence, we have planned a series of programmes to help your child/ ward settle comfortably into the next exciting phase of his/ her growing years.
+<p style="text-align: justify;">We are delighted that your child/ ward has chosen to be part of our Dunman family. We understand that this transition stage from primary to secondary school will be a new experience for him/ her. Hence, we have planned a series of programmes to help your child/ ward settle comfortably into the next exciting phase of his/ her growing years.</p>
 
 #### 1.    Sec 1 e-Registration Form
-We will like you to complete a FORM SG. We require the information for our Secondary 1 Orientation Experience and for other administrative purposes. Please click [here](https://go.gov.sg/sec1e-registration2022) or scan the QR Code below.
+<p style="text-align: justify;">We will like you to complete a FORM SG. We require the information for our Secondary 1 Orientation Experience and for other administrative purposes. Please click [here](https://go.gov.sg/sec1e-registration2022) or scan the QR Code below.</p>
 
-
+**YH provide QR code & link**
 
 
 #### 2.    Zoom session on 30 December 2021 from 4pm to 5pm
 
-We will be conducting a zoom session on 30 December 2021 from 4pm to 5pm for those who are interested. Please click the slides [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/slot/u194/2019/Administration/Sec%201%20Reg%20Ex/Slides%20for%20Sec%201%20Zoom%20Engagement%2030%20Dec_final_30%20Dec.pdf).
+<p style="text-align: justify;">We will be conducting a zoom session on 30 December 2021 from 4pm to 5pm for those who are interested.</p>
+
+Please click the slides [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/slot/u194/2019/Administration/Sec%201%20Reg%20Ex/Slides%20for%20Sec%201%20Zoom%20Engagement%2030%20Dec_final_30%20Dec.pdf).
+
+**YH provide date & link to slides**
 
 #### 3.    Parents Gateway App
 
