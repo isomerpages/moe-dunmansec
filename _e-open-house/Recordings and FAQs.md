@@ -117,7 +117,7 @@ We currently offer the following Science combinations to Express Stream:
 *   Pure Chemistry and either Pure Physics or Pure Biology  
 *   Combined Science (Physics, Chemistry) or Combined Science (Biology, Chemistry)  
 
-Information for the subject combination for Secondary 2 this year can be found on our website. Please click [**here**](/our-dunman-experience/sec-2-estreaming/) for more information.
+Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-estreaming/" target="_blank">here</a></b> for more information.
 																												 
 **9.      Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
