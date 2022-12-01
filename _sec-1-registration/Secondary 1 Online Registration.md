@@ -23,17 +23,17 @@ Please click the slides [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/sl
 
 #### 3.    Parents Gateway App
 
-We will like to encourage parents/ guardians to download and install the Parents Gateway (PG) App. This is because we are using PG as our main mode of communication to all parents.
+<p style="text-align: justify;">We will like to encourage parents/ guardians to download and install the Parents Gateway (PG) App. This is because we are using PG as our main mode of communication to all parents.</p>
 
-Please view the video below for step by step guide to install the PG App.
+<p style="text-align: justify;">Please view the video below for step by step guide to install the PG App.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 4.    Class Allocation
 
-Your child/ ward class allocation will be reflected on Parents Gateway App after 23 December 2021. Alternatively, students can also view their class allocation from the noticeboard placed outside school’s general office during the first day of school.
+<p style="text-align: justify;">Your child/ ward class allocation will be reflected on Parents Gateway App after 23 December 2021. Alternatively, students can also view their class allocation from the noticeboard placed outside school’s general office during the first day of school.</p>
 
-Finally, if you have any additional queries, please contact the school’s general office at 6786 2668. We look forward to working with you closely in the best interests of your child/ ward as they embark on their Dunman journey over the next four/ five years.
+<p style="text-align: justify;">Finally, if you have any additional queries, please contact the school’s general office at 6786 2668. We look forward to working with you closely in the best interests of your child/ ward as they embark on their Dunman journey over the next four/ five years.</p>
 
 Thank you for your support and understanding.
 
