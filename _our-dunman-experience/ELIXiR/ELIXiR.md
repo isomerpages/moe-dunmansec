@@ -4,12 +4,11 @@ permalink: /our-dunman-experience/ELIXiR/
 description: ""
 third_nav_title: ELIXiR
 ---
-
 ### Mission / Objectives of Programme
 
 ![](/images/Our%20Special%20Programmes/ELIXiR/ELIXiR%20Logo.png)
 
-The ELIXiR STEM Programme is an enrichment programme that aims to promote the joy of learning and learning for life in Science and STEM.
+<p style="text-align: justify;">The ELIXiR STEM Programme is an enrichment programme that aims to promote the joy of learning and learning for life in Science and STEM.</p>
 
 ![](/images/Our%20Special%20Programmes/ELIXiR/STEM%20for%20ELIXiR.png)
 
@@ -20,7 +19,7 @@ Exposure to different fields in STEM through:
 a)    Workshops (E.g. Design Thinking)   
 b)    Choice Enrichment Activities
 
-Students get to choose one activity from a diverse range of activities such as AMGEM workshop 1, Forensic Science, DNA extraction, etc to take part.
+<p style="text-align: justify;">Students get to choose one activity from a diverse range of activities such as AMGEM workshop 1, Forensic Science, DNA extraction, etc to take part.</p>
 
 <figure>
 	 <img src="/images/Our%20Special%20Programmes/ELIXiR/DNA%20Extraction.png"
@@ -47,10 +46,10 @@ Students get to choose one activity from a diverse range of activities such as A
 </figure>
 
 c)    Learning Journey   
-Learning Journey to Sungei Buloh Wetland, Botanic Garden, etc are arranged to extend their learning beyond the classroom. 
+<p style="text-align: justify;">Learning Journey to Sungei Buloh Wetland, Botanic Garden, etc are arranged to extend their learning beyond the classroom.</p>
 
 d)    Online micro-modules   
-In 2022 onwards, students can dive deeper to learn more about  climate change, Emerging Technology, Sustainability etc during their HBL slot. In each module, there will tasks for students to complete to deepen their understanding.   
+<p style="text-align: justify;">In 2022 onwards, students can dive deeper to learn more about  climate change, Emerging Technology, Sustainability etc during their HBL slot. In each module, there will tasks for students to complete to deepen their understanding.</p>
 
 e)    Competitions (for selected students):   
 
