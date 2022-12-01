@@ -2,5 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Purchases.md
       - Frequently Asked Questions (FAQs).md
       - Contact Information.md
