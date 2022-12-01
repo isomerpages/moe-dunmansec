@@ -1,4 +1,5 @@
 collections:
   sec-1-registration:
     output: true
-    order: []
+    order:
+      - Contact Information.md
