@@ -12,7 +12,7 @@ description: ""
 | Special Needs Support     | Ms Amanda Lim     | Allied Educator<br>(Learning and Behavioural Support)     |  [amanda\_tan\_jia\_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg)     |
 | Financial Assistance     | Ms Liza     | Corporate Support Officer     |  [norhasliza\_ithnin@moe.edu.sg](mailto:norhasliza_ithnin@moe.edu.sg)     |
 | Purchase of Books & Uniforms     | ???     | ???     | ???     |
-| Subject-Based Banding     | Text     | Text     | Text     |
-| Mother Tongue Language     | Text     | Text     | Text     |
-| Dedicated & Supportive Parents (DSP) Group     | Text     | Text     | Text     |
+| Subject-Based Banding     | Mr Tan Teck Meng     | Text     | Text     |
+| Mother Tongue Language     | Mr Tan Teck Meng     | Text     | Text     |
+| Dedicated & Supportive Parents (DSP) Group     | Ms Lim Chean Chean     | Text     | Text     |
 | Any Other Matters    | School General Office     | -     | 6786 2668   |
