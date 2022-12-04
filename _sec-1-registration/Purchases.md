@@ -3,7 +3,7 @@ title: Purchases
 permalink: /sec-1-registration/purchases/
 description: ""
 ---
-# YH to provide info for below<br>
+# YH with GO to provide info for below<br>
 
 #### Booklist
 
