@@ -10,7 +10,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | Student Matters    | Mr Ali Sharif Arshad     | Year Head<br>(Lower Secondary)     | [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)     |
 | Special Needs Support     | Ms Amanda Lim     | Allied Educator<br>(Learning and Behavioural Support)     |  [amanda\_tan\_jia\_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg)     |
-| Financial Assistance     | Text     | Text     | Text     |
+| Financial Assistance     | Ms Liza     | Corporate Support Officer     | Text     |
 | Purchase of Books & Uniforms     | ???     | ???     | ???     |
 | Subject-Based Banding     | Text     | Text     | Text     |
 | Mother Tongue Language     | Text     | Text     | Text     |
