@@ -20,7 +20,7 @@ Besides home delivery, to provide more flexibility and convenience to parents/gu
 | | |
 | -------- | -------- |
 | <span style = "color: #a61818"> <b>Textbooks</b></span><br><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $12.00<br>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st week/ 2nd week of Jan)<br><br>**<u>Self-Collection Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Collection available from **23 to 28 Dec 2021**<br><br>**<u>Onsite Purchase Option</u>**<br>Available from **23 to 28 Dec 2021**     | Text     |
-| <span style = "color: #a61818"> <b>School Uniforms</b></span><br><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $10.00     | To purchase school uniforms online, please visit website: [www.intrenduniforms.com](http://www.intrenduniforms.com/)     |
+| <span style = "color: #a61818"> <b>School Uniforms</b></span><br><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $10.00     | To purchase school uniforms online, please visit website:<br><br>[www.intrenduniforms.com](http://www.intrenduniforms.com/)     |
 
 
 
