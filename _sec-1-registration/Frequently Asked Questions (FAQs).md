@@ -202,7 +202,7 @@ For the purposes of determining eligibility for promotion, lateral transfers and
 
 MOE has provided schools with guidelines on adjusting the marks and pitching the exams at the appropriate difficulty levels.
 
-**Student Well-Being**
+#### Student Well-Being
 
 **17. If my child, who is currently in the N(A) course, has to take a higher-level subject in an Express class, would he experience difficulties interacting with his Express classmates?**
 
@@ -216,7 +216,7 @@ There may be initial challenges but these will be monitored and mitigated as far
 
 Your child would have been offered the chance to take a subject at a higher level based on his or her strength in the subject. Our school will adopt a variety of pedagogical approaches to cater to the different learning needs of students.
 
-**Dropping of Higher-Level Subjects**
+#### Dropping of Higher-Level Subjects
 
 **20. Can a student withdraw from taking higher-level subjects if he or she finds it unsuitable after a semester?**
 
