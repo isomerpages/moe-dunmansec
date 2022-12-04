@@ -23,6 +23,13 @@ Besides home delivery, to provide more flexibility and convenience to parents/gu
 #### Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School
 
 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 #### School Safe Management Measures
 
 **(a)** All visitors (including students) are required to perform digital check-in/out via Safe Entry/Trace Together apps, in addition to existing school visitor registration process including temperature screening.  You are advised to arrive in school at least 10 min earlier than the self-collection time slot booked to cater time for this procedure.<br>
