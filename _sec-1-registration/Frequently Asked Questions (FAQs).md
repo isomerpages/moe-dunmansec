@@ -226,6 +226,4 @@ Students and parents can make the final decision to continue or drop the subject
 
 Students are encouraged to continue with the higher-level subjects until the end of Secondary 2, as students do need time to adjust to the greater academic demands. Schools will endeavor to provide the necessary support for them to cope better with the higher-level subjects.
 
-**You may also visit our MOE Website with below link to find out how the changes to the PSLE scoring system will affect your child’s subject and school choices.**
-
-<a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html</a>
+**You may also visit our MOE Website with below link to find out how the changes to the PSLE scoring system will affect your child’s subject and school choices.**<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html</a>
