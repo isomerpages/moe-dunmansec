@@ -39,6 +39,8 @@ Please click the slides here.
 
 Thank you for your support and understanding.
 
+# YH to provide updated info for the table below
+
 ## Quick Checklist
 
 | S/N | Items | Form Type | Availability | Deadline |
