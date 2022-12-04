@@ -15,7 +15,7 @@ For Secondary 1 Normal Technical, please click here.
 
 Besides home delivery, to provide more flexibility and convenience to parents/guardians, you may also opt for onsite purchase or self-collection of books and school uniforms ordered online at the school.  Please note:
 
-
+<span style = "color: red"> <b>Textbooks</b> </span>
 
 | | |
 | -------- | -------- |
