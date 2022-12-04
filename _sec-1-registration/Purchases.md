@@ -7,6 +7,9 @@ description: ""
 
 #### Booklist
 
+For Secondary 1 Express, please click here.<br>
+For Secondary 1 Normal Academic, please click here.<br>
+For Secondary 1 Normal Technical, please click here.
 
 #### Purchase of Textbooks and School Uniforms
 
