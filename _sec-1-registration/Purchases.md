@@ -15,12 +15,12 @@ For Secondary 1 Normal Technical, please click here.
 
 Besides home delivery, to provide more flexibility and convenience to parents/guardians, you may also opt for onsite purchase or self-collection of books and school uniforms ordered online at the school.  Please note:
 
-<span style = "color: red"> <b>Textbooks</b> </span>
+<span style = "color: #a61818"> <b>Textbooks</b></span>
 
 | | |
 | -------- | -------- |
-| **Textbooks**<br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $12.00<br>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st week/ 2nd week of Jan)<br><br>**<u>Self-Collection Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Collection available from **23 to 28 Dec 2021**<br><br>**<u>Onsite Purchase Option</u>**<br>Available from **23 to 28 Dec 2021**     | Text     |
-| **School Uniforms**<br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $10.00     | Text     |
+| <span style = "color: #a61818"> <b>Textbooks</b></span><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $12.00<br>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st week/ 2nd week of Jan)<br><br>**<u>Self-Collection Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Collection available from **23 to 28 Dec 2021**<br><br>**<u>Onsite Purchase Option</u>**<br>Available from **23 to 28 Dec 2021**     | Text     |
+| <span style = "color: #a61818"> <b>School Uniforms</b></span><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $10.00     | Text     |
 
 
 
