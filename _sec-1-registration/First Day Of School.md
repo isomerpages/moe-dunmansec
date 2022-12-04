@@ -27,4 +27,4 @@ Please click here to view **_Annex A_**.<br>Please click here to view **_Annex B
 
 **\*** *Students will be required to sit according to their classes at the reporting venue. Their allocated class will be reflected on Parent Gateway App after 23 December 2021. Alternatively, students can also view their allocated class on the notice board placed outside the School’s General Office.*
 
-**\*** Do note that parents will only be allowed to drop off their child/ward in school.*
+**\*** *Do note that parents will only be allowed to drop off their child/ward in school.*
