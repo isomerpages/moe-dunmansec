@@ -22,13 +22,17 @@ Besides home delivery, to provide more flexibility and convenience to parents/gu
 
 #### Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School
 
+| Date | Timing |
+| -------- | -------- |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+Location<br>
+* Sale/collection of textbooks is at class room next to school library (in block B).<br>
+* Sale/collection of school uniforms is in class room next to car park (in block C).<br>
+* Note: Each student may be accompanied by **up to two adults** only when entering the school premises and may proceed to purchase the books and school uniforms within the same self-collection time slot booked online.
 
 #### School Safe Management Measures
 
