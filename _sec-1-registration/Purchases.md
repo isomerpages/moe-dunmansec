@@ -8,6 +8,4 @@ description: ""
 #### Booklist
 
 
-#### Purchase of Textbooks and School Uniform
-
-
+#### Purchase of Textbooks and School Uniforms
