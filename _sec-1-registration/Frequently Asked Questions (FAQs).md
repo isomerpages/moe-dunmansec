@@ -160,7 +160,7 @@ Under SBB (Sec), students will be allowed to offer the PSLE subjects, namely, En
 
 At lower secondary, students can offer a maximum of 3 subjects at a higher level. At upper secondary, students can likewise offer a maximum of 3 subjects at a higher level.
 
-**Taking Higher-Level Subjects**
+#### Taking Higher-Level Subjects
 
 **8. Would students taking subjects at higher level (i.e. Express or N(A), use the same syllabus as other Express or N(A) students, or will they use an easier or customised syllabus?**
 
@@ -174,7 +174,7 @@ No. Your child may continue with the corresponding out-of-stream subject at uppe
 
 Bridging classes may be conducted for students who take higher-level subjects should the school assess that there is a need to do so.
 
-**Benefits of Taking Higher-Level Subjects**
+#### Benefits of Taking Higher-Level Subjects
 
 **11. What are the outcomes of SBB (Sec) so far? How have the students benefitted?**
 
