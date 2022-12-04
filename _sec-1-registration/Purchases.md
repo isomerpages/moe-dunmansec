@@ -22,7 +22,7 @@ Besides home delivery, to provide more flexibility and convenience to parents/gu
 
 #### Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School
 
-| Date | Timing |
+| <span style = "color: #a61818">Date</span> | <span style = "color: #a61818">Timing</span> |
 | -------- | -------- |
 | Text     | Text     |
 | Text     | Text     |
