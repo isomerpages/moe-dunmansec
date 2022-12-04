@@ -15,8 +15,6 @@ For Secondary 1 Normal Technical, please click here.
 
 Besides home delivery, to provide more flexibility and convenience to parents/guardians, you may also opt for onsite purchase or self-collection of books and school uniforms ordered online at the school.  Please note:
 
-<span style = "color: #a61818"> <b>Textbooks</b></span>
-
 | | |
 | -------- | -------- |
 | <span style = "color: #a61818"> <b>Textbooks</b></span><br><br>**<u>Home Delivery Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Cost of home delivery is $12.00<br>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st week/ 2nd week of Jan)<br><br>**<u>Self-Collection Option</u>**<br>Online purchase available from **22 to 24 Dec 2021**<br>Collection available from **23 to 28 Dec 2021**<br><br>**<u>Onsite Purchase Option</u>**<br>Available from **23 to 28 Dec 2021**     | **<u>Online purchase</u>**<br>To purchase textbooks and to book a self-collection time slot, please click [here](http://www.oapl.sg/) or scan the QR code below.<br><br>Web site: [http://www.oapl.sg](http://www.oapl.sg/)<br><br>![](/images/Sec%201%20Registration/OnlinePurchase_OAPL.jpg)    |
