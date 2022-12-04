@@ -21,3 +21,10 @@ Please click here to view **_Annex A_**.<br>Please click here to view **_Annex B
 | 1D, 1E, 1F & 1G     | School Hall*     |
 | 1A, 1B & 1C     | Indoor Sports Hall*     |
 
+**Attire:** Full School Uniform and white shoes (Students may report to school in their primary school uniform until 7 January 2022).
+
+**Things to bring:** Writing materials, storybook and thermometer.
+
+**\*** *Students will be required to sit according to their classes at the reporting venue. Their allocated class will be reflected on Parent Gateway App after 23 December 2021. Alternatively, students can also view their allocated class on the notice board placed outside the School’s General Office.*
+
+**\*** Do note that parents will only be allowed to drop off their child/ward in school.*
