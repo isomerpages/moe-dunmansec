@@ -3,7 +3,7 @@ title: Contact Information
 permalink: /sec-1-registration/contact-information/
 description: ""
 ---
-# YHs to provide updated info below
+# YHs to provide updated info for below
 
 
 | Questions On | Contact Person's Name | Appointment | Contact Information |
