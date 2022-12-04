@@ -3,7 +3,7 @@ title: Frequently Asked Questions (FAQs)
 permalink: /sec-1-registration/faqs/
 description: ""
 ---
-**YH/ Mr Tan Teck Meng (MTL & SBB matters) to provide updated dates for below.**
+# YH & Mr Tan Teck Meng (MTL & SBB matters) to provide updated dates for below.
 
 There are **three** lists of FAQs available for parents.<br>**1)**     Transfer to Dunman Secondary School  
 **2)**     Mother Tongue Languages (MTL)  
