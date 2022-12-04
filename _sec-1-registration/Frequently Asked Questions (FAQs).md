@@ -228,4 +228,4 @@ Students are encouraged to continue with the higher-level subjects until the end
 
 **You may also visit our MOE Website with below link to find out how the changes to the PSLE scoring system will affect your child’s subject and school choices.**
 
-[https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html](https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html)
+<a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/psle/new-psle-scoring-system.html</a>
