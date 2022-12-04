@@ -24,10 +24,10 @@ Besides home delivery, to provide more flexibility and convenience to parents/gu
 
 | <span style = "color: #a61818">Date</span> | <span style = "color: #a61818">Timing</span> |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+| 23 Dec 2021     | 9am to 3pm     |
+| 24 Dec 2021    | 9am to 12pm     |
+| 27 Dec 2021     | 9am to 3pm     |
+| 28 Dec 2021     | 9am to 3pm     |
 
 <span style = "color: #a61818"> <b>Location</b></span><br>
 * Sale/collection of textbooks is at class room next to school library (in block B).<br>
