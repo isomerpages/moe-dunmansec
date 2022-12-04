@@ -3,6 +3,8 @@ title: Secondary 1 Online Registration
 permalink: /sec-1-registration/secondary-1-online-registration/
 description: ""
 ---
+# YHs to provide updated info for below
+
 Dear Parent/ Guardian,
 
 <p style="text-align: justify;">We are delighted that your child/ ward has chosen to be part of our Dunman family. We understand that this transition stage from primary to secondary school will be a new experience for him/ her. Hence, we have planned a series of programmes to help your child/ ward settle comfortably into the next exciting phase of his/ her growing years.</p>
