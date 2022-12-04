@@ -33,14 +33,11 @@ Do note the following:<br>o   The personal information provided will solely be
 
 ## Mother Tongue Languages (MTL)
 
-#### Higher Mother Tongue Languages (Higher Chinese/ Higher Malay/ Higher Tamil)**
+#### Higher Mother Tongue Languages (Higher Chinese/ Higher Malay/ Higher Tamil)
 
 **1. Does the school provide in-house HMTL lessons?**
 
 Dunman Secondary School does provide in-house HMTL lessons, which are held concurrently with MTL lessons during curriculum time.
-
-  
-  
 
 **2. Who are eligible to opt for HMTL subject in Sec 1?**
 
@@ -56,10 +53,7 @@ For Secondary 1 Express students who are not eligible at the beginning of the ye
 
 The selection criteria will be based on their academic achievements in their end-of-year examination results (overall performance and MTL results) and by recommendation from their subject teachers. Only students who are selected will be offer HMTL and they will start their lesson in Secondary 2.
 
-  
-  
-
-**Mother Tongue Language ‘B’ Syllabus (Chinese ‘B’ Syllabus/ Malay ‘B’ Syllabus/ Tamil ‘B’ Syllabus)**
+#### Mother Tongue Language ‘B’ Syllabus (Chinese ‘B’ Syllabus/ Malay ‘B’ Syllabus/ Tamil ‘B’ Syllabus)
 
 **4. What is MTL ‘B’ Syllabus?**
 
@@ -75,19 +69,19 @@ PSLE Score of AL7 or 8 in Standard MTL OR AL B or C in Foundation MTL.
 
 Secondary 1 students who wish to opt for MTL ‘B’ will need to apply through their MTL subject teachers by **7 Jan 2022**.
 
+**Mr Tan Teck Meng to provide updated dates above.**
+
 **6. Does the school provide in-house MTL ‘B’ Syllabus lessons during curriculum hour?**
 
 No. Our school does not provide in-house MTL ‘B’ Syllabus lesson.
 
 Students taking MTL 'B' Syllabus will need to attend lessons at the respective MTL B Centres after school curriculum hour:
 
-o   CL B - St Hilda’s Secondary School
+* CL B - St Hilda’s Secondary School
+* ML B - MOELC Bishan
+* TL B – UPTLC
 
-o   ML B - MOELC Bishan
-
-o   TL B – UPTLC
-
-**Foreign Languages (FL) or Asian Languages (AL) in lieu of Mother Tongue Language (Not as 3rd Languages)**
+#### Foreign Languages (FL) or Asian Languages (AL) in lieu of Mother Tongue Language (Not as 3rd Languages)
 
 **7. Do students who have gotten approval to take FL/AL subjects in lieu of MTL in Primary School need to re-apply for the approval?**
 
@@ -101,10 +95,7 @@ No. Students are required to learn the AL/FL privately at the secondary level, a
 
 Yes. Students are required to take the AL/FL papers at the GCE O Level examination.
 
-  
-  
-
-**Application for Third Languages - L3s (FL/ AL/ CSP/ MSP)**
+#### Application for Third Languages - L3s (FL/ AL/ CSP/ MSP)
 
 **10. Who are eligible to take Third Languages?**
 
@@ -121,7 +112,7 @@ No. Students will have to attend their L3s lessons after school curriculum at th
   
   
 
-**Application for Exemption**
+#### Application for Exemption
 
 **12. Who are eligible to apply for MTL Exemption?**
 
