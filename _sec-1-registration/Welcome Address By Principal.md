@@ -18,6 +18,8 @@ At Dunman Secondary, we<br>
 
 <p style="text-align: justify;">To smoothen your transition from primary to secondary school life, our student leaders will be conducting our unique <b><i>Sec 1 One Dunman Experience</i></b>, a non-residential camp from <b><i>5 to 7 Jan 2022</i></b> for our new Dunmanites.</p>
 
+## YH to provide updated info for the above
+
 <p style="text-align: justify;">I would like to encourage you to invite your parents to join our Dedicated & Supportive Parent (DSP) Group. Our DSP is a strong network of parents who organises activities for parents such as ‘Breakfast with School Leaders’ and share good parenting strategies. Your parents’ involvement in school events also have a very positive impact on your growth and development at Dunman Secondary. We look forward to building a stronger home-school partnership with your parents.</p>
 
 <p style="text-align: justify;">I look forward to welcoming you personally on your first day at Dunman Secondary.</p>
