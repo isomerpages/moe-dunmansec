@@ -29,7 +29,7 @@ Please click the slides [here](https://dunmansec-moe-edu-sg-admin.cwp.sg/qql/sl
 
 <p style="text-align: justify;">Please view the video below for step by step guide to install the PG App.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 #### 4.    Class Allocation
 
