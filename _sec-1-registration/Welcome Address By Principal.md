@@ -23,8 +23,6 @@ At Dunman Secondary, we
 
 <p style="text-align: justify;">I look forward to welcoming you personally on your first day at Dunman Secondary.</p>
 
-Mr Toh Thiam Chye
-
-Principal
-
+Mr Toh Thiam Chye<br>
+Principal<br>
 Dunman Secondary School
