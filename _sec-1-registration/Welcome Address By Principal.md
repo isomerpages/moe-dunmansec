@@ -11,11 +11,9 @@ Dear Sec 1 Dunmanites,
 
 At Dunman Secondary, we
 
-***ASPIRE*** to bring out the best in you;
-
-***BUILD*** Dunmanites holistically by developing your character and equipping you with future-ready competencies beyond academics and
-
-***CARE*** for you as a valued member of our ONE Dunman Family.
+***ASPIRE***  to bring out the best in you;<br>
+***BUILD***  Dunmanites holistically by developing your character and equipping you with future-ready competencies beyond academics and<br>
+***CARE***  for you as a valued member of our ONE Dunman Family.
 
 <p style="text-align: justify;">Although the secondary school journey might seem challenging initially, with a wider range of subjects, Co-Curricular Activities and relatively longer school days, rest assured that your seniors and teachers will be there to support you and nurture you. We believe that every Dunmanite has the potential to grow into ethical leaders who make positive changes in the community.</p>
 
