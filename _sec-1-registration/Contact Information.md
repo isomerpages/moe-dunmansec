@@ -8,7 +8,7 @@ description: ""
 
 | Questions On | Contact Person's Name | Appointment | Contact Information |
 | -------- | -------- | -------- | -------- |
-| Student Matters    | Text     | Text     | Text     |
+| Student Matters    | Mr Ali Sharif Arshad     | Year Head<br>(Lower Secondary)     | [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)     |
 | Special Needs Support     | Text     | Text     | Text     |
 | Financial Assistance     | Text     | Text     | Text     |
 | Purchase of Books & Uniforms     | ???     | ???     | ???     |
