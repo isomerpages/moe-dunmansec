@@ -9,8 +9,7 @@ Dear Sec 1 Dunmanites,
 
 <p style="text-align: justify;">Congratulations on your successful completion of your PSLE and for choosing to join our Dunman family.</p>
 
-At Dunman Secondary, we
-
+At Dunman Secondary, we<br>
 ***ASPIRE***  to bring out the best in you;<br>
 ***BUILD***  Dunmanites holistically by developing your character and equipping you with future-ready competencies beyond academics and<br>
 ***CARE***  for you as a valued member of our ONE Dunman Family.
