@@ -15,12 +15,4 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/
-  - infopic:
-      title: e-Open House
-      description: Our e-Open House was on 12 November 2022
-      button: Click here to find out more
-      url: /e-open-house/recordings-and-faqs/
-      image: /images/E Open House/Dunman e-Open House Banner 2022.png
-      alt: Image alt text
 ---
-
