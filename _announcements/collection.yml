@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - GCE N Level Admin Slides (19 December 2022).md
       - Advisory For The School Holidays.md
       - 2022 Exam Timetable.md
       - AY2022 Semester 2 Class Timetable (wef 13 July 2022).md
