@@ -3,7 +3,7 @@ title: Organisation Chart
 permalink: /our-dunman/organisation-chart/
 description: ""
 ---
-
+![](/images/Organisation%20Chart/SLs_2023.png)
 ![](/images/Organisation%20Chart/HOD.png)
 ![](/images/Organisation%20Chart/AYH.png)
 ![](/images/Organisation%20Chart/SH.png)
