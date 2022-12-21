@@ -97,7 +97,7 @@ Yes. Students are required to take the AL/FL papers at the GCE O Level Examinati
 
 The L3s which students are eligible for are indicated on their S1 Option Form. If a particular L3 is not indicated, it means they are not eligible for that L3.  Students should have indicated the choices of L3 via (i) the S1 Internet System or (ii) through his/her primary school.
 
-Students who had applied for L3, will be informed of the results of their applications through Parents’ Gateway (PG App). For successful applicants, they will also be informed of the registration matters.
+<u>Students who had applied for L3, will be informed of the results of their applications through Parents’ Gateway (PG App). For successful applicants, they will also be informed of the registration matters.</u>
 
 (For Foreign Languages (FL) such as French, German, Japanese and Spanish, students must obtain a PSLE Score of 8 or better. However, if number of applicants exceed the vacancies, applicants are selected based on PSLE results.)
 
