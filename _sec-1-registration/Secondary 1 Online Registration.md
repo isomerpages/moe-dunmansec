@@ -11,7 +11,6 @@ Dear Parent/ Guardian,
 
 <p style="text-align: justify;">We would require you to participate in the Sec 1 e-Registration Exercise by providing the school with necessary information by 23 December 2022 for our Secondary 1 Orientation Experience planning and for other administrative purposes. Please click [here](https://go.gov.sg/sec1e-registration2023) or scan the QR Code below:</p>
 
-## YH provide link above<br>YH provide QR code here
 
 
 #### 2.    Zoom session on 30 December 2021 from 4pm to 5pm
