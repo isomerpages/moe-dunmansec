@@ -115,8 +115,7 @@ Students may be eligible for MTL exemption if they:
 * Have been overseas for a long period of time and had no opportunity to learn an official MTL, a Non-Tamil Indian Language (NTIL) or an approved Foreign or Asian Language.
 * Have special educational needs, with severe difficulties in coping with overall learning.
 
-Students who wish to apply in Secondary School level, parents are to contact MTL HOD for further advice. Applicants with medical background or special needs will need to submit all reports when applying for exemption and all applications are subject to approval by MOE.
-
+Students who wish to apply in Secondary School level, parents are to contact MTL HOD for further advice. Applicants with medical background or special needs will need to submit all reports when applying for exemption and all applications are subject to approval by MOE.<br>
 Students who had been exempted in Primary School do not need to re-apply.
 
 ## Subject-Based Banding (SBB)
