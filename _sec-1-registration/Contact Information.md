@@ -3,9 +3,6 @@ title: Contact Information
 permalink: /sec-1-registration/contact-information/
 description: ""
 ---
-# YHs to provide updated info for below
-
-
 | Questions On | Contact Person's Name | Appointment | Contact Information |
 | -------- | -------- | -------- | -------- |
 | Student Matters    | Mr Chong Yau Kwang     | Year Head<br>(Lower Secondary)     | [chong_yau_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)     |
