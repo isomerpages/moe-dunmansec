@@ -20,17 +20,7 @@ For Secondary 1 Normal Technical, please click <a href="/files/Sec%201%20Regist
 
 #### Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School
 
-| <span style = "color: #a61818">Date</span> | <span style = "color: #a61818">Timing</span> |
-| -------- | -------- |
-| 23 Dec 2021     | 9am to 3pm     |
-| 24 Dec 2021    | 9am to 12pm     |
-| 27 Dec 2021     | 9am to 3pm     |
-| 28 Dec 2021     | 9am to 3pm     |
 
-<span style = "color: #a61818"> <b>Location</b></span><br>
-* Sale/ collection of textbooks is at class room next to school library (in block B).<br>
-* Sale/ collection of school uniforms is in class room next to car park (in block C).<br>
-* Note: Each student may be accompanied by **up to two adults** only when entering the school premises and may proceed to purchase the books and school uniforms within the same self-collection time slot booked online.
 
 #### School Safe Management Measures
 
