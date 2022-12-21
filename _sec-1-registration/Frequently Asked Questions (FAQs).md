@@ -89,7 +89,7 @@ No. Students are required to learn the AL/FL privately at the secondary level, a
 
 **9. Is AL/FL consider as an ‘O’ Level Exam subject?**
 
-Yes. Students are required to take the AL/FL papers at the GCE O Level examination.
+Yes. Students are required to take the AL/FL papers at the GCE O Level Examination.
 
 #### Application for Third Languages - L3s (FL/ AL/ CSP/ MSP)
 
