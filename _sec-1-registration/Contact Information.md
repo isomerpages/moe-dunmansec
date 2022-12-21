@@ -12,7 +12,7 @@ description: ""
 | Special Needs Support     | Ms Amanda Lim     | Allied Educator<br>(Learning and Behavioural Support)     |  [amanda_tan_jia_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg)     |
 | Financial Assistance     | Ms Liza     | Corporate Support Officer     |  [norhasliza_ithnin@moe.edu.sg](mailto:norhasliza_ithnin@moe.edu.sg)     |
 | Purchase of Books & Uniforms     | Mdm Noraishah     | Administration Manager     |  [noraishah_abdul_rahim_a@moe.edu.sg](mailto:noraishah_abdul_rahim_a@moe.edu.sg)    |
-| Subject-Based Banding     | Mr Tan Teck Meng     | HOD/ Mother Tongue Language     | [tan_teck_meng@moe.edu.sg](mailto:tan_teck_meng@moe.edu.sg)     |
-| Mother Tongue Language     | Mr Tan Teck Meng     | HOD/ Mother Tongue Language     | [tan_teck_meng@moe.edu.sg](mailto:tan_teck_meng@moe.edu.sg)     |
+| Subject-Based Banding & Mother Tongue Language     | Mr Tan Teck Meng     | HOD/ Mother Tongue Language     | [tan_teck_meng@moe.edu.sg](mailto:tan_teck_meng@moe.edu.sg)     |
+| Personal Learning Device     | Mr Eric Low     | HOD/ ICT     | [tan_teck_meng@moe.edu.sg](mailto:tan_teck_meng@moe.edu.sg)     |
 | Dedicated & Supportive Parents (DSP) Group     | Ms Lim Chean Chean     | LH/ Mother Tongue Language     | [lim_chean_chean@moe.edu.sg](mailto:lim_chean_chean@moe.edu.sg)     |
 | Any Other Matters    | School General Office     | -     | 6786 2668   |
