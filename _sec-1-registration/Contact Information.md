@@ -8,7 +8,7 @@ description: ""
 
 | Questions On | Contact Person's Name | Appointment | Contact Information |
 | -------- | -------- | -------- | -------- |
-| Student Matters    | Mr Ali Sharif Arshad     | Year Head<br>(Lower Secondary)     | [ali_sharif_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)     |
+| Student Matters    | Mr Chong Yau Kwang     | Year Head<br>(Lower Secondary)     | [chong_yau_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)     |
 | Special Needs Support     | Ms Amanda Lim     | Allied Educator<br>(Learning and Behavioural Support)     |  [amanda_tan_jia_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg)     |
 | Financial Assistance     | Ms Liza     | Corporate Support Officer     |  [norhasliza_ithnin@moe.edu.sg](mailto:norhasliza_ithnin@moe.edu.sg)     |
 | Purchase of Books & Uniforms     | ???     | ???     | ???     |
