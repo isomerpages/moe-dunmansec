@@ -189,8 +189,7 @@ SBB (Sec) allows students to take the higher-level subjects anytime they qualify
 
 **14. Does taking higher level subjects increase a student’s chance of laterally transferring to a more demanding course (i.e. from N(T) to N(A), and N(A) to Express)?**
 
-Students may progress to a more academically demanding course based on their performance and the school’s assessment on whether they are deemed able to cope with the rigour of the course.
-
+Students may progress to a more academically demanding course based on their performance and the school’s assessment on whether they are deemed able to cope with the rigour of the course.<br>
 For students who do laterally transfer, those who have taken higher-level subjects say that this better prepares them to handle the increased academic demand of the course they transfer to.
 
 **15. How will my child be compared to the other students from his/ her course at the end of the year, for lateral transfers, promotion and Edusave awards, given that the higher level subject is more demanding?**
