@@ -31,7 +31,7 @@ Passcode: dunman
 
 #### 3.    Parents Gateway App
 
-<p style="text-align: justify;">We will like to encourage parents/ guardians to download and install the Parents Gateway (PG) App. This is because we are using PG as our main mode of communication to all parents.</p>
+<p style="text-align: justify;">We strongly encourage parents/ guardians to download and install the Parents Gateway (PG) App. This is because we are using PG as our main mode of communication to all parents during your child’s/guardian’s journey with the school.</p>
 
 <p style="text-align: justify;">Please view the video below for step by step guide to install the PG App.</p>
 
