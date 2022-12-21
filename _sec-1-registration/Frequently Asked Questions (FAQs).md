@@ -120,6 +120,8 @@ Students who had been exempted in Primary School do not need to re-apply.
 
 ## Subject-Based Banding (SBB)
 
+#### Eligibility Criteria
+
 **. What are the criteria for a student to be offered to take a subject at a higher level (SBB) based on their PSLE results?**
 
 For students posted to the N(A) or N(T) course, they have the flexibility to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:
