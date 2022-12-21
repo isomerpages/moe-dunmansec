@@ -45,7 +45,7 @@ Students with a PSLE Score of 8 or better and offer MTL at PSLE, or students wi
 
 Incoming Sec 1 students were inform of their eligibility for SAP schools and HMTL via the Eligibility Letter after the release of PSLE Results.
 
-Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG App). Parents are expected to respond via PG App by **27 December 2021** to indicate if they accept the offer(s).
+<u>Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG App). Parents are expected to respond via PG App by **24 December 2022** to indicate if they accept the offer(s).</u>
 
 **3. For students who were not eligible for HMTL subject but are keen to take on HMTL, when can they apply for HMTL?**
 
