@@ -83,4 +83,4 @@ Intrend Uniforms
 </tbody>
 </table>
 
-For more information on the purchase of school uniform, please click <a href="/files/Administration/Year%20End%20Uniform%20Sales%20Information.pdf" target="_blank">here</a>.
+For more information on the purchase of school uniform, please click <a href="/files/Administration/Information_for_Sale_of_Uniforms_2023_Dunman Sec.pdf" target="_blank">here</a>.
