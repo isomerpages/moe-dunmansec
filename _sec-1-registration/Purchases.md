@@ -25,9 +25,9 @@ For Secondary 1 Normal Technical, please click <a href="/files/Sec%201%20Regist
 
 #### School Safe Management Measures
 
-**(a)** All visitors (including students) are required to perform digital check-in/out via Safe Entry/Trace Together apps, in addition to existing school visitor registration process including temperature screening.  You are advised to arrive in school at least 10 min earlier than the self-collection time slot booked to cater time for this procedure.<br>
-**(b)** Accompanying adults or students who are unwell should not enter the school and should reschedule their appointment.<br>
-**(c)** After check-in/visitor registration, you will be directed to holding waiting areas while awaiting your turn to be served.
+<p style="text-align: justify;">(a) All visitors (including students) are required to scan the QR code at the security post (main school gate) for registration.<br>
+(b) Accompanying adults or students who are unwell should not enter the school and should reschedule their appointment.<br>
+(c) Please restrict the visiting areas to Block B (buying books) and Block C (buying school uniforms) only.</p>
 
 #### Parking Arrangement
 
