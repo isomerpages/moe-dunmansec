@@ -24,7 +24,7 @@ e.       Parent Support Group (PSG) by Dedicated Supportive Parents (DSP)
 
 The link to the webinar is as follow:<br>
 Topic: AY2023 Sec 1 Parent Engagement Session<br>
-Webinar Link: [https://moe-singapore.zoom.us/j/89724065886](https://moe-singapore.zoom.us/j/89724065886)<br>
+Webinar Link: <a href="https://moe-singapore.zoom.us/j/89724065886" target="_blank">https://moe-singapore.zoom.us/j/89724065886</a><br>
 Passcode: dunman
 
 <p style="text-align: justify;">Please sign in 10 minutes before start of webinar. We look forward to the engagement session.</p>
