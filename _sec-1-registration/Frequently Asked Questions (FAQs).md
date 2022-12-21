@@ -70,10 +70,8 @@ PSLE Score of AL7 or 8 in Standard MTL OR AL B or C in Foundation MTL.
 
 **6. Does the school provide in-house MTL ‘B’ Syllabus lessons during curriculum hour?**
 
-No. Our school does not provide in-house MTL ‘B’ Syllabus lesson.
-
+No. Our school does not provide in-house MTL ‘B’ Syllabus lesson.<br>
 Students taking MTL 'B' Syllabus will need to attend lessons at the respective MTL B Centres after school curriculum hour:
-
 * CL B - St Hilda’s Secondary School
 * ML B - MOELC Bishan
 * TL B – UPTLC
