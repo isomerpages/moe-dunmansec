@@ -13,6 +13,11 @@ description: ""
 <img src="/images/Sec%201%20Registration/FirstDayOfSch_3Jan2023.png"
      style="width:65%">
 
+
+
+
+[HERE](/files/Sec%201%20Registration/AnnexA_2023.pdf)
+
 #### General School Rules
 
 Students are required to put on the full school uniform with the school tie every Monday. They may wear the school’s formal Polo T-Shirt, with school pants/ skirts on other days if they wish to do so. Please note that as the prescribed school uniform is an important part of school identity, modifications to the uniform are not allowed. Students are also required to wear their name tag (will be issued to students on a later date) and white school shoes at all times.
