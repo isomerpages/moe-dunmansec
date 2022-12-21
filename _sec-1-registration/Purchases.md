@@ -31,4 +31,4 @@ For Secondary 1 Normal Technical, please click <a href="/files/Sec%201%20Regist
 
 #### Parking Arrangement
 
-As car parks in school are reserved for season parking holders, you may park your vehicle in nearby HDB carparks next to the school.  You may drive into the school to drop off or pick up passengers.
+<p style="text-align: justify;">As car parks in school are reserved for season parking holders, you may park your vehicle in nearby HDB carparks next to the school.  You may drive into the school to drop off or pick up passengers.</p>
