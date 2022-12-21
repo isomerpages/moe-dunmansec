@@ -27,9 +27,10 @@ Do note the following:
 * Students, with pending appeals, should still report to the posted secondary school on 3 January 2023.
 * The application is deemed to be unsuccessful if you do not hear from the school by 3 January 2023.
 
-**Please click [**here**](https://go.gov.sg/2023-sec1-transfer-appeal) or scan the QR Code to appeal to transfer to Dunman Secondary School.**<br>
-**(Alternatively, you may collect the hardcopy transfer form from the school’s general office)**
-![](/images/Sec%201%20Registration/2023_Sec1_Transfer_Apeal.png)
+<p style="text-align: center;"><b>Please click [**here**](https://go.gov.sg/2023-sec1-transfer-appeal) or scan the QR Code to appeal to transfer to Dunman Secondary School.<br>
+	(Alternatively, you may collect the hardcopy transfer form from the school’s general office)</b></p>
+<img src="/images/Sec%201%20Registration/2023_Sec1_Transfer_Apeal.png" style="width:35%">
+
 
 
 
