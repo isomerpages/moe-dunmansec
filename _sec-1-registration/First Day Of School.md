@@ -13,10 +13,7 @@ description: ""
 <img src="/images/Sec%201%20Registration/FirstDayOfSch_3Jan2023.png"
      style="width:65%">
 
-
-
-
-[HERE](/files/Sec%201%20Registration/AnnexA_2023.pdf)
+Please click <a href="/files/Sec%201%20Registration/AnnexA_2023.pdf" target="_blank">here</a> for ***Annex A***.
 
 #### General School Rules
 
