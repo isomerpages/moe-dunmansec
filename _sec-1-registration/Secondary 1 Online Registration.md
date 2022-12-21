@@ -3,14 +3,13 @@ title: Secondary 1 Online Registration
 permalink: /sec-1-registration/secondary-1-online-registration/
 description: ""
 ---
-# YHs to provide updated info for below
-
 Dear Parent/ Guardian,
 
 <p style="text-align: justify;">We are delighted that your child/ ward has chosen to be part of our Dunman family. We understand that this transition stage from primary to secondary school will be a new experience for him/ her. Hence, we have planned a series of programmes to help your child/ ward settle comfortably into the next exciting phase of his/ her growing years.</p>
 
 #### 1.    Sec 1 e-Registration Form
-<p style="text-align: justify;">We will like you to complete a FORM SG. We require the information for our Secondary 1 Orientation Experience and for other administrative purposes. Please click here or scan the QR Code below.</p>
+
+<p style="text-align: justify;">We would require you to participate in the Sec 1 e-Registration Exercise by providing the school with necessary information by 23 December 2022 for our Secondary 1 Orientation Experience planning and for other administrative purposes. Please click [here](https://go.gov.sg/sec1e-registration2023) or scan the QR Code below:</p>
 
 ## YH provide link above<br>YH provide QR code here
 
