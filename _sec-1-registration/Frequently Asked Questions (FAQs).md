@@ -131,8 +131,7 @@ For students posted to the N(A) or N(T) course, they have the flexibility to tak
 | Express level     | AL 5 or better in a Standard level subject     |
 | N(A) level     | AL 6 or better in a Standard level subject or AL A in a Foundation level subject     |
 
-
-Students who are eligible for SBB will be notified on the offer(s) through Parents’ Gateway (PG App).  Parents are expected to respond via PG App by **27 December 2021** to indicate if they accept the offer(s).
+<u>Students who are eligible for SBB will be notified on the offer(s) through Parents’ Gateway (PG App) by **24 December 2022**.</u>
 
 **2. If students did not qualify for other higher level subjects based on their PSLE results, do they still have a chance to take up those higher-level subjects in Secondary 1 or 2?**
 
