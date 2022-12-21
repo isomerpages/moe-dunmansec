@@ -9,7 +9,6 @@ description: ""
 #### Secondary One First Day of School & Orientation Experience (3 - 6 January 2023)
 
 <p style="text-align: justify;">The orientation experience, organised by the student leaders under the guidance of their teachers, promises to be both meaningful and exciting. A series of activities, including team-building games, have been planned to help prepare your child/ward settle into the Dunman family. In addition, please refer to <B><I>Annex A</I></B> for the detailed breakdown of activities during our Secondary 1 Orientation Experience from 3 January to 6 January 2023.</P>
-
 <img src="/images/Sec%201%20Registration/FirstDayOfSch_3Jan2023.png"
      style="width:65%">
 
