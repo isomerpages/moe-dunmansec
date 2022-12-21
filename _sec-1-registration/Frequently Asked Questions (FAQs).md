@@ -126,7 +126,10 @@ Students who had been exempted in Primary School do not need to re-apply.
 
 For students posted to the N(A) or N(T) course, they have the flexibility to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows:
 
-
+| Option to take a subject at | PSLE Subject Grade under the AL system |
+| -------- | -------- |
+| Express level     | AL 5 or better in a Standard level subject     |
+| N(A) level     | AL 6 or better in a Standard level subject or AL A in a Foundation level subject     |
 
 
 Students who are eligible for SBB will be notified on the offer(s) through Parents’ Gateway (PG App).  Parents are expected to respond via PG App by **27 December 2021** to indicate if they accept the offer(s).
