@@ -5,9 +5,9 @@ description: ""
 ---
 #### Booklist
 
-For Secondary 1 Express, please click here.<br>
-For Secondary 1 Normal Academic, please click here.<br>
-For Secondary 1 Normal Technical, please click here.
+For Secondary 1 Express, please click <a href="/files/Sec%201%20Registration/Sec1Exp2023_BookListAndStationeryList.pdf" target="_blank">here</a>.<br>
+For Secondary 1 Normal Academic, please click <a href="/files/Sec%201%20Registration/Sec1NA2023_BookListAndStationeryList.pdf" target="_blank">here</a>.<br>
+For Secondary 1 Normal Technical, please click <a href="/files/Sec%201%20Registration/Sec1NT2023_BookListAndStationeryList.pdf" target="_blank">here</a>.
 
 #### Purchase of Textbooks and School Uniforms
 
