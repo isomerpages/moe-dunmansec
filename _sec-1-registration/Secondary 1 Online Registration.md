@@ -39,15 +39,11 @@ Passcode: dunman
 
 #### 4.    Class Allocation
 
-<p style="text-align: justify;">Your child/ ward class allocation will be reflected on Parents Gateway App after 23 December 2021. Alternatively, students can also view their class allocation from the noticeboard placed outside school’s general office during the first day of school.</p>
+<p style="text-align: justify;">Your child/ ward class allocation will be reflected on Parents Gateway App by 30 December 2022. Alternatively, students can also view their class allocation from the noticeboard placed outside school’s general office during the first day of school.</p>
 
 <p style="text-align: justify;">Finally, if you have any additional queries, please contact the school’s general office at 6786 2668. We look forward to working with you closely in the best interests of your child/ ward as they embark on their Dunman journey over the next four/ five years.</p>
 
-Thank you for your support and understanding.
-
-# YH to provide updated info for the table below
-
-## Quick Checklist
+<p style="text-align: justify;">Thank you for your support and understanding, we look forward to our partnership.</p>
 
 | S/N | Items | Form Type | Availability | Deadline |
 | -------- | -------- | -------- | -------- | -------- |
