@@ -3,8 +3,6 @@ title: Purchases
 permalink: /sec-1-registration/purchases/
 description: ""
 ---
-# YH with GO to provide info for below<br>
-
 #### Booklist
 
 For Secondary 1 Express, please click here.<br>
