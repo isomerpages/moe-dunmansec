@@ -50,7 +50,7 @@ Passcode: dunman
 | S/N | Items | Form Type | Availability | Deadline |
 | -------- | -------- | -------- | -------- | -------- |
 | 1   | Sec 1 e-Registration Form     | FormSG     | Use the following link:<br><a href="https://go.gov.sg/sec1e-registration2023" target="_blank">https://go.gov.sg/sec1e-registration2023</a><br>![](/images/Sec%201%20Registration/Sec1_RegEX_2023.png)     | 23 December 2022     |
-| 2   | To Register for Zoom Session on 30 Dec 2021, 4pm to 5pm     | -     | ???     | ???     |
+| 2   | To attend the Zoom Session on 30 Dec 2022, 4.00pm to 5.30pm     | -     | Please use the following link:<br>Topic: AY2023 Sec 1 Parent Engagement Session<br>Webinar Link: <a href="https://moe-singapore.zoom.us/j/89724065886" target="_blank">https://moe-singapore.zoom.us/j/89724065886</a><br>Passcode: dunman     | 30 December 2022     |
 | 3   | Questions to ask during our Zoom engagement session with Parents/ Guardians on 30 Dec 2021     | FormSG     | ???     | ???     |
 | 4   | Eligibility to take a subject at a higher stream     | -     | ???     | ???     |
 | 5   | Eligibility For Higher Mother Tongue (HMT)     | -     | ???     | ???     |
