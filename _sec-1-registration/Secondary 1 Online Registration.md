@@ -13,11 +13,24 @@ Dear Parent/ Guardian,
 <img src="/images/Sec%201%20Registration/Sec1_RegEX_2023.png"
      style="width:60%">
 
-#### 2.    Zoom session on 30 December 2021 from 4pm to 5pm
+#### 2.    Sec 1 Parent Engagement Webinar
 
-<p style="text-align: justify;">We will be conducting a zoom session on 30 December 2021 from 4pm to 5pm for those who are interested.</p>
+<p style="text-align: justify;">We will be conducting a webinar zoom session on 30 December 2022 from 4.00pm to 5.30pm to engage our parents on the following:</p>
+a.       Welcome Address by School Principal
+b.       Cohort Administration Briefing by Year Head
+c.       SBB/HMT Matters by HOD/MTL
+d.       Personal Learning Device (PLD) Updates by HOD/ICT
+e.       Parent Support Group (PSG) by Dedicated Supportive Parents (DSP) Chairman
 
-Please click the slides here.
+The link to the webinar is as follow:
+
+Topic: AY2023 Sec 1 Parent Engagement Session
+
+Webinar Link: [https://moe-singapore.zoom.us/j/89724065886](https://moe-singapore.zoom.us/j/89724065886)
+
+Passcode: dunman
+
+Please sign in 10 minutes before start of webinar. We look forward to the engagement session.
 
 ### YH provide date & link to slides above
 
