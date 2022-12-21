@@ -29,8 +29,6 @@ Passcode: dunman
 
 <p style="text-align: justify;">Please sign in 10 minutes before start of webinar. We look forward to the engagement session.</p>
 
-### YH provide date & link to slides above
-
 #### 3.    Parents Gateway App
 
 <p style="text-align: justify;">We will like to encourage parents/ guardians to download and install the Parents Gateway (PG) App. This is because we are using PG as our main mode of communication to all parents.</p>
