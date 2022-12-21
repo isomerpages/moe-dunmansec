@@ -20,7 +20,8 @@ For Secondary 1 Normal Technical, please click <a href="/files/Sec%201%20Regist
 
 #### Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School
 
-
+<img src="/images/Sec%201%20Registration/2023InstructionForOnSitePurchase.jpg"
+     style="width:70%">
 
 #### School Safe Management Measures
 
