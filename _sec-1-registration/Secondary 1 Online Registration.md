@@ -13,6 +13,7 @@ Dear Parent/ Guardian,
 
 
 
+
 ![](/images/Sec%201%20Registration/Sec1_RegEX_2023.png)
 
 #### 2.    Zoom session on 30 December 2021 from 4pm to 5pm
