@@ -62,7 +62,7 @@ Intrend Uniforms
 <tbody>
   <tr>
     <td>Address:</td>
-    <td>729 Geylang Road, Singapore 389640</td>
+    <td>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</td>
   </tr>
   <tr>
     <td>Phone:</td>
