@@ -15,4 +15,10 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/
+  - infopic:
+      title: Secondary 1 Registration Exercise
+      button: CLICK HERE TO PROCEED
+      url: /sec-1-registration/welcome-address-by-principal/
+      image: /images/Sec 1 Registration/Message.jpg
+      alt: Image alt text
 ---
