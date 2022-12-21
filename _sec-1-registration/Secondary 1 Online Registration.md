@@ -16,21 +16,18 @@ Dear Parent/ Guardian,
 #### 2.    Sec 1 Parent Engagement Webinar
 
 <p style="text-align: justify;">We will be conducting a webinar zoom session on 30 December 2022 from 4.00pm to 5.30pm to engage our parents on the following:</p>
-a.       Welcome Address by School Principal
-b.       Cohort Administration Briefing by Year Head
-c.       SBB/HMT Matters by HOD/MTL
-d.       Personal Learning Device (PLD) Updates by HOD/ICT
+a.       Welcome Address by School Principal<br>
+b.       Cohort Administration Briefing by Year Head<br>
+c.       SBB/HMT Matters by HOD/MTL<br>
+d.       Personal Learning Device (PLD) Updates by HOD/ICT<br>
 e.       Parent Support Group (PSG) by Dedicated Supportive Parents (DSP) Chairman
 
-The link to the webinar is as follow:
-
-Topic: AY2023 Sec 1 Parent Engagement Session
-
-Webinar Link: [https://moe-singapore.zoom.us/j/89724065886](https://moe-singapore.zoom.us/j/89724065886)
-
+The link to the webinar is as follow:<br>
+Topic: AY2023 Sec 1 Parent Engagement Session<br>
+Webinar Link: [https://moe-singapore.zoom.us/j/89724065886](https://moe-singapore.zoom.us/j/89724065886)<br>
 Passcode: dunman
 
-Please sign in 10 minutes before start of webinar. We look forward to the engagement session.
+<p style="text-align: justify;">Please sign in 10 minutes before start of webinar. We look forward to the engagement session.</p>
 
 ### YH provide date & link to slides above
 
