@@ -49,7 +49,7 @@ Passcode: dunman
 
 | S/N | Items | Form Type | Availability | Deadline |
 | -------- | -------- | -------- | -------- | -------- |
-| 1   | Sec 1 e-Registration Form     | FormSG     | Use the following link:<br><a href="https://go.gov.sg/sec1e-registration2023" target="_blank">https://go.gov.sg/sec1e-registration2023</a>     | ???     |
+| 1   | Sec 1 e-Registration Form     | FormSG     | Use the following link:<br><a href="https://go.gov.sg/sec1e-registration2023" target="_blank">https://go.gov.sg/sec1e-registration2023</a><br>![](/images/Sec%201%20Registration/Sec1_RegEX_2023.png)     | 23 December 2022     |
 | 2   | To Register for Zoom Session on 30 Dec 2021, 4pm to 5pm     | -     | ???     | ???     |
 | 3   | Questions to ask during our Zoom engagement session with Parents/ Guardians on 30 Dec 2021     | FormSG     | ???     | ???     |
 | 4   | Eligibility to take a subject at a higher stream     | -     | ???     | ???     |
