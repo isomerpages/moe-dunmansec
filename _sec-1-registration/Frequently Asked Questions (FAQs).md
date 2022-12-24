@@ -66,7 +66,7 @@ Do note that MTL ‘B’ is not considered as an ‘O’ Level subject.
 Students (Express/ Normal Academic Stream) may offer Mother Tongue Language ‘B’ if they meet the following criteria:<br>
 PSLE Score of AL7 or 8 in Standard MTL OR AL B or C in Foundation MTL.
 
-<u>Secondary 1 students who wish to opt for MTL ‘B’ will need to apply through their MTL subject teachers by **6 Jan 2023**.</u>
+<u>Secondary 1 students who wish to opt for MTL ‘B’ will need to apply through their MTL subject teachers by <b>6 Jan 2023</b>.</u>
 
 **6. Does the school provide in-house MTL ‘B’ Syllabus lessons during curriculum hour?**
 
