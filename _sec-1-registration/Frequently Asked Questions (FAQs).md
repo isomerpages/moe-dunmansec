@@ -75,7 +75,7 @@ Students taking MTL 'B' Syllabus will need to attend lessons at the respective M
 
 * CL B - St Hilda’s Secondary School
 * ML B - MOELC Bishan
-* TL B – UPTLC
+* TL B - UPTLC
 
 #### Foreign Languages (FL) or Asian Languages (AL) in lieu of Mother Tongue Language (Not as 3rd Languages)
 
