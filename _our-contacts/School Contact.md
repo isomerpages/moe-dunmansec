@@ -7,9 +7,9 @@ description: ""
 
 ### Academic Year 2023
 
-![](/images/Our%20Contacts/Contacts_SLs_HODs.jpg)
+![](/images/Our%20Contacts/Contacts_SLsHODs_2023.jpg)
 
-![](/images/Our%20Contacts/Contacts_SDT.jpg)
+![](/images/Our%20Contacts/Contacts_SDT_2023.jpg)
 
 ![](/images/Our%20Contacts/Contacts_Sec1.jpg)
 
