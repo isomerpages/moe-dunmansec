@@ -6,7 +6,7 @@ description: ""
 ![](/images/Organisation%20Chart/SLs_2023.png)
 ![](/images/Organisation%20Chart/HOD.png)
 ![](/images/Organisation%20Chart/AYH.png)
-![](/images/Organisation%20Chart/SHv2.png)
+![](/images/Organisation%20Chart/SH_2023.png)
 ![](/images/Organisation%20Chart/ST.png)
 
 ### <span style = "color: black"> <b>School Management Committee</b> </span>
