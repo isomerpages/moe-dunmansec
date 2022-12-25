@@ -8,7 +8,7 @@ Thank you for visiting dunmansec.moe.edu.sg. By accessing and using this website
 1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
 ### Proprietary Rights
-2. This website is maintained by MCI - the Ministry of Communications and Information.
+2. This website is maintained by Dunman Secondary School.
 
 3. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MCI.
 
