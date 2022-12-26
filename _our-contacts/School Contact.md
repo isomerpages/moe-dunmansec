@@ -95,7 +95,7 @@ description: ""
 | 4B | Miss Chayarnee Marnee-In<br>[chayarnee_marnee-in@moe.edu.sg](mailto:chayarnee_marnee-in@moe.edu.sg) | Mrs Lim Hui Ling<br>[tay_hui_ling@moe.edu.sg](mailto:tay_hui_ling@moe.edu.sg) |
 | 4C | Mr Chu Khoon Hwa<br>[chu_khoon_hwa@moe.edu.sg](mailto:chu_khoon_hwa@moe.edu.sg) | Ms Goh Wen Ti Witty<br>[goh_wen_ti_witty@moe.edu.sg](mailto:goh_wen_ti_witty@moe.edu.sg) |
 |4D | Miss Loi Yen Siew<br>[loi_yen_siew@moe.edu.sg](mailto:loi_yen_siew@moe.edu.sg) | Mr Wee Keng Chye - ST/Mathematics<br>[wee_keng_chye@moe.edu.sg](mailto:wee_keng_chye@moe.edu.sg) |
-| 4E | <br>[](mailto:) | <br>[](mailto:) |
+| 4E | Miss Adeline Yong Yean Pin - ST/Science<br>[adeline_yong_yean_pin@moe.edu.sg](mailto:adeline_yong_yean_pin@moe.edu.sg) | Mr Poon Lee Wang (Fang Lihuang) - Lead Teacher/Mathematics<br>[poon_lee_wang@moe.edu.sg](mailto:poon_lee_wang@moe.edu.sg) |
 | 4F | <br>[](mailto:) | <br>[](mailto:) |
 | 4G | <br>[](mailto:) | <br>[](mailto:) |
 
