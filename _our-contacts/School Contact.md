@@ -41,10 +41,10 @@ description: ""
 | Mr Toh Wee Sing | SH/ Student Management | toh_wee_sing@moe.edu.sg |
 | Mr Ong Joon Yong Eric | Assistant Year Head | ong_joon_yong_eric@moe.edu.sg |
 | Ms Neo Wee Khee  | Assistant Year Head | neo_wee_khee@moe.edu.sg |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Ms Hafizah Hashim | Level Discipline Master | hafizah_hashim@moe.edu.sg |
+| Miss Leong Sen Tieng Sandy | Level Discipline Master | leong_sen_tieng@moe.edu.sg |
+| Mr Toh Zheng Han | Level Discipline Master | toh_zheng_han@moe.edu.sg |
+| Mr Wu Shulong | Level Discipline Master | wu_shulong@moe.edu.sg |
 |  |  |  |
 |  |  |  |
 |  |  |  |
