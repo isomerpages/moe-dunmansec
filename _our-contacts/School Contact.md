@@ -113,10 +113,10 @@ description: ""
 | Mr Tan Chen Loong Ron - SH/ CCA & Student Leadership | [tan_chen_loong_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg) |
 | Mrs Florence Lee Lay Inn | [lee_bak_hong@moe.edu.sg](mailto:lee_bak_hong@moe.edu.sg) |
 | Mdm Irmawati bte Jantan | [irmawati_jantan@moe.edu.sg](mailto:irmawati_jantan@moe.edu.sg) |
-|  | [](mailto:) |
-|  | [](mailto:) |
-|  | [](mailto:) |
-|  | [](mailto:) |
+| Mdm Maswati Abdul Ghani | [maswati_abdul_ghani@moe.edu.sg](mailto:maswati_abdul_ghani@moe.edu.sg) |
+| Mrs Toh-Tay Nguan Keow | [tay_nguan_keow@moe.edu.sg](mailto:tay_nguan_keow@moe.edu.sg) |
+| Mr Allagappan Karuppiah | [allagappan_karuppiah@moe.edu.sg](mailto:allagappan_karuppiah@moe.edu.sg) |
+| Miss Gan Lay Leng | [gan_lay_leng@moe.edu.sg](mailto:gan_lay_leng@moe.edu.sg) |
 |  | [](mailto:) |
 |  | [](mailto:) |
 |  | [](mailto:) |
