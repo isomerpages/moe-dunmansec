@@ -21,8 +21,8 @@ description: ""
 | Mr Tan Xie Xing | HOD/ Craft & Technology | [tan_xie_xing@moe.edu.sg](mailto:tan_xie_xing@moe.edu.sg) |
 | Mdm Farhana bte Fasalul Rahma | HOD/ English Language & Literature | [farhana_fasalul_rahman@moe.edu.sg](mailto:farhana_fasalul_rahman@moe.edu.sg) |
 | Miss Sarah Paul Thiyagaraj | HOD/ Humanities | [sarah_paul_thiyagaraj@moe.edu.sg](mailto:sarah_paul_thiyagaraj@moe.edu.sg) |
-| Mr Eric Low Wee Leong | HOD/ Information Communication & Technology | low_wee_leong_eric@moe.edu.sg |
-| Ms Xu Ruijun (Koh Swee Kun) | HOD/ Mathematics | koh_swee_kun@moe.edu.sg |
+| Mr Eric Low Wee Leong | HOD/ Information Communication & Technology | [low_wee_leong_eric@moe.edu.sg](mailto:low_wee_leong_eric@moe.edu.sg) |
+| Ms Xu Ruijun (Koh Swee Kun) | HOD/ Mathematics | [koh_swee_kun@moe.edu.sg](mailto:koh_swee_kun@moe.edu.sg) |
 | Mr Tan Teck Meng | HOD/ Mother Tongue Language | tan_teck_meng@moe.edu.sg |
 | Mr Teo Khong Beng | HOD/ Physical Education & CCA | teo_khong_beng@moe.edu.sg |
 | Mr Chow Wei Liang Joshua | HOD/ Science | chow_weiliang_joshua@moe.edu.sg |
