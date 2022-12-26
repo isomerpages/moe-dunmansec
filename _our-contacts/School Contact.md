@@ -84,7 +84,7 @@ description: ""
 | 3C | Mdm Norlinda Bte Ishnin - ST/Humanities<br>[norlinda_ishnin@moe.edu.sg](mailto:norlinda_ishnin@moe.edu.sg) | Ms Rozlinda Bte Abdul Rahim<br>[rozlinda_abdul_rahim@moe.edu.sg](mailto:rozlinda_abdul_rahim@moe.edu.sg) |
 |3D | Miss Wan Yuting Melissa<br>[wan_yuting_melissa@moe.edu.sg](mailto:wan_yuting_melissa@moe.edu.sg) | Mdm Siti Nur Nadirah Asmadi<br>[siti_nur_nadirah_asmadi@moe.edu.sg](mailto:siti_nur_nadirah_asmadi@moe.edu.sg) |
 | 3E | Mr Thomson Ang Chong Yao<br>[thomson_ang_chong_yao@moe.edu.sg](mailto:thomson_ang_chong_yao@moe.edu.sg) | Miss Lee Pooi San Vivian<br>[lee_pooi_san@moe.edu.sg](mailto:lee_pooi_san@moe.edu.sg) |
-| 3F | <br>[](mailto:) | <br>[](mailto:) |
+| 3F | Mr Muhammad Fadhly Pathi<br>[muhammad_fadhly_pathi@moe.edu.sg](mailto:muhammad_fadhly_pathi@moe.edu.sg) | Mdm Khew Sing Eian<br>[khew_sing_eian@moe.edu.sg](mailto:khew_sing_eian@moe.edu.sg) |
 | 3G | <br>[](mailto:) | <br>[](mailto:) |
 
 #### Secondary 4 Form Teachers
