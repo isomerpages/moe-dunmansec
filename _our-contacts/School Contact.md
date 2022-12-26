@@ -50,4 +50,10 @@ description: ""
 | Miss Wang Yuxuan Paige | School Counsellor | [wang_yuxuan@moe.edu.sg](mailto:wang_yuxuan@moe.edu.sg) |
 | Mr Wilfred Phillips James | School Counsellor | [james_wilfred_phillips@moe.edu.sg](mailto:james_wilfred_phillips@moe.edu.sg) |
 
-#### Secondary 1 Form-Teachers
+#### Secondary 1 Form Teachers
+
+| Class | Form Teachers |  |
+| -------- | -------- | -------- |
+| 1A | Mr Phey Boon Yeow<br>[phey_boon_yeow@moe.edu.sg](mailto:phey_boon_yeow@moe.edu.sg) | Ms Sutha D/O Rajasekaran<br>[sutha_rajasekaran@moe.edu.sg](mailto:sutha_rajasekaran@moe.edu.sg) |
+|  | <br>[](mailto:) | <br>[](mailto:) |
+
