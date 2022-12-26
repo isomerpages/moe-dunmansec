@@ -65,7 +65,7 @@ description: ""
 
 | Class | Form Teachers |  |
 | -------- | -------- | -------- |
-| 2A | <br>[](mailto:) | <br>[](mailto:) |
+| 2A | Mdm Nurhidayah Binte Mohd Salleh<br>[nurhidayah_mohd_salleh@moe.edu.sg](mailto:nurhidayah_mohd_salleh@moe.edu.sg) | Mr Tay Chye-Leng Elvin<br>[tay_chye_leng-elvin@moe.edu.sg](mailto:tay_chye_leng-elvin@moe.edu.sg) |
 | 2B | <br>[](mailto:) | <br>[](mailto:) |
 | 2C | <br>[](mailto:) | <br>[](mailto:) |
 |2D | <br>[](mailto:) | <br>[](mailto:) |
