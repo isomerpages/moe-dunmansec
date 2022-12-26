@@ -3,6 +3,8 @@ title: School Contact
 permalink: /our-contacts/school-contact/
 description: ""
 ---
+### Academic Year 2023
+
 #### School Leaders
 
 | Name | Designation | Email Address |
