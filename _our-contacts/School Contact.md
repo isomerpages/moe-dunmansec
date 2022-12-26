@@ -22,3 +22,13 @@ description: ""
 ![](/images/Our%20Contacts/Contacts_Sec5.jpg)
 
 ![](/images/Our%20Contacts/Contacts_Others_2023Term1.jpg)
+
+
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Mr Toh Thiam Chye     | Principal     | toh_thiam_chye@moe.edu.sg     |
+
+
+
+
