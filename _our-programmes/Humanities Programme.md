@@ -94,8 +94,8 @@ description: ""
 * 2015: Certificate of Participation
 * 2016: 2nd Runner-up – Individual Category
 * 2017: 1st Place – Individual Category
-* 2018:1st Runner-up Team Category
-* 2018: 1st Place- Individual Category (Rhea Lim: 3 Harmony)
+* 2018:1st Runner – up Team Category
+* 2018: 1st Place – Individual Category (Rhea Lim: 3 Harmony)
 * 2019: 3rd Place – Individual Category (Rhea Lim: 4 Harmony)
 
 ![](/images/Department%20Photos/Humanities/War%20and%20Diplomacy%20Card%20Game.jpg)
