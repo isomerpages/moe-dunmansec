@@ -55,7 +55,7 @@ description: ""
 | Class | Form Teachers |  |
 | -------- | -------- | -------- |
 | 1A | Mr Phey Boon Yeow<br>[phey_boon_yeow@moe.edu.sg](mailto:phey_boon_yeow@moe.edu.sg) | Ms Sutha D/O Rajasekaran<br>[sutha_rajasekaran@moe.edu.sg](mailto:sutha_rajasekaran@moe.edu.sg) |
-| 1B | <br>[](mailto:) | <br>[](mailto:) |
+| 1B | Ms Loo Nga Lay Adeline<br>[loo_nga_lay_adeline@moe.edu.sg](mailto:loo_nga_lay_adeline@moe.edu.sg) | Mdm Nur Diyana Sulaiman<br>[nur_diyana_sulaiman@moe.edu.sg](mailto:nur_diyana_sulaiman@moe.edu.sg) |
 | 1C | <br>[](mailto:) | <br>[](mailto:) |
 | 1D | <br>[](mailto:) | <br>[](mailto:) |
 | 1E | <br>[](mailto:) | <br>[](mailto:) |
