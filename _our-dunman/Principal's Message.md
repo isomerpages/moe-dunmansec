@@ -17,7 +17,7 @@ description: ""
 <p style="text-align: justify;"> Besides our strategic partners, all of our achievements would not have been possible without the strong support of our stakeholders – our School Advisory Committee, our Dedicated Supportive Parents and our Dunman Youth Alumni as well as our committed and dedicated teachers. I look forward to working with all of our stakeholders, strategic partners and teachers as one Dunman family to enable all Dunmanites to excel! </p>
 
 
-Warmest Regards,  
-Toh Thiam Chye  
-Principal  
+Warmest Regards,<br>
+Toh Thiam Chye<br>
+Principal<br>
 Dunman Secondary School
