@@ -28,7 +28,3 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Toh Thiam Chye     | Principal     | toh_thiam_chye@moe.edu.sg     |
-
-
-
-
