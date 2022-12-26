@@ -60,7 +60,7 @@ description: ""
 | 1D | Miss Yap Yen Leng Joyce<br>[yap_yen_leng_joyce@moe.edu.sg](mailto:yap_yen_leng_joyce@moe.edu.sg) | Mr Mathivanan Murthy - SH/English Language & Literature<br>[mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg) |
 | 1E | Mr Rohasan Mansor<br>[rohasan_b_mansor@moe.edu.sg](mailto:rohasan_b_mansor@moe.edu.sg) | Ms Tan Ai Bee Jeanette<br>[tan_ai_bee_jeanette@moe.edu.sg](mailto:tan_ai_bee_jeanette@moe.edu.sg) |
 | 1F | Mdm Han Tiew Kian<br>[han_tiew_kian@moe.edu.sg](mailto:han_tiew_kian@moe.edu.sg) | Miss Neeta Ishwardas Rajwani<br>[neeta_ishwardas_rajwani@moe.edu.sg](mailto:neeta_ishwardas_rajwani@moe.edu.sg) |
-| 1G | <br>[](mailto:) | <br>[](mailto:) |
+| 1G | Mr Wan Zhun Kai Leonard - SH/Humanities<br>[wan_zhun_kai_leonard@moe.edu.sg](mailto:wan_zhun_kai_leonard@moe.edu.sg) | <br>[](mailto:) |
 | 1H | <br>[](mailto:) | <br>[](mailto:) |
 
 | Class | Form Teachers |  |
