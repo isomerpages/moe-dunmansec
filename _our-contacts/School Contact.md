@@ -12,6 +12,7 @@ description: ""
 | Mr Fathul Rahman Bin Kamsani | Vice-Principal 2 | fathul_rahman_kamsani@moe.edu.sg |
 
 #### Heads Of Department
+
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Sim Khim Hoe Gabriel | HOD/ Character & Citizenship Education | sim_khim_hoe_gabriel@moe.edu.sg |
@@ -29,6 +30,7 @@ description: ""
 | Mr Chong Yau Kwang | Year Head (Lower Secondary) | chong_yau_kwang@moe.edu.sg |
 
 #### Student Development Team
+
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Lee Wei Leong | HOD/ Student Management | lee_wei_leong_a@moe.edu.sg |
