@@ -58,7 +58,7 @@ description: ""
 | 1B | Ms Loo Nga Lay Adeline<br>[loo_nga_lay_adeline@moe.edu.sg](mailto:loo_nga_lay_adeline@moe.edu.sg) | Mdm Nur Diyana Sulaiman<br>[nur_diyana_sulaiman@moe.edu.sg](mailto:nur_diyana_sulaiman@moe.edu.sg) |
 | 1C | Miss Fauzani Kamsani<br>[fauzani_kamsani@moe.edu.sg](mailto:fauzani_kamsani@moe.edu.sg) | Mr Ong Chin Leng - SH/Science<br>[ong_chin_leng_a@moe.edu.sg](mailto:ong_chin_leng_a@moe.edu.sg) |
 | 1D | Miss Yap Yen Leng Joyce<br>[yap_yen_leng_joyce@moe.edu.sg](mailto:yap_yen_leng_joyce@moe.edu.sg) | Mr Mathivanan Murthy - SH/English Language & Literature<br>[mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg) |
-| 1E | <br>[](mailto:) | <br>[](mailto:) |
+| 1E | Mr Rohasan Mansor<br>[rohasan_b_mansor@moe.edu.sg](mailto:rohasan_b_mansor@moe.edu.sg) | Ms Tan Ai Bee Jeanette<br>[tan_ai_bee_jeanette@moe.edu.sg](mailto:tan_ai_bee_jeanette@moe.edu.sg) |
 | 1F | <br>[](mailto:) | <br>[](mailto:) |
 | 1G | <br>[](mailto:) | <br>[](mailto:) |
 | 1H | <br>[](mailto:) | <br>[](mailto:) |
