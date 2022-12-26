@@ -70,7 +70,7 @@ description: ""
 | 2C | Mr Chern Meng Hock<br>[chern_meng_hock@moe.edu.sg](mailto:chern_meng_hock@moe.edu.sg) | Ms Joann Wee Por Hua<br>[wee_por_hua@moe.edu.sg](mailto:wee_por_hua@moe.edu.sg) |
 |2D | Mdm Chew Jin Hui Patricia<br>[chew_jin_hui_patricia@moe.edu.sg](mailto:chew_jin_hui_patricia@moe.edu.sg) | Mdm Sri Haryanti Ismail<br>[sri_haryanti_ismail@moe.edu.sg](mailto:sri_haryanti_ismail@moe.edu.sg) |
 | 2E | Mdm Sharifah Nafisah Syed KA<br>[sharifah_nafisah_syed_khal@moe.edu.sg](mailto:sharifah_nafisah_syed_khal@moe.edu.sg) | Mr Toh Hong Ming<br>[toh_hong_ming@moe.edu.sg](mailto:toh_hong_ming@moe.edu.sg) |
-| 2F | <br>[](mailto:) | <br>[](mailto:) |
+| 2F | Miss Nurmasnita Mohd Dena<br>[nurmasnita_mohd_dena@moe.edu.sg](mailto:nurmasnita_mohd_dena@moe.edu.sg) | Mr John Lawrence Raj<br>[john_lawrence_raj@moe.edu.sg](mailto:john_lawrence_raj@moe.edu.sg) |
 | 2G | <br>[](mailto:) | <br>[](mailto:) |
 
 | Class | Form Teachers |  |
