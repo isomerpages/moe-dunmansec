@@ -34,12 +34,10 @@ description: ""
 #### Heads Of Department
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Mr Lee Wei Leong | HOD/ Student Management | lee_wei_leong_a@moe.edu.sg |
-| Mr Ali Sharif Arshad | Year Head (Upper Secondary) | ali_sharif_arshad@moe.edu.sg |
-| Mr Chong Yau Kwang | Year Head (Lower Secondary) | chong_yau_kwang@moe.edu.sg |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Mr Sim Khim Hoe Gabriel | HOD/ Character & Citizenship Education | sim_khim_hoe_gabriel@moe.edu.sg |
+| Mr Tan Xie Xing | HOD/ Craft & Technology | tan_xie_xing@moe.edu.sg |
+| Mdm Farhana bte Fasalul Rahma | HOD/ English Language & Literature | farhana_fasalul_rahman@moe.edu.sg |
+| Miss Sarah Paul Thiyagaraj | HOD/ Humanities | sarah_paul_thiyagaraj@moe.edu.sg |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -48,4 +46,7 @@ description: ""
 #### Student Development Team
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
+| Mr Lee Wei Leong | HOD/ Student Management | lee_wei_leong_a@moe.edu.sg |
+| Mr Ali Sharif Arshad | Year Head (Upper Secondary) | ali_sharif_arshad@moe.edu.sg |
+| Mr Chong Yau Kwang | Year Head (Lower Secondary) | chong_yau_kwang@moe.edu.sg |
 |  |  |  |
