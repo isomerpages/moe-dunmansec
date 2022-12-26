@@ -3,8 +3,6 @@ title: Student Development
 permalink: /our-programmes/student-development/
 description: ""
 ---
-
-
 ### Members
 <img src="/images/Department%20Photos/student%20development%20and%20student%20management%20committee%20i.jpg"
 		 style="width:78%">
