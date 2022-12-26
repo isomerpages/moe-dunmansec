@@ -117,8 +117,8 @@ description: ""
 | Mrs Toh-Tay Nguan Keow | [tay_nguan_keow@moe.edu.sg](mailto:tay_nguan_keow@moe.edu.sg) |
 | Mr Allagappan Karuppiah | [allagappan_karuppiah@moe.edu.sg](mailto:allagappan_karuppiah@moe.edu.sg) |
 | Miss Gan Lay Leng | [gan_lay_leng@moe.edu.sg](mailto:gan_lay_leng@moe.edu.sg) |
-|  | [](mailto:) |
-|  | [](mailto:) |
-|  | [](mailto:) |
-|  | [](mailto:) |
-|  | [](mailto:) |
+| Mdm Kong Wai Fun Jacklyn | [kong_wai_fun_jacklyn@moe.edu.sg](mailto:kong_wai_fun_jacklyn@moe.edu.sg) |
+| Mdm Rohana bte Mohd Salleh | [rohana_mohamed_salleh@moe.edu.sg](mailto:rohana_mohamed_salleh@moe.edu.sg) |
+| Mdm Tan Lay Eng | [tan_lay_eng_a@moe.edu.sg](mailto:tan_lay_eng_a@moe.edu.sg) |
+| Mdm Wang Yanmei | [wang_yan_mei@moe.edu.sg](mailto:wang_yan_mei@moe.edu.sg) |
+| Mdm Zainah bte Mohamed | [](mailto:) |
