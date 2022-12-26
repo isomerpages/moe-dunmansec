@@ -40,7 +40,11 @@ description: ""
 | Miss Sarah Paul Thiyagaraj | HOD/ Humanities | sarah_paul_thiyagaraj@moe.edu.sg |
 | Mr Eric Low Wee Leong | HOD/ Information Communication & Technology | low_wee_leong_eric@moe.edu.sg |
 | Ms Xu Ruijun (Koh Swee Kun) | HOD/ Mathematics | koh_swee_kun@moe.edu.sg |
-|  |  |  |
+| Mr Tan Teck Meng | HOD/ Mother Tongue Language | tan_teck_meng@moe.edu.sg |
+| Mr Teo Khong Beng | HOD/ Physical Education & CCA | teo_khong_beng@moe.edu.sg |
+| Mr Chow Wei Liang Joshua | HOD/ Science | chow_weiliang_joshua@moe.edu.sg |
+| Mr Lee Wei Leong | HOD/ Student Management | lee_wei_leong_a@moe.edu.sg |
+| Mr Amos Ng Boon Hwa | School Staff Developer | ng_boon_hwa@moe.edu.sg |
 |  |  |  |
 
 #### Student Development Team
