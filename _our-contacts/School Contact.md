@@ -36,9 +36,9 @@ description: ""
 | Mr Lee Wei Leong | HOD/ Student Management | lee_wei_leong_a@moe.edu.sg |
 | Mr Ali Sharif Arshad | Year Head (Upper Secondary) | ali_sharif_arshad@moe.edu.sg |
 | Mr Chong Yau Kwang | Year Head (Lower Secondary) | chong_yau_kwang@moe.edu.sg |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Mr Toh Wee Sing | SH/ Student Management | toh_wee_sing@moe.edu.sg |
+| Mr Ong Joon Yong Eric | Assistant Year Head | ong_joon_yong_eric@moe.edu.sg |
+| Ms Neo Wee Khee  | Assistant Year Head | neo_wee_khee@moe.edu.sg |
 |  |  |  |
 |  |  |  |
 |  |  |  |
