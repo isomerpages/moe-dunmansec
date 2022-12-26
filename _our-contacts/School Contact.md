@@ -93,7 +93,7 @@ description: ""
 | -------- | -------- | -------- |
 | 4A | Mdm Salha Rahmat<br>[salha_rahmat@moe.edu.sg](mailto:salha_rahmat@moe.edu.sg) | Mr Wong Tong Aun James<br>[james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg) |
 | 4B | Miss Chayarnee Marnee-In<br>[chayarnee_marnee-in@moe.edu.sg](mailto:chayarnee_marnee-in@moe.edu.sg) | Mrs Lim Hui Ling<br>[tay_hui_ling@moe.edu.sg](mailto:tay_hui_ling@moe.edu.sg) |
-| 4C | <br>[](mailto:) | <br>[](mailto:) |
+| 4C | Mr Chu Khoon Hwa<br>[chu_khoon_hwa@moe.edu.sg](mailto:chu_khoon_hwa@moe.edu.sg) | Ms Goh Wen Ti Witty<br>[goh_wen_ti_witty@moe.edu.sg](mailto:goh_wen_ti_witty@moe.edu.sg) |
 |4D | <br>[](mailto:) | <br>[](mailto:) |
 | 4E | <br>[](mailto:) | <br>[](mailto:) |
 | 4F | <br>[](mailto:) | <br>[](mailto:) |
