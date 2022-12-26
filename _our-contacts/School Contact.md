@@ -79,9 +79,9 @@ description: ""
 
 | Class | Form Teachers |  |
 | -------- | -------- | -------- |
-| 3A | <br>[](mailto:) | <br>[](mailto:) |
-| 3B | <br>[](mailto:) | <br>[](mailto:) |
-| 3C | <br>[](mailto:) | <br>[](mailto:) |
+| 3A | Mdm Chua Sok Hoon<br>[chua_sok_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg) | Mr Harris Alexander<br>[harris_alexander@moe.edu.sg](mailto:) |
+| 3B | Miss Shireen d/o Kaderuppan<br>[shireen_kaderuppan@moe.edu.sg](mailto:shireen_kaderuppan@moe.edu.sg) | Ms Rajwinder Kaur<br>[rajwinder_kaur@moe.edu.sg](mailto:rajwinder_kaur@moe.edu.sg) |
+| 3C | Mdm Norlinda Bte Ishnin - ST/Humanities<br>[norlinda_ishnin@moe.edu.sg](mailto:norlinda_ishnin@moe.edu.sg) | Ms Rozlinda Bte Abdul Rahim<br>[rozlinda_abdul_rahim@moe.edu.sg](mailto:rozlinda_abdul_rahim@moe.edu.sg) |
 |3D | <br>[](mailto:) | <br>[](mailto:) |
 | 3E | <br>[](mailto:) | <br>[](mailto:) |
 | 3F | <br>[](mailto:) | <br>[](mailto:) |
