@@ -29,16 +29,9 @@ description: ""
 
 #### 1) Oral Communication Programme
 
-<p style="text-align: justify;">The oral communication programme in Dunman Secondary is a rigorous 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities.</p>
+<p style="text-align: justify;">The oral communication programme in Dunman Secondary is a 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities at the various levels. Besides cohort-based and school-wide presentation platforms, they also have opportunities to engage external partners and showcase their skills learnt through STEMviaDT projects and presentations.</p>
 
-The programme consists of:
-
-*   Sec 1: EL ambassadors programme
-*   Sec 2: Readers' Theatre Values-In-Action programme
-*   Sec 3: EL ambassadors programme
-*   Sec 4/5: Individual oral consultation sessions
-
-<p style="text-align: justify;">Due to the constraints of COVID, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary.</p>
+<p style="text-align: justify;">In 2020, when Covid struck, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary.</p>
 
 Click <a href="https://sites.google.com/moe.edu.sg/mdd2020/home" target="_blank">here</a> to view their masterpieces.
 
