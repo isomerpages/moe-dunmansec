@@ -7,8 +7,6 @@ description: ""
 
 #### School Leaders
 
-[sales@itu.com.sg](mailto:sales@itu.com.sg)
-
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Toh Thiam Chye | Principal | [toh_thiam_chye@moe.edu.sg](mailto:toh_thiam_chye@moe.edu.sg) |
