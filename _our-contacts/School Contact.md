@@ -45,7 +45,7 @@ description: ""
 | Miss Leong Sen Tieng Sandy | Level Discipline Master | [leong_sen_tieng@moe.edu.sg](mailto:leong_sen_tieng@moe.edu.sg) |
 | Mr Toh Zheng Han | Level Discipline Master | [toh_zheng_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg) |
 | Mr Wu Shulong | Level Discipline Master | [wu_shulong@moe.edu.sg](mailto:wu_shulong@moe.edu.sg) |
-|  |  | [](mailto:) |
-|  |  | [](mailto:) |
+| Mr Wilson Lim | AED | [lim_chong_eng_b@moe.edu.sg](mailto:lim_chong_eng_b@moe.edu.sg) |
+| Miss Amanda Tan Jia Qi | AED Learning & Behavioural Support | [amanda_tan_jia_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg ) |
 |  |  | [](mailto:) |
 |  |  | [](mailto:) |
