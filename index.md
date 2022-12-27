@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/1 Dunman_Daring 2-2.gif
+      background: /images/Home Page/Banner small 2.gif
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
