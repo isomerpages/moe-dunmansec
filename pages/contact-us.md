@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Dunman Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 21 Tampines Street 45
+      - Singapore 529093
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.30am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.google.com/maps/place/21+Tampines+Street+45,+Singapore+529093/@1.3611031,103.9555435,18.35z/data=!4m5!3m4!1s0x31da3d00df545591:0x4a2ad87dba51b83f!8m2!3d1.3608811!4d103.9562762
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6786 2668
+      - email: dunman_ss@moe.edu.sg
+      - other: ""
+    title: Contact Number
 ---

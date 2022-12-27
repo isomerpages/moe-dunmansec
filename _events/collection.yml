@@ -1,0 +1,5 @@
+collections:
+  events:
+    output: true
+    order:
+      - Up and Coming Events.md

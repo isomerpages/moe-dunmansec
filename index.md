@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Dunman Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/Home Page/home_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Home Page/1 Dunman_Daring 2-2.gif
+      key_highlights:
+        - title: Announcements
+          description: Click here for announcements.
+          url: /announcements/invitation-to-parents-gateway/
+        - title: Events
+          description: Click here for upcoming events
+          url: /events/
+  - infopic:
+      title: Secondary 1 Registration Exercise
+      button: CLICK HERE TO PROCEED
+      url: /sec-1-registration/welcome-address-by-principal/
+      image: /images/Sec 1 Registration/Message.jpg
+      alt: Image alt text
 ---
-
