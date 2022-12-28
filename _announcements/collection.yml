@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - First Week of School AY2023.md
       - Booklist for AY2023.md
       - GCE N Level Admin Slides (19 December 2022).md
       - Invitation to Parents Gateway.md
