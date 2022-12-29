@@ -3,5 +3,4 @@ title: First Week of School AY2023
 permalink: /announcements/first-week-of-school-ay2023/
 description: ""
 ---
-
-Please click [here](FirstWeekProgramme.pdf) to download first week of school programme.
+Please click [here](/files/announcements/FirstWeekProgramme.pdf) to download first week of school programme.
