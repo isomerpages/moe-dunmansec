@@ -3,4 +3,4 @@ title: First Week of School AY2023
 permalink: /announcements/permalink/
 description: ""
 ---
-Download First Week of School AY2023 schedule [here](/files/Announcements/Booklist%20AY2023/Dunman Sec First Week Programme.pdf).
+Download first week of school AY2023 schedule <a href="/files/Announcements/Booklist%20AY2023/Dunman Sec First Week Programme.pdf" target="_blank">here</a>. 
