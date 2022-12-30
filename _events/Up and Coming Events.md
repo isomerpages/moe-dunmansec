@@ -13,6 +13,4 @@ We will be conducting a webinar zoom session on 30 December 2022 from 4.00pm to 
 * Personal Learning Device (PLD) Updates by HOD/ICT
 * Parent Support Group (PSG) by Dedicated Supportive Parents (DSP) Chairman
 
-The link to the webinar is as follow:  
-Webinar Link: [https://moe-singapore.zoom.us/j/89724065886](https://moe-singapore.zoom.us/j/89724065886)  
-Passcode: dunman
+Click [here](\files\Sec 1 Registration\Sec 1 Parent Engagement Webinar 2023_Year Head Component.pdf) here to download the briefing slides. For NDLP slides, please visit [our microsite](https://sites.google.com/moe.edu.sg/dmnndlp/home).
