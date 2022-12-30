@@ -5,7 +5,7 @@ description: ""
 ---
 #### Sec 1 Parent Engagement Webinar
 
-We will be conducting a webinar zoom session on 30 December 2022 from 4.00pm to 5.30pm to engage our parents on the following:
+We had conducted a webinar zoom session on 30 December 2022 to engage our parents on the following:
 
 * Welcome Address by School Principal  
 * Cohort Administration Briefing by Year Head  
