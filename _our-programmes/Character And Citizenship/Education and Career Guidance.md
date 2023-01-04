@@ -58,7 +58,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   </tr>
   <tr>
     <td>Courses available at the ITE<br> </td>
-    <td><a href="https://www.ite.edu.sg/admissions/full-time-courses">https://www.ite.edu.sg/admissions/full-time-courses</a><br><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2022">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2022</a><br></td>
+    <td><a href="https://www.ite.edu.sg/admissions/full-time-courses">https://www.ite.edu.sg/admissions/full-time-courses</a></td>
     <td>Exp, N(A), N(T)</td>
   </tr>
   <tr>
