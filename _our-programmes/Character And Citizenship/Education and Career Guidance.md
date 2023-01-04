@@ -137,7 +137,8 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   </tr>
   <tr>
     <td>My-Skills-Future Portal (Secondary)</td>
-    <td><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a></td>
+    <td><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a><br><a href="https://go.gov.sg/industrylandscape-sec">https://go.gov.sg/industrylandscape-sec</a><br><a href="https://go.gov.sg/ecgportalvideos">https://go.gov.sg/ecgportalvideos</a>
+		</td>
     <td>ECG Portal to explore the world of work and plan education pathways</td>
   </tr>
   <tr>
