@@ -6,7 +6,19 @@ third_nav_title: Character And Citizenship
 ---
 ### Introduction
 
-<p style="text-align: justify;">Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. At secondary schools, the focus is on exploration; to help students understand themselves better in their skills, interests and abilities and guide their exploration of different education and career pathways. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st century.</p>
+<p style="text-align: justify;">Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. The goals of ECG are to support students in:</p>
+
+**Discovering Purpose – Who am I?**
+
+Nurture students’ self-awareness to support them in discovering how they can meaningfully play a part in their community
+
+**Exploring Opportunities – Where do I want to go?**
+
+Develop students’ self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations
+
+**Staying Relevant – How do I get there?**
+
+Build students’ adaptability and resilience to embrace the need for lifelong learning
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
@@ -36,7 +48,7 @@ third_nav_title: Character And Citizenship
 <tbody>
   <tr>
     <td>Information on Post-secondary Education</td>
-    <td><a href="https://go.gov.sg/overview-pseis">https://go.gov.sg/overview-pseis</a><br><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next</a>  <br><a href="https://youtu.be/ndDVlzT-z0g">https://youtu.be/ndDVlzT-z0g</a></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary">https://go.gov.sg/overview-pseis</a><br><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next</a>  <br><a href="https://youtu.be/ndDVlzT-z0g">https://youtu.be/ndDVlzT-z0g</a></td>
     <td>Exp, N(A), N(T)</td>
   </tr>
   <tr>
