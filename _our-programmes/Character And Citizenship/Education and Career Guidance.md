@@ -54,7 +54,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   <tr>
     <td>Course Finder</td>
     <td><a href="https://go.gov.sg/coursefinder">https://go.gov.sg/coursefinder</a>  </td>
-    <td>Exp, N(A), N(T)</td>
+    <td>Exp, N(A), N(T) Online tool to explore and shortlist courses offered by polytechnics and ITE</td>
   </tr>
   <tr>
     <td>Courses available at the ITE<br> </td>
