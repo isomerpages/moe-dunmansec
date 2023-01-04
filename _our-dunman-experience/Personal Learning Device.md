@@ -1,8 +1,9 @@
 ---
-title: Personal Learning Device Experience
+title: Personal Learning Device
 permalink: /our-dunman-experience/personal-learning-device/
 description: ""
 ---
+
 
 ### Mission
 
