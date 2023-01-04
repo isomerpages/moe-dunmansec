@@ -127,12 +127,12 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
 <tbody>
   <tr>
     <td>2023 JAE Booklet</td>
-    <td><a href="https://www.moe.gov.sg/2022jaebooklet">https://www.moe.gov.sg/2022jaebooklet</a></td>
+    <td><a href="http://www.moe.gov.sg/jaebooklet">http://www.moe.gov.sg/jaebooklet</a></td>
     <td>For O-level students, 4N students who are interested in PFP</td>
   </tr>
   <tr>
     <td>2023 JIE Booklet<br> </td>
-    <td><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf</a></td>
+    <td><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf</a></td>
     <td>For N-level students seeking admission to ITE College (NITEC, DPP etc.)</td>
   </tr>
   <tr>
