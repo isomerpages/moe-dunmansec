@@ -46,9 +46,14 @@ third_nav_title: CCA Programme
 
 ### Trainings
 
-The Dunman Netball Team usually train 3 times a week.   
-Tuesday: 3 pm to 6 pm   
-Thursday: 3 pm to 6 pm   
-Friday: 2:30 pm to 5:30 pm
+The Dunman Netball Team trains 3 times a week.
+Tuesday: 3 pm to 6 pm
+Thursday: 3 pm to 6 pm
+Friday: 2 pm to 5:30 pm
 
-> Besides training to prepare ourselves for competitions, we learnt many values and lessons that are applicable to our lives and for the future. Netball is not only a sport but can also bring people together despite our differences. Dunman has given me many opportunities to play with people from other schools and even other countries. These opportunities to play, observe, learn from others are rare and I appreciate it very much. While the trainings can be intense, I have also learnt to manage my time to balance academic work, cca and family. After every training, I feel a sense of achievement that I have improved and grown not only as a netballer but also as a person.<br>~ Kathy Mok, 3G
+> Besides training to prepare ourselves for competitions, we learnt many values and lessons that are applicable to our lives and for the future. Netball is not only a sport but it also brings people together despite our differences. Dunman has given me many opportunities to play Netball with players from other schools and even other countries. These opportunities to play, observe and learn from others are rare and I appreciate it very much. 
+While the training can be intense, I have also learnt to manage my time to balance academic work, Co-Curricular Activities and family. After every training, I feel a sense of achievement that I have improved and grown not only as a Netballer but also as a person. ~ Kathy Mok, 3G
+
+For further queries, please contact:
+* Miss Fauzani Kamsani at fauzani_kamsani@moe.edu.sg
+* Ms Goh Witty at goh_wen_ti_witty@moe.edu.sg
