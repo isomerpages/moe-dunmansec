@@ -179,7 +179,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   <tr>
     <td>Community-based Helplines</td>
     <td><a href="https://www.mindline.sg/">https://www.mindline.sg/</a><br><a href="https://www.ec2.sg/">https://www.ec2.sg/</a><br> </td>
-    <td>For students who would like to have someone to talk to in times of need. Or approach the School Counsellor.</td>
+    <td>For students who would like to have someone to talk to in times of need or to approach the School Counsellor. </td>
   </tr>
 </tbody>
 </table>
