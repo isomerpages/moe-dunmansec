@@ -142,9 +142,9 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
     <td>ECG Portal to explore the world of work and plan education pathways</td>
   </tr>
   <tr>
-    <td>Singapore Industry Landscape</td>
-    <td><a href="https://go.gov.sg/industrylandscape-sec">https://go.gov.sg/industrylandscape-sec</a><br><a href="https://go.gov.sg/ecgportalvideos">https://go.gov.sg/ecgportalvideos</a><br><a href="https://go.gov.sg/ecgportalarticles">https://go.gov.sg/ecgportalarticles</a></td>
-    <td>ECG Portal to explore the world of work<br> </td>
+    <td>Calendar of Events</td>
+    <td><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html">https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html</a></td>
+    <td>Stay up-to-date with upcoming Education and Career Guidance Events<br> </td>
   </tr>
   <tr>
     <td>On My Way<br> </td>
