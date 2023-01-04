@@ -168,7 +168,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   </tr>
   <tr>
     <td>ECG Centre at MOE<br> </td>
-    <td>Email: MOE_ECG@moe.gov.sg<br>Phone: 6831 1420<br>E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a></td>
+    <td>Email: MOE_ECG@moe.gov.sg<br>Phone: 6831 1420<br>E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre">https://go.gov.sg/moe-ecg-centre</a><br><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next</a></td>
     <td>The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.</td>
   </tr>
   <tr>
