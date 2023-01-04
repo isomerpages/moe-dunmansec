@@ -52,7 +52,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
     <td>Exp, N(A), N(T)</td>
   </tr>
   <tr>
-    <td>Polytechnics Course Finder</td>
+    <td>Course Finder</td>
     <td><a href="https://go.gov.sg/coursefinder">https://go.gov.sg/coursefinder</a>  </td>
     <td>Exp, N(A), N(T)</td>
   </tr>
