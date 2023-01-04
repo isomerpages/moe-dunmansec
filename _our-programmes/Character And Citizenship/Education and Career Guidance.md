@@ -48,7 +48,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
 <tbody>
   <tr>
     <td>Information on Post-secondary Education</td>
-    <td><a href="https://www.moe.gov.sg/post-secondary">https://go.gov.sg/overview-pseis</a><br><a href="https://go.gov.sg/whats-next">https://go.gov.sg/whats-next</a>  <br><a href="https://youtu.be/ndDVlzT-z0g">https://youtu.be/ndDVlzT-z0g</a></td>
+    <td><a href="https://www.moe.gov.sg/post-secondary">https://www.moe.gov.sg/post-secondary</a><br><a href="https://www.moe.gov.sg/post-secondary/admissions#o-level">https://www.moe.gov.sg/post-secondary/admissions#o-level</a>  <br><a href="https://youtu.be/ndDVlzT-z0g">https://youtu.be/ndDVlzT-z0g</a></td>
     <td>Exp, N(A), N(T)</td>
   </tr>
   <tr>
