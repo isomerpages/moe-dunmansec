@@ -153,7 +153,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
   </tr>
   <tr>
     <td>Parent Guide<br> </td>
-    <td><a href="https://www.moe.gov.sg/parentkit">https://www.moe.gov.sg/parentkit</a></td>
+    <td><a href="https://www.moe.gov.sg/parentkit">https://www.moe.gov.sg/parentkit</a><br><a href="https://go.gov.sg/parent-guide  ">https://go.gov.sg/parent-guide</a></td>
     <td>A guide for parents/guardians in ECG</td>
   </tr>
   <tr>
