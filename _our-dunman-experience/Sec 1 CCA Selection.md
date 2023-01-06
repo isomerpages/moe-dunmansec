@@ -3,7 +3,6 @@ title: Sec 1 CCA Selection
 permalink: /our-dunman-experience/sec-1-cca-selection/
 description: ""
 ---
-
 <p style="text-align: justify;">At Dunman Secondary School, our students’ Co-Curricular Activities (CCAs) programmes are full and varied. Dunmanites are keen learners in pursuit of their passion and interest, which the school supports whole-heartedly and thoroughly.</p>
 
 <p style="text-align: justify;">Dunmanites are truly keen on their many interests; be it Uniformed Groups, Sports & Games, Performing Arts, or Clubs. Whichever CCA they are in, nurturing a sense of commitment and dedication to their craft is the culture here, and we want to engage them in a CCA which they can develop and excel in.</p>
@@ -27,4 +26,4 @@ description: ""
 
 <p style="text-align: justify;">Students are reminded to make their choices wisely as they may not be allotted CCA of their first choice in cases where the CCA is oversubscribed and they may be allotted choices other than their 1st choice.</p>
 
-Please click [**here**](https://learnfusion.com/schools/dunmansec/) to submit your choices.
+Please click [**here**](https://forms.moe.edu.sg/forms/JMdrWv) to submit your choices.
