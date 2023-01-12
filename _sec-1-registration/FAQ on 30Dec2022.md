@@ -34,3 +34,21 @@ Homework serves as a way for students to consolidate their learning and one of t
 **4. What if my child’s third language lessons clash with their CCA training sessions?**
 
 Third language lessons are held at external language centres once or twice a week. As these centres have their own lesson schedules, students who opted to take up third language after school should check with the CCA teacher-in-charge on the CCA training days to ensure there is no clash in CCA training and their third language lesson. Students should avoid selecting a CCA that holds their training on the same day as their third language lesson.
+
+# Administrative Matters
+
+**1. Will there be transport options available for my child in Dunman Secondary School?**
+
+Our school does not provide school bus transport. Most of our students take public transport to come to school.
+
+**2. We were unable to purchase the required textbook and learning materials for our child. Will there be an opportunity to purchase them in school in Term 1?**
+
+Yes, the school bookshop will be open during curriculum hours for your child to purchase the required textbook and materials for their lessons.
+
+**3. My child is unable to purchase the school’s PE shorts from the vendor website as they are out of stock, when would the next available purchase date be?**
+
+The school uniform vendor will be available during the first two weeks of school. Students may purchase the PE attire at the bookshop beside the canteen during recess or after school lessons.
+
+**4. What is the average pricing of food in the school canteen?**
+
+**5. Where will I be able to get the details on the school fee for my child?**
