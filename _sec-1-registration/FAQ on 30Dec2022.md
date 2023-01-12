@@ -76,3 +76,7 @@ For the i-STEM Club, there will be five components under this umbrella. In Secon
 The CCA auditions/trials held on 3 & 4 January, as well as the CCA Fair on 6 January are planned platforms for students to know the various components of each CCA. Senior students will also set up booths to target students’ interest. The school website is updated with the CCA overview and programme. 
 
 During the 1st month of CCA selection till 20 January, students are strongly encouraged to join the cca trainings with seniors to find out more if it is their interest.
+
+# PLD Matters
+
+**1. Is my child able to use an existing family iPad as his PLD device?**
