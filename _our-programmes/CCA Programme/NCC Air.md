@@ -47,3 +47,12 @@ Click <a href="https://www.youtube.com/embed/x6uagYwCinQ" target="_blank">here</
 <p style="text-align: justify;">We look forward to the future, and we will continue to seek new avenues to enrich the NCC Air experience of our cadets to develop the next generation of future leaders.</p>
 
 Click <a href="https://www.youtube.com/watch?v=IehAtdCsTRA" target="_blank">here</a> to view our video on YouTube.
+
+**Training Schedule**
+
+* Tuesdays – 3 PM to 5.30 PM – For Guard-of-Honour Contingent for Dunman Appreciation Day
+* Thursdays – 3 PM to 5.30 PM – For PDS Competition Team
+* Fridays – 3 PM to 6 PM – For all cadets
+
+Teacher OIC Contact
+[muhammad\_fadhly\_pathi@moe.edu.sg](muhammad\_fadhly\_pathi@moe.edu.sg)
