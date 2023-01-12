@@ -87,3 +87,7 @@ To ensure that your child’s/ward’s device is able to support his/her partici
 
 Please refer to https://www.dunmansec.moe.edu.sg/our-dunman-experience/personal-learning-device/ for more details on DMA
 
+**3. With the default DMA setting, can my child download any games or applications to their iPad?**
+
+Please refer to https://www.dunmansec.moe.edu.sg/our-dunman-experience/personal-learning-device/ for more details on DMA
+
