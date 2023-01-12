@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 GCE O Level.md
       - Timetable AY2023.md
       - Booklist for AY2023.md
       - GCE N Level Admin Slides (19 December 2022).md
