@@ -56,3 +56,23 @@ Food in the school canteen ranges on an average from $2.00 - $3.50. Our school w
 **5. Where will I be able to get the details on the school fee for my child?**
 
 Details on the school fee is made known online through the Ministry of Education (MOE) website at: [https://www.moe.gov.sg/financial-matters/fees?pt=2023](https://www.moe.gov.sg/financial-matters/fees?pt=2023)
+
+# CCA Matters
+
+**1. Will there a chance for my child to try out different CCAs for a month before choosing their actual CCA that they will be staying with throughout their time in the school?**
+
+During the 1st month of CCA selection till 20 January, students are strongly encouraged to join the CCA training with their seniors to find out more if it is their interest.
+
+**2. Will my child be able to opt for an external CCA instead of participating in the CCAs provided by the school?**
+
+As part of MOE overall holistic student development, all students will be allocated a School-based CCA and it is compulsory to participate in a school-based CCA. Students with external CCAs will need to make arrangements to prevent clash of school-based CCAs. At the same time, they may approach the HOD CCA & SH CCA for advice in their CCA selection, if they would like to continue in an external CCA.
+
+**3. Is the STEM Mega CCA (i-STEM Club) offered one of the CCA options available for my child?**
+
+For the i-STEM Club, there will be five components under this umbrella. In Secondary 1, all students will go through the foundation training and level 1 rotation for i-STEM. At the end of Secondary 1, the CCA students will specialise in one of the four components based on the i-STEM criteria.
+
+**4. Will the students get an idea of the different CCA options before they pen down their choices for their CCA selection or attend an audition?**
+
+The CCA auditions/trials held on 3 & 4 January, as well as the CCA Fair on 6 January are planned platforms for students to know the various components of each CCA. Senior students will also set up booths to target students’ interest. The school website is updated with the CCA overview and programme. 
+
+During the 1st month of CCA selection till 20 January, students are strongly encouraged to join the cca trainings with seniors to find out more if it is their interest.
