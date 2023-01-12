@@ -1,5 +1,4 @@
 collections:
   faq:
     output: true
-    order:
-      - FAQ on 30Dec2022.md
+    order: []
