@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - FAQ on 30Dec2022.md
       - Welcome Address By Principal.md
       - Secondary 1 Online Registration.md
       - Transition To Secondary School.md
