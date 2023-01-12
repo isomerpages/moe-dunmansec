@@ -80,3 +80,10 @@ During the 1st month of CCA selection till 20 January, students are strongly enc
 # PLD Matters
 
 **1. Is my child able to use an existing family iPad as his PLD device?**
+
+To ensure that your child’s/ward’s device is able to support his/her participation in the school’s teaching and learning programme, the school will conduct an assessment on the suitability of the device should you plan to use your own device.
+
+**2. Is the option to manage my child’s iPad using DMA similar to using the Apple’s own Parental Controls?**
+
+Please refer to https://www.dunmansec.moe.edu.sg/our-dunman-experience/personal-learning-device/ for more details on DMA
+
