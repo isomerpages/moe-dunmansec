@@ -51,4 +51,8 @@ The school uniform vendor will be available during the first two weeks of school
 
 **4. What is the average pricing of food in the school canteen?**
 
+Food in the school canteen ranges on an average from $2.00 - $3.50. Our school will continue to ensure meals are kept affordable, with subsidies provided through MOE or school-based support such as the MOE Financial Assistance Scheme (FAS).
+
 **5. Where will I be able to get the details on the school fee for my child?**
+
+Details on the school fee is made known online through the Ministry of Education (MOE) website at: [https://www.moe.gov.sg/financial-matters/fees?pt=2023](https://www.moe.gov.sg/financial-matters/fees?pt=2023)
