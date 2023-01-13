@@ -50,11 +50,11 @@ Click <a href="https://www.youtube.com/watch?v=IehAtdCsTRA" target="_blank">here
 
 **Training Schedule**
 
-Tuesdays – 3 PM to 5.30 PM – For Guard-of-Honour Contingent for Dunman Appreciation Day
+* Tuesdays – 3 PM to 5.30 PM – For Guard-of-Honour Contingent for Dunman Appreciation Day
 
-Thursdays – 3 PM to 5.30 PM – For PDS Competition Team
+* Thursdays – 3 PM to 5.30 PM – For PDS Competition Team
 
-Fridays – 3 PM to 6 PM – For all cadets
+* Fridays – 3 PM to 6 PM – For all cadets
 
 
 Teacher OIC Contact
