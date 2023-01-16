@@ -50,9 +50,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 ### Information for Parents
 
-<p style="text-align: justify;"><b>10.</b> Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Student%20Development%20Programme/Annex%20A%20Parents%20Opt%20Out%20Form%20for%20Growing%20Year%202022.pdf">here</a>. The completed form is to be submitted by 14/01/2022. </p>
+<p style="text-align: justify;"><b>10.</b> Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
-<p style="text-align: justify;"><b>11.</b> Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Student%20Development%20Programme/Annex%20B%20Parents%20Opt%20Out%20Form%20for%20eteens%202022.pdf">here</a>.  The completed form is to be submitted by 14/01/2022.</p>
+<p style="text-align: justify;"><b>11.</b> Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Student%20Development%20Programme/Annex%20B%20Parents%20Opt%20Out%20Form%20for%20eteens%202022.pdf">here</a>.  The completed form is to be submitted by 20/01/2023.</p>
 
 <p style="text-align: justify;"><b>12.</b> Parents can contact the school at 6786-2668 or dunman_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.</p>
 
