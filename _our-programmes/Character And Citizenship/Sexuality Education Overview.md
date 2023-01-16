@@ -44,7 +44,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 <p style="text-align: justify;"><b>9.</b> Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-**At Dunman Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Dunman Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 ![](/images/Department%20Photos/Character%20and%20Citizenship/eTeens.png)
 
