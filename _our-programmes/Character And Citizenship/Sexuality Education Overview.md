@@ -58,8 +58,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 <p style="text-align: justify;"><b>13.</b> Parents can contact the school at 6786-2668 or dunman_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
 
-<p style="text-align: justify;"><b>14.</b> Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
-
 ### Secondary 1 to 5 Programmes
 
 * [Secondary 1](/sexuality-education/secondary-1/)
