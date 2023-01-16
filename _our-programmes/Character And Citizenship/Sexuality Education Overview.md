@@ -23,9 +23,9 @@ third_nav_title: Character And Citizenship
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-### Overview of Dunman Secondary School’s Sexuality Education Programme for 2021
+### Overview of Dunman Secondary School’s Sexuality Education Programme for 2023
 
-<p style="text-align: justify;"><b>4.</b> Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="text-align: justify;"><b>4.</b> Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 <p style="text-align: justify;"><b>5.</b> The subjects that incorporate topics on sexuality include:</p>
 
