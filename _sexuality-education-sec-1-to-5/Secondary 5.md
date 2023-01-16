@@ -5,4 +5,4 @@ description: ""
 ---
 # Secondary 5
 
-![](/images/Department%20Photos/Character%20and%20Citizenship/Sec5%202022.png)
+![](/images/Department%20Photos/Character%20and%20Citizenship/Sec52023.png)
