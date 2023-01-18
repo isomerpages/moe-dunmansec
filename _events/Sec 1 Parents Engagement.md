@@ -1,8 +1,9 @@
 ---
-title: Up and Coming Events
-permalink: /events/
+title: Sec 1 Parents Engagement
+permalink: /events/sec-1-parents-engagement/
 description: ""
 ---
+
 #### Sec 1 Parent Engagement Webinar
 
 We had conducted a webinar zoom session on 30 December 2022 to engage our parents on the following:
