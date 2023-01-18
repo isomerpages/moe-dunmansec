@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Events Highlights.md
       - Sec 1 Parents Engagement.md
