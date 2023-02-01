@@ -41,5 +41,5 @@ Singapore Energy Grand Challenge (Youth) 2022 – Semi Finals
 
 * Mr Ng Aik Koon (IC), email: [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
 * Ms Chua Sok Hoon, email: [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
-* Mr  Mathi Vanan,   
-email: [mathi\_vanan@moe.edu.sg](mailto:mathi_vanan@moe.edu.sg)
+* Mr  Mathivanan Murthy, email: [mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg)
+* Mr Wong Tong Aun James, email: [james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
