@@ -13,11 +13,11 @@ third_nav_title: CCA Programme
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic02.jpg)
 
-<p style="text-align: justify;">This year, Secondary 1 and selected Secondary 2 members are introduce to Swift Coding Programming, using their iPads to learn on this programming for App Development. They are part of the inaugural Swift Coding Club, which will continue next year to go deeper in learning Swift Coding.</p>
+<p style="text-align: justify;">This year, Secondary 2 will continue with Swift Coding Programming, using their iPads to learn on this programming for App Development. They are part of the inaugural Swift Coding Club.</p>
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
 
-<p style="text-align: justify;">Upper secondary members are trained in Mobile Application Development using Thunkable on iMacs or iPads to learn the process of creating digital media, developing critical thinking and analytic skill as they seek to understand the power of the game development engine.</p>
+<p style="text-align: justify;">Upper secondary members will begin this year with Drone Coding Course, to create their own flight plan with all the codes that they will be learning, to design a simple obstacle course and able to programme their drones to automatically navigate the obstacle course, perform and complete some specific tasks in the fastest time possible.ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot Challenge</p>
 
 ### Achievements
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic04.jpg)
@@ -33,13 +33,13 @@ Singapore Energy Grand Challenge (Youth) 2022 – Semi Finals
 
 ### Trainings
 
-* Coding (Mobile App) (Upper Sec) – Thursdays, 4.00pm to 5.45pm
-* Swift Coding (Sec 1, selected Sec 2) – Fridays 1.30pm to 4.00pm
-* Robotics (Sec 2) – Fridays 1.30pm to 3.30pm
-* **iSTEM Common Curriculum (Sec 1 - 2023) - Tuesdays (Time pending)**
+* Drone Coding (Sec 3 & 4) – Friday 1.30pm to 4.00pm Reading Room
+* Swift Coding (Sec 2) – Friday 1.30pm to 4.00pm Mac Lab 2
+
 
 ### Teachers-in-charge
 
 * Mr Ng Aik Koon (IC), email: [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
 * Ms Chua Sok Hoon, email: [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
-* Mr Wong Tong Aun James, email: [james\_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
+* Mr  Mathi Vanan, 
+'email: [mathi\_vanan@moe.edu.sg](mailto:mathi_vanan@moe.edu.sg)
