@@ -5,6 +5,8 @@ description: ""
 third_nav_title: CCA Programme
 ---
 ### Introduction
+
+![](/images/CCA%20Photos/Infocomm%20Club/Pic00.jpg)
 <p style="text-align: justify;">The Dunman Infocomm Club strives to enrich the IT skills of its members through a progression of trainings, courses and competitions. The club focuses on two areas to develop the IT skills of its members, namely Robotics (programming with physical) and Coding (programming).</p>
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
