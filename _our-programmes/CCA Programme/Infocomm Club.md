@@ -17,7 +17,7 @@ third_nav_title: CCA Programme
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
 
-<p style="text-align: justify;">Upper secondary members will begin this year with Drone Coding Course, to create their own flight plan with all the codes that they will be learning, to design a simple obstacle course and able to programme their drones to automatically navigate the obstacle course, perform and complete some specific tasks in the fastest time possible.ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot Challenge</p>
+<p style="text-align: justify;">Upper secondary members will begin this year with Drone Coding Course, to create their own flight plan with all the codes that they will be learning, to design a simple obstacle course and able to programme their drones to automatically navigate the obstacle course, perform and complete some specific tasks in the fastest time possible.</p>
 
 ### Achievements
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic04.jpg)
