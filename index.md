@@ -14,7 +14,7 @@ sections:
           url: /announcements/invitation-to-parents-gateway/
         - title: Events
           description: Click here for upcoming events
-          url: /events/
+          url: /events/events-highlight/
   - infopic:
       title: 60th Anniversary
       subtitle: WE ARE CELEBRATING OUR
