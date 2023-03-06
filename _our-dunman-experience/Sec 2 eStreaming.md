@@ -3,13 +3,11 @@ title: Sec 2 eStreaming
 permalink: /our-dunman-experience/sec-2-estreaming/
 description: ""
 ---
-
-
 #### Sec 2 Streaming Frequently Asked Questions (FAQs)
 
 Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pdf" target="_blank">here</a> for FAQs.  
 
-**Note: Information updated as at 15 March 2022.**
+**Note: Information updated as at 6 March 2023.**
 
 #### Important Dates:
 
@@ -29,27 +27,27 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 <tbody>
   <tr>
     <td>Parent Zoom Briefing<br></td>
-    <td>Term 1 Week 10<br>9 Mar (Exp)<br>8 Mar (NA)<br>10 Mar (NT)<br></td>
-    <td>1 day</td>
+    <td>Term 1 Week 10<br>8 Mar (Exp)<br>7 Mar (NA)<br>9 Mar (NT)<br></td>
+    <td>1 day<br>(3-4pm)<br>Note: refer to PG App for respective Zoom details</td>
   </tr>
   <tr>
     <td>Target Setting and Streaming Briefing</td>
-    <td>Term 2 Week 2<br>(28 Mar to 1 Apr)</td>
+    <td>Term 2 Week 2<br>(27 Mar to 30 Mar)</td>
     <td>1 day<br></td>
   </tr>
   <tr>
     <td>ECG Counsellor/ YHs/ FTs</td>
-    <td>Term 2 Week 3<br>(4 Apr to 8 Apr)</td>
+    <td>Term 2 Week 3<br>(3 Apr to 6 Apr)</td>
     <td> 4 days</td>
   </tr>
   <tr>
     <td>Admin Briefing for eStreaming Familiarisation Exercise</td>
-    <td>Term 2 Week 9<br>(16 May to 20 May)</td>
+    <td>Term 2 Week 9<br>(15 May to 19 May)</td>
     <td>1 day</td>
   </tr>
   <tr>
     <td>eStreaming Familiarisation Exercise<br>Compulsory</td>
-    <td>23 May to 3 Jun    <br></td>
+    <td>22 May to 2 Jun    <br></td>
     <td>12 days<br></td>
   </tr>
   <tr>
@@ -58,19 +56,19 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
     <td>1 day</td>
   </tr>
   <tr>
-    <td>Release of Sec 2 Report Books<br>- Last day of school</td>
-    <td>26 Oct<br></td>
+    <td>Release of Sec 2 Report Books<br>- Last week of school</td>
+    <td>25 Oct<br></td>
     <td>1 day</td>
   </tr>
   <tr>
-    <td>eStreaming Exercise<br>Compulsory</td>
+    <td>eStreaming Exercise<br>(Compulsory to participate)</td>
     <td>26 Oct (12pm noon) to<br>29 Oct (12pm noon)<br></td>
     <td>4 days<br></td>
   </tr>
   <tr>
     <td>Release of eStreaming Results</td>
-    <td>8 Nov (12pm noon)    <br></td>
-    <td>10 days after closing of module<br></td>
+    <td>8 Nov (12pm noon) to<br> 10 Nov (12pm noon)</td>
+    <td>14 days after closing of module<br></td>
   </tr>
   <tr>
     <td>Appeal<br>For appeal form, please click <a href="/files/Sec%202%20eStreaming/2022_eStreaming_Letter_of_Appeal.pdf" target="_blank">here</a>.</td>
@@ -79,7 +77,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
   <tr>
     <td>Release of Appeal Results/ Final Posting</td>
-    <td>15 Nov (12pm noon)    <br></td>
+    <td>17 Nov (12pm noon)    <br></td>
     <td>1 week after closing of appeal period</td>
   </tr>
 </tbody>
@@ -165,4 +163,5 @@ To download the appeal form, please click <a href="/files/Sec%202%20eStreaming/2
 
 #### Helpdesk
 * Enquires @ **6786 2668**
-* Mr Ali Sharif Arshad (Year Head) [ali\_sharif\_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg)
+* Ms Neo Wee Khee (Assistant Year Head for Sec 2) [neo\_wee\_khee@moe.edu.sg](mailto:neo_wee_khee@moe.edu.sg)
+* Mr Chong Yau Kwang (Year Head for Lower Sec) [chong\_yau\_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)
