@@ -17,4 +17,4 @@ This programme will run from April 2023 to Feb 2024 and will require **100%** pa
 
 Therefore, do consider carefully and discuss with your child if he/she would like to sign up for this programme.
 
-The slides presented at the ZOOM engagement session on 10 March 2023 can be downloaded .
+The slides presented at the ZOOM engagement session on 10 March 2023 can be downloaded [here](/files/Announcements/YDCPMar2023.pdf).
