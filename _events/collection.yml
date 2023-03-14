@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Events Highlight.md
+      - YDCP AY2023.md
       - Sec 1 Parents Engagement.md
