@@ -5,9 +5,9 @@ description: ""
 ---
 #### Sec 2 Streaming Frequently Asked Questions (FAQs)
 
-Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pdf" target="_blank">here</a> for FAQs.  
+Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming%20Exercise%202023_FAQs.pdf" target="_blank">here</a> for FAQs.  
 
-**Note: Information updated as at 6 March 2023.**
+**Note: Information updated as at 16 March 2023.**
 
 #### Important Dates:
 
@@ -71,7 +71,7 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
     <td>14 days after closing of module<br></td>
   </tr>
   <tr>
-    <td>Appeal<br>For appeal form, please click <a href="/files/Sec%202%20eStreaming/2022_eStreaming_Letter_of_Appeal.pdf" target="_blank">here</a>.</td>
+    <td>Appeal<br>For appeal form, please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming_Letter_of_Appeal_2023.pdf" target="_blank">here</a>.</td>
     <td>8 Nov (12pm noon) to<br>10 Nov (12pm noon)<br></td>
     <td>3 working days<br></td>
   </tr>
@@ -95,42 +95,47 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
   </tr>
 </thead>
 <tbody>
-  <tr>
+   <tr>
+    <td>EXP/NA/NT - Science</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Science%20(All)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+  </tr>
+	<tr>
     <td>NT - D&amp;T</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/DT%202021%20NT%20Streaming.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&T%20(NT)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>NT - Elements of Business Skills (EBS)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/EBS%20NT%202021.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/EBS%20(NT)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+  </tr>
+	<tr>
+    <td>NA - Additional Mathematics</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/A%20Math%20(NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Principles of Accounts (POA)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/POA%202021.pdf" target="_blank">here</a>.</td>
-  </tr>
-  <tr>
-    <td>EXP/NA - Additional Mathematics</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Additional%20Math%202021.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/POA%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated)" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - D&amp;T, F&amp;N</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/DT%20and%20FN%202021%20Streaming.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&T%20and%20NFS%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Humanities</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Humanities%202022%20Sec%202%20streaming%20slides.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Humanities%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
-  <tr>
-    <td>EXP - Science</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/2022%20Science%20Slides%20-%20Streaming.pdf" target="_blank">here</a>.</td>
+	<tr>
+    <td>EXP/NA - Literature in English</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Eng%20Lit%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+  </tr>
+	<tr>
+    <td>EXP - Additional Mathematics</td>
+    <td> Please click <a href="/files/Our%20Student%20Life/Streaming%202023/A%20Math%20(EXP)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP - Exercise &amp; Sports Science</td>
-    <td> Please click <a href="/files/Our%20Student%20Life/Exercise%20%20Sports%20Science%20ESS%20Info%201-converted.pdf" target="_blank">here</a>.</td>
+    <td> Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Exercise%20Sports%20Science%20ESS%20(Exp)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
-  <tr>
-    <td>EXP - Literature in English</td>
-    <td> Please click <a href="/files/Our%20Student%20Life/English%20Literature%20sec%202%20streaming%20slides.pdf" target="_blank">here</a>.</td>
-  </tr>
+  
 </tbody>
 </table>
 
@@ -146,20 +151,20 @@ Please click <a href="/files/Our%20Student%20Life/2021_Streaming%20FAQ_final.pd
 <tbody>
   <tr>
     <td>Express</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagement%20Briefing%20for%20Sec%202%20Express_2022_9%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20for%20Sec%202%20Express_2023.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>Normal Academic</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagement%20Briefing%20Sec%202NA%202022_8%20March_2022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20Sec%202NA%202023.pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>Normal Technical</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Parent%20Engagment%20for%20Sec%202NT_10%20March%202022.pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20Sec%202NT%202023.pdf" target="_blank">here</a>.</td>
   </tr>
 </tbody>
 </table>
 
-To download the appeal form, please click <a href="/files/Sec%202%20eStreaming/2022_eStreaming_Letter_of_Appeal.pdf" target="_blank">here</a>.
+To download the appeal form, please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming_Letter_of_Appeal_2023.pdf" target="_blank">here</a>.
 
 #### Helpdesk
 * Enquires @ **6786 2668**
