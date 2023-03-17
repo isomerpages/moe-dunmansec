@@ -113,7 +113,7 @@ Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20St
   </tr>
   <tr>
     <td>EXP/NA - Principles of Accounts (POA)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/POA%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated)" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/POA%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - D&amp;T, F&amp;N</td>
