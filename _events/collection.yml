@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - DMA Webinar 24 March 2023.md
       - Events Highlight.md
+      - DMA Webinar 24 March 2023.md
       - YDCP AY2023.md
       - Sec 1 Parents Engagement.md
