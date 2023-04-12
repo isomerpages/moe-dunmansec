@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - 60th Anniversary Gala Dinner.md
+      - 60th Anniversary Celebration.md
       - 2022 GCE O Level.md
       - Timetable AY2023.md
       - Booklist for AY2023.md
