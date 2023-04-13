@@ -3,8 +3,14 @@ title: Dunman Youth Alumni (DYA)
 permalink: /our-dunman/dunman-youth-alumni-dya/
 description: ""
 ---
-<img src="/images/DYA/DMN%20Sec%20Alumni%20%20-%20Announcement.png"
-     style="width:80%">
+### Announcements
+Calling all Dunman Alumni! 
+
+The de-registration of the Dunman Sec Alumni (DSA) from the Registry of Societies marks the beginning of a more inclusive restructuring that merges the Dunman Youth Alumni (DYA) and Dunman Sec Alumni (DSA) under one banner. The new structure will provide stronger support to current and former Dunmanites. 
+
+If you are interested in joining the Dunman Alumni (DA) and would like to play a part in enriching the experiences of your junior Dunmanites, click on the link below:
+https://dunmanites.com/60th/ 
+
 
 ### Introduction
 
@@ -28,12 +34,10 @@ description: ""
 
 ![](/images/DYA/Group%20pic%203.jpeg)
 
-<p><img src="/images/DYA/tn_facebook.jpg"
-     style="width:7%;float:left"></p>
+<p><img src="/images/DYA/tn_facebook.jpg" style="width:7%;float:left"></p>
 
-Find us at <a href="https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info" target= "_blank">Facebook</a>.
+Find us at&nbsp;<a href="https://www.facebook.com/Dunman-Secondary-Youth-Alumni-674134279387706/info?tab=page_info" target="_blank">Facebook</a>.
 <br><br>
-<p><img src="/images/DYA/tn_google.jpg"
-     style="width:7%;float:left"></p>
+<p><img src="/images/DYA/tn_google.jpg" style="width:7%;float:left"></p>
 
-Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEGSN0gNhYr9AEFc5gvA_mpFkOhqhxzSaMNsuksYewX2ZmvA/viewform" target= "_blank">here</a> to join us today!
+Click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSfEGSN0gNhYr9AEFc5gvA_mpFkOhqhxzSaMNsuksYewX2ZmvA/viewform" target="_blank">here</a>&nbsp;to join us today!
