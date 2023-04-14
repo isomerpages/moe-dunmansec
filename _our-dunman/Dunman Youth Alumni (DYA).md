@@ -6,10 +6,9 @@ description: ""
 ### Announcements
 Calling all Dunman Alumni! 
 
-The de-registration of the Dunman Sec Alumni (DSA) from the Registry of Societies marks the beginning of a more inclusive restructuring that merges the Dunman Youth Alumni (DYA) and Dunman Sec Alumni (DSA) under one banner. The new structure will provide stronger support to current and former Dunmanites. 
+<p style="text-align: justify;">The de-registration of the Dunman Sec Alumni (DSA) from the Registry of Societies marks the beginning of a more inclusive restructuring that merges the Dunman Youth Alumni (DYA) and Dunman Sec Alumni (DSA) under one banner. The new structure will provide stronger support to current and former Dunmanites. </p>
 
-If you are interested in joining the Dunman Alumni (DA) and would like to play a part in enriching the experiences of your junior Dunmanites, click on the link below:
-https://dunmanites.com/60th/ 
+<p style="text-align: justify;">If you are interested in joining the Dunman Alumni (DA) and would like to play a part in enriching the experiences of your junior Dunmanites, click on the link <a href="https://dunmanites.com/60th/" target="_blank">here</a>.</p>
 
 
 ### Introduction
