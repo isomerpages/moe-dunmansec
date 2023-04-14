@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/invitation-to-parents-gateway/
+          url: /announcements/60thanngaladinner/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
