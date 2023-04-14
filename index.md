@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/invitation-to-parents-gateway/
+          url: /announcements/60thanngaladinner/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
@@ -20,4 +20,6 @@ sections:
       subtitle: WE ARE CELEBRATING OUR
       image: /images/Home Page/60th anniversary.png
       alt: Image alt text
+      button: Click here for more details
+      url: https://www.dunmansec.moe.edu.sg/announcements/60thanngaladinner/
 ---
