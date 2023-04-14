@@ -20,4 +20,6 @@ sections:
       subtitle: WE ARE CELEBRATING OUR
       image: /images/Home Page/60th anniversary.png
       alt: Image alt text
+      button: Click here for more details
+      url: https://www.dunmansec.moe.edu.sg/announcements/60thanngaladinner/
 ---
