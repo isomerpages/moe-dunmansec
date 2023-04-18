@@ -26,7 +26,11 @@ description: ""
 
 ### Information on the various talent areas
 
-<p style="text-align: justify;"><b>We are pleased to share the DSA Talent Areas offered for our potential Secondary One Students and their parents for the academic year of 2023. Information on the selection criteria and process will be updated from early-May.</b></p>
+<p style="text-align: justify;"><b>         <!-- /\* Font Definitions \*/ @font-face {font-family:"MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-alt:"ＭＳ 明朝"; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Cambria; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@MS Mincho"; panose-1:2 2 6 9 4 2 5 8 3 4; mso-font-charset:128; mso-generic-font-family:modern; mso-font-pitch:fixed; mso-font-signature:-536870145 1791491579 134217746 0 131231 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Cambria",serif; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"MS Mincho"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:12.0pt; mso-ansi-font-size:12.0pt; mso-bidi-font-size:12.0pt; font-family:"Cambria",serif; mso-ascii-font-family:Cambria; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:"MS Mincho"; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Cambria; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US; mso-bidi-language:AR-SA;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+We are pleased to share the DSA Talent Areas offered for our potential Secondary One Students and their parents for the academic year of 2024. Information on the selection criteria and process will be updated from early-May.
+
+For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).</b></p>
 
 
 <table style="undefined;table-layout: fixed; width: 621px">
@@ -37,59 +41,316 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th style="text-align:center;">DSA Category</th>
-    <th style="text-align:center">Teacher-in-charge</th>
-    <th style="text-align:center">Assessment Rubrics</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align:center">Badminton</td>
-    <td style="text-align:center">Mr Chern Meng Hock<br><br>(<a href="mailto:chern_meng_hock@moe.edu.sg">chern_meng_hock@moe.edu.sg</a>)</td>
-		<td><b>Task 1:</b> To execute different strokes to demonstrate their abilities.<br><b>Task 2:</b> To play a short game among themselves to observe their application of skills.<br><br></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"> Basketball </td>
-    <td style="text-align:center">Miss Sandy Leong<br>(<a href="mailto:leong_sen_tieng@moe.edu.sg">leong_sen_tieng@moe.edu.sg</a>)</td>
-    <td><b>Task 1:</b> Individual Physical Assessment<br>-	Speed<br>-	Coordination<br>-	Physique<br><br><b>Task 2:</b> Game Assessment<br>-	Technique<br>-	Posture</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Football<br> </td>
-    <td style="text-align:center">Mr Harris Alexander<br>(<a href="mailto:harris_alexander@moe.edu.sg">harris_alexander@moe.edu.sg</a>)<br> </td>
-    <td><b>Task 1:</b> Individual Drill Assessment<br>-	Passing<br>-	Receiving<br>-	Ball control<br>-	Dribbling<br>-	Shooting<br><br><b>Task 2:</b> Game Assessment<br>-	Offence concepts<br>-	Defence concepts</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Netball<br> </td>
-    <td style="text-align:center">Ms Witty Goh<br>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg">goh_wen_ti_witty@moe.edu.sg</a>)</td>
-    <td><b>Task 1:</b> Movement ability<br>Focus: Speed, Agility and Balance<br><br><b>Task 2:</b> Technical skills<br>Focus: Ball handling and footwork<br><br><b>Task 3:</b> Game play assessment<br>Focus: Attacking and defending<br></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Volleyball<br> </td>
-    <td style="text-align:center">Mr Hariharan Subramaniam<br>(<a href="mailto:hariharan_subramaniam@moe.edu.sg">hariharan_subramaniam@moe.edu.sg</a>)</td>
-    <td><b>Task 1:</b> Skills Assessment<br>-	Setting<br>-	Receiving<br>-	Spiking<br>-	Serving<br><br><b>Task 2:</b> Game-Play Assessment</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Choir</td>
-    <td style="text-align:center">Ms Kathy Cheong<br>(<a href="mailto:cheong_kah_keh_kathy@moe.edu.sg">cheong_kah_keh_kathy@moe.edu.sg</a>)<br> </td>
-    <td><b>Task:</b> Prepare a song of your choice to sing during the audition.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Choir%202022.pdf" target="_blank">here</a> for the assessment rubrics. </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Concert Band<br> </td>
-    <td style="text-align:center">Ms Jeanette Tan<br>(<a href="mailto:tan_ai_bee_jeanette@moe.edu.sg">tan_ai_bee_jeanette@moe.edu.sg</a>)</td>
-    <td>Using a music instrument of your choice, <br><br><b>Percussion:</b> Play two passage of music with dynamic contrast not less than 48 bars each. One at 120 bpm, the other less than 84 bpm.<br><br><b>Wind and Mallet:</b> Play two of the following major scales (tongued and legato): C, G, D, A, F, B♭ and E♭. For each note of the scale, tongue only four crotchets and eight quaver notes ascending and descending. Tempo should be 120 bpm.<br><br>Please click <a href="/files/Administration/DSA%20Rubric_Concert%20Band%202022.pdf" target="_blank">here</a> for the assessment rubrics.</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Leadership</td>
-    <td style="text-align:center">Mr Ron Tan<br>(<a href="mailto:tan_chen_loong_ron@moe.edu.sg">tan_chen_loong_ron@moe.edu.sg</a>)</td>
-    <td>Selection Criteria and details:<br><br>Click <a href="/files/Administration/DSA%20Rubric_Student%20Leadership%202022.pdf" target="_blank">here</a> for details.</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"> STEM</td>
-    <td style="text-align:center">Ms Adeline Yong<br>(<a href="mailto:adeline_yong_yean_pin@moe.edu.sg">adeline_yong_yean_pin@moe.edu.sg</a>)<br><br><br></td>
-    <td>Selection Criteria and details:<br><br>Click <a href="/files/Administration/DSA%20Rubric_STEM%202022%20v2.pdf" target="_blank">here</a> for details.</td>
-  </tr>
-</tbody>
-</table>
+  </tr></thead></table><table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9D9D9;mso-background-themecolor:
+  background1;mso-background-themeshade:217;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><b><span lang="EN-GB" style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-GB">S/N</span></b><b><span lang="EN-GB" style="mso-ansi-language:
+  EN-GB"></span></b></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#D9D9D9;mso-background-themecolor:background1;
+  mso-background-themeshade:217;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><b><span lang="EN-GB" style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-GB">CCA</span></b><u><span lang="EN-GB" style="color:black;
+  mso-themecolor:text1;mso-ansi-language:EN-GB"></span></u></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#D9D9D9;mso-background-themecolor:background1;
+  mso-background-themeshade:217;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><b><span lang="EN-GB" style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-GB">Teacher in charge</span></b><b><span lang="EN-GB" style="mso-ansi-language:EN-GB"></span></b></p>
+  </td>
+  <td width="204" valign="top" style="width:152.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#D9D9D9;mso-background-themecolor:background1;
+  mso-background-themeshade:217;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><b><span lang="EN-GB" style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-GB">Opportunities For students</span></b><b><span lang="EN-GB" style="mso-ansi-language:EN-GB"></span></b></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">1</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Basketball
+  (Mixed)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Miss
+  Leong Sen Tieng</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:leong_sen_tieng@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB;
+  text-decoration:none;text-underline:none">leong_sen_tieng@moe.edu.sg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+  <td width="204" rowspan="5" valign="top" style="width:152.75pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Participation
+  and representing school in competitions:</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">1.
+  Friendly matches</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">2.
+  External competitions</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">3.
+  National School Games </span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">2</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Netball
+  (Girls only)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Ms
+  Fauzani <span class="SpellE">Bte</span> Kamsani</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:fauzani_kamsani@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB;
+  text-decoration:none;text-underline:none">fauzani_kamsani@moe.edu.sg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">3</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Volleyball
+  (Boys only)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Mr
+  Hariharan s/o</span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"> Subramaniam</span><span lang="EN-GB" style="mso-ansi-language:EN-GB"></span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:hariharan_subramaniam@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB;text-decoration:
+  none;text-underline:none">hariharan_subramaniam@moe.edu.sg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">4</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Badminton
+  (Boys only)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Mr Chern
+  Meng Hock</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:chern_meng_hock@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">chern_meng_hock@moe.edu.sg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">5</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Football
+  (Girls only)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Mr Harris
+  Alexander</span></p>
+  <p class="MsoNormal"><u><span lang="EN-GB" style="color:black;mso-themecolor:
+  text1;mso-ansi-language:EN-GB">(</span></u><a href="mailto:harris_alexander@moe.edu.sg"><span lang="EN-GB" style="color:black;
+  mso-themecolor:text1;mso-ansi-language:EN-GB">harris_alexander@moe.edu.sg</span></a><u><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></u></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">7</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Choir
+  (Mixed)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Ms Joyce
+  Yap Yen Leng</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:yap_yen_leng_joyce@moe.edusg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB;
+  text-decoration:none;text-underline:none">yap_yen_leng_joyce@moe.edusg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+  <td width="204" rowspan="2" valign="top" style="width:152.75pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Participating
+  and representing school in public performances.</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">1. Internal
+  performances on special occasions and school assembly.</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">2.
+  External organised events/competitions.</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">3.
+  Singapore Youth Festival Presentation </span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">8</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Concert
+  Band (Mixed)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Ms Tan Ai
+  Bee Jeanette</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">(tan_ai_bee_jeanette@moe.edu.sg)</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">9</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Leadership
+  (Mixed)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Mr Tan
+  Chen Loong Ron</span></p>
+  <p class="MsoNormal"><u><span lang="EN-GB" style="color:black;mso-themecolor:
+  text1;mso-ansi-language:EN-GB">(</span></u><a href="mailto:tan_chen_loong_ron@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">tan_chen_loong_ron@moe.edu.sg</span></a><u><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></u></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+  <td width="204" valign="top" style="width:152.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Leading
+  and/or assisting in school programmes or student-initiated projects through
+  their involvement as a Student Councillor, Peer Support Leader or CCA Leader.</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes">
+  <td width="37" valign="top" style="width:28.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">10</span></p>
+  </td>
+  <td width="124" valign="top" style="width:93.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">STEM
+  (Mixed)</span></p>
+  </td>
+  <td width="258" valign="top" style="width:193.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Mr Ong
+  Chin Leng</span></p>
+  <p class="MsoNormal"><span style="color:black;mso-themecolor:text1">(</span><a href="mailto:ong_chin_leng_a@moe.edu.sg"><span lang="EN-GB" style="color:black;
+  mso-themecolor:text1;mso-ansi-language:EN-GB">ong_chin_leng_a@moe.edu.sg</span></a><span class="MsoHyperlink"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB;text-decoration:none;text-underline:none">)</span></span><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"></span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">&nbsp;</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">Ms Adeline Yong</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="color:black;mso-themecolor:text1;
+  mso-ansi-language:EN-GB">(</span><a href="mailto:adeline_yong_yean_pin@moe.edu.sg"><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB;text-decoration:
+  none;text-underline:none">adeline_yong_yean_pin@moe.edu.sg</span></a><span lang="EN-GB" style="color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">)</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">&nbsp;</span></p>
+  </td>
+  <td width="204" valign="top" style="width:152.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">Participating
+  and representing school in STEM programmes, <span class="GramE">competitions</span>
+  and conferences.</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">1.
+  Internal competitions and showcase.</span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="mso-ansi-language:EN-GB">2.
+  External organised events/ programmes/ competitions.</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+
 
 ### For general DSA enquiry, please contact
 
@@ -97,5 +358,5 @@ description: ""
 
 |  | Email Address |
 | -------- | -------- |
-| Mr Ron Tan<br>SH Student Leadership/CCA     | [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)     |
 | Mr Teo Khong Beng<br>HOD PE/CCA       | [teo\_khong\_beng@moe.edu.sg](mailto:teo_khong_beng@moe.edu.sg)     |
+| Mr Ron Tan<br>SH Student Leadership/CCA     | [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)     |
