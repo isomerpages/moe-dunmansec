@@ -356,7 +356,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 
 
 
-|  | Email Address |
+|  Name | Email Address |
 | -------- | -------- |
 | Mr Teo Khong Beng<br>HOD PE/CCA       | [teo\_khong\_beng@moe.edu.sg](mailto:teo_khong_beng@moe.edu.sg)     |
 | Mr Ron Tan<br>SH Student Leadership/CCA     | [tan\_chen\_loong\_ron@moe.edu.sg](mailto:tan_chen_loong_ron@moe.edu.sg)     |
