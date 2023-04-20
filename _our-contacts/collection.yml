@@ -2,7 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
-      - Direct School Admission (For 2023 Intake).md
+      - Direct School Admission (For 2024 Intake).md
       - Financial Assistance.md
       - Bookshop and Uniform Vendors.md
       - Getting Here.md
