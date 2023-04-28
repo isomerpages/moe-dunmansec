@@ -127,5 +127,3 @@ third_nav_title: CCA Programme
 Ms Sandy Leong Sen Tieng [leong\_sen\_tieng@moe.edu.sg](mailto:leong_sen_tieng@moe.edu.sg)
 
 Mr Toh Wee Sing [toh\_wee\_sing@moe.edu.sg](mailto:toh_wee_sing@moe.edu.sg)
-
-The submission can be accessed via https://drive.google.com/drive/folders/1yg2jxaamogyK9fdMn_Y4s8xjiYMvQalx?usp=sharing
