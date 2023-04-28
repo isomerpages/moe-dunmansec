@@ -3,30 +3,27 @@ title: Student Leadership
 permalink: /our-dunman-experience/student-leadership/
 description: ""
 ---
-#### <span style="color: black"> <b>Student Leadership Development (SLD) in Dunman Secondary School</b> </span>
+**Vision**
 
-<p style="text-align: justify;">Dunman Secondary School’s Student Leadership Development (SLD) programme is founded on the belief that the secondary school years are invaluable to developing character and inculcating the school’s values of Discernment, Discipline, Daring, Determination and Duty in our students.</p>
+An Empathetic Leader for our community
 
-<p style="text-align: justify;">In line with the school’s vision of&nbsp;<b>Empathetic Leaders, Impactful Innovators</b>, Student Leadership Development provides a purposeful platform for our student leaders to explore complex issues related to the school and the Tampines community, and ideate for meaningful solutions.</p>
+**Mission**
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%201_Student%20leaders.jpeg)
+To provide sequential experiences that enable Dunmanites to build upon their skills and competencies. 
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%202_Project%20a.jpg)
+**Our Belief**
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%203_Project%20b.jpg)
+At Dunman Secondary, we believe leadership is learned and developed through an ongoing process. With the right mindset and willingness to improve, Dunmanites can become influential leaders, with the intent to contribute positively to the people around us.  
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%204_Project%20c.jpg)
+Our programme is designed in alignment with the Student Leadership Challenge model by Jim Kouzes and Barry Posner. The Student Leadership Development committee commits to nurturing Empathetic Leaders and Impactful Innovators by offering a purposeful platform for our student leaders to delve into complex issues concerning our school and Tampines community, and to ideate for potential solutions.
 
-**Dunman’s Student Leadership Framework – S.T.E.E.R**
 
-<p style="text-align: justify;">Dunman’s student leadership framework is guided by the cyclical process of S -Selection, T-Training, E-empowerment, E-Evaluation and R-Recognition (STEER). The framework helps the Student Leadership Development Committee to bear in mind key pillars that ensures the intentional development of our student leaders.</p>
+**Our Student Leadership Boards**
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%205_STEER.jpg)
 
-**Heritage and Tradition**
+| **Students’ Council** | **Peer Support Leaders** | 
+| -------- | -------- | 
+|Student Councillors aims to be the bridge between the student body and the school administration. They co-organise school events, promotes school spirit and advocates for student issues. The council plays an important role in fostering leadership skills, promoting student involvement, and creating a sense of community within the school.   | Peer Supporters aims to create a supportive and inclusive school environment where all students feel safe and supported. They look out for peers who may be struggling with personal, academic, or social issues. Peer Supporters lead workshops on coping skills, and refer students to professional resources when needed.     | 
 
-<p style="text-align: justify;">Dunman Student Leaders continue to display a strong sense of belonging to the school and are appreciative of the opportunities provided for them. As such, our programmes are strengthened by alumni who return to the school to offer their mentorship and experience through various programmes – most notably through our alumni-led Leadership Training Camp.</p>
 
-![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%206_LTC%20Alumni.jpg)
 
-The submission can be accessed via https://drive.google.com/drive/folders/1yg2jxaamogyK9fdMn_Y4s8xjiYMvQalx?usp=sharing
