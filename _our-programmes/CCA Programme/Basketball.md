@@ -53,7 +53,7 @@ The consistent performances from the various groups from Dunman Basketball have 
 
 **C Boys – Rigorer Basketball Youth Championship 2022 
 Champion**
-![](/images/CCA%20Photos/Basketball/Basketball_28042023/pic%2006a.jpg)
+!![](/images/CCA%20Photos/Basketball/Basketball_28042023/pic%2006a-2.JPG)
 **Trainings**
 
 **Tuesday and Thursday :** <br>
