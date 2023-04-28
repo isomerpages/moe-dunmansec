@@ -3,12 +3,11 @@ title: Student Leadership
 permalink: /our-dunman-experience/student-leadership/
 description: ""
 ---
-
-#### <span style = "color: black"> <b>Student Leadership Development (SLD) in Dunman Secondary School</b> </span>
+#### <span style="color: black"> <b>Student Leadership Development (SLD) in Dunman Secondary School</b> </span>
 
 <p style="text-align: justify;">Dunman Secondary School’s Student Leadership Development (SLD) programme is founded on the belief that the secondary school years are invaluable to developing character and inculcating the school’s values of Discernment, Discipline, Daring, Determination and Duty in our students.</p>
 
-<p style="text-align: justify;">In line with the school’s vision of <b>Empathetic Leaders, Impactful Innovators</b>, Student Leadership Development provides a purposeful platform for our student leaders to explore complex issues related to the school and the Tampines community, and ideate for meaningful solutions.</p>
+<p style="text-align: justify;">In line with the school’s vision of&nbsp;<b>Empathetic Leaders, Impactful Innovators</b>, Student Leadership Development provides a purposeful platform for our student leaders to explore complex issues related to the school and the Tampines community, and ideate for meaningful solutions.</p>
 
 ![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%201_Student%20leaders.jpeg)
 
@@ -29,3 +28,5 @@ description: ""
 <p style="text-align: justify;">Dunman Student Leaders continue to display a strong sense of belonging to the school and are appreciative of the opportunities provided for them. As such, our programmes are strengthened by alumni who return to the school to offer their mentorship and experience through various programmes – most notably through our alumni-led Leadership Training Camp.</p>
 
 ![](/images/Our%20Special%20Programmes/Student%20Leadership/Photo%206_LTC%20Alumni.jpg)
+
+The submission can be accessed via https://drive.google.com/drive/folders/1yg2jxaamogyK9fdMn_Y4s8xjiYMvQalx?usp=sharing
