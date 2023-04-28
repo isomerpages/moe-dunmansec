@@ -56,11 +56,14 @@ Champion**
 
 **Trainings**
 
-Tuesday and Thursday : 3 to 6pm 
-Boys and Girls Team
-Friday: 
-Girls: 1 to 4pm 
+**Tuesday and Thursday :** <br>
+3 to 6pm <br>
+Boys and Girls Team**
+
+<b>Friday: </b><br>
+Girls: 1 to 4pm <br>
 Boys: 2.30 to 5.30pm
+
 
 The Dunman basketball teams trained hard and took part in numerous friendly matches and tournaments such as the Schools’ East Zone and National competition, Rigorer Basketball Youth Championship, Milo Cup, T-Net competition etc. in a bid to give the players exposure at the highest possible level.
 Apart from the trainings, time slots were also allocated for the DSA players to focus on homework and revision to ensure that they remain on task in terms of their studies.
