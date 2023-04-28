@@ -13,7 +13,7 @@ Currently we have a total strength of almost 80 students within four divisions. 
 
 Our students come from various ethnic groups (Chinese, Malay, Indian, Eurasian and Filipino) and there is strong cohesion and respect among the members within the teams. The close bonds and respect for one another were formed through the training sessions and competitions. In addition, players also learn the importance of good sportsmanship, discipline, and fair play.
 The consistent performances from the various groups from Dunman Basketball have established itself as a force to be reckoned with in the nationwide schools basketball scene! We will continue to strive hard for zonal and national competitions in the future.
-
+![](/images/CCA%20Photos/Basketball/Basketball_28042023/pic%2001a.jpg)
 **Achievements**
 
 **2015:** 1st
@@ -53,7 +53,7 @@ The consistent performances from the various groups from Dunman Basketball have 
 
 **C Boys – Rigorer Basketball Youth Championship 2022 
 Champion**
-
+![](/images/CCA%20Photos/Basketball/Basketball_28042023/pic%2006a.jpg)
 **Trainings**
 
 **Tuesday and Thursday :** <br>
