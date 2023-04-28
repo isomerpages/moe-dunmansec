@@ -68,7 +68,7 @@ Apart from the trainings, time slots were also allocated for the DSA players to 
 **Teachers-in-charge:**
 
 
-| Column 1 | Column 2 
+|  Staff Name| Email
 | -------- | -------- 
 | Ms Sandy Leong Sen Tieng   | leong_sen_tieng@moe.edu.sg
 | Mr Toh Wee Sing   |  toh_wee_sing@moe.edu.sg 
