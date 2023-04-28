@@ -67,11 +67,11 @@ Apart from the trainings, time slots were also allocated for the DSA players to 
 
 **Teachers-in-charge:**
 
-Ms Sandy Leong Sen Tieng leong_sen_tieng@moe.edu.sg
 
-Mr Toh Wee Sing toh_wee_sing@moe.edu.sg 
-
-Mr Wilson Lim lim_chong_eng_b@moe.edu.sg 
-
-Ms Khew Sing Eian khew_sing_eian@moe.edu.sg 
-Mdm Han Tiew Kian han_tiew_kian@moe.edu.sg
+| Column 1 | Column 2 
+| -------- | -------- 
+| Ms Sandy Leong Sen Tieng   | leong_sen_tieng@moe.edu.sg
+| Mr Toh Wee Sing   |  toh_wee_sing@moe.edu.sg 
+| Mr Wilson Lim   |   lim_chong_eng_b@moe.edu.sg 
+Ms Khew Sing Eian | khew_sing_eian@moe.edu.sg 
+ Mdm Han Tiew Kian | han_tiew_kian@moe.edu.sg
