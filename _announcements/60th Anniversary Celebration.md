@@ -13,4 +13,4 @@ Interested in joining us for our 60th Anniversary Gala Dinner?
 
 Then keep the date: **Evening of 21 July 2023**
 
-RSVP @ https://dunmanites.com/dunman-60th-gala-dinner-registration/
+RSVP @ [https://dunmanites.com/dunman-60th-gala-dinner-registration/](https://dunmanites.com/dunman-60th-gala-dinner-registration/)
