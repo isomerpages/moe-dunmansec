@@ -22,7 +22,7 @@ description: ""
 
 ### Registration:
 
-<p style="text-align: justify;">Please submit your registration for the school through the DSA portal (Period of registration: TBC)</p>
+Please submit your registration for the school’s consideration between the periods <b>4 May (11am) to 31 May (3pm) 2023</b> through the [DSA-Sec online portal](https://www.moe.gov.sg/secondary/dsa/application)
 
 ### Information on the various talent areas
 
