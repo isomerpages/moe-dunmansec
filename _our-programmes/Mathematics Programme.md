@@ -34,5 +34,4 @@ In 2023, collaborating with STEM IPW (Integrated Project Work) and leveraging on
 
 <p style="text-align: justify;">Our Mathematics Department strives towards pedagogical excellence and we look forward to working with our students to develop them into Resilient Problem Solvers, Self-Directed Learners and Critical Thinkers.</p>
 
-![](/images/Department%20Photos/Mathematics/Activity_1.png)
-![](/images/Department%20Photos/Mathematics/Activity_2.png)
+![](/images/Department%20Photos/Mathematics/Activity_1.png)<br>![](/images/Department%20Photos/Mathematics/Activity_2.png)<br>![](/images/Department%20Photos/Mathematics/photo%201%20(math%20dept).png)<br>![](/images/Department%20Photos/Mathematics/photo%202%20(math%20dept).png)
