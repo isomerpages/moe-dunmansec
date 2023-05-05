@@ -7,16 +7,16 @@ description: ""
 <img src="/images/Department%20Photos/mathematics%20department%20i.jpg" style="width:78%">
 
 ### Mission / Objectives of Department
-<p style="text-align: justify;">Our Mathematics Department comprises of four subjects: Mathematics, Additional Mathematics, Elements of Business Skills and Principles of Accounts.</p>
+<p style="text-align: justify;">Our department is committed to providing positive and meaningful experiences in mathematics for our students. Our mission is to develop students into problem solvers, equipped with the ability to apply mathematical concepts in real-world contexts.
+</p>
 
 ### Curriculum, Pedagogy and Assessment
-<p style="text-align: justify;">Our Mathematics Department comprises of four subjects: Mathematics, Additional Mathematics, Elements of Business Skills and Principles of Accounts.</p>
+<p style="text-align: justify;">Our Mathematics Department comprises of four subjects: Mathematics, Additional Mathematics, Elements of Business Skills and Principles of Accounts.Our students are exposed to a wide range of learning experiences, both inside and outside of the classroom, offline and online. Through an Inquiry-Based Learning approach, infused with key skills in Design Thinking, these learning experiences help to build strong foundation and competencies in each subject, as well as STEM (Science, Technology, Engineering and Mathematics). Leveraging on technology, our exploratory activities are designed to trigger students’ curiosity, discover joy of learning, guide students in making connections and apply their learning in authentic real-world contexts. We believe that this approach engages our learners, as well as fosters a deeper understanding and their appreciation of mathematics.
 
-<p style="text-align: justify;">Our students are exposed to a wide range of learning experiences, both inside and outside of the classroom, offline and online. Through an Inquiry-Based Learning approach, infused with key skills in Design Thinking, these learning experiences help to build strong foundation and competencies in each subject, as well as STEM (Science, Technology, Engineering and Mathematics). Leveraging on technology, our exploratory activities are designed to trigger students’ curiosity, discover joy of learning, guide students in making connections and apply their learning in authentic real-world contexts. We believe that this approach engages our learners, as well as fosters a deeper understanding and their appreciation of mathematics.</p>
+We understand that each student has their own unique learning style, and our teachers are trained to cater to these differences through Differentiated Instruction. We believe that every student can excel in mathematics, and we strive to provide the necessary support to help them achieve their potential.Committed to our mission, besides checking for students’ understanding through summative assessments and providing formative feedback, our students also have opportunities to demonstrate their conceptual understanding and develop 21st Century Competencies such as higher order thinking skills, problem solving abilities and communication skills through Alternative Assessments which we have embarked on since 2016. 
 
-<p style="text-align: justify;">We understand that each student has their own unique learning style, and our teachers are trained to cater to these differences through Differentiated Instruction. We believe that every student can excel in mathematics, and we strive to provide the necessary support to help them achieve their potential.</p>
+</p>
 
-<p style="text-align: justify;">Committed to our mission, besides checking for students’ understanding through summative assessments and providing formative feedback, our students also have opportunities to demonstrate their conceptual understanding and develop 21st Century Competencies such as higher order thinking skills, problem solving abilities and communication skills through Alternative Assessments which we have embarked on since 2016.</p>
 
 ![](/images/Department%20Photos/Mathematics/CPA_1.png)
 
