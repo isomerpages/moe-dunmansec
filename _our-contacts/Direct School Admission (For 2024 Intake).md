@@ -16,32 +16,27 @@ description: ""
 
 <b>b)</b> Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview. Shortlisting criteria:
 
+##### **Sports and Games**
 
+To meet at least one of the following criteria:
+1.  Participated in any sports CCA in their primary school.
+2.  Any regular involvement in sport and games activities outside school.
 
-| Sports and Games |  |  |
-| -------- | -------- | -------- |
-| To meet at least one of the following criteria:
-i) Participated in any sports CCA in their primary school.
-ii) Any regular involvement in sport and games activities outside school.
+##### **Performing Arts**
 
-| Performing Arts |  |  |
-| -------- | -------- | -------- |
-| To meet at least one of the following criteria:
-i) Participated in any Performing Arts CCA in their primary school.
-ii) Regular involvement in Performing Arts programme outside school.
+To meet at least one of the following criteria:
+1. Participated in any Performing Arts CCA in their primary school.
+2. Regular involvement in Performing Arts programme outside school.
 
-| Leadership |  |  |
-| -------- | -------- | -------- |
-| To meet all of the following criteria:
-i) Must have held a school based leadership position.
-ii) Exemplary conduct
+##### **Leadership**
+To meet all of the following criteria:
+1. Must have held a school based leadership position.
+2. Exemplary conduct.
 
-| STEM |  |  |
-| -------- | -------- | -------- |
-| To meet at least one of the following criteria:
-i) Participated in any STEM-related CCA in their primary school
-ii) Involvement in STEM-related programmes outside school
-
+##### **STEM**
+To meet at least one of the following criteria:
+1. Participated in any STEM-related CCA in their primary school.
+2. Involvement in STEM-related programmes outside school.
 
 *Please note that meeting all criteria does not guarantee the student will be shortlisted.
 
