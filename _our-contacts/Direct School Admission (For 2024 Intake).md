@@ -14,7 +14,27 @@ description: ""
 
 <b>a)</b> Past years CCA track records (no submission of document is needed).
 
-<b>b)</b> Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview.
+<b>b)</b> Shortlisted applicants will be informed by the school on the date and time of trial/audition and interview. Shortlisting criteria:
+
+
+
+| Sports and Games |  |  |
+| -------- | -------- | -------- |
+| To meet at least one of the following criteria:
+i) Participated in any sports CCA in their primary school.
+ii) Any regular involvement in sport and games activities outside school.
+
+| Performing Arts |  |  |
+| -------- | -------- | -------- |
+| To meet at least one of the following criteria:
+i) Participated in any Performing Arts CCA in their primary school.
+ii) Regular involvement in Performing Arts programme outside school.
+
+| Performing Arts |  |  |
+| -------- | -------- | -------- |
+| To meet at least one of the following criteria:
+i) Participated in any Performing Arts CCA in their primary school.
+ii) Regular involvement in Performing Arts programme outside school.
 
 <b>c)</b> All trial/audition and interview will be conducted physically on the school campus.
 
