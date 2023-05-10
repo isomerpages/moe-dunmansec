@@ -36,9 +36,16 @@ ii) Regular involvement in Performing Arts programme outside school.
 i) Must have held a school based leadership position.
 ii) Exemplary conduct
 
-<b>c)</b> All trial/audition and interview will be conducted physically on the school campus.
+| STEM |  |  |
+| -------- | -------- | -------- |
+| To meet at least one of the following criteria:
+i) Participated in any STEM-related CCA in their primary school
+ii) Involvement in STEM-related programmes outside school
 
-<b>d)</b> You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
+
+*Please note that meeting all criteria does not guarantee the student will be shortlisted.
+
+<b>c)</b> You may submit any supporting document to the relevant teacher-in-charge through the email listed below (Optional).
 
 ### Registration:
 
