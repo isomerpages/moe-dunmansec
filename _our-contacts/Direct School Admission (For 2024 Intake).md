@@ -30,11 +30,11 @@ ii) Any regular involvement in sport and games activities outside school.
 i) Participated in any Performing Arts CCA in their primary school.
 ii) Regular involvement in Performing Arts programme outside school.
 
-| Performing Arts |  |  |
+| Leadership |  |  |
 | -------- | -------- | -------- |
-| To meet at least one of the following criteria:
-i) Participated in any Performing Arts CCA in their primary school.
-ii) Regular involvement in Performing Arts programme outside school.
+| To meet all of the following criteria:
+i) Must have held a school based leadership position.
+ii) Exemplary conduct
 
 <b>c)</b> All trial/audition and interview will be conducted physically on the school campus.
 
