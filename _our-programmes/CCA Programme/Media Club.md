@@ -5,6 +5,14 @@ description: ""
 third_nav_title: CCA Programme
 ---
 ### Introduction
+![](/images/CCA%20Photos/Media%20Club/Media%20club_Image%201.jpg)
+
+![](/images/CCA%20Photos/Media%20Club/cca%20pic%20(1).jpeg)
+
+![](/images/CCA%20Photos/Media%20Club/cca%20pic%20(2).jpeg)
+
+![](/images/CCA%20Photos/Media%20Club/img_4753.JPG)
+
 <p style="text-align: justify;">The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
 
 
