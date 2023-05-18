@@ -5,38 +5,29 @@ description: ""
 third_nav_title: CCA Programme
 ---
 ### Introduction
-<p style="text-align: justify;">The choir is directed by the conductor Mr Toh Ban Sheng and supported by a committed team of teachers. Our Choir made history as the first neighbourhood school choir to clinch Gold in the demanding Singapore Youth Festival (SYF) Choral Competition in 1997. Since then, the Choir continues to attain Gold at SYF in 1999, 2003, and 2005, the prestigious Gold (with Honours) award in 2007, 2009 and 2011 at the SYF and the Distinction award at the 2013, 2015, 2017 and 2019 Singapore Youth Festival Arts Presentations (SYF AP). Together with other school choirs, despite the challenges of the worldwide COVID-19 situation, we also participated in SYF AP 2021, where our choir members got to experience recording our choice piece for the first time.</p>
+<p style="text-align: justify;">The Dunman Secondary school’s Media Club was prepared to serve the school in various aspects. One of the most important roles of the media club students is to operate the Public Address system to conduct the daily morning assembly. We pride ourselves in carrying out services that are critical to the school in areas of sound and photography.  
 
-![](/images/CCA%20Photos/Choir/1img_0725.JPG)
 
-<p style="text-align: justify;">The inaugural overseas tour to Sydney in 1996 was featured in Straits Times, a first among the neighbourhood school then. The past overseas tour to London &amp; Paris (1998), New Zealand (2000), Prague (2003), Czech Republic-Poland-Austria (2005), Bratislava -Slovakia (2007), Czech Republic-Germany (2009), Czech Republic-Austria (2010), Czech Republic-Poland-Hungary (2011) and Czech Republic-Austria-Germany (2013) provided invaluable exposure to our students.</p>
+Where stage events are concerned, we are provided with stage training to outline in detail the situation of an actual concert. With proper equipment, we are also able to practice how lights and sound are optimized to provide the best experience for the audience. We are also fortunate enough to receive training to enhance our craft as photographers. With both of our skills combined, we looked forward to creating and capturing the most memorable events. 
 
-<p style="text-align: justify;">In the last six overseas tours, the Choir also represented Singapore in international festivals and received 7 gold awards and 5 special prizes. At the 14th International Competition Festival of Christmas Music in Prague, the young team won the Festival Laureate, placed 1st with a Gold in the Children's category and won 2 special awards (Conductor's Prize and for Dramaturgy). We have also invited world-class maestros to our school and conduct choral workshops for our choir members.</p>
 
-<p style="text-align: justify;">Members are also given various opportunities to perform for the public. In 2010, 2012, 2015, 2017 and 2020, the Choir was invited by the Esplanade to put up a full-length concert, under the Limelight series, at the world-class Esplanade Concert Hall, all of which were very well-received. The Choir also holds annual combined concerts with choirs from St Joseph’s Institution, Raffles Institution and Catholic Junior College, the most recent being in March 2019, held at SOTA Concert Hall. Such concerts provide opportunities for the choir members to hone their performance skills, gain meaningful learning experiences and exchanges with other choirs as well.</p>
+IMDA (Infocomm Media Development Authority) is partnering schools to deepen students’ learning in emerging technologies. We are honored to be selected by IDMA to participate in their new program known as Apple New Media Program. This program provides students with an overview of how to use social media and digital marketing technologies. Through this program, our students learnt how to use social media and digital marketing technologies to create projects that raise awareness for social issues through marketing campaigns. We are glad to be one of the chosen schools to continue the second year program (Advanced Track) with IMDA. </p>
 
-<p style="text-align: justify;">Members are also encouraged to contribute to the school and society with their talent by performing in various school celebratory events such as Dunman’s Jubilee and our annual Dunman Appreciation Day. Activities such as welcome tea, farewell parties and Choir retreats have been organized to promote bonding among members. Through these activities, members experience the importance of good leadership and teamwork, as well as the opportunity to develop into mature individuals.</p>
-
-![](/images/CCA%20Photos/Choir/58image.jpg)
-
-<p style="text-align: justify;">We believe in character building and leadership training through musical pursuits. Many of our students have benefited from past activities and tours, and are now assuming leadership roles in various areas within the school. They have become better people through the discipline and resilience required in choir and teamwork activities.</p>
-
-<p style="text-align: justify;">We are thankful and blessed for the constant support from the school, parents and family, as well as the Dunman Choir alumni, without which the choir would not have achieved all that it has today.</p>
-
-<p style="text-align: justify;">If you have any enquiries regarding our programme, you may contact our Choir Overall Teacher In-Charge, Ms Kathy Cheong via email through this address:</p>
-
-[](mailto:cheong_kah_keh_kathy@moe.edu.sg)[cheong\_kah\_keh\_kathy@moe.edu.sg](mailto:cheong_kah_keh_kathy@moe.edu.sg)
 
 ### Achievements
 
-**2019 :**&nbsp;Distinction  
-**2017 :**&nbsp;Distinction  
-**2015 :**&nbsp;Distinction
+
+Last year, we took part in several competitions. Our Schools Our Stories Competition (OSOS) hosted by the Ministry of Education. The competition aimed to encourage us to develop creativity and teamwork. We benefited by forging closer ties with each other when we collaborated and tried our hands on creativity. We looked forward to more of such experiences.
+
+The Digital for Life Youth Awards, organised by the Infocomm Media Development Authority (IMDA), recognises outstanding youths who have contributed to building a digitally inclusive society with their creativity and digital skills. We were glad to be awarded the Commendation award.
 
 ### Trainings
+Lower Secondary - Tuesday 3 pm to 5 pm at Mac Lab 1
+Upper Secondary - Tuesday 3 pm to 5 pm at Mac Lab 2
 
-Tuesday (1500hr – 1830hr)  
 
+### Teachers in-charge:
 
-
-Friday (1330hr – 1700hr)
+|Mrs Tan Pei Ching (IC)  | email: tay_pei_ching@moe.edu.sg    |  
+|Ms Shireen: Kaderuppan  | email: shireen_kaderuppan@moe.edu.sg   |  
+|Mr Rohasan B Mansor,  | email: shireen_kaderuppan@moe.edu.sg   | 
