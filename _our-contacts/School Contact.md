@@ -46,7 +46,6 @@ description: ""
 | Mr Toh Zheng Han | Level Discipline Master | [toh_zheng_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg) |
 | Mr Wu Shulong | Level Discipline Master | [wu_shulong@moe.edu.sg](mailto:wu_shulong@moe.edu.sg) |
 | Mr Wilson Lim | AED | [lim_chong_eng_b@moe.edu.sg](mailto:lim_chong_eng_b@moe.edu.sg) |
-| Miss Amanda Tan Jia Qi | AED Learning &amp; Behavioural Support | [amanda_tan_jia_qi@moe.edu.sg](mailto:amanda_tan_jia_qi@moe.edu.sg ) |
 | Miss Wang Yuxuan Paige | School Counsellor | [wang_yuxuan@moe.edu.sg](mailto:wang_yuxuan@moe.edu.sg) |
 | Mr Wilfred Phillips James | School Counsellor | [james_wilfred_phillips@moe.edu.sg](mailto:james_wilfred_phillips@moe.edu.sg) |
 
