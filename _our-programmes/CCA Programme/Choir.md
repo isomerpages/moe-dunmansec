@@ -24,8 +24,7 @@ third_nav_title: CCA Programme
 
 <p style="text-align: justify;">We are thankful and blessed for the constant support from the school, parents and family, as well as the Dunman Choir alumni, without which the choir would not have achieved all that it has today.</p>
 
-<p style="text-align: justify;">If you have any enquiries regarding our programme, you may contact our Choir Overall Teacher In-Charge, Mrs Joyce Law via email through this address:
-yap_yen_leng_joyce@moe.edu.sg</p>
+<p style="text-align: justify;">If you have any enquiries regarding our programme, you may contact our Choir Overall Teacher In-Charge, Mrs Joyce Law via email through this address: yap_yen_leng_joyce@moe.edu.sg</p>
 
 ### Achievements:
 
