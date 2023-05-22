@@ -29,15 +29,15 @@ yap_yen_leng_joyce@moe.edu.sg</p>
 
 ### Achievements:
 
-2023 – Distinction
-2021 – SYF Recording
-2019 – Distinction
-2017 – Distinction
-2015 – Distinction 
+* 2023 – Distinction
+* 2021 – SYF Recording
+* 2019 – Distinction
+* 2017 – Distinction
+* 2015 – Distinction 
 
 ### Trainings:
 
-Tuesday (1500hr – 1830hr)
-Friday (1330hr – 1700hr)
+* Tuesday (1500hr – 1830hr)
+* Friday (1330hr – 1700hr)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HPJu5noq_gA" height="315" width="560"></iframe>
