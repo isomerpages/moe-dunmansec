@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/60thanngaladinner/
+          url: /announcements/prelim2023/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
