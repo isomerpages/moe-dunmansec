@@ -3,8 +3,6 @@ title: Personal Learning Device
 permalink: /our-dunman-experience/personal-learning-device/
 description: ""
 ---
-
-
 ### Mission
 
 Transforming Learners Through Technology.  
@@ -15,26 +13,26 @@ Future-Ready Ethical Digital Learners.
 
 ### National Digital Literacy Programme (NDLP)
 
-<p style="text-align: justify;">The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready.</p>
+<p style="text-align: justify;">The National Digital Literacy Programme (NDLP) was launched in March 2020 to&nbsp;make digital learning inclusive&nbsp;by&nbsp;equipping students with the digital literacies&nbsp;to be future-ready.</p>
 
-<p style="text-align: justify;">The NDLP aims to equip our students with Digital Literacies. Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find, Think, Apply and Create’ framework.</p>
+<p style="text-align: justify;">The NDLP aims to equip our students with Digital Literacies.&nbsp;Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find,&nbsp;Think,&nbsp;Apply&nbsp;and&nbsp;Create’ framework.</p>
 
 ![](/images/Our%20Student%20Life/Personal%20Learning%20Device/Find%20Think%20Apply%20Create.png)
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/J8naiGOWhtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/J8naiGOWhtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<p style="text-align:center"> MOE Singapore. (2020, March 4). <i>Minister Explains: The Refreshed Curriculum</i>. <br> Available at: https://youtu.be/J8naiGOWhtA </p>
+<p style="text-align:center"> MOE Singapore. (2020, March 4).&nbsp;<i>Minister Explains: The Refreshed Curriculum</i>. <br> Available at: https://youtu.be/J8naiGOWhtA </p>
 
 
 ### Our School's Microsite
 
-<p style="text-align: justify;">To find out more of the NDLP at Dunman Secondary School, please click <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="_blank">here</a> to visit our school's NDLP Microsite.</p>
+<p style="text-align: justify;">To find out more of the NDLP at Dunman Secondary School, please click&nbsp;<a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" target="_blank">here</a>&nbsp;to visit our school's NDLP Microsite.</p>
 
 ### Device Management Application (DMA)
 
-<p style="text-align: justify;">Personal Learning Device (PLD) usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm. The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.</p>
+<p style="text-align: justify;">Personal Learning Device (PLD)&nbsp;usage time is set to 6 am to 11 pm and school hours is from 6 am to 6 pm.&nbsp;The school determine the applications (apps) and programmes to be installed in the PLD to support teaching and learning.</p>
 
-<p style="text-align: justify;">PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click <a href="https://go.gov.sg/change-dma-parent-options" target="_blank">here</a>).</p>
+<p style="text-align: justify;">PLD are installed with a Device Management Application (DMA) to provide a safer digital environment for learning.&nbsp;Parents/Guardians can request to change your choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form (Please click&nbsp;<a href="https://go.gov.sg/change-dma-parent-options" target="_blank">here</a>).</p>
 
 <p style="text-align: justify;"><b>Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every term.</b></p>
 
@@ -46,11 +44,11 @@ Future-Ready Ethical Digital Learners.
 
 **DMA Parent Portal Guides**
 
-For Default Settings (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Default%20iPadOS.pdf" target="_blank">here</a>.
+For Default Settings (iPad OS), please click&nbsp;<a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Default%20iPadOS.pdf" target="_blank">here</a>.
 
-For Option A (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="_blank">here</a>.
+For Option A (iPad OS), please click&nbsp;<a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="_blank">here</a>.
 
-For Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf" target="_blank">here</a>.
+For Option B (iPad OS), please click&nbsp;<a href="/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf" target="_blank">here</a>.
 
 **DMA Parent Portal Video Guides**
 
@@ -64,19 +62,15 @@ For Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%2
 <tbody>
   <tr>
     <td>Introductory Guide available <a href="https://go.gov.sg/dma-parents-default-video-guide" target="_blank">here</a>.</td>
-    <td>User Interface Overview available <a href="https://go.gov.sg/dma-option-a-user-interface-overview" target="_blank">here</a>.</td>
+    <td>User Interface Overview available <a href="https://go.gov.sg/dma-option-a-user-interface-overview" target="_blank">here</a>.
+  </td></tr><tr><td>Parent Account Password Reset <a href="https://go.gov.sg/parentaccpwdresetdmn" target="_blank">here</a>. </td><td>Webfilter Reports available <a href="https://go.gov.sg/dma-option-a-webfilter-reports" target="_blank">here</a>.<br></td>
+  </tr><tr>
+    <td></td>
+    <td>Setup Sleep Hours available <a href="https://go.gov.sg/overridingschoolsleephours" target="_blank">here</a>. <br></td>
   </tr>
   <tr>
     <td></td>
-    <td>Webfilter Reports available <a href="https://go.gov.sg/dma-option-a-webfilter-reports" target="_blank">here</a>.<br></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Setup Sleep Hours available <a href="https://go.gov.sg/dma-option-a-setup-sleep-hours" target="_blank">here</a>.                     <br></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Managing Web Content available <a href="https://go.gov.sg/dma-option-a-managing-web-content" target="_blank">here</a>.</td>
+    <td>Managing Web Content available <a href="https://go.gov.sg/dma-option-a-managing-web-content" target="_blank">here</a>.                     <br></td>
   </tr>
   <tr>
     <td></td>
@@ -86,5 +80,11 @@ For Option B (iPad OS), please click <a href="/files/Our%20Student%20Life/DMA%2
     <td></td>
     <td>Block Application available <a href="https://go.gov.sg/dma-option-a-block-app" target="_blank">here</a>.</td>
   </tr>
-</tbody>
+  <tr>
+    <td></td>
+    <td>Parent Account Password Reset <a href="https://go.gov.sg/parentaccpwdresetdmn" target="_blank">here</a>. </td>
+  </tr> <tr>
+    <td></td>
+    <td>Setting Rules to Restrict Usage <a href="https://go.gov.sg/setrulesrestrictsusage" target="_blank">here</a>. </td>
+</tr></tbody>
 </table>
