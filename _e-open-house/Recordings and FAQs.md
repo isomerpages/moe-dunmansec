@@ -22,7 +22,7 @@ description: ""
 
 <img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png" style="width:75%">
 
-#### Opening Address By Principal
+#### Opening Address By Principal (for AY2023)
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fAt6BJBOD18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 #### Distinguished Speaker 1
