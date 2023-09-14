@@ -18,6 +18,7 @@ description: ""
 | 1130 to 1145    | Introduction by Principal, Mr Toh Thiam Chye     |
 | 1145 to 1205     | **Distinguished Speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
 | 1205 to 1225     | **Distinguished Speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
+| 1225 to 1300     | FAQ |
 
 <img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png" style="width:75%">
 
