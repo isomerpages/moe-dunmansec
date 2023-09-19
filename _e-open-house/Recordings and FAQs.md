@@ -3,37 +3,36 @@ title: Recordings and FAQs
 permalink: /e-open-house/recordings-and-faqs/
 description: ""
 ---
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/Dunman%20e-Open%20House%20Banner%202022.png"
-     style="width:75%">
+<img src="/images/E%20Open%20House/Dunman%20e-Open%20House%20Banner%202022.png" style="width:75%">
 
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
-2. **Distinguished Speaker 1**: STEM Science by Professor Tan Aik Ling
-3. **Distinguished Speaker 2**: Key Leadership Competencies by Mr Shane Chong
+2. **Distinguished Speaker 1**:&nbsp;STEM Science by Professor Tan Aik Ling
+3. **Distinguished Speaker 2**:&nbsp;Key Leadership Competencies by Mr Shane Chong
 
 | Time | Event |
 | -------- | -------- |
-| 0900 to 0915     | Start of Webinar |
-| 0915 to 0930    | Introduction by Principal, Mr Toh Thiam Chye     |
-| 0930 to 0950     | **Distinguished Speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
-| 0950 to 1010     | **Distinguished Speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
+| 1115 to 1130     | Start of Webinar |
+| 1130 to 1145    | Introduction by Principal, Mr Toh Thiam Chye     |
+| 1145 to 1205     | **Distinguished Speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
+| 1205 to 1225     | **Distinguished Speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
+| 1225 to 1300     | FAQ |
 
-<img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png"
-     style="width:75%">
+<img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png" style="width:75%">
 
-#### Opening Address By Principal
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fAt6BJBOD18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+#### Opening Address By Principal (2022)
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fAt6BJBOD18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 #### Distinguished Speaker 1
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fFUfsYpOog8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fFUfsYpOog8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 #### Distinguished Speaker 2
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cVYJiiEckJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cVYJiiEckJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-#### Q&A
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ehLmJgmskZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+#### Q&amp;A
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ehLmJgmskZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 #### Frequently Asked Questions
 **1. Under the New PSLE Scoring System, what is the PSLE score range of 2021 for Dunman Secondary School?**
@@ -44,7 +43,7 @@ description: ""
 | **Normal Academic**     | 21 - 23     |
 | **Normal Technical**     | 25 - 27     |
 
-Extracted from: [https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
+Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
 **2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?**
 
@@ -58,7 +57,7 @@ Students are reminded to make their choices wisely as they may not be allocated 
 
 Find out more about our CCA programme <b><a href="/our-programmes/cca-programme/green-club/" target="_blank">here</a></b>.
 
-**3.        What are the signature programmes of Dunman Secondary?**
+**3.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What are the signature programmes of Dunman Secondary?**
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
 
 Please click <b><a href="/our-programmes/science-programme/" target="_blank">here</a></b> to learn more about our Science curriculum.
@@ -67,7 +66,7 @@ The positive learning experience of our students is not just achieved through ou
 
 Sec 1 - Explore Science: Exposure to different fields in STEM and Training for Students (E.g. Design Thinking, Presentation Skills)
 
-Sec 2 - Science for Life & Society: STEMviaDT
+Sec 2 - Science for Life &amp; Society: STEMviaDT
 
 Sec 3 - Innovations in Science: VIA and Regional STEM Programme (RSP), Talks by STEM industry partners, Olympiads and Competitions
 
@@ -79,47 +78,47 @@ We are also currently developing our four-year STEM-infused Science curriculum. 
 
 By infusing STEM in our science curriculum, it provides a platform for students to acquire the fundamental ideas essential for the understanding of Science and thereby build a strong science foundation. In addition, it also allows the students to see the connectivity across various subject disciplines and hopefully to pursue STEM for future learning and work.
 
-The Science enrichment programme is available for all students. You can click [**here**](/our-dunman-experience/ELIXiR/) to find out more about our Science enrichment programme.
+The Science enrichment programme is available for all students. You can click&nbsp;[**here**](/our-dunman-experience/ELIXiR/)&nbsp;to find out more about our Science enrichment programme.
 
 We provide a vibrant school-based curriculum such as MEDAL (Mastering English, Drama, the Art of Communication and Literature), which integrates English, Drama and Literature.
 
-**4.       Apart from the Science programmes offered, what are the other programmes offered for the other core (English and Mathematics) subjects?**
+**4.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Apart from the Science programmes offered, what are the other programmes offered for the other core (English and Mathematics) subjects?**
 
 In Dunman, we believe that language learning should not take place in silos and should be done through authentic learning platforms. Students are provided with opportunities to apply their learning in varied settings and to different audiences. We also leverage on the teaching of literature to enhance communication skills. For the lower secondary students, we have a two-year programme, MEDAL (Mastering English, Drama, the Art of Communication and Literature) which uses drama-based pedagogy to teach communication skills. By taking on the perspective of the characters, students will develop social emotional competencies and empathy. Hence, through both the English and Literature curriculum we aim to develop confident and empathetic communicators who will in turn grow to become ethical change-makers.
 
-For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives.. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects. 
+For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives.. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects.&nbsp;
 
-**5.        Will Dunman Secondary School be looking to offer O Level Computing?**
+**5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Will Dunman Secondary School be looking to offer O Level Computing?**
 
 We will not be offering O-Level Computing in the near future. Dunman is offering Exercise and Sports Science (ESS) to selected students in Secondary 3 Express. The course will develop students’ interdisciplinary understanding while they analyze and critique on the focal point of movement along with subdisciplines of sports science.
 
-**6.        What is the disciplinary approach in Dunman?**
+**6.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
 
 The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:
 
-*   **Whole School Approach** through involving all staff and students in establishing supportive policies, systems and practices.
-*   Building a **culture of care** through establishing a positive school environment in which students feel safe and cared for and have a sense of belonging to.
-*   Delivering a **structured Character & Citizenship Education Programme** that teaches and provides opportunities for application of values and skills necessary for demonstrating positive behaviours.
-*   Providing **intervention support** for specific groups of students who require help in managing their behaviours and to address other developmental and intrapersonal needs.
-*   Providing **capacity building opportunities for teachers** to enable them to carry out their disciplinary role effectively.
+*   **Whole School Approach**&nbsp;through involving all staff and students in establishing supportive policies, systems and practices.
+*   Building a&nbsp;**culture of care**&nbsp;through establishing a positive school environment in which students feel safe and cared for and have a sense of belonging to.
+*   Delivering a&nbsp;**structured Character &amp; Citizenship Education Programme**&nbsp;that teaches and provides opportunities for application of values and skills necessary for demonstrating positive behaviours.
+*   Providing&nbsp;**intervention support**&nbsp;for specific groups of students who require help in managing their behaviours and to address other developmental and intrapersonal needs.
+*   Providing&nbsp;**capacity building opportunities for teachers**&nbsp;to enable them to carry out their disciplinary role effectively.
 
-**7.        What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
+**7.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
 
 Secondary 1 students who are newly posted to the school will be given the option to accept or reject Higher Mother Tongue Languages (HMTL) course if they receive the offer letter from MOE based on their PSLE results when they report on Secondary 1 registration day.
 
 For students who are not offered HMTL course by MOE, the school may offer HMTL if they meet the selection criteria as determined by the school Mother Tongue Language Department at the end of their Secondary 1 course.
 
-**8.    What are the Science combinations offered at the end of Secondary 2?**
+**8. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
 
 We currently offer the following Science combinations to Express Stream:
 
 *   Pure Biology, Pure Chemistry and Pure Physics  
 *   Pure Chemistry and either Pure Physics or Pure Biology  
-*   Combined Science (Physics, Chemistry) or Combined Science (Biology, Chemistry)  
+*   Combined Science (Physics, Chemistry) or&nbsp;Combined Science (Biology, Chemistry)  
 
 Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-estreaming/" target="_blank">here</a></b> for more information.
 																												 
-**9.      Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
+**9.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
 Dunman Secondary School aims to provide a holistic environment that inculcates life skills through three approaches – education, experiences and empowerment.
 
