@@ -44,11 +44,11 @@ Future-Ready Ethical Digital Learners.
 
 **DMA Parent Portal Guides**
 
-For Default Settings (iPad OS), please click&nbsp;<a href="[DMA Parent Guide v2 - default ipados.pdf](/files/dma%20parent%20guide%20v2%20-%20default%20ipados.pdf)" target="_blank">here</a>.
+For Default Settings (iPad OS), please click [here](/files/dma%20parent%20guide%20v2%20-%20default%20ipados.pdf)
 
-For Option A (iPad OS), please click&nbsp;<a href="[DMA Parent Guide v2 - Option A iPadOS]()/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPadOS.pdf" target="_blank">here</a>.
+For Option A (iPad OS), please click [here](/files/dma%20parent%20guide%20v2%20-%20option%20a%20ipados1.pdf)
 
-For Option B (iPad OS), please click&nbsp;<a href="[DMA Parent Guide v2 - Option B iPadOS](/files/dma%20parent%20guide%20v2%20-%20option%20b%20ipados1.pdf)/files/Our%20Student%20Life/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPadOS.pdf[DMA Parent Guide v2 - Option B iPadOS]()" target="_blank">here</a>.
+For Option B (iPad OS), please click [here](/files/dma%20parent%20guide%20v2%20-%20option%20b%20ipados1.pdf)
 
 **DMA Parent Portal Video Guides**
 
