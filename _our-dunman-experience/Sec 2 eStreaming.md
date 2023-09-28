@@ -5,9 +5,9 @@ description: ""
 ---
 #### Sec 2 Streaming Frequently Asked Questions (FAQs)
 
-Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming%20Exercise%202023_FAQs.pdf" target="_blank">here</a> for FAQs.  
+Please click&nbsp;<a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming%20Exercise%202023_FAQs.pdf" target="_blank">here</a>&nbsp;for FAQs.  
 
-**Note: Information updated as at 16 March 2023.**
+**Note: Information updated as at 28 September 2023.**
 
 #### Important Dates:
 
@@ -57,27 +57,27 @@ Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20St
   </tr>
   <tr>
     <td>Release of Sec 2 Report Books<br>- Last week of school</td>
-    <td>25 Oct<br></td>
+    <td>27 Oct<br></td>
     <td>1 day</td>
   </tr>
   <tr>
     <td>eStreaming Exercise<br>(Compulsory to participate)</td>
-    <td>26 Oct (12pm noon) to<br>29 Oct (12pm noon)<br></td>
+    <td>27 Oct (12pm) to<br>30 Oct (12pm)<br></td>
     <td>4 days<br></td>
   </tr>
   <tr>
     <td>Release of eStreaming Results</td>
-    <td>8 Nov (12pm noon) to<br> 10 Nov (12pm noon)</td>
-    <td>14 days after closing of module<br></td>
+    <td>8 Nov (12pm) to<br> 10 Nov (12pm)</td>
+    <td>8 days after closing of module<br></td>
   </tr>
   <tr>
     <td>Appeal<br>For appeal form, please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming_Letter_of_Appeal_2023.pdf" target="_blank">here</a>.</td>
-    <td>8 Nov (12pm noon) to<br>10 Nov (12pm noon)<br></td>
+    <td>8 Nov (12pm) to<br>10 Nov (12pm)<br></td>
     <td>3 working days<br></td>
   </tr>
   <tr>
     <td>Release of Appeal Results/ Final Posting</td>
-    <td>17 Nov (12pm noon)    <br></td>
+    <td>17 Nov (12pm)    <br></td>
     <td>1 week after closing of appeal period</td>
   </tr>
 </tbody>
@@ -101,7 +101,7 @@ Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20St
   </tr>
 	<tr>
     <td>NT - D&amp;T</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&T%20(NT)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&amp;T%20(NT)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>NT - Elements of Business Skills (EBS)</td>
@@ -113,19 +113,19 @@ Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20St
   </tr>
   <tr>
     <td>EXP/NA - Principles of Accounts (POA)</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/POA%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/POA%20(Exp%20&amp;%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - D&amp;T, F&amp;N</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&T%20and%20NFS%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/D&amp;T%20and%20NFS%20(Exp%20&amp;%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td>EXP/NA - Humanities</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Humanities%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Humanities%20(Exp%20&amp;%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
 	<tr>
     <td>EXP/NA - Literature in English</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Eng%20Lit%20(Exp%20&%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
+    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Eng%20Lit%20(Exp%20&amp;%20NA)%20Streaming%20for%202023%20(updated).pdf" target="_blank">here</a>.</td>
   </tr>
 	<tr>
     <td>EXP - Additional Mathematics</td>
@@ -167,6 +167,6 @@ Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20St
 To download the appeal form, please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming_Letter_of_Appeal_2023.pdf" target="_blank">here</a>.
 
 #### Helpdesk
-* Enquires @ **6786 2668**
-* Ms Neo Wee Khee (Assistant Year Head for Sec 2) [neo\_wee\_khee@moe.edu.sg](mailto:neo_wee_khee@moe.edu.sg)
-* Mr Chong Yau Kwang (Year Head for Lower Sec) [chong\_yau\_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)
+* Enquires @&nbsp;**6786 2668**
+* Ms Neo Wee Khee (Assistant Year Head for Sec 2)&nbsp;[neo\_wee\_khee@moe.edu.sg](mailto:neo_wee_khee@moe.edu.sg)
+* Mr Chong Yau Kwang (Year Head for Lower Sec)&nbsp;[chong\_yau\_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)
