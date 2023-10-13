@@ -15,15 +15,6 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
-  - infopic:
-      title: Open House!
-      subtitle: We are having our
-      id: infopic
-      description: Infopic description
-      button: Click to find out more
-      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
-      image: /images/E Open House/dunman open house banner 2023 (final).png
-      alt: Image alt text
   - infobar:
       title: Open House!
       subtitle: We are Having our
