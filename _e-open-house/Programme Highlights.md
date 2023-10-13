@@ -20,7 +20,7 @@ description: ""
 | 1120 to 1130     | Registration and Entry of Parents to Webinar |
 | 1130 to 1150    | Introduction by Principal, Mr Toh Thiam Chye     |
 | 1150 to 1210     | **Distinguished Speaker 1**<br>STEM by Associate Professor Tan Aik Ling     |
-| 1210 to 1230     | **Distinguished Speaker 2**<br>Key Leadership by Mr Shane Chong     |
+| 1210 to 1230     | **Distinguished Speaker 2**<br>Leadership by Mr Shane Chong     |
 | 1230 to 1300     | **Q&amp;A Segment**<br>General Engagement with School Leaders and HODs     |
 | 1300     | End of Webinar |
 
