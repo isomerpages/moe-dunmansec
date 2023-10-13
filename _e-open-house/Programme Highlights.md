@@ -8,10 +8,6 @@ description: ""
 
 <img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(simplified).png" style="width:70%">
 
-<br>
-
-<img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:70%">
-
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
 2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
@@ -19,6 +15,8 @@ description: ""
 
 | Time | Event |
 | -------- | -------- |
+| 0830 to 1100     | School Tour and STEM Experiential Learning (STEM-Maker Workshops) |
+| 1120 to 1130     | Break |
 | 1120 to 1130     | Start of Webinar |
 | 1130 to 1150    | Introduction by Principal, Mr Toh Thiam Chye     |
 | 1150 to 1210     | **Distinguished Speaker 1**<br>STEM by Associate Professor Tan Aik Ling     |
@@ -26,6 +24,9 @@ description: ""
 | 1230 to 1300     | **Q&amp;A Segment**<br>General Engagement with School Leaders and HODs     |
 | 1300     | End of Webinar |
 
+<br>
+
+<img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:70%">
 
 #### Register Here
 
