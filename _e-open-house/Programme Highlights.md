@@ -17,7 +17,7 @@ description: ""
 | -------- | -------- |
 | 0830 to 1100     | School Tour and STEM Experiential Learning (STEM-Maker Workshops) |
 | 1120 to 1130     | Break |
-| 1120 to 1130     | Start of Webinar |
+| 1120 to 1130     | Registration and Entry of Parents to Webinar |
 | 1130 to 1150    | Introduction by Principal, Mr Toh Thiam Chye     |
 | 1150 to 1210     | **Distinguished Speaker 1**<br>STEM by Associate Professor Tan Aik Ling     |
 | 1210 to 1230     | **Distinguished Speaker 2**<br>Key Leadership by Mr Shane Chong     |
