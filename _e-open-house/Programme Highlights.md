@@ -5,11 +5,13 @@ description: ""
 ---
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png" style="width:100%">
 
-<img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png" style="width:100%">
+<img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(simplified).png" style="width:100%">
 
-![](/images/E%20Open%20House/maker%20activities%20overview.jpeg)
+<br>
+
+<img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:100%">
+
 
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
