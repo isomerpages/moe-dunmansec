@@ -27,6 +27,14 @@ description: ""
 | 1300     | End of Webinar |
 
 
+#### Register Here
+
+To take part in our open house, lease register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
+
+Alternatively, you can scan the following QR Code:
+<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:50%">
+
+
 #### Frequently Asked Questions
 **1. Under the New PSLE Scoring System, what is the PSLE score range of 2022 for Dunman Secondary School?**
 
