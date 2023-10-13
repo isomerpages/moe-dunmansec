@@ -21,9 +21,18 @@ sections:
       id: infopic
       description: Infopic description
       button: Click to find out more
-      url: "https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/ "
+      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
       image: /images/E Open House/dunman open house banner 2023 (final).png
       alt: Image alt text
+  - infobar:
+      title: Open House!
+      subtitle: We are Having our
+      id: infobar
+      description: <img
+        src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
+        style="width:100%">
+      button: Find out more
+      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
   - infobar:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
