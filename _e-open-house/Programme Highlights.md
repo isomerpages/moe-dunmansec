@@ -33,7 +33,7 @@ description: ""
 To take part in our open house, please register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
 
 Alternatively, you can scan the following QR Code:
-<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:50%">
+<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:40%">
 
 
 #### Frequently Asked Questions
