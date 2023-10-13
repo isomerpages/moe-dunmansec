@@ -22,7 +22,7 @@ sections:
       description: <img
         src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
         style="width:100%">
-      button: Find out more
+      button: Click here to find out more
       url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
   - infobar:
       title: We are in the News!
