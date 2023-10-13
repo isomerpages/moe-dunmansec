@@ -7,6 +7,10 @@ description: ""
 
 <img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png" style="width:100%">
 
+<img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png" style="width:100%">
+
+![](/images/E%20Open%20House/maker%20activities%20overview.jpeg)
+
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
 2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
