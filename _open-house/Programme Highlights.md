@@ -1,47 +1,49 @@
 ---
-title: Recordings and FAQs
-permalink: /e-open-house/recordings-and-faqs/
+title: Programme Highlights
+permalink: /e-open-house/programme-highlights/
 description: ""
 ---
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/Dunman%20e-Open%20House%20Banner%202022.png" style="width:75%">
+
+<img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(simplified).png" style="width:70%">
 
 #### Programme Highlights
 1. Introduction by Principal, Mr Toh Thiam Chye
-2. **Distinguished Speaker 1**:&nbsp;STEM Science by Professor Tan Aik Ling
-3. **Distinguished Speaker 2**:&nbsp;Key Leadership Competencies by Mr Shane Chong
+2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
+3. **Distinguished Speaker 2**:&nbsp;Leadership by Mr Shane Chong
 
 | Time | Event |
 | -------- | -------- |
-| 1115 to 1130     | Start of Webinar |
-| 1130 to 1145    | Introduction by Principal, Mr Toh Thiam Chye     |
-| 1145 to 1205     | **Distinguished Speaker 1**<br>STEM Science by Prof Tan Aik Ling     |
-| 1205 to 1225     | **Distinguished Speaker 2**<br>Key Leadership Competencies by Mr Shane Chong     |
-| 1225 to 1300     | FAQ |
+| 0830 to 1100     | School Tour and STEM Experiential Learning (STEM-Maker Workshops) |
+| 1100 to 1120     | Break |
+| 1120 to 1130     | Registration and Entry of Parents to Webinar |
+| 1130 to 1150    | Introduction by Principal, Mr Toh Thiam Chye     |
+| 1150 to 1210     | **Distinguished Speaker 1**<br>STEM by Associate Professor Tan Aik Ling     |
+| 1210 to 1230     | **Distinguished Speaker 2**<br>Leadership by Mr Shane Chong     |
+| 1230 to 1300     | **Q&amp;A Segment**<br>General Engagement with School Leaders and HODs     |
+| 1300     | End of Webinar |
 
-<img src="/images/E%20Open%20House/DMN%20eOpen%20House%2012Nov2022.png" style="width:75%">
+<br>
 
-#### Opening Address By Principal (2022)
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fAt6BJBOD18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:70%">
 
-#### Distinguished Speaker 1
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/fFUfsYpOog8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+#### Register Here
 
-#### Distinguished Speaker 2
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cVYJiiEckJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+To take part in our open house, please register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
 
-#### Q&amp;A
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ehLmJgmskZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+Alternatively, you can scan the following QR Code:
+<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:40%">
+
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the PSLE score range of 2021 for Dunman Secondary School?**
+**1. Under the New PSLE Scoring System, what is the PSLE score range of 2022 for Dunman Secondary School?**
 
 |  | PSLE Score Range |
 | -------- | -------- |
-| **Express**     | 9 - 14     |
-| **Normal Academic**     | 21 - 23     |
-| **Normal Technical**     | 25 - 27     |
+| **Express/Posting Group 3**     | 10 - 15     |
+| **Normal (Academic)/Posting Group 2**     | 21 - 23     |
+| **Normal Technical/Posting Group 1**     | 25 - 27     |
 
 Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 

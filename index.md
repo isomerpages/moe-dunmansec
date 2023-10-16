@@ -11,10 +11,19 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/prelim2023/
+          url: /announcements/open-house-23/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
+  - infobar:
+      title: Open House!
+      subtitle: We are Having our
+      id: infobar
+      description: <img
+        src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
+        style="width:100%">
+      button: Click here to find out more
+      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
   - infobar:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
