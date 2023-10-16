@@ -1,5 +1,5 @@
 collections:
-  e-open-house:
+  open-house:
     output: true
     order:
       - Programme Highlights.md
