@@ -23,7 +23,7 @@ sections:
         src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
         style="width:100%">
       button: Click here to find out more
-      url: https://www.dunmansec.moe.edu.sg/open-house/programme-highlights/
+      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
   - infobar:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
