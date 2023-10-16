@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements.
-          url: /announcements/prelim2023/
+          url: /announcements/open-house-23/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
