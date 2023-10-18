@@ -13,7 +13,7 @@ description: ""
 
 <p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2024.</p>
 
-**1.** We have attached the <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">FAS Application Form</a> for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
+**1.** We have attached the [FAS Application Form](https://www.dunmansec.moe.edu.sg/files/Administration/MOE-FAS-Application-Form-2023.pdf)   for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
 
 (i) eFAS <a href="https://go.gov.sg/moe-efas" target="_blank">https://go.gov.sg/moe-efas</a>
 
