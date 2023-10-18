@@ -3,6 +3,15 @@ title: Programme Highlights
 permalink: /e-open-house/programme-highlights/
 description: ""
 ---
+#### Register Here
+
+To take part in our open house, please register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
+
+Alternatively, you can scan the following QR Code:
+<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:40%">
+
+#### Open House 2023
+
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 
@@ -27,13 +36,6 @@ description: ""
 <br>
 
 <img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:70%">
-
-#### Register Here
-
-To take part in our open house, please register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
-
-Alternatively, you can scan the following QR Code:
-<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:40%">
 
 
 #### Frequently Asked Questions
