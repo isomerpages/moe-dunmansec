@@ -9,19 +9,19 @@ description: ""
 
 <p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: MOE financial assistance scheme <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></p>
 
-### MOE FAS Application Exercise 2023
+### MOE FAS Application Exercise 2024
 
-<p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2023.</p>
+<p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2024.</p>
 
-**1.** We have attached the <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">FAS Application Form</a> for submission. All compulsory documents must be submitted together with your completed application form for approval. From Sep 2022, parents may choose either to apply MOE FAS through
+**1.** We have attached the [FAS Application Form](https://www.dunmansec.moe.edu.sg/files/Administration/MOE-FAS-Application-Form-2023.pdf)   for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
 
 (i) eFAS <a href="https://go.gov.sg/moe-efas" target="_blank">https://go.gov.sg/moe-efas</a>
 
-**or  (ii) <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">Hardcopy form</a>.**
+**or&nbsp; (ii) <a href="/files/Administration/MOE-FAS-Application-Form-2023.pdf" target="_blank">Hardcopy form</a>.**
 
-**2.** Both the link for eFAS and hardcopy application form is attached in this notification, including the QR code.
+**2.** Both the link for eFAS and hardcopy application form is attached in this notification.
 
-**3.** Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link, **as soon as possible.**
+**3.** Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link,&nbsp;**as soon as possible.**
 
 **Application strictly via hardcopy form is required for below scenario:**
 
@@ -44,7 +44,7 @@ description: ""
 
 **School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
 
-If you have any queries, please contact the school at Tel: 6786 2668 or you can email us at [dunman\_ss@moe.edu.sg](mailto:dunman_ss@moe.edu.sg).
+If you have any queries, please contact the school at Tel: 6786 2668 or you can email us at&nbsp;[dunman\_ss@moe.edu.sg](mailto:dunman_ss@moe.edu.sg).
 
 Parents who want to know more about MOE FAS and the eligibility calculator can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.
 
