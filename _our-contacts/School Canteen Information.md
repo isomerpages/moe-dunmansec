@@ -5,7 +5,7 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Noodles Stall  | 18 Aug 2023 | NIL |
+| Malay Noodles Stall  | 3 Nov 2023 | NIL |
 
 
 
