@@ -7,7 +7,6 @@ description: ""
 
 To be advised after the release of the Secondary 1 posting results. 
 
-[](/files/Announcements/Booklist%20AY2024/2na%20booklist%202024.pdf)[](/files/Announcements/Booklist%20AY2024/2exp%20booklist%202024.pdf)
 #### Secondary 2
 
 | Stream | Link to Booklist | Link to Stationery List
