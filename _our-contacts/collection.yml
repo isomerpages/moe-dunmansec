@@ -2,6 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
+      - Year End Sales of School Books 2024.md
       - School Canteen Information.md
       - Direct School Admission (For 2024 Intake).md
       - Financial Assistance.md
