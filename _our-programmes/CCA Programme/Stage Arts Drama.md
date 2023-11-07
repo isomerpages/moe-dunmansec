@@ -46,4 +46,4 @@ Each StageArts Drama member is known as a Drama StageArtisan.
 | Day |  
 | -------- |  
 | Tuesday |  
-| Thursday |  
+| Thursday |
