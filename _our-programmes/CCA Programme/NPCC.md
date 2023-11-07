@@ -91,6 +91,7 @@ Adhoc HQ and Area 5 events on other dates.
 
 ### Contact Details</p><p style="text-align: justify;">
 ![](/images/CCA%20Photos/NPCC/npcc_2023_img8.jpg)
+	
 ![](/images/CCA%20Photos/NPCC/npcc_2023_img9.jpg)
 *   (Mr) Toh Zheng Han – OC and Sec 4/5 Squad IC
 [toh\_zheng\_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg)&nbsp;(Ext #179)
