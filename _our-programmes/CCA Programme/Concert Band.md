@@ -31,7 +31,7 @@ The Band has many opportunities to perform during school events, and also outsid
 
 <p style="text-align: justify;">Our practices are held on Tuesday and Thursday afternoons. Additional practices on Saturday mornings may be scheduled in preparation for the SYF Arts Presentation or major performances.</p>
 
-
+![](/images/CCA%20Photos/Concert%20Band/training%20.jpeg)
 ### Teachers-in-charge:
 
 Ms Jeanette Tan [tan_ai_bee_jeanette@moe.edu.sg]<br>
