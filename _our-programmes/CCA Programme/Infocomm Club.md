@@ -3,11 +3,37 @@ title: Infocomm Club
 permalink: /our-programmes/cca-programme/infocomm-club/
 description: ""
 third_nav_title: CCA Programme
+variant: markdown
 ---
 ### Introduction
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic00.jpg)
-<p style="text-align: justify;">The Dunman Infocomm Club strives to enrich the IT skills of its members through a progression of trainings, courses and competitions. The club focuses on two areas to develop the IT skills of its members, namely Robotics (programming with physical) and Coding (programming).</p>
+<p style="text-align: justify;">(Insert Pic 1)
+In keeping with the fast-moving pace of digital revolution in Singapore and its vision of becoming a Smart Nation, Dunman Infocomm Club strives to enrich the digital literacy of our members through an array of programmes, activities and competitions. These creates opportunities for our members to pursue their interests and deepen their learning in emerging technologies.
+
+
+	(insert Pic 2)	(insert Pic 3)
+	
+The Secondary 1 students who joined the school’s iSTEM Academy will experience termly programmes organized by Green Club, Media Club, InfocommClub and Makers’ Club. 
+
+After their experience via the iSTEM Academy in Secondary 1, Secondary 2 students who opt to join the Infocomm Club will embark on various training workshops relating to Game Development and Drone Coding. 
+
+Through Game Development workshops, students learnt to use key game design and coding concepts to design and code a game. They will be equipped with skills to create digital media using critical thinking and analytic skills.  Drone coding workshops will equipped them to code and fly drones.
+
+(Insert Pic 10)
+
+The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms.
+
+(Insert Pic 7)
+Challenge In Action (Finals)
+
+As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
+
+(Insert Pic 9)
+Learning Journey to ARTC
+ 
+Through programmes and various platforms throughout each year, our club members will be enriched in their digital literacy. More importantly, they will be equipped with problem-solving skills as they learnt to ‘code’ for life. 
+</p>
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
 
@@ -23,25 +49,36 @@ third_nav_title: CCA Programme
 
 ### Achievements
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic04.jpg)
+Emerging Tech x VIA Photo Essay Contest 2022 
+
+(Insert Pic 4)
+Runner Up Award
+
+Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
 
 
-ITE Robotics Challenge 2021 ( ITE East College ) - Merit Award in Creative Robot Challenge
+Drone Odyssey Challenge 2023
 
-![](/images/CCA%20Photos/Infocomm%20Club/Pic05.jpeg)
+	(Insert Pic5)	(Insert Pic 6)
+		Participating Members and Teams 
 
-Emerging Tech x VIA Photo Essay Contest 2022 – Runner Up Award
 
-Singapore Energy Grand Challenge (Youth) 2022 – Semi Finals
+	(Insert Pic 8)	(Insert Pic 9)
+Best Knowledge Team Award &amp; Judges’ Award (Leadership)
+
 
 ### Trainings
 
-* Drone Coding (Sec 3 & 4) – Friday 1.30pm to 4.00pm Reading Room
-* Swift Coding (Sec 2) – Friday 1.30pm to 4.00pm Mac Lab 2
+CCA Programme 2024 (Tentative)
+Day &amp; Time	Tuesday 3:30pm – 5.30pm
+Friday 2:00pm – 4:00pm	
 
 
 ### Teachers-in-charge
 
-* Mr Ng Aik Koon (IC), email: [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
-* Mrs Soh Sok Hoon, email: [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
-* Mr  Mathivanan Murthy, email: [mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg)
-* Mr Wong Tong Aun James, email: [james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
+* Mrs Soh Sok Hoon (IC), email:&nbsp;
+* [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
+* Mr Ng Aik Koon, email:&nbsp;
+* [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
+* Mr  Mathivanan Murthy, email:&nbsp;[mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg)
+* Mr Wong Tong Aun James, email:&nbsp;[james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
