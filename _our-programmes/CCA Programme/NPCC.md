@@ -37,9 +37,9 @@ variant: markdown
 ### Trainings
 
 <p style="text-align: justify;">We aim to provide students with authentic learning experiences which will help them to develop important qualities based on the NPCC values of RISE – Resilience, Integrity, Service and Excellence.
-As the COVID situation improves in 2022, the Corps actively participated in many interesting events to engage our cadets and challenge them. On top of drills and campcraft, cadets can expect to immerse in a range of holistic courses such as those relating to Police Knowledge and National Education, and Values-in-Action Programme. 
-</p>
-### Enrichment
+As the COVID situation improves in 2022, the Corps actively participated in many interesting events to engage our cadets and challenge them. On top of drills and campcraft, cadets can expect to immerse in a range of holistic courses such as those relating to Police Knowledge and National Education, and Values-in-Action Programme. </p>
+
+### Enrichments
 <p style="text-align: justify;">Secondary 1 Dragonboating<br>
 Secondary 2 1-Star Kayaking<br>
 	
@@ -48,44 +48,50 @@ Secondary 2 1-Star Kayaking<br>
 Secondary 3 Air Pistol Shoot<br>
 **Courses/Events**    
 Secondary 1 Police Heritage Centre Visit
-	![](/images/CCA%20Photos/NPCC/npcc_2023_img2.jpg)
+![](/images/CCA%20Photos/NPCC/npcc_2023_img2.jpg)
 Secondary 2 SANA
 Secondary 3 Police Youth Ambassador
 	
 Educating the public forms a significant part of police work and the Secondary 2
-	![](/images/CCA%20Photos/NPCC/npcc_2023_img3.jpg)
+![](/images/CCA%20Photos/NPCC/npcc_2023_img3.jpg)
 	
-and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.</p><p>
-**Competitions**   
-GOTC II Tournament 
+and 3 cadets work on their outreach projects to engage their school mates and the public in collaboration with Tampines NPC. Through the experience, our cadets gain valuable communication skills and achieve a better understanding of the all-rounded nature of police work.</p><p> 
+### Competitions
+</p><p style="text-align: justify;">GOTC II Tournament 
 Secondary 3 Revolver Shooting Competition
 Inter-unit Crime Scene Investigation Competition (2022)
-	![](/images/CCA%20Photos/NPCC/npcc_2023_img4.jpg)
-**Camps**  
-Annual Unit Camp
+	
+![](/images/CCA%20Photos/NPCC/npcc_2023_img4.jpg)
+
+### Camps
+</p><p style="text-align: justify;">Annual Unit Camp
 Secondary 2 Area Training Camp
 Our Secondary 3 cadet leaders’ first challenge of the year was to plan for the Unit Camp which was held over 2 days in Term 1 Week 9 this year, involving the Secondary 1 and 2 cadets as participants. 
- ![](/images/CCA%20Photos/NPCC/npcc_2023_img5.jpg)</p><p>
- ![](/images/CCA%20Photos/NPCC/npcc_2023_img6.jpg)
+
+![](/images/CCA%20Photos/NPCC/npcc_2023_img5.jpg)
+
+![](/images/CCA%20Photos/NPCC/npcc_2023_img6.jpg)
+	
 The annual 3-days 2-nights camp Adventure Training Camp (ATC) at Pulau Ubin is one of the highlights for Secondary 2 cadets. With the segmented resumption of camps and face-to-face activities, our Secondary 2 and 3 cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were challenged with a 3km hike to the NPCC Campsite and then engaged in a series of activities which include a pioneering competition and field cooking. The cadets had an enriching experience and displayed much perseverance throughout the day.
-	 ![](/images/CCA%20Photos/NPCC/npcc_2023_img7.jpg)
-**Others**  
-NPCC Annual Parade
+
+![](/images/CCA%20Photos/NPCC/npcc_2023_img7.jpg)
+	 
+### Others
+</p><p style="text-align: justify;">NPCC Annual Parade
 Police Day Parade
 National Day Parade (NDP)
 Overseas Education Visits to Brunei/Hong Kong
 *subjected to selection test outcomes
 
-**Training Details**  
-
-Every Friday: 2:30 pm to 6 pm.
+### Training Details
+</p><p style="text-align: justify;">Every Friday: 2:30 pm to 6 pm.
 Every Even Week Tuesday: 4 pm to 6pm.
 
 Adhoc HQ and Area 5 events on other dates.
 
-**Contact Details**
+### Contact Details</p><p style="text-align: justify;">
 ![](/images/CCA%20Photos/NPCC/npcc_2023_img8.jpg)
-	 ![](/images/CCA%20Photos/NPCC/npcc_2023_img9.jpg)
+![](/images/CCA%20Photos/NPCC/npcc_2023_img9.jpg)
 *   (Mr) Toh Zheng Han – OC and Sec 4/5 Squad IC
 [toh\_zheng\_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg)&nbsp;(Ext #179)
 
