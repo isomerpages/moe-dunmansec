@@ -27,8 +27,8 @@ o	Ambassadors of Blood Competition
 o	Values in Action (Smoke Free campaign)
 o	Unit Leadership Program</p><p>
 
-#### Trainings
 
+### Trainings
 Every Friday – 3PM to 5.30PM
 
 Teachers-in-charge
