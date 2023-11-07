@@ -3,10 +3,11 @@ title: Red Cross
 permalink: /our-programmes/cca-programme/red-cross/
 description: ""
 third_nav_title: CCA Programme
+variant: markdown
 ---
 ### Introduction
 
-![](/images/CCA%20Photos/Red%20Cross/red_cross.jpg)
+![](/images/CCA%20Photos/Red%20Cross/redcross_ccapic1.jpg)
 
 <p style="text-align: justify;">Dunman Red Cross Youth (RCY) is part of Singapore Red Cross Society. It is a unique uniformed-group made up by discerning individuals who have chosen to make their secondary school life purposeful by engaging the community through first-aid related services.</p> 
 
@@ -16,6 +17,7 @@ third_nav_title: CCA Programme
 
 <p style="text-align: justify;">To develop our cadets holistically, besides First Aid and Disaster Management skills, cadets will get to experience outdoor orienteering, team-building games, be ambassadors of the Blood Donation programme, foot-drill sessions, HQ and internal camps, International Youth Exchange Programme, etc. They will also be given opportunities to initiate and serve in local and overseas Values-In-Action (VIA) activities.</p>
 
+![](/images/CCA%20Photos/Red%20Cross/redcross_ccapic1.jpg)
 ### Achievements
 
 <p style="text-align: justify;">In 2020, the Red Cross Youth in Dunman Secondary School was awarded Gold for the Excellent Unit Award (EUA).</p>
@@ -28,11 +30,11 @@ third_nav_title: CCA Programme
 
 School-based Trainings  
 Every Friday  
-2.30 pm to 6pm
+2.30 pm&nbsp;to 6pm
 
 HQ Trainings  
 Ad-hoc Tuesdays
 
-For enquires, please contact Ms. Chandramita Halder (chandramita\_halder@moe.edu.sg).
+For&nbsp;enquires, please contact Ms. Chandramita Halder (chandramita\_halder@moe.edu.sg).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nScG03Wev8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nScG03Wev8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
