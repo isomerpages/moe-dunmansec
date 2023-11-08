@@ -3,14 +3,15 @@ title: Stage Arts Drama
 permalink: /our-programmes/cca-programme/stage-arts-drama/
 description: ""
 third_nav_title: CCA Programme
+variant: markdown
 ---
 ### Introduction
 
 ![](/images/CCA%20Photos/Stage%20Arts%20Drama/arts_drama.jpg)
 
 StageArts Drama train our members to live in the spirit of performance, encompassing the following aims:
-* We want to be confident in speaking; 
-* We want to express ourselves better; 
+* We want to be confident in speaking;&nbsp;
+* We want to express ourselves better;&nbsp;
 * We want to be able to convince others;
 * We want to learn to work well with others;
 * We want to learn what makes a good presentation (theatre/ speech);
@@ -23,13 +24,14 @@ StageArts Drama train our members to live in the spirit of performance, encompas
 Each StageArts Drama member is known as a Drama StageArtisan.
 
 ### Achievements
-
+![](/images/CCA%20Photos/Stage%20Arts%20Drama/syf2_2023_001.jpg)
 |  | SYF Awards | |
 | -------- | -------- | -------- |
 | **2019** | Distinction |      |
 | **2017** | Distinction |      |
 | **2015** | Acomplishment |      |
 
+![](/images/CCA%20Photos/Stage%20Arts%20Drama/syf_2023_img002.jpg)
 ### Trainings
 
 **We learn:**
@@ -41,7 +43,7 @@ Each StageArts Drama member is known as a Drama StageArtisan.
 
 #### CCA Days:
 
-| Day | Time |
-| -------- | -------- |
-| Tuesday | 3.45pm - 6.10pm |
-| Thursday | 3.45pm - 6.10pm |
+| Day |  
+| -------- |  
+| Tuesday |  
+| Thursday |
