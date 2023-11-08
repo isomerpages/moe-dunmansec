@@ -2,6 +2,7 @@
 title: Booklist for AY2024
 permalink: /announcements/booklist-for-ay-2024/
 description: ""
+variant: markdown
 ---
 #### Secondary 1
 
@@ -17,7 +18,13 @@ To be advised after the release of the Secondary 1 posting results.
 
 #### Secondary 3
 
-To be advised after the release of the Secondary 2 Streaming results. 
+| Stream | Link to Booklist and Stationery List
+| -------- | -------- |
+| Express   | Please click <a href="/files/Announcements/Booklist%20AY2024/3exp%20booklist%20and%20stationery%20list%202024.pdf" target="_blank">here</a>.   |
+| Normal (Academic)  | Please click <a href="/files/Announcements/Booklist%20AY2024/3na%20booklist%20and%20stationery%20list%202024.pdf" target="_blank">here</a>.      
+| Normal (Technical)   | Please click <a href="/files/Announcements/Booklist%20AY2024/3nt%20booklist%20and%20stationery%20list%202024.pdf" target="_blank">here</a>.      
+
+
 
 #### Secondary 4
 
