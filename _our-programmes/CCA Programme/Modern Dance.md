@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Introduction
 
-(INSERT dance jubilee 1)
+![](/images/CCA%20Photos/Modern%20Dance/dance%20jubilee%201.jpg)
 
 Dunman Dancers' Core Values: Discipline; Responsibility; Respect; Humility
 
@@ -17,11 +17,10 @@ Started out as an Interest Group in 2013 with only 7 dancers and 1 teacher, the 
 Dunman Modern Dance CCA became a full-fledged CCA in 2014 and forged a breakthrough in 2015 with 45 passionate dancers in our very first participation in Singapore Youth Festival (SYF-International Dance) and Super 24 2015. We achieved our very first Certificate of Distinction and was ranked the top ten finalists teams for Super 24. With the determination of the Dunman Dancers and teachers, Infini Sonar continued to work hard and break barriers with our outstanding achievements in SYF (International Dance) 2017 and 2019 (Certificate of Distinction) as well as Super 24 Finals Competitions from 2015 to 2018. Dunman Dancers continue to build resilience as we tide through the pandemic in 2020 and emerged stronger and more united with our first ever achievement of double Certificate of Distinction at the SYF (International Dance) Arts Presentation 2021 and obtaining the “Best Dance Crew” Award and “5-Stars” Achievement at the 2022 PAssionArts Open Stage Dance Competition. Capping off our 10th Anniversary, Infini Sonar continues to soar high in the dance scene with its continued success with the Certificate of Distinction at the SYF (International Dance) 2023 and 2nd Placing at the Lion City Dance Convention (Junior Category) 2023.
 
 
+![](/images/CCA%20Photos/Modern%20Dance/infini%20sonar_012023.jpeg)
 
 
-(INSERT Infini Sonar_01)
-(INSERT SYF 2023)
-
+![](/images/CCA%20Photos/Modern%20Dance/syf2023-min-min.jpeg)
 
 INFINI SONAR has come a long way since their humble beginnings, setting the stage ablaze with their performances and values. A decade of unwavering dedication to their craft and values has culminated in a legacy of artistry, community engagement, and personal growth. As we move forward, our journey continues to inspire not only the dance enthusiasts but also anyone who values the significance of performing arts, discipline, responsibility, respect and humility. 
 
@@ -34,11 +33,9 @@ INSERT VIDEO – DUNMAN DANCERS_ WHERE DREAMS ARE MADE OF_EDITTED
 
 (PLEASE GET THE VIDEOS VIA THIS LINKS)
 
+![](/images/CCA%20Photos/Modern%20Dance/infini%20sonar_012023.jpeg)
 
-(INSERT Photo_Junior Cat_Infini_Sonar(Dunman Sec))
-(INSERT Passionarts)
-
-
+![](/images/CCA%20Photos/Modern%20Dance/passionarts2023.jpg)
 ### Achievements
 
 Danceworks! Dance Competition 2014 – Artistic Merit Award 
