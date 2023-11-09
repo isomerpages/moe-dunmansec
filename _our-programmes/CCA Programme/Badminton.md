@@ -34,6 +34,6 @@ Mr Chern Meng Hock
 [chern_meng_hock@moe.edu.sg](chern_meng_hock@moe.edu.sg)<br>
 Mdm Sri Haryanti Ismail
 [sri_haryanti_ismail@moe.edu.sg](sri_haryanti_ismail@moe.edu.sg)<br>
-Mr Eric Ong 
+Mr Eric Ong <br>
 [ong_joon_yong_eric@moe.edu.sg](ong_joon_yong_eric@moe.edu.sg)<br>
 
