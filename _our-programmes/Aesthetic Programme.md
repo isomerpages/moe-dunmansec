@@ -56,7 +56,7 @@ For Art, students will be exposed artworks of famous artist (i.e. Wassily Kandin
 
 
 Check out how the Virtual Art Gallery looks like!
-![](/images/Aesthetic/qrcodeap2023.jpg)
+
 
 pic 7
 Students looking at the Virtual Art Gallery
