@@ -5,7 +5,9 @@ description: ""
 third_nav_title: CCA Programme
 variant: markdown
 ---
-### Introduction(INSERT dance jubilee 1)
+### Introduction
+
+(INSERT dance jubilee 1)
 
 Dunman Dancers' Core Values: Discipline; Responsibility; Respect; Humility
 
