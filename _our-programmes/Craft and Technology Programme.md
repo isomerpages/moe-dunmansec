@@ -113,3 +113,18 @@ D&amp;T AWARD
 Award entries in 2022:
 Award entries in 2019:
 
+
+
+| YEAR | ACHIEVEMENT/ OUTCOMES | TEACHER-IN-CHARGE |
+| -------- | -------- | -------- |
+| **2022**   |Creative Invention (Merit): Ong Zhi Xuan (4F, 2021)    | **Tan Xie Xing**   |
+| -------- | -------- | -------- |
+|**2021 &amp; 2020**   |Event disrupted by Covid-19  | -
+| -------- | -------- | -------- |
+|**2019**  |Creative Innovation: Joey Heng Zhuo yu (5A, 2018)  Creative Adaptation:
+Uwais Alqarni Bin Abdul Rahman (4B, 2018)
+Javier Lai Mao Sheng (4C, 2018)
+Tang Jing Yi (4G, 2018)
+ | Chayarnee Marnee-In  
+Elvin Tay&nbsp;Ng Aik Koon
+
