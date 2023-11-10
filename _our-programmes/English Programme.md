@@ -53,5 +53,6 @@ During the annual Speak Good English Week and Live(L)it Week a plethora of excit
 ![](/images/Department%20Photos/English%20Language/image_7.jpeg)
 
 ![](/images/Department%20Photos/English%20Language/image_8.jpeg)
+
 **3)Talent Development Initiatives**<br>
 Selection and training of students for external and internal competitions and courses 
