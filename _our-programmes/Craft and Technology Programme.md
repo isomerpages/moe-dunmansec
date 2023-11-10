@@ -36,14 +36,14 @@ The main approach that teachers adopt in engaging student learning are Design Th
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert_Pic2__1_.jpeg)
 <p style="text-align: center;"><b><i>Ideation/ Sketching</i></b></p>
 
-<p style="text-align: justify;">For the lower sec D&amp;T programme, the students will need to observe the school surroundings, conduct a research around the school and ideate via sketching and mock-up to develop a prototype to address a problem which they see. Through the curriculum, students will learn to think critically, communicate their ideas via sketching and make prototype using 3 resistive materials (i.e. Acrylic, Wood and Metal). 
+<p style="text-align: justify;">For the lower sec D&amp;T programme, the students will need to observe the school surroundings, conduct a research around the school and ideate via sketching and mock-up to develop a prototype to address a problem which they see. Through the curriculum, students will learn to think critically, communicate their ideas via sketching and make prototype using 3 resistive materials (i.e. Acrylic, Wood and Metal). </p>
  
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic3__1_.jpeg)
 "Gamifying Design and Technology: An Engaging Learning Journey"
 
 In our Upper Secondary curriculum, the Design and Technology programme takes a unique approach to teaching the design process. We believe in hands-on learning, collaboration, and real-world experiences to ignite the creative spark in our Sec 3 students. To achieve this, we take the students on learning journeys.
 
-One such exciting learning journey (helmed by Ms Chayarnee, teacher in-charge) took our students to the iconic Ikea Singapore store. The focus was on understanding anthropometry, ergonomics, users' needs, and design considerations. Through a gamified approach using the GooseChase app, students worked in teams to complete tasks that included taking pictures, providing short answers, creating videos, and sketching ideas.
+One such exciting learning journey (helmed by Ms Chayarnee, teacher in-charge) took our students to the iconic Ikea Singapore store. The focus was on understanding anthropometry, ergonomics, users' needs, and design considerations. Through a gamified approach using the GooseChase app, students worked in teams to complete tasks that included taking pictures, providing short answers, creating videos, and sketching ideas.<p></p>
 	
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic4__1_.jpeg)
 
@@ -53,36 +53,34 @@ And of course, we wrapped up the day with a delightful treat - chicken wings, me
 
 #### Food and Consumer Education (FCE)
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert%20pic_file3.jpeg)
-</p><p style="text-align: center;"><b><i>Healthy Chicken Rice</i></b></p>
+<p></p><p style="text-align: center;"><b><i>Healthy Chicken Rice</i></b></p>
 
 Students in lower FCE programme are engaged in problem-based learning activities whereby they are given case studies of people with certain health conditions and to research on and work out suitable healthy meals. They will learn various noteworthy nutritional facts and perform practical cooking 
 sessions to whip up significant dishes. They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons. <p></p>
 
 #### Art
  ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic6__1_.JPG)
-<p style="text-align: center;"><b><i>Art Exhibition</i></b><br>Wassily Kandinsky</p>
+<p style="text-align: center;"><b><i>Art Exhibition</i></b><br>Wassily Kandinsky </p>
 
-For Art, students will be exposed to the artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
+For Art, students will be exposed to the artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography. 
 
-Click [Here] to view our youtube sharing. (https://youtu.be/XG9sOoeGv4I)
+[Click here to view our youtube sharing](https://youtu.be/XG9sOoeGv4I)<p></p>
 
-<p style="text-align: center;">Check out how the Virtual Art Gallery looks like!</p>
+<p style="text-align: center;">Check out how the Virtual Art Gallery looks like! </p>
+	
+![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
+<p style="text-align: center;">QR Code for the Virtual Art Gallery</p>
 
-<p style="text-align: center;">
-	![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
-QR Code for the Virtual Art Gallery</p>
-
-<p style="text-align: center;">
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic7__1_.jpeg)
-Students looking at the Virtual Art Gallery</p>
+<p style="text-align: center;">Students looking at the Virtual Art Gallery</p>
 
-<p style="text-align: justify;">A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by Ms Nurmasnita, teacher in-charge) to display the Sec 1 Students’ Artworks. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.
+<p style="text-align: justify;">A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by Ms Nurmasnita, teacher in-charge) to display the Sec 1 Students’ Artworks. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.</p>
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic8__1_.jpeg)
 
 The students have discovered the power of technology, witnessing how it can elevate the art of ideation and expression by using the digital tools like the Sketchbook App and iMovie. With these tools, the students crafted their designs and meticulously documented their creative journey. This exploration has unlocked a wealth of visual possibilities, as they experimented with an array of tools and functions.
 
-To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.</p>
+To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.<p></p>
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert%20pic_file6.png)
 
 <p style="text-align: center;">Performances during the recess (Before Covid-19)</p>
@@ -94,9 +92,11 @@ In particular, Secondary 1 students learn to play the Ukulele – a small four-s
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic10a__1_.png)
 <p style="text-align: justify;">For Secondary 2, the students will use their creative ideas to come up with covers of their favourite songs and to perform these songs using digital tools like Garageband, which is available in their Personal Learning Device. To further enhance the music experience of students, they will write their own lyrics and compose their own music through the use of Garageband. A mini performance will be held in the classrooms for them to showcase their compositions.</p>
+
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic10b__1_.png)
 
-<p style="text-align: center;">NFS and D&amp;T (UPPER SECONDARY)</p>
+<p style="text-align: center;">
+	NFS and D&amp;T (UPPER SECONDARY)</p>
 <p style="text-align: justify;">For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives to students and the subjects are taught independently to prepare the pupils for the GCE 'N' and 'O' Level Examinations. The subjects are coursework based whereby pupils are to research and design an artefact for D&amp;T and design nutrition meals for NFS. In the aim to enhance student's learning, field trips and enrichment classes are also organised to expose students to the different learning environments.</p>
 
 ### ACHIEVEMENT/ OUTCOMES
