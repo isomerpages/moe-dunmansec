@@ -58,6 +58,7 @@ Wassily Kandinsky
 
 
 Check out how the Virtual Art Gallery looks like!
+	![](/images/Aesthetic/qrcodeap2023.png)
 
 ![](/images/Aesthetic/insert_Pic7.jpeg)
  
