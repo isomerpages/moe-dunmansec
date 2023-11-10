@@ -82,7 +82,7 @@ A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic8__1_.jpeg)
 The students have discovered the power of technology, witnessing how it can elevate the art of ideation and expression by using the digital tools like the Sketchbook App and iMovie. With these tools, the students crafted their designs and meticulously documented their creative journey. This exploration has unlocked a wealth of visual possibilities, as they experimented with an array of tools and functions.
 
-To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.
+To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.<br>
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert%20pic_file6.png)
 
 Performances during the recess (Before Covid-19)
