@@ -63,18 +63,13 @@ sessions to whip up significant dishes. They will then use their acquired knowle
 
 #### Art
  ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic6__1_.JPG)
-<p style="text-align: center;"><b><i>Art Exhibition</i></b></p>
-
-&lt;&gt;
-Wassily Kandinsky
+<p style="text-align: center;"><b><i>Art Exhibition</i></b><br>Wassily Kandinsky</p>
 
 For Art, students will be exposed to the artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
 
-&lt;&gt;
-Check out how the Virtual Art Gallery looks like!
-**
 
-&lt;&gt;
+Check out how the Virtual Art Gallery looks like!
+
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
 QR Code for the Virtual Art Gallery
 
