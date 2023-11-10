@@ -55,11 +55,8 @@ And of course, we wrapped up the day with a delightful treat - chicken wings, me
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert%20pic_file3.jpeg)
 </p><p style="text-align: center;"><b><i>Healthy Chicken Rice</i></b></p>
 
-<p style="text-align: justify;">&lt;&gt;
-Healthy Chicken Rice
-
 Students in lower FCE programme are engaged in problem-based learning activities whereby they are given case studies of people with certain health conditions and to research on and work out suitable healthy meals. They will learn various noteworthy nutritional facts and perform practical cooking 
-sessions to whip up significant dishes. They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons. </p>
+sessions to whip up significant dishes. They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons. <p></p>
 
 #### Art
  ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic6__1_.JPG)
