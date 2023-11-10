@@ -121,10 +121,10 @@ Award entries in 2019:
 | -------- | -------- | -------- |
 |**2021 &amp; 2020**   |Event disrupted by Covid-19  | -
 | -------- | -------- | -------- |
-|**2019**  |Creative Innovation: Joey Heng Zhuo yu (5A, 2018)  Creative Adaptation:
-Uwais Alqarni Bin Abdul Rahman (4B, 2018)
-Javier Lai Mao Sheng (4C, 2018)
+|**2019**  |Creative Innovation: Joey Heng Zhuo yu (5A, 2018) <br> Creative Adaptation:
+Uwais Alqarni Bin Abdul Rahman (4B, 2018) |  Chayarnee Marnee-In  
+| -------- | -------- | -------- |
+|**2019**  |Javier Lai Mao Sheng (4C, 2018)
 Tang Jing Yi (4G, 2018)
- | Chayarnee Marnee-In  
-Elvin Tay&nbsp;Ng Aik Koon
+ | Elvin Tay&nbsp;Ng Aik Koon
 
