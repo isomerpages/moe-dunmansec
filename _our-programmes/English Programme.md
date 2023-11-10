@@ -2,11 +2,11 @@
 title: English Programme
 permalink: /our-programmes/english-programme/
 description: ""
+variant: markdown
 ---
 ### Members
 
-<img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg"
-     style="width:78%">
+<img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg" style="width:78%">
 
 ### Mission/ Objectives of Department
 
@@ -29,53 +29,15 @@ description: ""
 
 #### 1) Oral Communication Programme
 
-<p style="text-align: justify;">The oral communication programme in Dunman Secondary is a 4-year programme that aims to build confident speakers through the provision of varied learning platforms and opportunities at the various levels. Besides cohort-based and school-wide presentation platforms, they also have opportunities to engage external partners and showcase their skills learnt through STEMviaDT projects and presentations.</p>
-
-<p style="text-align: justify;">In 2020, when Covid struck, our Sec 2 students were unable to showcase their Reader’s Theatre performances to our external partners. Instead, they channelled their love for the language and desire to make a difference by putting together the Dunman Dictionary.</p>
-
-Click <a href="https://sites.google.com/moe.edu.sg/mdd2020/home" target="_blank">here</a> to view their masterpieces.
-
-#### 2) MEDAL Programme For Lower Secondary Students
-
-MEDAL: **M**astering **E**nglish, **D**rama, the **A**rt of Communication and **L**iterature.
-
-<p style="text-align: justify;">MEDAL represents an integration of the performing arts into the Lower Secondary curriculum so that language learning is made meaningful. MEDAL also proves to be an instrument for the explicit teaching of 21st century competencies as students evolve to become critical and inventive thinkers who collaborate and communicate effectively in their exploration of set socio-cultural contexts. </p>
-
-<p style="text-align: justify;">The MEDAL curriculum is paced. The Secondary One students explore language and Literature texts such as Little Ironies and are given platforms to share their critical appreciation of texts and poems with their peers before embarking on their own poetry writing and recitation. At Secondary Two, students explore language through Drama with greater demands to performance delivery and language.</p>
-
-<p style="text-align: justify;">MEDAL is exploratory and an effort to "open a new frontier in our exploration of good teaching". (Palmer) It will not be a stranger to established teaching practices. What it will develop into is practical and effective pedagogy bearing semblances to the old but fuelled by the hearts of its teachers to cultivate thinking learners. </p>
+<p style="text-align: justify;">Our oracy programme aims to develop empathetic communicators who possess the values, dispositions and skills to listen actively to different perspectives, communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals through cohort-based platforms and other school-wide presentation platforms. The cohort-based oracy programmes also aim to develop creative inquirers who explore and evaluate real-world issues and multiple perspectives, as well as gather and synthesise information from diverse print, non-print and digital networked sources, so as to co-create knowledge and solutions in familiar or new contexts.
+</p>
 
 #### Activities
 
-**1) Learning Journeys**
-<p style="text-align: justify;">The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible.</p>
+*1) Learning Journeys
+The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible.
+*2) Speak Good English and Live(L)it Week
+During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much-anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.
 
-**2) Speak Good English and Live(L)it Week**
-<p style="text-align: justify;">During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.</p>
-
-![](/images/Department%20Photos/English%20Language/EL_img1.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_img2.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_img3.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_img4.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_1.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_2.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_3.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_4.jpg)
-
-![](/images/Department%20Photos/English%20Language/EL_5.jpg)
-
-<p style="text-align: justify;">With the restrictions of Covid, though activities have had to be scaled down, the learning and fun continues albeit limited to the classroom setting.</p>
-
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Eb2e8iwxYs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-**3) Competitions and courses**
-
-* Commonwealth Essay Writing Competition: Selected students will participate in this competition.
-* Other ad-hoc external and internal competitions.
+*3) Talent Development Initiatives 
+Selection and training of students for external and internal competitions and courses 
