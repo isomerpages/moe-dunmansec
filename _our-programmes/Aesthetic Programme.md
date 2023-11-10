@@ -49,10 +49,11 @@ variant: markdown
 </p>
 
 #### Activities
+<p style="text-align:center;">
 ![](/images/Aesthetic/insert%20pic6-min.JPG) 
 Wassily Kandinsky
 
-For Art, students will be exposed artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught with different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
+</p><p style="text-align: justify;">For Art, students will be exposed artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught with different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
 
 
 Check out how the Virtual Art Gallery looks like!
@@ -69,13 +70,18 @@ The students have discovered the power of technology, witnessing how it can elev
 To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.
 
 Music Activities
+
 ![](/images/Aesthetic/Insert_pic10.jpg)
+
 Performances during the recess (Before Covid-19)
 
 In Music, students will develop the skills to listen and respond to Music, create Music in both vocal and instrumental settings, individually and collaboratively and perform Music in both vocal and instrumental settings, individually and collaboratively.
 
 In particular, Secondary 1 students learn to play the Ukulele – a small four-stringed guitar of Hawaiian origin, as well as the Cajon – an instrument which originates from Peru. They will be given the opportunities to showcase their skills during group performances. The students will also be taught to appreciate music from global and the Singapore cultures. They will experience and perform a variety of community songs that can be heard in Singapore and be familiar with local musicians, composers and performers. They will then present their rendition of these songs during the Sec 1 cohort recess. 
+
 ![](/images/Aesthetic/insert_Pic10a.jpg)
 
 For Secondary 2, the students will use their creative ideas to come up with covers of their favourite songs and to perform these songs using digital tools like Garageband, which is available in their Personal Learning Device. To further enhance the music experience of students, they will write their own lyrics and compose their own music through the use of Garageband. A mini performance will be held in the classrooms for them to showcase their compositions.
+
 ![](/images/Aesthetic/insert_Pic10b.jpg)
+</p>
