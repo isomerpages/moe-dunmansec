@@ -67,8 +67,10 @@ For Art, students will be exposed to the artworks of famous artist (i.e. Wassily
 [Click here to view our youtube sharing](https://youtu.be/XG9sOoeGv4I)<p></p>
 
 <p style="text-align: center;">Check out how the Virtual Art Gallery looks like! </p>	
+
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
 <p style="text-align: center;">QR Code for the Virtual Art Gallery</p>
+
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic7__1_.jpeg)
 <p style="text-align: center;">Students looking at the Virtual Art Gallery</p>
 
