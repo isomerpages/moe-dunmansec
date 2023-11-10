@@ -66,35 +66,38 @@ For Art, students will be exposed to the artworks of famous artist (i.e. Wassily
 
 Click [Here] to view our youtube sharing. (https://youtu.be/XG9sOoeGv4I)
 
-Check out how the Virtual Art Gallery looks like!
+<p style="text-align: center;">Check out how the Virtual Art Gallery looks like!</p>
 
-![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
-QR Code for the Virtual Art Gallery
+<p style="text-align: center;">
+	![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_QRcode__1_.png)
+QR Code for the Virtual Art Gallery</p>
 
+<p style="text-align: center;">
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic7__1_.jpeg)
-Students looking at the Virtual Art Gallery
+Students looking at the Virtual Art Gallery</p>
 
-A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by Ms Nurmasnita, teacher in-charge) to display the Sec 1 Students’ Artworks. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.
+<p style="text-align: justify;">A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by Ms Nurmasnita, teacher in-charge) to display the Sec 1 Students’ Artworks. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic8__1_.jpeg)
+
 The students have discovered the power of technology, witnessing how it can elevate the art of ideation and expression by using the digital tools like the Sketchbook App and iMovie. With these tools, the students crafted their designs and meticulously documented their creative journey. This exploration has unlocked a wealth of visual possibilities, as they experimented with an array of tools and functions.
 
-To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.<br>
+To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.</p>
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert%20pic_file6.png)
 
-Performances during the recess (Before Covid-19)
+<p style="text-align: center;">Performances during the recess (Before Covid-19)</p>
 
-In Music, students will develop the skills to listen and respond to Music, create Music in both vocal and instrumental settings, individually and collaboratively and perform Music in both vocal and instrumental settings, individually and collaboratively.
+<p style="text-align: justify;">In Music, students will develop the skills to listen and respond to Music, create Music in both vocal and instrumental settings, individually and collaboratively and perform Music in both vocal and instrumental settings, individually and collaboratively.
 
 In particular, Secondary 1 students learn to play the Ukulele – a small four-stringed guitar of Hawaiian origin, as well as the Cajon – an instrument which originates from Peru. They will be given the opportunities to showcase their skills during group performances. The students will also be taught to appreciate music from global and the Singapore cultures. They will experience and perform a variety of community songs that can be heard in Singapore and be familiar with local musicians, composers and performers. They will then present their rendition of these songs during the Sec 1 cohort recess. 
-
+</p>
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic10a__1_.png)
-For Secondary 2, the students will use their creative ideas to come up with covers of their favourite songs and to perform these songs using digital tools like Garageband, which is available in their Personal Learning Device. To further enhance the music experience of students, they will write their own lyrics and compose their own music through the use of Garageband. A mini performance will be held in the classrooms for them to showcase their compositions.
+<p style="text-align: justify;">For Secondary 2, the students will use their creative ideas to come up with covers of their favourite songs and to perform these songs using digital tools like Garageband, which is available in their Personal Learning Device. To further enhance the music experience of students, they will write their own lyrics and compose their own music through the use of Garageband. A mini performance will be held in the classrooms for them to showcase their compositions.</p>
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic10b__1_.png)
 
-NFS and D&amp;T (UPPER SECONDARY)
-For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives to students and the subjects are taught independently to prepare the pupils for the GCE 'N' and 'O' Level Examinations. The subjects are coursework based whereby pupils are to research and design an artefact for D&amp;T and design nutrition meals for NFS. In the aim to enhance student's learning, field trips and enrichment classes are also organised to expose students to the different learning environments.
+<p style="text-align: center;">NFS and D&amp;T (UPPER SECONDARY)</p>
+<p style="text-align: justify;">For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives to students and the subjects are taught independently to prepare the pupils for the GCE 'N' and 'O' Level Examinations. The subjects are coursework based whereby pupils are to research and design an artefact for D&amp;T and design nutrition meals for NFS. In the aim to enhance student's learning, field trips and enrichment classes are also organised to expose students to the different learning environments.</p>
 
 ### ACHIEVEMENT/ OUTCOMES
 
