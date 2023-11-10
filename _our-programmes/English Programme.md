@@ -41,6 +41,19 @@ The department strives to enrich the students' learning experience beyond the co
 
 During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much-anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.
 
+![](/images/Department%20Photos/English%20Language/image_2.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_3.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_4.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_5.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_6.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_7.jpeg)
+
+![](/images/Department%20Photos/English%20Language/image_8.jpeg)
 **3) Talent Development Initiatives **
 
 Selection and training of students for external and internal competitions and courses 
