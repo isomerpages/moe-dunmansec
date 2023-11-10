@@ -55,7 +55,8 @@ variant: markdown
 Wassily Kandinsky
 
 </p><p style="text-align: justify;">For Art, students will be exposed artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught with different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
-
+	
+Click&nbsp;[here](https://youtu.be/XG9sOoeGv4I)&nbsp;to view our video on YouTube.
 
 Check out how the Virtual Art Gallery looks like!
 	![](/images/Aesthetic/qrcodeap2023.png)
