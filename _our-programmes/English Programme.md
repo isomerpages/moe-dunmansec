@@ -34,11 +34,10 @@ variant: markdown
 
 #### Activities
 
-**1) Learning Journeys**
+**1) Learning Journeys**<br>
 The department strives to enrich the students' learning experience beyond the confines of the classroom and learning journeys will be planned for the students along the year as and when possible.
 
-**2) Speak Good English and Live(L)it Week**
-
+**2) Speak Good English and Live(L)it Week**<br>
 During the annual Speak Good English Week and Live(L)it Week a plethora of exciting activities are lined up for the students to encourage them to converse and write good and proper English and to spark a love for Literature. Some of these include cohort-based language games and activities, talks by local writers, book fairs by vendors and internal competitions. The yearly affair culminates with the much-anticipated event: Books Come Alive@Dunman. Dunman undergoes a vibrant transformation each year when students and teachers alike don the outfits of famous characters from literary books, impersonating their chosen characters both in appearance and behaviour.
 
 ![](/images/Department%20Photos/English%20Language/image_2.jpeg)
@@ -54,6 +53,7 @@ During the annual Speak Good English Week and Live(L)it Week a plethora of excit
 ![](/images/Department%20Photos/English%20Language/image_7.jpeg)
 
 ![](/images/Department%20Photos/English%20Language/image_8.jpeg)
-**3) Talent Development Initiatives **
+
+**3) Talent Development Initiatives **<br>
 
 Selection and training of students for external and internal competitions and courses 
