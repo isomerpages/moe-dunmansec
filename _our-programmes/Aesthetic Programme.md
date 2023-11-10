@@ -2,6 +2,7 @@
 title: Aesthetic Programme
 permalink: /our-programmes/aesthetic-programme/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">The Dunman Aesthetic programme was envisioned where students of Dunman Secondary School get to enjoy aesthetics which encompasses of Music, Drama, Dance and Art and in return take the initiative in engaging in aesthetics-related activities so that they can contribute to the community.</p>
 
@@ -16,7 +17,7 @@ description: ""
     
 *   **Learning Journeys**
     
-    <p style="text-align: justify;">Trips to Art museums are planned so that students are exposed to the different learning environments as well as the various forms of Art paintings and installations.</p>
+    <p style="text-align: justify;">Trips to concerts/ art exhibitions are planned so that students are exposed to the different learning environments as well as the various forms of Art paintings and installations.</p>
     
 *   **Attending Various Arts Activities**
     
@@ -38,19 +39,52 @@ description: ""
 ### Excel
 <p style="text-align: justify;">Opportunities are provided for students to excel in various forms of aesthetics, through:</p>
 
-*   Performances (SYF, public concerts, recess-time concerts, etc)  
-    <p style="text-align: justify;">The SYF is held every biennially where students in the performing art CCA get to perform and excel at a national level; usually spending their time to hone their skills in perfecting a score or a dance piece. Students from the lower sec music lesson also get to perform during the recess time where they belt out their renditions of “Xin yao” or local songs which they have practiced during their music lessons.</p>
+*   Performances (SYF, Public performance, etc)
+
+    <p style="text-align: justify;">The SYF is held every biennially where students in the performing art CCA get to perform and excel at a national level; usually spending their time to hone their skills in perfecting a score or a dance piece.
+</p>
 
 *   Art/Photography Exhibitions  
-    <p style="text-align: justify;">Art and Photography exhibitions are held every term where our own students get to display their art or photography pieces which always generate a lot of buzz and excitement.</p>
+    <p style="text-align: justify;">Art and Photography exhibitions are held every year where our own students get to display their art or photography pieces which always generate a lot of buzz and excitement.
+</p>
 
 #### Activities
+<p style="text-align:center;">
+	
+![](/images/Aesthetic/insert%20pic6-min.JPG) 
+Wassily Kandinsky
 
-**RECESS TIME CONCERT**
-![](/images/Aesthetic/RecessTimeConcert.jpg)
+</p><p style="text-align: justify;">For Art, students will be exposed artworks of famous artist (i.e. Wassily Kandinsky) to learn about principles of Art. They will be taught with different methods and ways to express their art through paper scrapping, canvas art, silk painting and digital photography.
+	
+Click&nbsp;[here](https://youtu.be/XG9sOoeGv4I)&nbsp;to view our video on YouTube.
 
-**ART EXHIBITION**
-![](/images/Aesthetic/ArtExihibition.png)
+Check out how the Virtual Art Gallery looks like!
+	![](/images/Aesthetic/qrcodeap2023.png)
 
-**AESTHETIC ENRICHMENT ACTIVITIES**
-![](/images/Aesthetic/Aesthetic%20Enrichment%20Activities.png)
+![](/images/Aesthetic/insert_Pic7.jpeg)
+ 
+Students looking at the Virtual Art Gallery
+
+A Virtual Art Exhibition called “The Sound of Colour” was setup (helmed by Ms Nurmasnita, the teacher in-charge) to display the Sec 1 Students’ Art Works. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.
+
+![](/images/Aesthetic/insert_Pic8_min.jpeg)
+
+The students have discovered the power of technology, witnessing how it can elevate the art of ideation and expression by using the digital tools like the Sketchbook App and iMovie. With these tools, the students crafted their designs and meticulously documented their creative journey. This exploration has unlocked a wealth of visual possibilities, as they experimented with an array of tools and functions.
+To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.
+
+Music Activities
+
+![](/images/Aesthetic/Insert_pic10.jpg)
+
+Performances during the recess (Before Covid-19)
+
+In Music, students will develop the skills to listen and respond to Music, create Music in both vocal and instrumental settings, individually and collaboratively and perform Music in both vocal and instrumental settings, individually and collaboratively.
+
+In particular, Secondary 1 students learn to play the Ukulele – a small four-stringed guitar of Hawaiian origin, as well as the Cajon – an instrument which originates from Peru. They will be given the opportunities to showcase their skills during group performances. The students will also be taught to appreciate music from global and the Singapore cultures. They will experience and perform a variety of community songs that can be heard in Singapore and be familiar with local musicians, composers and performers. They will then present their rendition of these songs during the Sec 1 cohort recess. 
+
+![](/images/Aesthetic/insert_Pic10a.jpg)
+
+For Secondary 2, the students will use their creative ideas to come up with covers of their favourite songs and to perform these songs using digital tools like Garageband, which is available in their Personal Learning Device. To further enhance the music experience of students, they will write their own lyrics and compose their own music through the use of Garageband. A mini performance will be held in the classrooms for them to showcase their compositions.
+
+![](/images/Aesthetic/insert_Pic10b.jpg)
+</p>

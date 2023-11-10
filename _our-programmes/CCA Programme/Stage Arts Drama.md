@@ -24,8 +24,9 @@ StageArts Drama train our members to live in the spirit of performance, encompas
 Each StageArts Drama member is known as a Drama StageArtisan.
 
 ### Achievements
-![](/images/CCA%20Photos/Stage%20Arts%20Drama/syf2_2023_001.jpg)
-|  | SYF Awards | |
+![](/images/CCA%20Photos/Stage%20Arts%20Drama/syf2_2023_001.jpg) 
+
+|  | SYF Awards | | 
 | -------- | -------- | -------- |
 | **2019** | Distinction |      |
 | **2017** | Distinction |      |
