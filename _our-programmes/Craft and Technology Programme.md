@@ -74,7 +74,6 @@ Check out how the Virtual Art Gallery looks like!
 QR Code for the Virtual Art Gallery
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic7__1_.jpeg)
-**&lt;&gt;
 Students looking at the Virtual Art Gallery
 
 A Virtual Art Exhibition called “The Sound of Colour” was set up (helmed by Ms Nurmasnita, teacher in-charge) to display the Sec 1 Students’ Artworks. Through this immersive experience, these young artists have not only harnessed their auditory senses but also drawn inspiration from the brilliant works of Wassily Kandinsky. This exhibition serves as a profound lesson in effective communication through art.
