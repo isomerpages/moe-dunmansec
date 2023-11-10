@@ -50,6 +50,7 @@ variant: markdown
 
 #### Activities
 <p style="text-align:center;">
+	
 ![](/images/Aesthetic/insert%20pic6-min.JPG) 
 Wassily Kandinsky
 
