@@ -4,8 +4,6 @@ permalink: /e-open-house/programme-highlights/
 description: ""
 variant: markdown
 ---
-
-
 #### Open House 2023
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
@@ -14,6 +12,10 @@ variant: markdown
 <img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(simplified).png" style="width:70%">
 
 #### Programme Highlights
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OR-LnyS6U2w?si=LgSUtAysmii4qYNG" height="315" width="560"></iframe>
+<br>
+
 1. Introduction by Principal, Mr Toh Thiam Chye
 2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
 3. **Distinguished Speaker 2**:&nbsp;Leadership by Mr Shane Chong
