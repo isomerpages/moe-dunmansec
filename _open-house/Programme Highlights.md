@@ -2,14 +2,8 @@
 title: Programme Highlights
 permalink: /e-open-house/programme-highlights/
 description: ""
+variant: markdown
 ---
-#### Register Here
-
-To take part in our open house, please register your interest [here](https://go.gov.sg/dmnopenhouse2023). 
-
-Alternatively, you can scan the following QR Code:
-<img src="/images/E%20Open%20House/dmn_oh23_qr.jpeg" style="width:40%">
-
 #### Open House 2023
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
@@ -18,6 +12,9 @@ Alternatively, you can scan the following QR Code:
 <img src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(simplified).png" style="width:70%">
 
 #### Programme Highlights
+
+<br>
+
 1. Introduction by Principal, Mr Toh Thiam Chye
 2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
 3. **Distinguished Speaker 2**:&nbsp;Leadership by Mr Shane Chong
