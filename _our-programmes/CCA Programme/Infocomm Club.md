@@ -24,12 +24,12 @@ Through Game Development workshops, students learnt to use key game design and c
 
 The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms.
 
-
+![](/images/CCA%20Photos/Infocomm%20Club/pic%207%20dos%20final%20(challenge%20in%20action).jpeg)
 Challenge In Action (Finals)
 
 As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
 
-(Insert Pic 9)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
 Learning Journey to ARTC
  
 Through programmes and various platforms throughout each year, our club members will be enriched in their digital literacy. More importantly, they will be equipped with problem-solving skills as they learnt to ‘code’ for life. 
@@ -37,7 +37,7 @@ Through programmes and various platforms throughout each year, our club members 
 ### Achievements
 Emerging Tech x VIA Photo Essay Contest 2022 
 
-(Insert Pic 4)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%204%20via%20photo%20essay%20contest%202022.jpeg)
 Runner Up Award
 
 Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
@@ -45,11 +45,14 @@ Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
 
 Drone Odyssey Challenge 2023
 
-	(Insert Pic5)	(Insert Pic 6)
+ ![](/images/CCA%20Photos/Infocomm%20Club/pic%205%20participants%20of%20dos.jpeg)
+ 
+ ![](/images/CCA%20Photos/Infocomm%20Club/pic%206%20dos%20teams-min.png)
 		Participating Members and Teams 
 
 
-	(Insert Pic 8)	(Insert Pic 9)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%208%20award%20winners%20of%20dos.jpeg)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
 Best Knowledge Team Award & Judges’ Award (Leadership)
 
 ### Trainings
