@@ -2,11 +2,12 @@
 title: School Canteen Information
 permalink: /our-contacts/permalink/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Noodles Stall  | 10 Nov 2023 | NIL |
-| Halal Western Stall   | 10 Nov 2023 | NIL |
+| Snack Stall  | 18 Dec 2023 | NIL |
+| Malay Noodles Stall   | 18 Dec 2023 | NIL |
 
 
 **Application Procedure**
