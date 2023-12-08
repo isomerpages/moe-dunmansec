@@ -63,10 +63,7 @@ Day & Time	Tuesday 3:30pm – 5.30pm
 
 
 ### Teachers-in-charge
-
-* Mrs Soh Sok Hoon (IC), email:&nbsp;
-* [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
-* Mr Ng Aik Koon, email:&nbsp;
-* [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
+* Mrs Soh Sok Hoon (IC), email:&nbsp;[chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
+* Mr Ng Aik Koon, email:&nbsp;[ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
 * Mr  Mathivanan Murthy, email:&nbsp;[mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg)
 * Mr Wong Tong Aun James, email:&nbsp;[james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
