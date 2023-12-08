@@ -7,13 +7,11 @@ variant: markdown
 ---
 ### Introduction
 
-![](/images/CCA%20Photos/Infocomm%20Club/Pic 1 Infocomm%20Noticeboard.jpg)
-<p style="text-align: justify;"> 
+(Insert Pic 1)
 In keeping with the fast-moving pace of digital revolution in Singapore and its vision of becoming a Smart Nation, Dunman Infocomm Club strives to enrich the digital literacy of our members through an array of programmes, activities and competitions. These creates opportunities for our members to pursue their interests and deepen their learning in emerging technologies.
 
-	![](/images/CCA%20Photos/Infocomm%20Club/pic%202%20infocomm%20team%20@%20cca%20fair.jpeg)
-	
-	![](/images/CCA%20Photos/Infocomm%20Club/pic%203%20sec2%20workshop.jpeg)
+
+	(insert Pic 2)	(insert Pic 3)
 	
 The Secondary 1 students who joined the school’s iSTEM Academy will experience termly programmes organized by Green Club, Media Club, InfocommClub and Makers’ Club. 
 
@@ -21,38 +19,24 @@ After their experience via the iSTEM Academy in Secondary 1, Secondary 2 student
 
 Through Game Development workshops, students learnt to use key game design and coding concepts to design and code a game. They will be equipped with skills to create digital media using critical thinking and analytic skills.  Drone coding workshops will equipped them to code and fly drones.
 
-![](/images/CCA%20Photos/Infocomm%20Club/pic%2010%20student%20work.jpg)
+(Insert Pic 10)
 
 The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms.
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%207%20dos%20final%20(challenge%20in%20action).jpeg)
+(Insert Pic 7)
 Challenge In Action (Finals)
 
 As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
+(Insert Pic 9)
 Learning Journey to ARTC
  
 Through programmes and various platforms throughout each year, our club members will be enriched in their digital literacy. More importantly, they will be equipped with problem-solving skills as they learnt to ‘code’ for life. 
-</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
-
-<p style="text-align: justify;">The club has a dedicated Robotics Room which houses our lower secondary members. Members are introduced to basic – intermediate Robotics with block-based programming which allows them to experience both the physical building of LEGO Mindstorm EV3 Robotics systems as well as the mentally challenging Robotics programming to overcome obstacles and perform specific tasks.</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic02.jpg)
-
-<p style="text-align: justify;">This year, Secondary 2 will continue with Swift Coding Programming, using their iPads to learn on this programming for App Development. They are part of the inaugural Swift Coding Club.</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
-
-<p style="text-align: justify;">Upper secondary members will begin this year with Drone Coding Course, to create their own flight plan with all the codes that they will be learning, to design a simple obstacle course and able to programme their drones to automatically navigate the obstacle course, perform and complete some specific tasks in the fastest time possible.</p>
 
 ### Achievements
-![](/images/CCA%20Photos/Infocomm%20Club/Pic04.jpg)
 Emerging Tech x VIA Photo Essay Contest 2022 
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%204%20via%20photo%20essay%20contest%202022.jpeg)
+(Insert Pic 4)
 Runner Up Award
 
 Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
@@ -60,23 +44,18 @@ Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
 
 Drone Odyssey Challenge 2023
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%205%20participants%20of%20dos.jpeg)
- 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%206%20dos%20teams-min.png)
+	(Insert Pic5)	(Insert Pic 6)
 		Participating Members and Teams 
 
 
-![](/images/CCA%20Photos/Infocomm%20Club/pic%208%20award%20winners%20of%20dos.jpeg)
-
-![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
-Best Knowledge Team Award &amp; Judges’ Award (Leadership)
-
+	(Insert Pic 8)	(Insert Pic 9)
+Best Knowledge Team Award & Judges’ Award (Leadership)
 
 ### Trainings
 
 CCA Programme 2024 (Tentative)
-Day &amp; Time	Tuesday 3:30pm – 5.30pm
-Friday 2:00pm – 4:00pm	
+Day & Time	Tuesday 3:30pm – 5.30pm
+	Friday 2:00pm – 4:00pm	 
 
 
 ### Teachers-in-charge
