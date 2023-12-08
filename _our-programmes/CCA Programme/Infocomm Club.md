@@ -7,11 +7,12 @@ variant: markdown
 ---
 ### Introduction
 
-(Insert Pic 1)
+![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
 In keeping with the fast-moving pace of digital revolution in Singapore and its vision of becoming a Smart Nation, Dunman Infocomm Club strives to enrich the digital literacy of our members through an array of programmes, activities and competitions. These creates opportunities for our members to pursue their interests and deepen their learning in emerging technologies.
 
+![](/images/CCA%20Photos/Infocomm%20Club/Pic02.jpg)
 
-	(insert Pic 2)	(insert Pic 3)
+![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
 	
 The Secondary 1 students who joined the school’s iSTEM Academy will experience termly programmes organized by Green Club, Media Club, InfocommClub and Makers’ Club. 
 
@@ -19,11 +20,11 @@ After their experience via the iSTEM Academy in Secondary 1, Secondary 2 student
 
 Through Game Development workshops, students learnt to use key game design and coding concepts to design and code a game. They will be equipped with skills to create digital media using critical thinking and analytic skills.  Drone coding workshops will equipped them to code and fly drones.
 
-(Insert Pic 10)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%2010%20student%20work.jpg)
 
 The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms.
 
-(Insert Pic 7)
+
 Challenge In Action (Finals)
 
 As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
