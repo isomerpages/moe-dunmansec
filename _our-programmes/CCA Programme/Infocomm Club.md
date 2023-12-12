@@ -7,13 +7,12 @@ variant: markdown
 ---
 ### Introduction
 
-![](/images/CCA%20Photos/Infocomm%20Club/Pic 1 Infocomm%20Noticeboard.jpg)
-<p style="text-align: justify;"> 
+![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
 In keeping with the fast-moving pace of digital revolution in Singapore and its vision of becoming a Smart Nation, Dunman Infocomm Club strives to enrich the digital literacy of our members through an array of programmes, activities and competitions. These creates opportunities for our members to pursue their interests and deepen their learning in emerging technologies.
 
-	![](/images/CCA%20Photos/Infocomm%20Club/pic%202%20infocomm%20team%20@%20cca%20fair.jpeg)
-	
-	![](/images/CCA%20Photos/Infocomm%20Club/pic%203%20sec2%20workshop.jpeg)
+![](/images/CCA%20Photos/Infocomm%20Club/Pic02.jpg)
+
+![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
 	
 The Secondary 1 students who joined the school’s iSTEM Academy will experience termly programmes organized by Green Club, Media Club, InfocommClub and Makers’ Club. 
 
@@ -25,34 +24,20 @@ Through Game Development workshops, students learnt to use key game design and c
 
 The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms.
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%207%20dos%20final%20(challenge%20in%20action).jpeg)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%207%20dos%20final%20(challenge%20in%20action).jpeg)
 Challenge In Action (Finals)
 
 As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
 Learning Journey to ARTC
  
 Through programmes and various platforms throughout each year, our club members will be enriched in their digital literacy. More importantly, they will be equipped with problem-solving skills as they learnt to ‘code’ for life. 
-</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic01.jpg)
-
-<p style="text-align: justify;">The club has a dedicated Robotics Room which houses our lower secondary members. Members are introduced to basic – intermediate Robotics with block-based programming which allows them to experience both the physical building of LEGO Mindstorm EV3 Robotics systems as well as the mentally challenging Robotics programming to overcome obstacles and perform specific tasks.</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic02.jpg)
-
-<p style="text-align: justify;">This year, Secondary 2 will continue with Swift Coding Programming, using their iPads to learn on this programming for App Development. They are part of the inaugural Swift Coding Club.</p>
-
-![](/images/CCA%20Photos/Infocomm%20Club/Pic03.jpg)
-
-<p style="text-align: justify;">Upper secondary members will begin this year with Drone Coding Course, to create their own flight plan with all the codes that they will be learning, to design a simple obstacle course and able to programme their drones to automatically navigate the obstacle course, perform and complete some specific tasks in the fastest time possible.</p>
 
 ### Achievements
-![](/images/CCA%20Photos/Infocomm%20Club/Pic04.jpg)
 Emerging Tech x VIA Photo Essay Contest 2022 
 
- ![](/images/CCA%20Photos/Infocomm%20Club/pic%204%20via%20photo%20essay%20contest%202022.jpeg)
+![](/images/CCA%20Photos/Infocomm%20Club/pic%204%20via%20photo%20essay%20contest%202022.jpeg)
 Runner Up Award
 
 Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
@@ -67,23 +52,18 @@ Drone Odyssey Challenge 2023
 
 
 ![](/images/CCA%20Photos/Infocomm%20Club/pic%208%20award%20winners%20of%20dos.jpeg)
-
 ![](/images/CCA%20Photos/Infocomm%20Club/pic%209%20learning%20journey%20to%20artc.jpeg)
-Best Knowledge Team Award &amp; Judges’ Award (Leadership)
-
+Best Knowledge Team Award & Judges’ Award (Leadership)
 
 ### Trainings
 
 CCA Programme 2024 (Tentative)
-Day &amp; Time	Tuesday 3:30pm – 5.30pm
-Friday 2:00pm – 4:00pm	
+Day & Time	Tuesday 3:30pm – 5.30pm
+	Friday 2:00pm – 4:00pm	 
 
 
 ### Teachers-in-charge
-
-* Mrs Soh Sok Hoon (IC), email:&nbsp;
-* [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
-* Mr Ng Aik Koon, email:&nbsp;
-* [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
+* Mrs Soh Sok Hoon (IC), email:&nbsp;[chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg)
+* Mr Ng Aik Koon, email:&nbsp;[ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg)
 * Mr  Mathivanan Murthy, email:&nbsp;[mathivanan_murthy@moe.edu.sg](mailto:mathivanan_murthy@moe.edu.sg)
 * Mr Wong Tong Aun James, email:&nbsp;[james_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
