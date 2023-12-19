@@ -2,6 +2,7 @@
 title: Transition To Secondary School
 permalink: /sec-1-registration/transition-to-secondary-school/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">Below are some information to help parents and students to adjust to secondary school.</p>
 
