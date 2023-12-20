@@ -48,4 +48,13 @@ sections:
       url: https://youtu.be/fAQYfaXs3Aw?si=vD2QBZu876S45GKN
       image: /images/Home Page/60th anniversary.png
       alt: Image alt text
+  - infopic:
+      title: Sec 1 Registration
+      subtitle: Add an image and text
+      id: infopic
+      description: CLICK BELOW FOR SEC 1 REGISTRATION
+      button: Sec 1 REGISTRATION
+      url: https://www.dunmansec.moe.edu.sg/sec-1-registration/secondary-1-online-registration/
+      image: /images/Sec 1 Registration/Sec1Reg_Img.jpeg
+      alt: Image alt text
 ---
