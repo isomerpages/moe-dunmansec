@@ -15,6 +15,15 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
+  - infopic:
+      title: Sec 1 Registration
+      subtitle: Add an image and text
+      id: infopic
+      description: CLICK BELOW FOR SEC 1 REGISTRATION
+      button: Sec 1 REGISTRATION
+      url: https://www.dunmansec.moe.edu.sg/sec-1-registration/secondary-1-online-registration/
+      image: /images/Sec 1 Registration/Sec1Reg_Img.jpeg
+      alt: Image alt text
   - infobar:
       title: Open House!
       subtitle: We are Having our
