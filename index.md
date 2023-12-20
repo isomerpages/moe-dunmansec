@@ -17,7 +17,6 @@ sections:
           url: /events/events-highlight/
   - infopic:
       title: Sec 1 Registration
-      subtitle: Add an image and text
       id: infopic
       description: CLICK BELOW FOR SEC 1 REGISTRATION
       button: Sec 1 REGISTRATION
