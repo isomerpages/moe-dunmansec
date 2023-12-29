@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Timetable AY2024.md
       - Sec 1 Registration.md
       - Open House 2023.md
       - Sec 3 End of Year Academic Programme 2023.md
@@ -11,7 +12,6 @@ collections:
       - SGC (AY2022 graduates).md
       - 60th Anniversary Celebration.md
       - 2022 GCE O Level.md
-      - Timetable AY2023.md
       - GCE N Level Admin Slides (19 December 2022).md
       - Invitation to Parents Gateway.md
       - Advisory For The School Holidays.md

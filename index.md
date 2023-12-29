@@ -10,8 +10,8 @@ sections:
       background: /images/Home Page/Banner small 2.gif
       key_highlights:
         - title: Announcements
-          description: Click here for announcements.
-          url: /announcements/open-house-23/
+          description: Click here for announcements
+          url: /announcements/tt2024/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
