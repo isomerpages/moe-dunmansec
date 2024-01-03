@@ -1,0 +1,10 @@
+collections:
+  our-contacts:
+    output: true
+    order:
+      - School Canteen Information.md
+      - Direct School Admission (For 2024 Intake).md
+      - Financial Assistance.md
+      - Bookshop and Uniform Vendors.md
+      - Getting Here.md
+      - School Contact.md

@@ -1,0 +1,7 @@
+collections:
+  events:
+    output: true
+    order:
+      - Events Highlight.md
+      - DMA Webinar 24 March 2023.md
+      - YDCP AY2023.md

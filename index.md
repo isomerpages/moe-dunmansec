@@ -1,0 +1,59 @@
+---
+layout: homepage
+title: Dunman Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/Home Page/home_logo.png
+permalink: /
+notification: ""
+sections:
+  - hero:
+      background: /images/Home Page/Banner small 2.gif
+      key_highlights:
+        - title: Announcements
+          description: Click here for announcements
+          url: /announcements/tt2024/
+        - title: Events
+          description: Click here for upcoming events
+          url: /events/events-highlight/
+  - infopic:
+      title: Sec 1 Registration
+      id: infopic
+      description: CLICK BELOW FOR SEC 1 REGISTRATION
+      button: Sec 1 REGISTRATION
+      url: https://www.dunmansec.moe.edu.sg/sec-1-registration/secondary-1-online-registration/
+      image: /images/Sec 1 Registration/Sec1Reg_Img.jpeg
+      alt: Image alt text
+  - infobar:
+      title: Open House!
+      subtitle: We are Having our
+      id: infobar
+      description: <img
+        src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
+        style="width:100%">
+      button: Click here to find out more
+      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
+  - infobar:
+      title: We are in the News!
+      subtitle: "CNA: future of Learning"
+      id: infobar
+      description: >-
+        <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/mAQt8-JHEgE?si=aY-7zzfbdSclU0vN"
+        height="315" width="560"></iframe>
+
+
+        <br>
+
+
+        <i>Extracted from CNA Singapore Watch Segment 20 September 2023</i>
+  - infopic:
+      title: 60th Anniversary
+      subtitle: We are celebrating our
+      id: infopic
+      button: Click here to view our video
+      url: https://youtu.be/fAQYfaXs3Aw?si=vD2QBZu876S45GKN
+      image: /images/Home Page/60th anniversary.png
+      alt: Image alt text
+---

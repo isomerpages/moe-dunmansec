@@ -1,0 +1,11 @@
+collections:
+  sec-1-registration:
+    output: true
+    order:
+      - Welcome Address By Principal.md
+      - Secondary 1 Online Registration.md
+      - Transition To Secondary School.md
+      - First Day Of School.md
+      - Purchases.md
+      - Frequently Asked Questions (FAQs).md
+      - Contact Information.md

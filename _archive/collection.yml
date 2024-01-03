@@ -1,0 +1,17 @@
+collections:
+  archive:
+    output: true
+    order:
+      - faq.md
+      - Example Title.md
+      - Awards.md
+      - Our Student Life.md
+      - Learning Portals.md
+      - Clubs & Societies.md
+      - Sports & Games.md
+      - Performing Arts.md
+      - Uniformed Groups.md
+      - LEAPS 2.md
+      - Service Learning Programme.md
+      - Asia STEM Programme.md
+      - FLINT MSI.md

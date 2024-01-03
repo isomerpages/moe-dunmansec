@@ -1,0 +1,8 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - Programme Highlights.md
+      - Why Dunman? An Overview Of the School.md
+      - See Our Success Stories.md
+      - Virtual School Tour.md

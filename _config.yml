@@ -1,0 +1,59 @@
+title: Dunman Secondary School
+url: https://dunmansec.moe.edu.sg
+favicon: /images/Home Page/dunman-secondary-school.png
+colors:
+  primary-color: "#a61818"
+  secondary-color: "#a61818"
+  media-colors:
+    - title: media-color-one
+      color: "#e9b10a"
+    - title: media-color-two
+      color: "#f5ceaf"
+    - title: media-color-three
+      color: "#f8e7d1"
+    - title: media-color-four
+      color: "#0d3fe6"
+    - title: media-color-five
+      color: "#00838f"
+description: ""
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.dn9twugy8aohm.amplifyapp.com
+prod: https://master.dn9twugy8aohm.amplifyapp.com
+shareicon: /images/Home Page/home_logo.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: resource
