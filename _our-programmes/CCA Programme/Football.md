@@ -3,6 +3,7 @@ title: Football
 permalink: /our-programmes/cca-programme/football/
 description: ""
 third_nav_title: CCA Programme
+variant: markdown
 ---
 ### Introduction
 
@@ -53,15 +54,18 @@ We are football players who are:
 
 ### Trainings
 
-Tuesday: 3:30pm to 6.00pm  
-Thursday: 3.30pm to 6.00pm
+Tuesday: 
+C Div: 3.00pm to 4.30pm
+B Div: 4.30pm to 6.00pm
+
+Friday: 
+C Div: 2.00pm to 3.30pm
+B Div: 3.30pm to 5.00pm
 
 ### CCA Teachers-In-Charge
   
-**[](mailto:lim_poh_tee@moe.edu.sg)**
+Mr Harris Alexander, email:&nbsp;**[harris\_alexander@moe.edu.sg](mailto:harris_alexander@moe.edu.sg)**
 
-Mr Harris Alexander, email: **[harris\_alexander@moe.edu.sg](mailto:harris_alexander@moe.edu.sg)**
+Mdm Siti Nur Nadirah Asmadi, email:&nbsp;**[siti\_nur\_nadirah\_asmadi@moe.edu.sg](mailto:siti_nur_nadirah_asmadi@moe.edu.sg)**
 
-Mdm Siti Nur Nadirah Asmadi, email: **[siti\_nur\_nadirah\_asmadi@moe.edu.sg](mailto:siti_nur_nadirah_asmadi@moe.edu.sg)**
-
-Ms Lim Poh Tee Audrey, email: **[lim\_poh\_tee@moe.edu.sg](mailto:lim_poh_tee@moe.edu.sg)**
+Ms Hafizah Hashim, email:&nbsp;**[hafizah\_hashim@moe.edu.sg](mailto:hafizah_hashim@moe.edu.sg)**
