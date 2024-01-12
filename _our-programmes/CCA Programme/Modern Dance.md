@@ -27,9 +27,7 @@ INFINI SONAR has come a long way since their humble beginnings, setting the stag
 
 “A dream doesn’t become reality through magic; it takes sweat, determination and hard work.” – Colin Powell
 
-INSERT VIDEO – THE STORY OF DUNMAN DANCERS_2019
 
-INSERT VIDEO – DUNMAN DANCERS_ WHERE DREAMS ARE MADE OF_EDITTED
 
 
 ![](/images/CCA%20Photos/Modern%20Dance/infini%20sonar_012023.jpeg)
