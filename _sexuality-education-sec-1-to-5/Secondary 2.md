@@ -2,7 +2,6 @@
 title: Secondary 2
 permalink: /sexuality-education/secondary-2/
 description: ""
+variant: tiptap
 ---
-### Secondary 2
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/Sec22023.png)
+<h3>Secondary 2</h3><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development Programme/Sexuality Programme/S2p1.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development Programme/Sexuality Programme/S2p2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development Programme/Sexuality Programme/S2p3.jpg"></div><p></p>
