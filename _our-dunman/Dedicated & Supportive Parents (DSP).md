@@ -2,15 +2,13 @@
 title: Dedicated & Supportive Parents (DSP)
 permalink: /our-dunman/dedicated-n-supportive-parents-dsp/
 description: ""
+variant: markdown
 ---
 ![](/images/DSP/1%20v2.png)
 
 ![](/images/DSP/v_2.png)
 
-Click <a href="https://go.gov.sg/dmn-dsp-sign-up" target="_blank">here</a> to sign up and find us at <a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a> today!
+Click&nbsp;<a href="**https://forms.gle/eB9TERe6fGzCWyQ3A**" target="_blank">here</a>&nbsp;to sign up and find us at&nbsp;<a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a>&nbsp;today!
 
-![](/images/DSP/WhoWeAreDSP2022v2.png)
+![](/images/DSP/DSP_chart_for_website_update_2024.png)
 
-### Parent Networking 2022
-
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/yRzog4jgnQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
