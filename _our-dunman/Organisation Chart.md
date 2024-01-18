@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/Organisation%20Chart/SLs_2024.jpg)
 ![](/images/Organisation%20Chart/HOD_2023v2.png)
-![](/images/Organisation%20Chart/AYH.png)
+![](/images/Organisation%20Chart/AYH2024.jpg)
 ![](/images/Organisation%20Chart/SH_2023.png)
 ![](/images/Organisation%20Chart/ST2023.jpg)
 
