@@ -2,6 +2,7 @@
 title: School Contact
 permalink: /our-contacts/school-contact/
 description: ""
+variant: markdown
 ---
 ### Academic Year 2023
 
@@ -10,8 +11,8 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Toh Thiam Chye | Principal | [toh_thiam_chye@moe.edu.sg](mailto:toh_thiam_chye@moe.edu.sg) |
-| Mrs Claire Cho | Vice-Principal 1 | [tan_shi_ying@moe.edu.sg](mailto:tan_shi_ying@moe.edu.sg) |
-| Mr Fathul Rahman Bin Kamsani | Vice-Principal 2 | [fathul_rahman_kamsani@moe.edu.sg](mailto:fathul_rahman_kamsani@moe.edu.sg) |
+| Ms Priya Prasad | Vice-Principal | [priya_prasad@moe.edu.sg(mailto:priya_prasad@moe.edu.sg) |
+| Mr Fathul Rahman Bin Kamsani | Vice-Principal | [fathul_rahman_kamsani@moe.edu.sg](mailto:fathul_rahman_kamsani@moe.edu.sg) |
 
 #### Heads Of Department
 
