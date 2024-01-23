@@ -39,13 +39,13 @@ variant: markdown
 | Mr Lee Wei Leong | HOD/ Student Management | [lee_wei_leong_a@moe.edu.sg](mailto:lee_wei_leong_a@moe.edu.sg) |
 | Mr Ali Sharif Arshad | Year Head (Upper Secondary) | [ali_sharif_arshad@moe.edu.sg](mailto:ali_sharif_arshad@moe.edu.sg) |
 | Mr Chong Yau Kwang | Year Head (Lower Secondary) | [chong_yau_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg) |
-| Mr Toh Wee Sing | SH/ Student Management | [toh_wee_sing@moe.edu.sg](mailto:toh_wee_sing@moe.edu.sg) |
-| Mr Ong Joon Yong Eric | Assistant Year Head | [ong_joon_yong_eric@moe.edu.sg](mailto:ong_joon_yong_eric@moe.edu.sg) |
+| Mr Toh Zheng Han | SH/ Student Management | [toh_zheng_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg) |
+| Mr Phey Boon Yeow | Assistant Year Head | [phey_boon_yeow@moe.edu.sg](mailto:phey_boon_yeow@moe.edu.sg ) |
 | Ms Neo Wee Khee  | Assistant Year Head | [neo_wee_khee@moe.edu.sg](mailto:neo_wee_khee@moe.edu.sg) |
 | Ms Hafizah Hashim | Level Discipline Master | [hafizah_hashim@moe.edu.sg](mailto:hafizah_hashim@moe.edu.sg) |
 | Miss Leong Sen Tieng Sandy | Level Discipline Master | [leong_sen_tieng@moe.edu.sg](mailto:leong_sen_tieng@moe.edu.sg) |
-| Mr Toh Zheng Han | Level Discipline Master | [toh_zheng_han@moe.edu.sg](mailto:toh_zheng_han@moe.edu.sg) |
-| Mr Wu Shulong | Level Discipline Master | [wu_shulong@moe.edu.sg](mailto:wu_shulong@moe.edu.sg) |
+| Mr Wilson Lim | AED | [lim_chong_eng_b@moe.edu.sg](mailto:lim_chong_eng_b@moe.edu.sg) |
+| Miss Wang Yuxuan Paige | School Counsellor | [wang_yuxuan@moe.edu.sg](mailto:wang_yuxuan@moe.edu.sg) |
 | Mr Wilson Lim | AED | [lim_chong_eng_b@moe.edu.sg](mailto:lim_chong_eng_b@moe.edu.sg) |
 | Miss Wang Yuxuan Paige | School Counsellor | [wang_yuxuan@moe.edu.sg](mailto:wang_yuxuan@moe.edu.sg) |
 | Mr Wilfred Phillips James | School Counsellor | [james_wilfred_phillips@moe.edu.sg](mailto:james_wilfred_phillips@moe.edu.sg) |
