@@ -18,4 +18,3 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development Programme/Sexuality Programme/Sec2_updated2024_Page_3.jpg">
 </div>
 <p></p>
-<p></p>
