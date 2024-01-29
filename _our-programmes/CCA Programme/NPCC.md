@@ -41,7 +41,7 @@ Programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img1.jpg">
 </div>
 <p>Secondary 3 Air Pistol Shoot
-<br><strong>Courses/Events</strong>
+<br><strong>Courses/Events</strong> 
 <br>Secondary 1 Police Heritage Centre Visit</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img2.jpg">
