@@ -17,9 +17,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation%20Chart/HOD_2024g2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation%20Chart/AYH2024.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/STs_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/AYH_STs_2024b.jpg">
 </div>
 <p></p>
