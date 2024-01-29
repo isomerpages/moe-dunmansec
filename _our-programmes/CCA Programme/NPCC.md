@@ -34,23 +34,25 @@ relating to Police Knowledge and National Education, and Values-in-Action
 Programme.</p>
 <h3>Enrichments</h3>
 <p>Secondary 1 Dragonboating
-<br>Secondary 2 1-Star Kayaking
-<br>
-</p>
+<br>Secondary 2 1-Star Kayaking</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img9.jpg">
 </div>
+<p></p>
 <p>Secondary 3 Air Pistol Shoot
 <br><strong>Courses/Events</strong> 
 <br>Secondary 1 Police Heritage Centre Visit</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img2.jpg">
 </div>
 <p>Secondary 2 SANA Secondary 3 Police Youth Ambassador</p>
 <p>Educating the public forms a significant part of police work and the Secondary
 2</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img3.jpg">
 </div>
 <p>and 3 cadets work on their outreach projects to engage their school mates
 and the public in collaboration with Tampines NPC. Through the experience,
@@ -61,8 +63,9 @@ of the all-rounded nature of police work.</p>
 <p></p>
 <p>GOTC II Tournament Secondary 3 Revolver Shooting Competition Inter-unit
 Crime Scene Investigation Competition (2022)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img4.jpg">
 </div>
 <h3>Camps</h3>
 <p></p>
@@ -70,11 +73,13 @@ Crime Scene Investigation Competition (2022)</p>
 leaders’ first challenge of the year was to plan for the Unit Camp which
 was held over 2 days in Term 1 Week 9 this year, involving the Secondary
 1 and 2 cadets as participants.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img6.jpg">
 </div>
 <p>The annual 3-days 2-nights camp Adventure Training Camp (ATC) at Pulau
 Ubin is one of the highlights for Secondary 2 cadets. With the segmented
@@ -84,8 +89,9 @@ challenged with a 3km hike to the NPCC Campsite and then engaged in a series
 of activities which include a pioneering competition and field cooking.
 The cadets had an enriching experience and displayed much perseverance
 throughout the day.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img7.jpg">
 </div>
 <h3>Others</h3>
 <p></p>
@@ -96,11 +102,13 @@ Education Visits to Brunei/Hong Kong *subjected to selection test outcomes</p>
 <p>Every Friday: 2:30 pm to 6 pm. Every Even Week Tuesday: 4 pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
 <h3>Contact Details</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img8.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/npcc_2023_img9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img9.jpg">
 </div>
 <ul>
 <li>
