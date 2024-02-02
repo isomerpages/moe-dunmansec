@@ -41,8 +41,7 @@ sections:
 
         <i>Extracted from CNA Singapore Watch Segment 20 September 2023</i>
   - infopic:
-      title: 60th Anniversary
-      subtitle: We are celebrating our
+      title: "WE ARE CELEBRATED OUR 60th Anniversary in 2023! "
       id: infopic
       button: Click here to view our video
       url: https://youtu.be/fAQYfaXs3Aw?si=vD2QBZu876S45GKN
