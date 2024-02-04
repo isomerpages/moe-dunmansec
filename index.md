@@ -16,15 +16,6 @@ sections:
           description: Click here for upcoming events
           url: /events/events-highlight/
   - infobar:
-      title: Open House!
-      subtitle: We are Having our
-      id: infobar
-      description: <img
-        src="/images/E%20Open%20House/dunman%20open%20house%20banner%202023%20(final).png"
-        style="width:100%">
-      button: Click here to find out more
-      url: https://www.dunmansec.moe.edu.sg/e-open-house/programme-highlights/
-  - infobar:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
       id: infobar
@@ -41,10 +32,11 @@ sections:
 
         <i>Extracted from CNA Singapore Watch Segment 20 September 2023</i>
   - infopic:
-      title: WE CELEBRATED OUR 60th Anniversary in 2023!
+      title: 60th Anniversary in 2023!
       id: infopic
       button: Click here to view our video
       url: https://youtu.be/fAQYfaXs3Aw?si=vD2QBZu876S45GKN
       image: /images/Home Page/60th anniversary.png
       alt: Image alt text
+      subtitle: We celebrated our
 ---
