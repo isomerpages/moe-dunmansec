@@ -15,14 +15,6 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
-  - infopic:
-      title: Sec 1 Registration
-      id: infopic
-      description: CLICK BELOW FOR SEC 1 REGISTRATION
-      button: Sec 1 REGISTRATION
-      url: https://www.dunmansec.moe.edu.sg/sec-1-registration/secondary-1-online-registration/
-      image: /images/Sec 1 Registration/Sec1Reg_Img.jpeg
-      alt: Image alt text
   - infobar:
       title: Open House!
       subtitle: We are Having our
@@ -49,8 +41,7 @@ sections:
 
         <i>Extracted from CNA Singapore Watch Segment 20 September 2023</i>
   - infopic:
-      title: 60th Anniversary
-      subtitle: We are celebrating our
+      title: WE CELEBRATED OUR 60th Anniversary in 2023!
       id: infopic
       button: Click here to view our video
       url: https://youtu.be/fAQYfaXs3Aw?si=vD2QBZu876S45GKN
