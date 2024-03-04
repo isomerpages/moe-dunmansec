@@ -4,8 +4,6 @@ permalink: /our-dunman-experience/sec-2-estreaming/
 description: ""
 variant: tiptap
 ---
-<h4>Sec 2 Streaming Frequently Asked Questions (FAQs)</h4>
-<p></p>
 <p><strong>Note: Information updated as at 4 March 2024.</strong>
 </p>
 <h4>Important Dates:</h4>
@@ -293,7 +291,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Sec 2 Asia-Pacific STEM Programme Slides</strong>
+<p><strong>Sec 2 Asia-Pacific STEM Programme Engagement Slides</strong>
 </p>
 <table>
 <tbody>
@@ -322,8 +320,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Streaming Matters: Mr Chong Yau Kwang (Year Head for Lower Sec)&nbsp;
-<a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
+<p>Streaming Matters: Mr Chong Yau Kwang (Year Head/Lower Sec)&nbsp; <a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
 </p>
 </li>
 <li>
