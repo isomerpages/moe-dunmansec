@@ -169,5 +169,5 @@ To download the appeal form, please click <a href="/files/Our%20Student%20Life/S
 
 #### Helpdesk
 * Enquires @&nbsp;**6786 2668**
-* Ms Neo Wee Khee (Assistant Year Head for Sec 2)&nbsp;[neo\_wee\_khee@moe.edu.sg](mailto:neo_wee_khee@moe.edu.sg)
+
 * Mr Chong Yau Kwang (Year Head for Lower Sec)&nbsp;[chong\_yau\_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)
