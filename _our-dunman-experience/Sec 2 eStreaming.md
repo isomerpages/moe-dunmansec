@@ -151,21 +151,14 @@ Please click&nbsp;<a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%
 </thead>
 <tbody>
   <tr>
-    <td>Express</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20for%20Sec%202%20Express_2023.pdf" target="_blank">here</a>.</td>
+    <td>All Streams</td>
+    <td>
+Please click <a href="/files/Sec%202%20eStreaming/Sec_3_Subject_Combination_2025__For_2024_Sec_2_Cohort_.pdf" target="_blank">here</a></td>
   </tr>
-  <tr>
-    <td>Normal Academic</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20Sec%202NA%202023.pdf" target="_blank">here</a>.</td>
-  </tr>
-  <tr>
-    <td>Normal Technical</td>
-    <td>Please click <a href="/files/Our%20Student%20Life/Streaming%202023/Parent%20Engagement%20Briefing%20Sec%202NT%202023.pdf" target="_blank">here</a>.</td>
-  </tr>
+ 
 </tbody>
 </table>
 
-To download the appeal form, please click <a href="/files/Our%20Student%20Life/Streaming%202023/Sec%202%20Streaming_Letter_of_Appeal_2023.pdf" target="_blank">here</a>.
 
 #### Helpdesk
 * Enquires @&nbsp;**6786 2668**
