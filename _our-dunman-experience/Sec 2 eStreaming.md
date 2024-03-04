@@ -315,7 +315,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4>Helpdesk</h4>
 <ul>
 <li>
@@ -323,7 +322,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mr Chong Yau Kwang (Year Head for Lower Sec)&nbsp;<a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
+<p>Streaming Matters: Mr Chong Yau Kwang (Year Head for Lower Sec)&nbsp;
+<a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>APSP Physical Trip Matters: Mr Gabriel Sim (HOD/CCE) <a href="mailto:sim_khim_hoe_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_khim_hoe_gabriel@moe.edu.sg</a>
 </p>
 </li>
 </ul>
