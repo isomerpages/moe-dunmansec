@@ -285,7 +285,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>All Streams</p>
+<p>Whole Cohort</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec%202%20eStreaming/Sec_3_Subject_Combination_2025__For_2024_Sec_2_Cohort_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -293,6 +293,29 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p><strong>Sec 2 Asia-Pacific STEM Programme Slides</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Whole Cohort</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="/files/Sec%202%20eStreaming/Sec_3_Subject_Combination_2025__For_2024_Sec_2_Cohort_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <h4>Helpdesk</h4>
 <ul>
 <li>
