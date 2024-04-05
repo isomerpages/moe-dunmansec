@@ -77,7 +77,10 @@ This exciting initiative aimed at introducing students to cutting edge Machine/D
 During the programme, participants have the opportunity to pick up advanced programming languages such as Python and apply their knowledge in areas related to Cloud Computing and Deep Learning. They work on real world challenges provided by industries in areas such as F&amp;B, healthcare, environment, sustainability, and technology. Participants then create solutions for the industries and showcase them at a graduation ceremony attended by industry partners, educators and their parents.
 
 How have students benefited from AWS?
-https://youtu.be/OyPnFvCztnI (please embed video and not the link)
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://youtu.be/OyPnFvCztnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
 
  
 #### AWS (2023 batch) graduated in Mar 2024
@@ -102,6 +105,3 @@ YDCP (2023 batch) graduated in Mar 2024
 YDCP (2024 batch) Learning Journey to Temasek Polytechnic in March 2024 as they embark on their one-year journey into the programme
 #### Maker Workshops at makerspace@library
 There are many maker workshop activities hosted by the library at TechFridays. Students can sign up for a range of activities that suit their needs and interests such as Building our Community (with LEGO bricks), building a retro arcade machine, leathercraft making, miniature clay food making, digital doodling, drone flying, 3D printing, 3D doodling, paper crafting, Micro:bit programming, etc. In addition, the workshops provide students opportunities to create things together with their peers, MOE Kindergarten, teachers, parents and MINDS.
-
-
-
