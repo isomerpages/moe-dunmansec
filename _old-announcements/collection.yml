@@ -1,0 +1,10 @@
+collections:
+  old-announcements:
+    output: true
+    order:
+      - Sec 3 End of Year Academic Programme 2023.md
+      - Sec 1 to 3 EYE.md
+      - Prelim Timetable 2023.md
+      - 2022 GCE O Level.md
+      - GCE N Level Admin Slides (19 December 2022).md
+      - Open House 2023.md
