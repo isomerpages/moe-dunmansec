@@ -81,10 +81,10 @@ How have students benefited from AWS?
 <p style="text-align: center;"><iframe width="560" height="315" src="https://youtu.be/OyPnFvCztnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 
+![](/images/ICT%20Programme%202024/Slide1.jpg)
+AWS (2023 batch) graduated in Mar 2024
 
- 
-#### AWS (2023 batch) graduated in Mar 2024
- 
+ ![](/images/ICT%20Programme%202024/Slide2.jpg)
 AWS (2024 batch) first inaugural lesson at Dunman Secondary, as they embark on their one-year journey into the programme
 
 #### Youth Digital Currency Programme
@@ -98,10 +98,11 @@ Students build their digital portfolio, documenting their skills and competencie
 
 After the initial success in our first year in 2022, we extended the programme to include students from two other schools within our East Zone cluster schools (East Spring and Springfield Secondary), and opportunities were given to more students to participate in the programme.
 
- 
+![](/images/ICT%20Programme%202024/Slide3.jpg)
 YDCP (2023 batch) graduated in Mar 2024
 
- 
+![](/images/ICT%20Programme%202024/Slide4.jpg)
 YDCP (2024 batch) Learning Journey to Temasek Polytechnic in March 2024 as they embark on their one-year journey into the programme
+
 #### Maker Workshops at makerspace@library
 There are many maker workshop activities hosted by the library at TechFridays. Students can sign up for a range of activities that suit their needs and interests such as Building our Community (with LEGO bricks), building a retro arcade machine, leathercraft making, miniature clay food making, digital doodling, drone flying, 3D printing, 3D doodling, paper crafting, Micro:bit programming, etc. In addition, the workshops provide students opportunities to create things together with their peers, MOE Kindergarten, teachers, parents and MINDS.
