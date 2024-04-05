@@ -2,6 +2,7 @@ collections:
   old-announcements:
     output: true
     order:
+      - Prelim Timetable 2023.md
       - 2022 GCE O Level.md
       - GCE N Level Admin Slides (19 December 2022).md
       - Open House 2023.md
