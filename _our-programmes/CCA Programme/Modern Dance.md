@@ -14,6 +14,16 @@ Dunman Dancers' Core Values: Discipline; Responsibility; Respect; Humility
 
 Started out as an Interest Group in 2013 with only 7 dancers and 1 teacher, the journey of Dunman Modern Dance CCA is an inspiring story to passionate Dunmanites in keeping the faith and passion for dance. With no professional background and instructors' guidance in 2013, the dancers believed in trying their best in coming together to choreograph their own dance moves to perform at school celebrations. They subsequently performed for our 50th anniversary celebrations which also marked their debut as a united One Dunman Dance Team.
 
+### Introduction
+​
+![](/images/CCA%20Photos/Modern%20Dance/dance%20jubilee%201.jpg)
+​
+Dunman Dancers' Core Values: Discipline; Responsibility; Respect; Humility
+​
+​
+Started out as an Interest Group in 2013 with only 7 dancers and 1 teacher, the journey of Dunman Modern Dance CCA is an inspiring story to passionate Dunmanites in keeping the faith and passion for dance. With no professional background and instructors' guidance in 2013, the dancers believed in trying their best in coming together to choreograph their own dance moves to perform at school celebrations. They subsequently performed for our 50th anniversary celebrations which also marked their debut as a united One Dunman Dance Team.
+​
+Dunman Modern Dance CCA became a full-fledged CCA in 2014 and forged a breakthrough in 2015 with 45 passionate dancers in our very first participation in Singapore Youth Festival (SYF-
 Dunman Modern Dance CCA became a full-fledged CCA in 2014 and forged a breakthrough in 2015 with 45 passionate dancers in our very first participation in Singapore Youth Festival (SYF-International Dance) and Super 24 2015. We achieved our very first Certificate of Distinction and was ranked the top ten finalists teams for Super 24. With the determination of the Dunman Dancers and teachers, Infini Sonar continued to work hard and break barriers with our outstanding achievements in SYF (International Dance) 2017 and 2019 (Certificate of Distinction) as well as Super 24 Finals Competitions from 2015 to 2018. Dunman Dancers continue to build resilience as we tide through the pandemic in 2020 and emerged stronger and more united with our first ever achievement of double Certificate of Distinction at the SYF (International Dance) Arts Presentation 2021 and obtaining the “Best Dance Crew” Award and “5-Stars” Achievement at the 2022 PAssionArts Open Stage Dance Competition. Capping off our 10th Anniversary, Infini Sonar continues to soar high in the dance scene with its continued success with the Certificate of Distinction at the SYF (International Dance) 2023 and 2nd Placing at the Lion City Dance Convention (Junior Category) 2023.
 
 
@@ -69,3 +79,4 @@ Mrs Vicky Wong –&nbsp;[liu\_mei\_ting\_vicky@moe.edu.sg](mailto:liu_mei_ting_v
 Ms Masnita –&nbsp;[Nurmasnita\_mohd\_dena@moe.edu.sg](mailto:Nurmasnita_mohd_dena@moe.edu.sg)
 Mdm Salha –&nbsp;[salha\_rahmat@moe.edu.sg](mailto:salha_rahmat@moe.edu.sg)<br>
 Ms Rozlinda –&nbsp;[rozlinda\_abdul\_rahim@moe.edu.sg](mailto:rozlinda_abdul_rahim@moe.edu.sg)
+Mdm Sri –&nbsp;[sri\_haryanti\_ismail@moe.edu.sg](mailto:sri_haryanti_ismail@moe.edu.sg)
