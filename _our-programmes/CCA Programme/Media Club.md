@@ -39,4 +39,4 @@ Upper Secondary - Tuesday 3 pm to 5 pm at Mac Lab 2
 
 Mrs Tan Pei Ching (IC)  | email: tay_pei_ching@moe.edu.sg  
 Ms Shireen: Kaderuppan | email: shireen_kaderuppan@moe.edu.sg  
-Mr Rohasan B Manso | email: rohasan_B_mansor@moe.edu.sg <br>Ms Adeline Loo | email: loo_nga_lay_adeline@moe.edu.sg  
+Mr Rohasan B Manso | email: rohasan_B_mansor@moe.edu.sg <br>Ms Adeline Loo | email: loo_nga_lay_adeline@moe.edu.sg
