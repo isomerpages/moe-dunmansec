@@ -3,6 +3,7 @@ title: Media Club
 permalink: /our-programmes/cca-programme/media-club/
 description: ""
 third_nav_title: CCA Programme
+variant: markdown
 ---
 ### Introduction
 ![](/images/CCA%20Photos/Media%20Club/Media%20club_Image%201.jpg)
@@ -36,6 +37,6 @@ Upper Secondary - Tuesday 3 pm to 5 pm at Mac Lab 2
 
 ### Teachers in-charge:
 
-|Mrs Tan Pei Ching (IC)  | email: tay_pei_ching@moe.edu.sg    |  
-|Ms Shireen: Kaderuppan  | email: shireen_kaderuppan@moe.edu.sg   |  
-|Mr Rohasan B Mansor,  | email: shireen_kaderuppan@moe.edu.sg   |
+Mrs Tan Pei Ching (IC)  | email: tay_pei_ching@moe.edu.sg  
+Ms Shireen: Kaderuppan | email: shireen_kaderuppan@moe.edu.sg  
+Mr Rohasan B Manso | email: rohasan_B_mansor@moe.edu.sg <br>Ms Adeline Loo | email: loo_nga_lay_adeline@moe.edu.sg  
