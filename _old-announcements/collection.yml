@@ -1,4 +1,5 @@
 collections:
   old-announcements:
     output: true
-    order: []
+    order:
+      - Open House 2023.md
