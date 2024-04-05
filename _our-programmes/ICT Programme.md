@@ -2,10 +2,10 @@
 title: ICT Programme
 permalink: /our-programmes/ict-programme/
 description: ""
+variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/infocomm%20technology%20department%20i.jpg"
-     style="width:78%">
+<img src="/images/Department%20Photos/infocomm%20technology%20department%20i.jpg" style="width:78%">
 
 ### Mission / Objectives of Department
 1. Students as Innovative and Discerning users of IT.
@@ -70,10 +70,38 @@ description: ""
 <p style="text-align: justify;">The most innovation product/solution will be awarded the Basil Victor George (Innovation) Award at our annual Dunman Appreciation Day.</p>
 
 #### Sec 3 Productivity Tools (Microsoft)
-<p style="text-align: justify;">All Sec 3 students will undergo a 2 hours training workshop in the use of word processing, spreadsheet and presentation software.</p>
+All Sec 3 students will undergo a 2 hours training workshop in the use of word processing, spreadsheet and presentation software.
+Amazon Web Service (AWS) Accelerator Program
+The AWS Accelerator Programme is a fully-sponsored programme for students enrolled in local Secondary Schools and Junior Colleges. It is jointly organised by Amazon Web Services (AWS) and SG Code Campus, supported by Infocomm Media Development Authority of Singapore (IMDA), Dunman Secondary School; and organisations that include Farrer Park Hospital Singapore, Seoul Garden and National Parks.
+This exciting initiative aimed at introducing students to cutting edge Machine/Deep Learning capabilities on the AWS Cloud is in its third year. 
+During the programme, participants have the opportunity to pick up advanced programming languages such as Python and apply their knowledge in areas related to Cloud Computing and Deep Learning. They work on real world challenges provided by industries in areas such as F&amp;B, healthcare, environment, sustainability, and technology. Participants then create solutions for the industries and showcase them at a graduation ceremony attended by industry partners, educators and their parents.
 
+How have students benefited from AWS?
+https://youtu.be/OyPnFvCztnI (please embed video and not the link)
+
+ 
+#### AWS (2023 batch) graduated in Mar 2024
+ 
+AWS (2024 batch) first inaugural lesson at Dunman Secondary, as they embark on their one-year journey into the programme
+
+#### Youth Digital Currency Programme
+Our school leverages on Educational Technology (EdTech) and our partnership with tertiary institutions to build an integrated curriculum. One of our initiatives is the Youth Digital Currency Programme (YDCP) which aims to ignite students’ passion for STEM-related courses in tertiary education and also to develop 21st Century Competencies in areas of critical and inventive thinking, communication, collaboration and information skills. These future-ready skills go beyond traditional classroom knowledge and are crucial in preparing our students to navigate the technology and innovation driven world.
+
+YDCP is a collaboration between Dunman Secondary School and Temasek Polytechnic and is a 120-hours long program (approximately a year) to build computational thinking skills in our students through data analytics with Artificial Intelligence and Predictive Analytics; and data visualisation with dashboard web development in Python.
+
+Our inaugural program started in April 2022, and our first batch of 22 students graduated in March 2023. This year-long program requires students to be committed and self-regulated, exemplifying our school values – Determination and Discipline.
+
+Students build their digital portfolio, documenting their skills and competencies and then showcase their products. The digital portfolio helps students to be successful with their Early Admission Exercise applications for Polytechnics.
+
+After the initial success in our first year in 2022, we extended the programme to include students from two other schools within our East Zone cluster schools (East Spring and Springfield Secondary), and opportunities were given to more students to participate in the programme.
+
+ 
+YDCP (2023 batch) graduated in Mar 2024
+
+ 
+YDCP (2024 batch) Learning Journey to Temasek Polytechnic in March 2024 as they embark on their one-year journey into the programme
 #### Maker Workshops at makerspace@library
-<p style="text-align: justify;">There are many maker workshop activities hosted by the library at TechFridays. Students can sign up for a range of activities that suit their needs and interests such as Building our Community (with LEGO bricks), building a retro arcade machine, leathercraft making, miniature clay food making, digital doodling, drone flying, 3D printing, 3D doodling, paper crafting, Micro:bit programming, etc. In addition, the workshops provide students opportunities to create things together with their peers, MOE Kindergarten, teachers, parents and MINDS.</p>
+There are many maker workshop activities hosted by the library at TechFridays. Students can sign up for a range of activities that suit their needs and interests such as Building our Community (with LEGO bricks), building a retro arcade machine, leathercraft making, miniature clay food making, digital doodling, drone flying, 3D printing, 3D doodling, paper crafting, Micro:bit programming, etc. In addition, the workshops provide students opportunities to create things together with their peers, MOE Kindergarten, teachers, parents and MINDS.
 
-#### Digital Citizenship
-<p style="text-align: justify;">Cyberwellness and new media literacy are integrated in Character and Citizenship Education (CCE) lessons.</p>
+
+
