@@ -1027,6 +1027,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>5A/NA</strong>
 </p>
 </td>
@@ -1034,6 +1048,20 @@ variant: tiptap
 <p>Ms Chayarnee Marnee-In</p>
 <p><a href="mailto:chayarnee_marnee-in@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chayarnee_marnee-in@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
