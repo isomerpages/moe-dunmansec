@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhana bte Fasalul Rahma</p>
+<p>Mdm Farhana bte Fasalul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ English Language &amp; Literature</p>
