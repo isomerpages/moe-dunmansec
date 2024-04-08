@@ -78,7 +78,7 @@ During the programme, participants have the opportunity to pick up advanced prog
 
 How have students benefited from AWS?
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://youtu.be/OyPnFvCztnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/OyPnFvCztnI" height="315" width="560"></iframe>
 
 
 ![](/images/ICT%20Programme%202024/Slide1.jpg)
