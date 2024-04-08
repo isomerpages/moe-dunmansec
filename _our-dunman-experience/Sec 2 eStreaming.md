@@ -262,6 +262,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>EXP - Computing</p>
+<p><strong>(Commencing in 2025)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec 2 eStreaming/Computing__Exp__Streaming_for_2024__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
