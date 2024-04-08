@@ -39,7 +39,7 @@ INFINI SONAR has come a long way since their humble beginnings, setting the stag
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-T833PXVnZ8?si=fuBloGtkdRAMZypv" height="315" width="560"></iframe>
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/GdweVEpxI3Y?si=Rr-GVElRu1ySnmzw" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GdweVEpxI3Y?si=JKnVXiH5CKA7TLLA" height="315" width="560"></iframe>
 
 
 ![](/images/CCA%20Photos/Modern%20Dance/infini%20sonar_012023.jpeg)
