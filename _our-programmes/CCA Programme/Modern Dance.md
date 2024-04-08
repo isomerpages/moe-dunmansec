@@ -45,28 +45,27 @@ INFINI SONAR has come a long way since their humble beginnings, setting the stag
 ![](/images/CCA%20Photos/Modern%20Dance/passionarts2023.jpg)
 ### Achievements
 
-Danceworks! Dance Competition 2014 – Artistic Merit Award 
+* Danceworks! Dance Competition 2014 – Artistic Merit Award 
 PULSE! Streetdance Competition Finalists 2014 
-Singapore Youth Festival (International Dance) 2015 – Certificate of Distinction
-Super 24 Dance Competition 2015 – Finalists
-PULSE! Streetdance Competition Finalists 2015
-Dunman Sec – The First Light Combined Concert 2016
-Super 24 Dance Competition 2016 – Finalists
-Singapore Youth Festival (International Dance) 2017 – Certificate of Distinction
-Super 24 Dance Competition 2017 – Finalists
-PULSE! Streetdance Competition Finalists 2017
-Dunman Dancers – HUES Combined Concert 2018
-Super 24 Dance Competition 2018 – 5th Placing
-PULSE! Streetdance Competition (KPOP Cover) Super Junior Category 2018 – 1st Runners Up and 2nd Runners Up
-Singapore Youth Festival (International Dance) 2019 – Certificate of Distinction
-World Supremacy Battlegrounds Dance Competition 2019 
-Singapore Youth Festival (International Dance) 2021 – Certificate of Distinction (Team Infini and Team Sonar)
-《爱上华文街舞比赛》2022 – Finalists
-OTH PassionArts Open Stage Dance Competition 2022 – Best Dance Crew Award; 5-Stars Achievement Award
-Lion City Dance Convention 2022 (Junior Category) – 4th place
-Singapore Youth Festival (International Dance) 2023 – Certificate of Distinction 
-Lion City Dance Convention 2023 (Junior Category) – 2nd place
-
+* Singapore Youth Festival (International Dance) 2015 – Certificate of Distinction
+* Super 24 Dance Competition 2015 – Finalists
+* PULSE! Streetdance Competition Finalists 2015
+* Dunman Sec – The First Light Combined Concert 2016
+* Super 24 Dance Competition 2016 – Finalists
+* Singapore Youth Festival (International Dance) 2017 – Certificate of Distinction
+* Super 24 Dance Competition 2017 – Finalists
+* PULSE! Streetdance Competition Finalists 2017
+* Dunman Dancers – HUES Combined Concert 2018
+* Super 24 Dance Competition 2018 – 5th Placing
+* PULSE! Streetdance Competition (KPOP Cover) Super Junior Category 2018 – 1st Runners Up and 2nd Runners Up
+* Singapore Youth Festival (International Dance) 2019 – Certificate of Distinction
+* World Supremacy Battlegrounds Dance Competition 2019 
+* Singapore Youth Festival (International Dance) 2021 – Certificate of Distinction (Team Infini and Team Sonar)
+* 《爱上华文街舞比赛》2022 – Finalists
+* OTH PassionArts Open Stage Dance Competition 2022 – Best Dance Crew Award; 5-Stars Achievement Award
+* Lion City Dance Convention 2022 (Junior Category) – 4th place
+* Singapore Youth Festival (International Dance) 2023 – Certificate of Distinction 
+* Lion City Dance Convention 2023 (Junior Category) – 2nd place
 
 ### Trainings  
 
