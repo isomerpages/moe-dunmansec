@@ -2,7 +2,6 @@
 title: Table Tennis
 permalink: /our-programmes/cca-programme/table-tennis/
 description: ""
-third_nav_title: CCA Programme
 ---
 ### Introduction
 
@@ -16,23 +15,23 @@ third_nav_title: CCA Programme
 
 ### Achievements
 
-**2006** \- Table Tennis East Zone 2nd placing  
-**2007 & 2008** \- Table Tennis East Zone 4th Placing  
-**2009 - 2016** - Participated in Table tennis East Zone Tournament  
-**2016** - National Table Tennis Individual Championship : Advanced to 2nd round (Ong Tat Wei 2B)  
-**2015 - 2016** - Participated in Safra STTA Table Tennis Championship; Dr Ng Eng Hen Cup - STTA Table Tennis Championships
+**2006**&nbsp;\- Table Tennis East Zone 2nd placing  
+**2007 &amp; 2008**&nbsp;\- Table Tennis East Zone 4th Placing  
+**2009 - 2016**&nbsp;- Participated in Table tennis East Zone Tournament  
+**2016**&nbsp;- National Table Tennis Individual Championship : Advanced to 2nd round (Ong Tat Wei 2B)  
+**2015 - 2016**&nbsp;- Participated in Safra STTA Table Tennis Championship; Dr Ng Eng Hen Cup - STTA Table Tennis Championships
 
 ### Trainings
 
 Peak Season:   
 Tuesday (330pm - 630pm)  
 Thursday (330pm – 630pm)  
-Friday (1pm - 4pm)  
+Friday (1pm - 4pm) &nbsp;
 
 Non-Peak Season:   
 Tuesday (330pm - 630pm)  
 Thursday (330pm – 630pm)  
 
-For further queries, please contact Mr Phey Boon Yeow at phey\_boon\_yeow@moe.edu.sg
+For further queries, please contact Mr Phey Boon Yeow at&nbsp;phey\_boon\_yeow@moe.edu.sg
 
-<span style = "color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>
+<span style="color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>

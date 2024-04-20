@@ -2,7 +2,6 @@
 title: String Ensemble
 permalink: /our-programmes/cca-programme/string-ensemble/
 description: ""
-third_nav_title: CCA Programme
 ---
 ### Introduction
 
@@ -20,14 +19,14 @@ third_nav_title: CCA Programme
 
 ### Achievements
 
-**2019:** Accomplishment  
-**2017:** Accomplishment  
-**2015:** Accomplishment
+**2019:**&nbsp;Accomplishment  
+**2017:**&nbsp;Accomplishment  
+**2015:**&nbsp;Accomplishment
 
 ### Trainings
 
-Non SYF: Tuesday 4 pm – 6 pm  &  Friday 2 pm – 4pm  
-SYF: Tuesday 3 pm – 6 pm  &  Friday 2 pm – 5 pm  
+Non SYF: Tuesday 4 pm – 6 pm&nbsp; &amp;&nbsp; Friday 2 pm – 4pm  
+SYF: Tuesday 3 pm – 6 pm&nbsp; &amp;&nbsp; Friday 2 pm – 5 pm  
 
 
-<span style = "color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>
+<span style="color: red"> <b>This CCA is no longer accepting new members from 2021.</b> </span>
