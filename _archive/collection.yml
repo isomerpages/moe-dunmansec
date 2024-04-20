@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Table Tennis.md
       - String Ensemble.md
       - faq.md
       - Example Title.md
