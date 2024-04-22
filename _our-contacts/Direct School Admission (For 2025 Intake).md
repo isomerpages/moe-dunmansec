@@ -14,55 +14,6 @@ requirements, and the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1 - 5.</p>
-<h3>Selection Considerations:</h3>
-<p><strong>a)</strong> Past years CCA track records (no submission of document
-is needed).</p>
-<p><strong>b)</strong> Shortlisted applicants will be informed by the school
-on the date and time of trial/audition and interview. Shortlisting criteria:</p>
-<h5><strong>Sports and Games</strong></h5>
-<p>To meet at least one of the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Participated in any sports CCA in their primary school.</p>
-</li>
-<li>
-<p>Any regular involvement in sport and games activities outside school.</p>
-</li>
-</ol>
-<h5><strong>Performing Arts</strong></h5>
-<p>To meet at least one of the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Participated in any Performing Arts CCA in their primary school.</p>
-</li>
-<li>
-<p>Regular involvement in Performing Arts programme outside school.</p>
-</li>
-</ol>
-<h5><strong>Leadership</strong></h5>
-<p>To meet all of the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Must have held a school based leadership position.</p>
-</li>
-<li>
-<p>Exemplary conduct.</p>
-</li>
-</ol>
-<h5><strong>STEM</strong></h5>
-<p>To meet at least one of the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Participated in any STEM-related CCA in their primary school.</p>
-</li>
-<li>
-<p>Involvement in STEM-related programmes outside school.</p>
-</li>
-</ol>
-<p>*Please note that meeting all criteria does not guarantee the student
-will be shortlisted.</p>
-<p>c) You may submit any supporting document to the relevant teacher-in-charge
-through the email listed below (Optional).</p>
 <h3>Information on the various talent areas</h3>
 <p>We are pleased to share the DSA Talent Areas offered for our potential
 Secondary One Students and their parents for the academic year of 2025.
