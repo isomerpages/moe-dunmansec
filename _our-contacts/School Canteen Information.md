@@ -22,7 +22,7 @@ variant: tiptap
 <p>Snacks and Hot Drinks Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 April 2024</p>
+<p>17 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 April 2024</p>
+<p>17 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
