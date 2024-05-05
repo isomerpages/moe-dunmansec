@@ -1,5 +1,5 @@
 ---
-title: Media Club
+title: iSTEM (Media)
 permalink: /our-programmes/cca-programme/media-club/
 description: ""
 third_nav_title: CCA Programme

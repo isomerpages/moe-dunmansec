@@ -1,8 +1,9 @@
 ---
-title: Green Club
+title: iSTEM (Green)
 permalink: /our-programmes/cca-programme/green-club/
 description: ""
 third_nav_title: CCA Programme
+variant: tiptap
 ---
 ### Introduction
 ![](/images/CCA%20Photos/Green%20Club/picture%201.jpg)
@@ -26,18 +27,18 @@ third_nav_title: CCA Programme
 <p style="text-align: justify;">Members of Green club, will be able to learn many new skills. In addition to learning horticulture skills such as plant propagation and care, they will be allowed to choose the enrichment activities that they can partake. Some of these activities include paper origami, flower pressing and making a table lamp using recycled materials, just to name a few. All these experiences ensure that the students are learning beyond the classroom and at the same time, learning how to make Singapore a greener place.</p>
 
 ### Achievements
-<p style="text-align: justify;">Members of the Green club will also be given the opportunity to represent the school in many competitions such as the Sembcorp Greenwave Competition. The Community In Bloom Award by NParks and the Biannual Singapore Garden Festival Gardeners’ Cup. </p>
+<p style="text-align: justify;">Members of the Green club will also be given the opportunity to represent the school in many competitions such as the Sembcorp Greenwave Competition. The Community In Bloom Award by NParks and the Biannual Singapore Garden Festival Gardeners’ Cup.&nbsp;</p>
 
-Listed below are some of the achievements that the club has obtained over the past few years.   
+Listed below are some of the achievements that the club has obtained over the past few years. &nbsp;&nbsp;
 
-**1     Biannual Singapore Garden Festival Gardeners’ Cup**  
+**1&nbsp;&nbsp;&nbsp;&nbsp; Biannual Singapore Garden Festival Gardeners’ Cup** &nbsp;
 
-2012: National Champion  & Biodiversity Award   
+2012: National Champion&nbsp; &amp; Biodiversity Award   
 2016: Biodiversity Award   
-2016: Best Eco Award & Peoples’ Choice Award  
-2018: Biodiversity Award   
+2016: Best Eco Award &amp; Peoples’ Choice Award  
+2018: Biodiversity Award &nbsp;&nbsp;
 
-**2     Community In Bloom Award by NParks**        
+**2&nbsp;&nbsp;&nbsp;&nbsp; Community In Bloom Award by NParks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 2012: Silver   
 2014: Silver   
@@ -45,8 +46,7 @@ Listed below are some of the achievements that the club has obtained over the pa
 2018: Gold   
 2021: Gold
 
-<img src="/images/CCA%20Photos/Green%20Club/Picture%207.jpg"
-     style="width:65%">
+<img src="/images/CCA%20Photos/Green%20Club/Picture%207.jpg" style="width:65%">
 
 ### Trainings
 
@@ -54,7 +54,7 @@ Listed below are some of the achievements that the club has obtained over the pa
 
 ![](/images/CCA%20Photos/Green%20Club/Picture%204.jpg)
 
-<p style="text-align: justify;">Dunman Secondary School’s Green club aspires to continue to make the change we want to see in this world and will strive to achieve this mission! </p>
+<p style="text-align: justify;">Dunman Secondary School’s Green club aspires to continue to make the change we want to see in this world and will strive to achieve this mission!&nbsp;</p>
 
 Teachers In Charge:   
 1\. Mr. Jeffrey Gafar ([Jeffrey\_jefferson\_gafar@moe.edu.sg](mailto:Jeffrey_jefferson_gafar@moe.edu.sg))   

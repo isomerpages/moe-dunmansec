@@ -1,5 +1,5 @@
 ---
-title: Infocomm Club
+title: iSTEM (Infocomm)
 permalink: /our-programmes/cca-programme/infocomm-club/
 description: ""
 third_nav_title: CCA Programme
