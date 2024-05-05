@@ -179,7 +179,7 @@ throughout the day.</p>
 </li>
 <li>
 <p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp; &nbsp; &nbsp; &nbsp; IC&nbsp;
-<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_zheng_han@moe.edu.sg</u>
+<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_zheng_han@moe.edu.sg</u> 
 </a>&nbsp;(Ext #179)</p>
 </li>
 <li>
