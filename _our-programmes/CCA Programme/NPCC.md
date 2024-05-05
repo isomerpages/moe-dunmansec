@@ -62,7 +62,7 @@ Education, and Values-in-Action Programme.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img9.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img9.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +76,7 @@ Education, and Values-in-Action Programme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img2.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -93,10 +93,10 @@ our cadets gain valuable communication skills and achieve a better understanding
 of the all-rounded nature of police work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture5.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture6.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture6.png">
 </div>
 <h3>Competitions</h3>
 <ul>
@@ -111,7 +111,7 @@ of the all-rounded nature of police work.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img4.jpg">
 </div>
 <h3>Camps</h3>
 <ul>
@@ -126,11 +126,11 @@ of the all-rounded nature of police work.</p>
 for the Unit Camp which was held over 2 days in Term 1 Week 9 this year,
 involving the Secondary 1 and 2 cadets as participants.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img6.jpg">
 </div>
 <p>The annual 3-days 2-nights camp Adventure Training Camp (ATC) at Pulau
 Ubin is one of the highlights for Secondary 2 cadets. With the segmented
@@ -142,7 +142,7 @@ The cadets had an enriching experience and displayed much perseverance
 throughout the day.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img7.jpg">
 </div>
 <h3>Others*</h3>
 <ul data-tight="true" class="tight">
@@ -160,7 +160,7 @@ throughout the day.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img8.jpg">
 </div>
 <p>*subjected to selection test outcomes</p>
 <h3>Training Details</h3>
