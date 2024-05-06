@@ -14,15 +14,49 @@ requirements, and the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1 - 5.</p>
-<h3>Information on the various talent areas</h3>
-<p>We are pleased to share the DSA Talent Areas offered for our potential
-Secondary One Students and their parents for the academic year of 2025.
-Information on the selection criteria and process will be updated from
-early-May.</p>
-<p>For more information on DSA-Sec, please refer to the MOE website at
-<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<h3>Selection Considerations</h3>
+<p>a) Past years CCA track records (no submission of document is needed).</p>
+<p>b) Shortlisted applicants will be informed by the school on the date and
+time of trial/audition and</p>
+<p>interview. Shortlisting criteria:</p>
+<p><strong><u>Sports and Games</u></strong>
 </p>
-<table>
+<p>To meet at least one of the following criteria:</p>
+<p>i) Participated in any sports CCA in their primary school.</p>
+<p>ii) Any regular involvement in sport and games activities outside school.</p>
+<p><strong><u>Performing Arts</u></strong>
+</p>
+<p>To meet at least one of the following criteria:</p>
+<p>i) Participated in any Performing Arts CCA in their primary school.</p>
+<p>ii) Regular involvement in Performing Arts programme outside school.</p>
+<p>Leadership</p>
+<p>To meet all of the following criteria:</p>
+<p>i) Must have held a school based leadership position.</p>
+<p>ii) Contribute actively in school and/or community events.</p>
+<p>ii) Exemplary conduct</p>
+<p><strong><u>STEM</u></strong>
+</p>
+<p>To meet at least one of the following criteria:</p>
+<p>i) Participated in any STEM-related CCA in their primary school</p>
+<p>ii) Involvement in STEM-related programmes outside school</p>
+<p>c) You may submit any supporting document to the relevant teacher-in-charge
+through the email listed</p>
+<p>below (Optional).</p>
+<p>*Please note that meeting all criteria does not guarantee the student
+will be shortlisted.</p>
+<p><strong><u>Registration</u></strong>
+</p>
+<p>Please submit your registration for the school’s consideration between
+the periods <strong><u>7 May (11am) to 3 Jun (3pm) 2024 </u></strong>through
+the DSA-Sec online portal.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,7 +214,11 @@ and conferences.</p>
 </tbody>
 </table>
 <h3>For general DSA enquiry, please contact</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
