@@ -48,7 +48,7 @@ will be shortlisted.</p>
 </p>
 <p>Please submit your registration for the school’s consideration between
 the periods <strong>7 May (11am) to 3 Jun (3pm) 2024</strong> through the
-DSA-Sec online portal.</p>
+<a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec online portal</a>.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Information on the various talent areas</u></a></strong>
