@@ -10,15 +10,15 @@ Direct School Admission (DSA) exercise for the academic year 2025 into
 Dunman Secondary School.</p>
 <p>Parents and students are encouraged to choose wisely based on the student’s
 aptitudes and strengths, bearing in mind the school’s academic and non-academic
-requirements, and the programmes available to develop the area of talent.</p>
+equirements, and the programmes available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1 - 5.</p>
-<h3>Selection Considerations</h3>
+<p><strong>Selection Considerations</strong>
+</p>
 <p>a) Past years CCA track records (no submission of document is needed).</p>
 <p>b) Shortlisted applicants will be informed by the school on the date and
-time of trial/audition and</p>
-<p>interview. Shortlisting criteria:</p>
+time of trial/audition and interview. Shortlisting criteria:</p>
 <p><strong><u>Sports and Games</u></strong>
 </p>
 <p>To meet at least one of the following criteria:</p>
@@ -29,7 +29,8 @@ time of trial/audition and</p>
 <p>To meet at least one of the following criteria:</p>
 <p>i) Participated in any Performing Arts CCA in their primary school.</p>
 <p>ii) Regular involvement in Performing Arts programme outside school.</p>
-<p>Leadership</p>
+<p><strong><u>Leadership</u></strong>
+</p>
 <p>To meet all of the following criteria:</p>
 <p>i) Must have held a school based leadership position.</p>
 <p>ii) Contribute actively in school and/or community events.</p>
@@ -40,15 +41,14 @@ time of trial/audition and</p>
 <p>i) Participated in any STEM-related CCA in their primary school</p>
 <p>ii) Involvement in STEM-related programmes outside school</p>
 <p>c) You may submit any supporting document to the relevant teacher-in-charge
-through the email listed</p>
-<p>below (Optional).</p>
+through the email listed below (Optional).</p>
 <p>*Please note that meeting all criteria does not guarantee the student
 will be shortlisted.</p>
 <p><strong><u>Registration</u></strong>
 </p>
 <p>Please submit your registration for the school’s consideration between
-the periods <strong><u>7 May (11am) to 3 Jun (3pm) 2024 </u></strong>through
-the DSA-Sec online portal.</p>
+the periods <strong>7 May (11am) to 3 Jun (3pm) 2024</strong> through the
+DSA-Sec online portal.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Information on the various talent areas</u></a></strong>
