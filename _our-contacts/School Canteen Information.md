@@ -4,7 +4,12 @@ permalink: /our-contacts/permalink/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ variant: tiptap
 <p>Snacks and Hot Drinks Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 May 2024</p>
+<p>7 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -33,7 +38,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 May 2024</p>
+<p>7 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
