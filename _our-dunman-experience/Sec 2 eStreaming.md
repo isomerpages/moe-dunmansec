@@ -276,7 +276,7 @@ variant: tiptap
 <p>Please refer to updates to</p>
 <p>1) students on 25-Mar via Student iCON email</p>
 <p>2) parents on 25-Mar via PG</p>
-<p>3) parents/students webinar engagement on 1-Apr</p>
+<p>3) parents/students via webinar engagement on 1-Apr</p>
 <p></p>
 <p>Application closes on 20-May</p>
 </td>
