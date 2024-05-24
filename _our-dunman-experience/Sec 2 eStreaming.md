@@ -7,7 +7,12 @@ variant: tiptap
 <p><strong>Note: Information updated as at 4 March 2024.</strong>
 </p>
 <h4>Important Dates:</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,7 +190,11 @@ variant: tiptap
 <h4>Handout/ Forms</h4>
 <p><strong>Briefing Slides (Subjects)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -261,19 +270,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EXP - Computing</p>
-<p><strong>(Commencing in 2025)</strong>
-</p>
+<p>Centre-based for O-level Computing (EXP/G3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec 2 eStreaming/Computing__Exp__Streaming_for_2024__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please refer to updates to</p>
+<p>1) students on 25-Mar via Student iCON email</p>
+<p>2) parents on 25-Mar via PG</p>
+<p>3) parents/students via webinar engagement on 1-Apr</p>
+<p></p>
+<p>Application closes on 20-May</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Sec 2 eStreaming Parents Engagement Briefing Slides</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -295,7 +311,11 @@ variant: tiptap
 </table>
 <p><strong>Sec 2 Asia-Pacific STEM Programme Engagement Slides</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
