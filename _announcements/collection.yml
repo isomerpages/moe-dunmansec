@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Preliminary Examinations 2024.md
       - Timetable AY2024.md
       - Booklist for AY2024.md
       - SGC (AY2022 graduates).md
