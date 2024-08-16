@@ -22,9 +22,9 @@ title of National Serviceman (Full Time) of the year for 2022!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_002.png">
 </div>
-<p><strong>Dunman bestows </strong>
+<p><strong>Dunman bestows</strong>
 </p>
-<p><strong>Knowledge, the torch of life! </strong>
+<p><strong>Knowledge, the torch of life!</strong>
 </p>
 <p>It is indeed heartening to see our students continue to apply the school
 values in their areas of passion. Yim Zi Le Arthur, our Dunman Alumni of
