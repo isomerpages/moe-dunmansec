@@ -12,17 +12,20 @@ excelled in their tertiary education and made meaningful contributions
 in their personal and professional lives. Their stories embody the principles
 of Discernment, Daring, Discipline, Determination, and Duty that are central
 to our school, offering inspiration for future generations.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_001.png">
 </div>
+<p></p>
+<p></p>
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
@@ -31,11 +34,10 @@ Dunman creed deeply ingrained and</p>
 <p>Han Wee Kwang, our Dunman Alumni, has exemplified the Dunman values through
 and through in his service to the nation. He was awarded the prestigious
 title of National Serviceman (Full Time) of the year for 2022!</p>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_002.png">
 </div>
@@ -58,7 +60,7 @@ SMU undergraduate mentors and CDAC staff.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_003.png">
@@ -74,18 +76,20 @@ incredible determination and discipline by the artiste.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_004.png">
 </div>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Dunmanites, Khairunisa Anwar of Class of 2019 and Muhammad Nurshahfareeq
 of Class 2021 left for Cambodia to represent Singapore in the 32nd SEA
-Games for women’s football and pencak silat respectively.
-<br>
-<br>They fly our nation's flag high.
+Games for women’s football and pencak silat respectively.</p>
+<p>They fly our nation's flag high.
 <br>They fly our Dunman flag high.
 <br>
 <br>To Khairunisa, Fareeq and our nation’s teams of athletes, Dunman is rooting
@@ -93,7 +97,7 @@ for you!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_005.png">
@@ -110,7 +114,7 @@ Ding Yao and Iffah, keep that torch of life burning!&nbsp;<a href="https://www.i
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_006.png">
@@ -127,10 +131,21 @@ Congratulations Rafie! We are very proud of you!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_007.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,10 +159,10 @@ Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,18 +183,7 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_010.png">
@@ -190,7 +194,7 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_011.png">
@@ -201,7 +205,7 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_012.png">
