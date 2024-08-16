@@ -2,7 +2,6 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - Our Dunman Experience.md
       - ELIXiR/.keep
       - ELIXiR/ELIXiR.md
       - ELIXiR/Sec 1 Programme.md
@@ -22,3 +21,4 @@ collections:
       - Sec 1 CCA Selection.md
       - Sec 2 eStreaming.md
       - School Calendar.md
+      - Our Dunman Experience.md
