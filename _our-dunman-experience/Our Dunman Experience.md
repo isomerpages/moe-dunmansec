@@ -36,6 +36,9 @@ title of National Serviceman (Full Time) of the year for 2022!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_002.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dunman bestows
@@ -56,6 +59,9 @@ SMU undergraduate mentors and CDAC staff.
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_003.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Because the Dunman education is not just about grades...it is the 5Ds
@@ -69,6 +75,9 @@ incredible determination and discipline by the artiste.
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_004.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Dunmanites, Khairunisa Anwar of Class of 2019 and Muhammad Nurshahfareeq
@@ -85,6 +94,9 @@ for you!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_005.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Greek philosopher Socrates once said "Education is the kindling of a flame,
@@ -99,14 +111,9 @@ Ding Yao and Iffah, keep that torch of life burning!&nbsp;<a href="https://www.i
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_006.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>It is not the aptitude but the attitude that determines the altitude.
@@ -121,6 +128,9 @@ Congratulations Rafie! We are very proud of you!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_007.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>🌟📚 'Success is not final, failure is not fatal: It is the courage to
@@ -135,6 +145,9 @@ Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>👏 Paravasthu Sridhar Shreya and Lim Yu Tong (Class of 2021) have made
@@ -156,6 +169,9 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,6 +180,9 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_010.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -172,6 +191,9 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_011.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,6 +202,9 @@ Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShini
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_012.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
