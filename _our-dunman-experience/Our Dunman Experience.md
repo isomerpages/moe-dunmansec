@@ -20,7 +20,7 @@ to our school, offering inspiration for future generations.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&lt;img style="width:450"&gt;</p>
+<p>&lt;img style="width:50%"&gt;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_001.png">
 </div>
