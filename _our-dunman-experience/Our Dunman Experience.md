@@ -95,16 +95,40 @@ Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 Engineering with a Minor in Japanese, earning a Diploma with Merit.</p>
 <p>We are proud of all your hard work and dedication! Keep shining bright
 Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShining</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_010.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_011.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_012.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
