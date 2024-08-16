@@ -12,21 +12,26 @@ excelled in their tertiary education and made meaningful contributions
 in their personal and professional lives. Their stories embody the principles
 of Discernment, Daring, Discipline, Determination, and Duty that are central
 to our school, offering inspiration for future generations.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_001.png">
 </div>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p>It is indeed heartening to see our Dunmanites leave our hands with the
@@ -37,7 +42,7 @@ title of National Serviceman (Full Time) of the year for 2022!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_002.png">
 </div>
@@ -60,7 +65,7 @@ SMU undergraduate mentors and CDAC staff.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_003.png">
@@ -76,7 +81,7 @@ incredible determination and discipline by the artiste.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_004.png">
@@ -97,7 +102,7 @@ for you!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_005.png">
@@ -114,7 +119,7 @@ Ding Yao and Iffah, keep that torch of life burning!&nbsp;<a href="https://www.i
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_006.png">
@@ -131,8 +136,11 @@ Congratulations Rafie! We are very proud of you!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/blank.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_007.png">
 </div>
@@ -142,7 +150,7 @@ Congratulations Rafie! We are very proud of you!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
@@ -159,71 +167,59 @@ Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/blank.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_010.png">
+</div>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>👏 Paravasthu Sridhar Shreya and Lim Yu Tong (Class of 2021) have made
 us proud with their remarkable results in the 2023 GCE A-Level examinations,
 honoured with the Academic Distinction Award by Anderson Serangoon Junior
 College.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>🎉 Ng Rui En (Class of 2019) graduated with distinction from NP’s Diploma
 in Hotel &amp; Leisure Facilities Management, winning the Mapletree Gold
 Medal &amp; Prize. 🌟</p>
 <p>&nbsp;</p>
-<p>🏆 Khoo Joon Heng Zavier (Class of 2020) excelled in NP’s Diploma in Mechanical
-Engineering with a Minor in Japanese, earning a Diploma with Merit.</p>
-<p>&nbsp;</p>
-<p>We are proud of all your hard work and dedication! Keep shining bright
-Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShining</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_010.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_011.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>🏆 Khoo Joon Heng Zavier (Class of 2020) excelled in NP’s Diploma in Mechanical
+Engineering with a Minor in Japanese, earning a Diploma with Merit.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_012.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/blank.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>We are proud of all your hard work and dedication! Keep shining bright
+Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShining</p>
 </td>
 </tr>
 </tbody>
