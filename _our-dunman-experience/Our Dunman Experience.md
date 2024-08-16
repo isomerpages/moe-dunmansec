@@ -95,8 +95,6 @@ Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 Engineering with a Minor in Japanese, earning a Diploma with Merit.</p>
 <p>We are proud of all your hard work and dedication! Keep shining bright
 Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShining</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
 </div>
