@@ -20,25 +20,26 @@ to our school, offering inspiration for future generations.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&lt;img style="width:40%" src="/images/our_dunman_experience/dmn_160824_001.png"&gt;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_001.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_001.png">
 </div>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
 <p>It is indeed heartening to see our Dunmanites leave our hands with the
-Dunman creed deeply ingrained and
-<br>Han Wee Kwang, our Dunman Alumni, has exemplified the Dunman values through
+Dunman creed deeply ingrained and</p>
+<p>Han Wee Kwang, our Dunman Alumni, has exemplified the Dunman values through
 and through in his service to the nation. He was awarded the prestigious
 title of National Serviceman (Full Time) of the year for 2022!</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_002.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dunman bestows
