@@ -88,15 +88,15 @@ Polytechnic Scholarship Award, Azfar's resilience, grit, and relentless
 pursuit of excellence have paved his path to success. 🏅 Congratulations,
 Azfar! Your unwavering spirit inspires us all! 🎉 #Determination #HardWork
 #SingaporePoly #ScholarshipWinner #ProudMoment"</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
+</div>
 <p>🏆 Khoo Joon Heng Zavier (Class of 2020) excelled in NP’s Diploma in Mechanical
 Engineering with a Minor in Japanese, earning a Diploma with Merit.</p>
 <p>We are proud of all your hard work and dedication! Keep shining bright
 Dunmanites! 🌠✨ #DunmanPride #TertiarySuccess #AlumniAchievements #KeepShining</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_008.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/dmn_160824_009.png">
 </div>
