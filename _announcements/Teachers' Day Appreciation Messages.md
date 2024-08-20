@@ -11,12 +11,7 @@ During this special occasion, we would like parents and alumni members
 to show your appreciation by posting messages of encouragement or affirmation
 to our teachers.</p>
 <p></p>
-<p><strong>For Parents</strong>
+<p><strong>For Parents and Alumni </strong>
 </p>
-<p>Please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScY4yLl7qY5_rV9-rhvJJdpvUlekVJAUb1280rG2dXXZbUifA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-post your messages to our teachers.</p>
-<p></p>
-<p><strong>For alumni members</strong>
-</p>
-<p>Please click&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScY4yLl7qY5_rV9-rhvJJdpvUlekVJAUb1280rG2dXXZbUifA/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-post your messages to our teachers.</p>
+<p>Please click&nbsp;<a href="https://form.gov.sg/66c42472075d4f632e9b5fce" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to post
+your messages to our teachers.</p>
