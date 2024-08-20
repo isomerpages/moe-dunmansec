@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /announcements/tt2024/
+          url: /teachers-day-appreciation-messages/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
@@ -19,18 +19,12 @@ sections:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
       id: infobar
-      description: >-
-        <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/mAQt8-JHEgE?si=aY-7zzfbdSclU0vN"
-        height="315" width="560"></iframe>
-
-
-        <br>
-
-
-        <i>Extracted from CNA Singapore Watch Segment 20 September 2023</i>
+        height="315" width="560"></iframe>  <br>  <i>Extracted from CNA
+        Singapore Watch Segment 20 September 2023</i>
   - infopic:
       title: 60th Anniversary in 2023!
       id: infopic
