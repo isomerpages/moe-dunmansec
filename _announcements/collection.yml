@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - End of Year Examinations AY2024.md
       - Teachers' Day Appreciation Messages.md
       - Preliminary Examinations AY2024.md
       - Timetable AY2024.md
