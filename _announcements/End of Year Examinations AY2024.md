@@ -4,10 +4,10 @@ permalink: /end-of-year-examinations-ay2024/
 variant: tiptap
 description: ""
 ---
-<p>Please download the AY2024, End-of-Year Examinations Schedule <em>(Last Updated: 23-Aug-24)</em>:</p>
+<p>Please download the AY2024, End-of-Year Examinations Schedule <em>(Last Updated: 15-Sep-24)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Examinations Schedule, <a href="/files/Announcements/2024_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+<p>Examinations Schedule, <a href="/files/Announcements/2024_EYE_Schedule__Updated_on_15Sep_.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </li>
 <li>
