@@ -156,7 +156,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appeal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s2subjselappeal2024</a>)
+<p>Appeal</p>
+<p>(For appeal cases, please submit through the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s2subjselappeal2024</a>)
 <br>
 </p>
 </td>
