@@ -305,7 +305,7 @@ variant: tiptap
 <p>Whole Cohort</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec%202%20eStreaming/Sec_3_Subject_Combination_2025__For_2024_Sec_2_Cohort_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 2 eStreaming/Sec_2_Subject_Selection_Exercise__updated_slides_dated_25_Sep_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
