@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /teachers-day-appreciation-messages/
+          url: /end-of-year-examinations-ay2024/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
