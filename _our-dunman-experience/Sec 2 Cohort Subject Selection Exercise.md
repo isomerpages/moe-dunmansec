@@ -1,10 +1,10 @@
 ---
-title: Sec 2 eStreaming
-permalink: /our-dunman-experience/sec-2-estreaming/
+title: Sec 2 Cohort Subject Selection Exercise
+permalink: /our-dunman-experience/sec-2-subjectselectionex/
 description: ""
 variant: tiptap
 ---
-<p><strong>Note: Information updated as at 4 March 2024.</strong>
+<p><strong>Note: Information updated as of 25 September 2024.</strong>
 </p>
 <h4>Important Dates:</h4>
 <table style="minWidth: 75px">
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Admin Briefing for eStreaming Familiarisation Exercise</p>
+<p>Student Admin Briefing for Subject Selection Familiarisation Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8
@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eStreaming Familiarisation Exercise
+<p>Subject Selection Familiarisation Exercise
 <br>Compulsory</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eStreaming Exercise
+<p>Subject Selection Exercise
 <br>(Compulsory to participate)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Release of eStreaming Results</p>
+<p>Release of Subject Selection Results</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Nov (1pm)</p>
@@ -156,7 +156,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Appeal
+<p>Appeal</p>
+<p>(For appeal cases, please submit through the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s2subjselappeal2024</a>)
 <br>
 </p>
 </td>
@@ -304,7 +305,7 @@ variant: tiptap
 <p>Whole Cohort</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec%202%20eStreaming/Sec_3_Subject_Combination_2025__For_2024_Sec_2_Cohort_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 2 eStreaming/Sec_2_Subject_Selection_Exercise__updated_slides_dated_25_Sep_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
