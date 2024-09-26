@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/NPCC_Members_2021.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/npcc2024_1.png">
 </div>
 <h3>Mission</h3>
 <p>To develop our members to be active citizens and community leaders, by
@@ -168,22 +168,25 @@ throughout the day.</p>
 <br>Every Even Week Tuesday: 3:30pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
 <h3>Contact Details</h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>(Mr.) Chu Khoon Hwa - OC and Sec 2, 4/5 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chu_khoon_hwa@moe.edu.sg</u></a>&nbsp;(Ext
+<p>(Mr.) Chu Khoon Hwa - OC and 4/5 Squad IC&nbsp;</p>
+<p><a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_khoon_hwa@moe.edu.sg</a>&nbsp;(Ext
 #167)</p>
+<p></p>
 </li>
 <li>
-<p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mabel_neo_yu_qian@moe.edu.sg</u></a>&nbsp;(Ext
+<p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;</p>
+<p><a href="mailto:mabel_neo_yu_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mabel_neo_yu_qian@moe.edu.sg</a>&nbsp;(Ext
 #142)</p>
+<p></p>
 </li>
 <li>
-<p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp; &nbsp; &nbsp; &nbsp; IC&nbsp;
-<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_zheng_han@moe.edu.sg</u> 
-</a>&nbsp;(Ext #179)</p>
-</li>
-<li>
-<p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sutha_rajasekaran@moe.edu.sg</u></a> (Ext
+<p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp;IC&nbsp;</p>
+<p><a href="mailto:toh_zheng_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a> &nbsp;(Ext
+#179)</p>
+<p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;</p>
+<p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a> (Ext
 #148)</p>
 </li>
 </ul>
