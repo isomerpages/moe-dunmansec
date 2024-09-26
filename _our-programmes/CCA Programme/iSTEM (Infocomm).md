@@ -43,71 +43,53 @@ Through programmes and various platforms throughout each year, our club members 
 
 *   Emerging Tech x VIA Photo Essay Contest 2022 
     
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_7_VIA_Photo_Essay_Contest_2022a.jpg)
 
 
+**Runner Up Award  **
 
-Runner Up Award
-
-  
-
-*   Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)
-    
-
-  
-  
+*   Singapore Energy Grand Challenge (Youth) 2022  (Semi Finals)  
 
 *   Drone Odyssey Challenge 2023
     
+![](/images/CCA%20Photos/Pic_8_Participants_of_DOC.jpg)![](/images/CCA%20Photos/Infocomm%20Club/Pic_9_DOC_Teams.jpg)
 
-  
+**Participating Members and Teams **
 
-(Insert Pic8) (Insert Pic 9)
-
-Participating Members and Teams 
-
-  
-
-(Insert Pic 10)
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_10_Award_Winners_of_DOCa.jpg)
 
 Best Knowledge Team Award & Judges’ Award (Leadership)
-
-  
 
 *   Drone Odyssey Challenge 2024
     
 
-Participating Teams
+**Participating Teams**
 
-(Insert Pic 11)  (Insert Pic 12)
-
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_11_Participating_Teams_2024z.jpg)
   
 
-Best Presentation Silver Award (Insert Pic 13)
+Best Presentation Silver Award 
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_13_Best_Presentation_Silver_Award_2024a.jpg)
 
-Best Presentation Bronze Award (Insert Pic 14)
+Best Presentation Bronze Award
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_14_Best_Presentation_Bronze_Award_2024a.jpg)
 
-  
-  
+ 
+**CCA Programme 2024 
+**
 
-CCA Programme 2024 
 
-  
-
-Sec1 Level Programme (iSTEM Academy Infocomm Club Experience) 
+**Sec1 Level Programme (iSTEM Academy Infocomm Club Experience) **
 
 Introduction to Robotics & AI
 
-  
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_15_Sec1_iSTEM_Programme__Students_Work_a.png)
 
-(Insert Pic 15)
-
-  
-
+ 
 [Click here](https://drive.google.com/file/d/1RJvwP4HfwmBcYe12TM3OxU2YapiGgbRc/view?usp=sharing) for the Level Programme and Schedule
 
   
-
-Sec2 Level Programme
+**Sec2 Level Programme**
 
 LEGO Robotics 
 
@@ -117,7 +99,7 @@ LEGO Robotics 
 
   
 
-Sec3 Level Programme
+**Sec3 Level Programme**
 
 Drone Coding & Game Development
 
@@ -127,7 +109,7 @@ Drone Coding & Game Development
 
   
 
-Teachers-in-charge
+**Teachers-in-charge**
 
 Mrs Soh Sok Hoon (IC) [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg) 
 
