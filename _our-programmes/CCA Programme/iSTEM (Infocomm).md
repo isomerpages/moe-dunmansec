@@ -25,8 +25,7 @@ The students will also be challenged to apply their learning through their parti
 
 ![](/images/CCA%20Photos/Pic_5_DOC_Final__Challenge_In_Action_.jpg)  
 
-**Challenge In Action (Finals)**
- 
+**Challenge In Action (Finals)** 
 
 As part of providing exposure to how technology and media are applied in the real world, Infocomm members will also go on learning journeys where they discovered emerging technologies such as Internet-of-Things and Intelligent Robotics and witnessed the use of AR (Augmented Reality)/VR(Virtual Reality) in actual work environments, as well as robots and automation systems. 
 
@@ -42,7 +41,6 @@ Through programmes and various platforms throughout each year, our club members 
 *   Emerging Tech x VIA Photo Essay Contest 2022 
     
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic_7_VIA_Photo_Essay_Contest_2022a.jpg)
-
 
 **Runner Up Award  **
 
@@ -63,8 +61,7 @@ Best Knowledge Team Award & Judges’ Award (Leadership)
 
 **Participating Teams**
 
-![](/images/CCA%20Photos/Infocomm%20Club/Pic_11_Participating_Teams_2024z.jpg)
-  
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_11_Participating_Teams_2024z.jpg)  
 
 Best Presentation Silver Award 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic_13_Best_Presentation_Silver_Award_2024a.jpg)
@@ -75,7 +72,6 @@ Best Presentation Bronze Award
  
 **CCA Programme 2024 
 **
-
 
 **Sec1 Level Programme (iSTEM Academy Infocomm Club Experience) **
 
