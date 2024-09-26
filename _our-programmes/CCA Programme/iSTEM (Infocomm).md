@@ -5,13 +5,11 @@ description: ""
 third_nav_title: CCA Programme
 variant: markdown
 ---
-**Introduction**
- 
+**Introduction** 
 
 ![](/images/CCA%20Photos/Pic_1_Infocomm_Noticeboard.jpg)
 
 In keeping with the fast-moving pace of digital revolution in Singapore and its vision of becoming a Smart Nation, Dunman Infocomm Club strives to enrich the digital literacy of our members through an array of programmes, activities and competitions. These creates opportunities for our members to pursue their interests and deepen their learning in emerging technologies.
-
   
 ![](/images/Pic_2_Infocomm_Team___CCA_Fair.jpg)![](/images/Pic_3_Sec2_Workshop.jpg)
 
@@ -84,16 +82,13 @@ Best Presentation Bronze Award
 Introduction to Robotics & AI
 
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic_15_Sec1_iSTEM_Programme__Students_Work_a.png)
-
  
 [Click here](https://drive.google.com/file/d/1RJvwP4HfwmBcYe12TM3OxU2YapiGgbRc/view?usp=sharing) for the Level Programme and Schedule
 
   
 **Sec2 Level Programme**
 
-LEGO Robotics 
-
-  
+LEGO Robotics   
 
 [Click here](https://drive.google.com/file/d/1G9IBis2riHVD5Xg1S7Y9GQEEgaTswwG2/view?usp=sharing) for the Level Programme and Schedule
 
@@ -101,13 +96,12 @@ LEGO Robotics 
 
 **Sec3 Level Programme**
 
-Drone Coding & Game Development
-
-  
+Drone Coding & Game Development  
 
 [Click here](https://drive.google.com/file/d/1vSLBMsb6yB4CsmzrrBSksfGQEI_UT-0X/view?usp=sharing) for the Level Programme and Schedule
 
   
+
 
 **Teachers-in-charge**
 
