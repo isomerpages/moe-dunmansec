@@ -284,7 +284,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Sec 2 eStreaming Parents Engagement Briefing Slides</strong>
+<p><strong>Sec 2 Subject Selection Parents Engagement Briefing Slides</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
