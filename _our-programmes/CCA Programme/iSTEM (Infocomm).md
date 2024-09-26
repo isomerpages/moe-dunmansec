@@ -105,10 +105,10 @@ Drone Coding & Game Development
 
 **Teachers-in-charge**
 
-Mrs Soh Sok Hoon (IC) [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg) 
+* Mrs Soh Sok Hoon (IC) [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg) 
 
-Mr Ng Aik Koon [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg) 
+* Mr Ng Aik Koon [ng\_aik\_koon@moe.edu.sg](mailto:ng_aik_koon@moe.edu.sg) 
 
-Mr Wong Tong Aun James [james\_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
+* Mr Wong Tong Aun James [james\_wong@moe.edu.sg](mailto:james_wong@moe.edu.sg)
 
-Ms Jane Si [si\_hsiao\_wei\_jane@moe.edu.sg](mailto:si_hsiao_wei_jane@moe.edu.sg)**
+* Ms Jane Si [si\_hsiao\_wei\_jane@moe.edu.sg](mailto:si_hsiao_wei_jane@moe.edu.sg)**
