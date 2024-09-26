@@ -89,15 +89,12 @@ Introduction to Robotics & AI
 **Sec2 Level Programme**
 
 LEGO Robotics   
-
 [Click here](https://drive.google.com/file/d/1G9IBis2riHVD5Xg1S7Y9GQEEgaTswwG2/view?usp=sharing) for the Level Programme and Schedule
-
   
 
 **Sec3 Level Programme**
 
 Drone Coding & Game Development  
-
 [Click here](https://drive.google.com/file/d/1vSLBMsb6yB4CsmzrrBSksfGQEI_UT-0X/view?usp=sharing) for the Level Programme and Schedule
 
   
