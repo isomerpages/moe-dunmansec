@@ -206,7 +206,8 @@ _Students:_
 
 In 2023, Dunman Secondary School proudly celebrated 60 years of educational excellence, community spirit, and growth. From the launch of our alumni association to honouring our 5Ds, the celebrations reflected our legacy of empowering generations. View our 60th anniversary video below to witness the highlights of this special milestone and the vibrant community that makes Dunman Secondary so unique.
 
-[embed src](https://www.youtube.com/watch?v=fAQYfaXs3Aw)
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=fAQYfaXs3Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 《明(míng) 心(xīn) 德(dé) 行(xíng)》– A Song of Dunman’s Dreams and Values
 
