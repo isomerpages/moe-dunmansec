@@ -218,10 +218,10 @@ Isidora Amber Sienna Bangun and Hung Yu Yan from 4G
 George Zachary Zou from 4E
 Yong Jia Ying from 4D
 
+
 Under the guidance of our principal, Mr. Toh Thiam Chye, and HOD MTL, Mr. Tan Teck Meng, the lyrics were crafted to align with Dunman’s vision. Our teachers, Mr. Toh Hong Ming and Ms. Mabel Neo, contributed additional lyrics, unifying the theme of dreams and values.
 
-
-
 Watch the 《明心德行》 music video to experience this heartfelt celebration of Dunman’s values and aspirations.
+
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z_Alkzmhdww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
