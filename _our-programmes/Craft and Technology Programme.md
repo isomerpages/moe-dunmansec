@@ -134,3 +134,19 @@ For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_pic_18.png)
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_19a.jpg)
 Creative Aesthetics: &nbsp;Gabriella Fatima Zenisa Ramli (4F, 2023)
+
+
+
+
+
+| Year | Achivement / Outcome | Teacher In-Charge |
+| -------- | -------- | -------- |
+|2024  | Creative Aesthetics: &nbsp;Gabriella Fatima Zenisa Ramli (4F, 2023)     | Elvin Tay |
+|2022| Creative Invention (Merit): Ong Zhi Xuan (4F, 2021) |Tan Xie Xing
+|2021 &amp; 2020|Event disrupted by Covid-19||
+|2019|Creative Innovation: Joey Heng Zhuo yu (5A, 2018) Creative Adaptation: Uwais Alqarni Bin Abdul Rahman (4B, 2018) | Chayarnee Marnee-In
+2019 | Javier Lai Mao Sheng (4C, 2018) ; Tang Jing Yi (4G, 2018) |Elvin Tay Ng Aik Koon
+
+
+
+
