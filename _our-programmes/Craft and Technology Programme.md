@@ -80,8 +80,8 @@ In Design and Technology, we believe in learning by doing, and our students have
 
 Students in lower FCE programme are engaged in problem-based learning activities whereby they are given case studies of people with certain health conditions and to research on and work out suitable healthy meals. They will learn various noteworthy nutritional facts and perform practical cooking sessions to whip up significant dishes. They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons. <p></p>
 
-# **Art (Lower Secondary)
-# **
+# Art (Lower Secondary)
+
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_10.jpg)
 
 **Art Exhibition  
@@ -109,7 +109,7 @@ The students have discovered the power of technology, witnessing how it can elev
 
 To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.<p></p>
 
-**Music (Lower Secondary)&nbsp;**
+## Music (Lower Secondary)
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_14.png)
 
@@ -134,30 +134,3 @@ For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_pic_18.png)
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_19a.jpg)
 Creative Aesthetics: &nbsp;Gabriella Fatima Zenisa Ramli (4F, 2023)
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
