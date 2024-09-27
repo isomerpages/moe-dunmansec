@@ -173,18 +173,18 @@ throughout the day.</p>
 <p>(Mr.) Chu Khoon Hwa - OC and 4/5 Squad IC&nbsp;</p>
 <p><a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_khoon_hwa@moe.edu.sg</a>&nbsp;(Ext
 #167)</p>
-<p></p>
 </li>
 <li>
 <p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;</p>
 <p><a href="mailto:mabel_neo_yu_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mabel_neo_yu_qian@moe.edu.sg</a>&nbsp;(Ext
 #142)</p>
-<p></p>
 </li>
 <li>
 <p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp;IC&nbsp;</p>
 <p><a href="mailto:toh_zheng_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a> &nbsp;(Ext
 #179)</p>
+</li>
+<li>
 <p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;</p>
 <p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a> (Ext
 #148)</p>
