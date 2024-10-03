@@ -2,6 +2,7 @@
 title: Financial Assistance
 permalink: /our-contacts/financial-assistance/
 description: ""
+variant: markdown
 ---
 ### MOE FINANCIAL ASSISTANCE SCHEME (FAS)
 
@@ -9,11 +10,12 @@ description: ""
 
 <p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: MOE financial assistance scheme <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></p>
 
-### MOE FAS Application Exercise 2024
+### MOE FAS Application Exercise 2025
 
 <p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2024.</p>
 
-**1.** We have attached the [FAS Application Form](https://www.dunmansec.moe.edu.sg/files/Administration/MOE-FAS-Application-Form-2023.pdf)   for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
+**1.** We have attached the [FAS Application Form](/files/Administration/MOE_FAS_2025.pdf)
+for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
 
 (i) eFAS <a href="https://go.gov.sg/moe-efas" target="_blank">https://go.gov.sg/moe-efas</a>
 
