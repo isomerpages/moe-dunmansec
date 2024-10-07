@@ -5,18 +5,18 @@ description: ""
 third_nav_title: CCA Programme
 variant: tiptap
 ---
-<h3>Introduction</h3>
+<h3><strong>Introduction</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/NPCC/NPCC_Members_2021.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/npcc2024_1.png">
 </div>
-<h3>Mission</h3>
+<h3><strong>Mission</strong></h3>
 <p>To develop our members to be active citizens and community leaders, by
 working in partnership with the Singapore Police Force to fight crime and
 keep Singapore safe.</p>
-<h3>Vision</h3>
+<h3><strong>Vision</strong></h3>
 <p>To become the best youth organisation in Singapore, one that actively
 helps to make Singapore the safest place in the world.</p>
-<h3>Achievements</h3>
+<h3><strong>Achievements</strong></h3>
 <p>In the past few years, the&nbsp;NPCC Unit in Dunman Secondary School has
 achieved stellar results in the Unit Overall Proficiency Award (UOPA).</p>
 <ul>
@@ -42,7 +42,7 @@ achieved stellar results in the Unit Overall Proficiency Award (UOPA).</p>
 <p>2023 – Distinction</p>
 </li>
 </ul>
-<h3>Trainings</h3>
+<h3><strong>Trainings</strong></h3>
 <p>We aim to provide students with authentic learning experiences which will
 help them to develop important qualities based on the NPCC values of RISE
 –&nbsp;Resilience, Integrity, Service and Excellence.</p>
@@ -51,7 +51,8 @@ in many interesting events to engage our cadets and challenge them. On
 top of drills and campcraft, cadets can expect to immerse in a range of
 holistic courses such as those relating to Police Knowledge and National
 Education, and Values-in-Action Programme.</p>
-<h3>Enrichments</h3>
+<p></p>
+<h3><strong>Enrichments</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1 Dragonboating</p>
@@ -67,9 +68,10 @@ Education, and Values-in-Action Programme.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 3 Air Pistol Shoot</p>
+<p></p>
 </li>
 </ul>
-<h4>Courses/Events<br></h4>
+<h3><strong>Courses/Events</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1 Police Heritage Centre Visit</p>
@@ -98,7 +100,7 @@ of the all-rounded nature of police work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture6.png">
 </div>
-<h3>Competitions</h3>
+<h3><strong>Competitions</strong></h3>
 <ul>
 <li>
 <p>GOTC II Tournament (2023)</p>
@@ -113,7 +115,7 @@ of the all-rounded nature of police work.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img4.jpg">
 </div>
-<h3>Camps</h3>
+<h3><strong>Camps</strong></h3>
 <ul>
 <li>
 <p>Annual Unit Camp</p>
@@ -144,7 +146,7 @@ throughout the day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img7.jpg">
 </div>
-<h3>Others*</h3>
+<h3><strong>Others</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>NPCC Annual Parade</p>
@@ -163,28 +165,32 @@ throughout the day.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img8.jpg">
 </div>
 <p>*subjected to selection test outcomes</p>
-<h3>Training Details</h3>
+<h3><strong>Training Details</strong></h3>
 <p>Every Friday: 2:00 pm to 6 pm.
 <br>Every Even Week Tuesday: 3:30pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
-<h3>Contact Details</h3>
-<ul>
+<h3><strong>Contact Details</strong></h3>
+<ul data-tight="true" class="tight">
 <li>
-<p>(Mr.) Chu Khoon Hwa - OC and Sec 2, 4/5 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chu_khoon_hwa@moe.edu.sg</u></a>&nbsp;(Ext
+<p>(Mr.) Chu Khoon Hwa - OC and 4/5 Squad IC&nbsp;</p>
+<p><a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_khoon_hwa@moe.edu.sg</a>&nbsp;(Ext
 #167)</p>
 </li>
 <li>
-<p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mabel_neo_yu_qian@moe.edu.sg</u></a>&nbsp;(Ext
+<p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;</p>
+<p><a href="mailto:mabel_neo_yu_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mabel_neo_yu_qian@moe.edu.sg</a>&nbsp;(Ext
 #142)</p>
 </li>
 <li>
-<p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp; &nbsp; &nbsp; &nbsp; IC&nbsp;
-<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_zheng_han@moe.edu.sg</u> 
-</a>&nbsp;(Ext #179)</p>
+<p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp;IC&nbsp;</p>
+<p><a href="mailto:toh_zheng_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a> &nbsp;(Ext
+#179)</p>
 </li>
 <li>
-<p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;<a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sutha_rajasekaran@moe.edu.sg</u></a> (Ext
+<p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;</p>
+<p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a> (Ext
 #148)</p>
 </li>
 </ul>
+<p></p>
 <p></p>

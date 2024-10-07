@@ -3,6 +3,7 @@ title: Heritage
 permalink: /our-dunman/The-Dunman-Story/heritage/
 description: ""
 third_nav_title: The Dunman Story
+variant: markdown
 ---
 #### <span style="color: black"> <b>The Haig Road Years<br>In the Beginning: Planting a Strong Foundation</b> </span>
 
@@ -200,3 +201,27 @@ _Students:_
 <p style="text-align: justify;">The&nbsp;COE&nbsp;model was reviewed for its relevance and strategic value in view of the evolving needs in teaching and learning. The&nbsp;COE&nbsp;model for East Zone will cease with effect from 1 January 2022.</p>
 
 <p style="text-align: justify;">Moving forward, East Zone Schools’ distinctive strengths will continue to be harnessed to strengthen teaching and learning capabilities and foster a zonal collaborative and learning culture.</p>
+
+# **60th Anniversary Celebrations**
+
+In 2023, Dunman Secondary School proudly celebrated 60 years of educational excellence, community spirit, and growth. From the launch of our alumni association to honouring our 5Ds, the celebrations reflected our legacy of empowering generations. View our 60th anniversary video below to witness the highlights of this special milestone and the vibrant community that makes Dunman Secondary so unique.
+
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=fAQYfaXs3Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+《明(míng) 心(xīn) 德(dé) 行(xíng)》– A Song of Dunman’s Dreams and Values
+
+This inspiring song originated from our 2023 Mother Tongue Languages Fortnight lyrics writing competition, where our Secondary 3 Chinese Language students composed lyrics for Dunman Secondary’s 60th anniversary. The title and lyrics, inspired by our school’s Chinese name, 德明中学, reflect the values and virtues (德) and the illuminated, discerning heart (明心) that guide us as trailblazers (行).
+
+The talented lyricists behind this creation are:
+Isidora Amber Sienna Bangun and Hung Yu Yan from 4G
+George Zachary Zou from 4E
+Yong Jia Ying from 4D
+
+
+Under the guidance of our principal, Mr. Toh Thiam Chye, and HOD MTL, Mr. Tan Teck Meng, the lyrics were crafted to align with Dunman’s vision. Our teachers, Mr. Toh Hong Ming and Ms. Mabel Neo, contributed additional lyrics, unifying the theme of dreams and values.
+
+Watch the 《明心德行》 music video to experience this heartfelt celebration of Dunman’s values and aspirations.
+
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z_Alkzmhdww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
