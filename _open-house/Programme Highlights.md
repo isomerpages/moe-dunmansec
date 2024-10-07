@@ -8,7 +8,7 @@ variant: markdown
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/dunmanoh2024banner.jpg" style="width:90%">
+<img src="/images/E%20Open%20House/dunmanoh2024banner.jpg" style="width:70%">
 
 #### Programme Highlights
 
@@ -26,10 +26,7 @@ variant: markdown
 | 1020 to 1100     | CCA Performances and Roadshow |
 | 1100 to 1200    | STEM Experimental Workshops OR Guided School Tour     |
 
-<br>
-
 <img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
-
 
 #### Frequently Asked Questions
 **1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2023 for Dunman Secondary School?**
