@@ -8,41 +8,37 @@ variant: markdown
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-
-<img src="/images/E%20Open%20House/dunmanoh2024banner.png" style="width:70%">
+<img src="/images/E%20Open%20House/dunmanoh2024banner.jpg" style="width:90%">
 
 #### Programme Highlights
 
 <br>
 
-1. Introduction by Principal, Mr Toh Thiam Chye
-2. **Distinguished Speaker 1**:&nbsp;STEM by Professor Tan Aik Ling
-3. **Distinguished Speaker 2**:&nbsp;Leadership by Mr Shane Chong
+1. STEM Experiential Workshops
+2. Talk by School Principal, Mr Toh Thiam Chye
+3. CCA Performances
+4. Guided School Tour
 
 | Time | Event |
 | -------- | -------- |
-| 0830 to 1100     | School Tour and STEM Experiential Learning (STEM-Maker Workshops) |
-| 1100 to 1120     | Break |
-| 1120 to 1130     | Registration and Entry of Parents to Webinar |
-| 1130 to 1150    | Introduction by Principal, Mr Toh Thiam Chye     |
-| 1150 to 1210     | **Distinguished Speaker 1**<br>STEM by Associate Professor Tan Aik Ling     |
-| 1210 to 1230     | **Distinguished Speaker 2**<br>Leadership by Mr Shane Chong     |
-| 1230 to 1300     | **Q&amp;A Segment**<br>General Engagement with School Leaders and HODs     |
-| 1300     | End of Webinar |
+| 0900 to 1000     | STEM Experimental Workshops OR Guided School Tour
+| 1000 to 1020     | Introduction by Principal, Mr Toh Thiam Chye |
+| 1020 to 1100     | CCA Performances and Roadshow |
+| 1100 to 1200    | STEM Experimental Workshops OR Guided School Tour     |
 
 <br>
 
-<img src="/images/E%20Open%20House/maker%20activities%20overview.jpeg" style="width:70%">
+<img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
 
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the PSLE score range of 2022 for Dunman Secondary School?**
+**1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2023 for Dunman Secondary School?**
 
-|  | PSLE Score Range |
+|  | PSLE AL Range |
 | -------- | -------- |
-| **Express/Posting Group 3**     | 10 - 15     |
-| **Normal (Academic)/Posting Group 2**     | 21 - 23     |
-| **Normal Technical/Posting Group 1**     | 25 - 27     |
+| **Posting Group 3**     | 9 - 14     |
+| **Posting Group 2**     | 21 - 23     |
+| **Posting Group 1**     | 25 - 27     |
 
 Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
@@ -89,11 +85,7 @@ In Dunman, we believe that language learning should not take place in silos and 
 
 For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives.. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects.&nbsp;
 
-**5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Will Dunman Secondary School be looking to offer O Level Computing?**
-
-We will not be offering O-Level Computing in the near future. Dunman is offering Exercise and Sports Science (ESS) to selected students in Secondary 3 Express. The course will develop students’ interdisciplinary understanding while they analyze and critique on the focal point of movement along with subdisciplines of sports science.
-
-**6.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
+**5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
 
 The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:
 
@@ -103,23 +95,17 @@ The school adopts a whole-school, multi-pronged approach to student development 
 *   Providing&nbsp;**intervention support**&nbsp;for specific groups of students who require help in managing their behaviours and to address other developmental and intrapersonal needs.
 *   Providing&nbsp;**capacity building opportunities for teachers**&nbsp;to enable them to carry out their disciplinary role effectively.
 
-**7.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
+**6.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
 
 Secondary 1 students who are newly posted to the school will be given the option to accept or reject Higher Mother Tongue Languages (HMTL) course if they receive the offer letter from MOE based on their PSLE results when they report on Secondary 1 registration day.
 
 For students who are not offered HMTL course by MOE, the school may offer HMTL if they meet the selection criteria as determined by the school Mother Tongue Language Department at the end of their Secondary 1 course.
 
-**8. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
-
-We currently offer the following Science combinations to Express Stream:
-
-*   Pure Biology, Pure Chemistry and Pure Physics  
-*   Pure Chemistry and either Pure Physics or Pure Biology  
-*   Combined Science (Physics, Chemistry) or&nbsp;Combined Science (Biology, Chemistry)  
+**7. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
 
 Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-estreaming/" target="_blank">here</a></b> for more information.
 																												 
-**9.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
+**8.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
 Dunman Secondary School aims to provide a holistic environment that inculcates life skills through three approaches – education, experiences and empowerment.
 
