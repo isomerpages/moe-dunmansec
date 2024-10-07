@@ -4,7 +4,7 @@ permalink: /e-open-house/programme-highlights/
 description: ""
 variant: markdown
 ---
-#### Open House 2023
+#### Open House 2024
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
