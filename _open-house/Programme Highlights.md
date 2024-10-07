@@ -21,10 +21,10 @@ variant: markdown
 
 | Time | Event |
 | -------- | -------- |
-| 0900 to 1000     | STEM Experimental Workshops OR Guided School Tour
+| 0900 to 1000     | STEM Experiential Workshops OR Guided School Tour
 | 1000 to 1020     | Introduction by Principal, Mr Toh Thiam Chye |
 | 1020 to 1100     | CCA Performances and Roadshow |
-| 1100 to 1200    | STEM Experimental Workshops OR Guided School Tour     |
+| 1100 to 1200    | STEM Experiential Workshops OR Guided School Tour     |
 
 <img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
 
