@@ -100,7 +100,7 @@ For students who are not offered HMTL course by MOE, the school may offer HMTL i
 
 **7. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
 
-Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-estreaming/" target="_blank">here</a></b> for more information.
+Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-subjectselectionex/" target="_blank">here</a></b> for more information.
 																												 
 **8.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
