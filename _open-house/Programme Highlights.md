@@ -29,7 +29,7 @@ variant: markdown
 <img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2023 for Dunman Secondary School?**
+**1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2024 for Dunman Secondary School?**
 
 |  | PSLE AL Range |
 | -------- | -------- |
