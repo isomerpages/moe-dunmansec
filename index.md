@@ -19,7 +19,7 @@ sections:
       title: Open House 2024
       id: infopic
       description: Visit us on 9 November 2024!
-      button: Find out more information here
+      button: Click here to find out more
       url: e-open-house/programme-highlights/
       image: /images/E Open House/Truncated_Dunman_Open_House_Banner_2024.jpg
       alt: Image alt text
