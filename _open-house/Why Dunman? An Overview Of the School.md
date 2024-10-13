@@ -2,6 +2,7 @@
 title: Why Dunman? An Overview Of the School
 permalink: /e-open-house/why-dunman-an-overview-of-the-school/
 description: ""
+variant: markdown
 ---
 <p style="text-align: center;"><span style="color: black"><font size="9"><b>Hear From Our Educators</b></font></span></p>
 
@@ -28,4 +29,4 @@ description: ""
 
 Click <b><a href="https://www.instagram.com/dunmansec/?hl=en" target="_blank">here</a></b> to follow us on Instagram and be the first to catch our creation!
 
-<img src="/images/E%20Open%20House/dmn_insta23.jpg" style="width:60%">
+<img src="/images/E%20Open%20House/dmn_insta24.png" style="width:70%">
