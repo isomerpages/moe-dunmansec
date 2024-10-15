@@ -3,72 +3,21 @@ title: Character and Citizenship Programme
 permalink: /our-programmes/character-and-citizenship/character-n-citizenship-programme/
 description: ""
 third_nav_title: Character And Citizenship
+variant: markdown
 ---
-### Members
-<img src="/images/Department%20Photos/character%20and%20citizenship%20education%20department%20i.jpg"
-     style="width:78%">
+# Values in Action (VIA) 
 
-### Mission/ Objectives of Department
-#### Vision
-<p style="text-align: justify;">To nurture Distinctive Dunmanites who will become Ethical Change-makers</p>
+Values in Action (VIA) is an essential Student Development Experience (SDE) designed to cultivate socially responsible individuals who make a positive impact on their communities. It focuses on teaching and applying values, knowledge, and skills while encouraging student ownership and initiative. Through VIA, students are invited to reflect on their experiences, the values they've enacted, and explore ways to sustain their meaningful contributions.
 
-#### Mission
-<p style="text-align: justify;">The CCE Department is is committed to the mission of providing guidance and support for social and emotional learning to all Dunmanites in order that they become young adults of fine character, capable of achieving academic excellence and making positive contributions to Singapore.</p>
+# Secondary 1
+Students participate in the STEMviaDT program, which introduces them to Design Thinking concepts that they apply in their projects. These projects concentrate on the theme of self-care, specifically addressing aspects such as sleep, mental well-being, nutrition, and physical activity. Throughout the program, students acquire valuable skills by utilizing Figma to develop prototypes that mimic mobile screen interfaces. Additionally, they engage in 3D modeling, allowing them to use a 3D printer to transform their ideas into tangible objects. This hands-on approach not only fosters creativity but also enhances their understanding of design and technology in real-world applications
 
-### Programmes and Activities
+# Secondary 2
+are engaged in the STEMviaDT program, which allows them to revisit and deepen their understanding of Design Thinking concepts through practical application in their projects. Their initiatives focus on sustainability, addressing critical issues such as water conservation and electricity savings. As part of this program, students acquire essential skills by learning two coding methodologies: block-based coding and text-based coding. Utilizing microbits, they are able to develop functioning prototypes that enhance their presentations. This hands-on experience not only reinforces their technical abilities but also emphasizes the importance of innovative solutions to promote environmental sustainability.
 
-#### Assembly Programme
-<p style="text-align: justify;">The Assembly Programme in Dunman Secondary School is closely link to the total curriculum programme of nurturing students holistically. Its objectives are to build a school spirit and identity as well as to showcase projects and talents through a variety of performances, talks and specialised events organised both internally and externally.</p>
+# Secondary 3
+Classes actively participate in the community partnership program, collaborating closely with our community partners to design and execute a Values in Action (VIA) event that serves specific beneficiaries. This initiative provides students with the opportunity to work together as a cohesive class, fostering teamwork and a sense of shared responsibility. By engaging in this program, students not only enhance their understanding of social responsibility but also contribute positively to the community. Their collective efforts exemplify the importance of civic engagement and underscore the value of collaboration in achieving meaningful outcomes for those in need
 
-![](/images/Department%20Photos/Character%20and%20Citizenship/CCE%20Assembly%20Talk.png)
+# Secondary 4
+Students, in collaboration with the National Library Board, organize outreach event aimed at engaging the neighborhood in a positive and informative manner. The event covers essential topics such as the processes involved in farming, the growth of plants, and the origins of our food production. A primary emphasis of this outreach initiative is sustainability, highlighting the importance of environmentally responsible practices. Through this program, students will facilitate discussions that encourage community members to reflect on their relationship with food and the environment, fostering a deeper understanding of sustainable practices within the context of local agriculture.
 
-<p style="text-align: center;"><i>Feel the Power Assembly Talk</i></p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/Speak%20Good%20EL%20Week.png)
-		 
-<p style="text-align: center;"><i>Speak Good English Week Assembly Programme</i></p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/Dance.jpg)
-
-<p style="text-align: center;"><i>Dance Item by Dunman Dancers</i></p>
-
-#### Character and Citizenship Education (CCE) Lessons
-<p style="text-align: justify;">The goal of the CCE lessons is to inculcate values and build competencies in our students so as to develop them not just to be good individuals but useful citizens. Students are engaged and enriched through the special crafted in-house heritage modules where students learn about the school’s rich history. Student leaders also conduct leadership modules for their peer during CCE lessons using the leadership challenge model.</p>
-
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/CCE%20Photo%201.jpg"
-     style="width:50%;float:left">
-		 
-<img src="/images/Department%20Photos/Character%20and%20Citizenship/CCE%20Lesson%20Components.png"
-     style="width:50%;float:left">
-
-#### Cyber-Wellness Programme
-
-<p style="text-align: justify;">Through our programmes and initiatives, the Cyber-Wellness Committee aims to promote the importance of good cyber-wellness practices among Dunman students and staff, and encourage them to be safe and responsible users in cyber space.</p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/cyberwellness_3.jpg)
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/CW%20Programme.png)
-
-#### Education and Career Guidance (ECG) Programme
-
-<p style="text-align: justify;">Keeping abreast of the emerging trends and developments as well as remain in line with SkillsFuture, Dunman ECG curriculum takes on a more structured yet segmented approach to provide exposure to a wide range of education and career options to our students. Through various platforms such as Career Guidance Seminar for our graduating students, learning journeys to post-secondary institutions and work industries, and ECG guidance modules, we hope to provide students with the necessary information to make an informed decision for their post-secondary education options.</p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/ECG%20Programme%201.png)
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/ECG%20Programme%202.png)
-
-#### Values In Action (VIA) Programme
-
-<p style="text-align: justify;">The Values In Action (VIA) Programme aims to expose students to age-appropriate experiences that promote care, volunteerism and social entrepreneurship in different areas/ways. Through the Design Thinking approach, students will be taught not only how to define the problem but also generate alternative solutions, choose and implement the most appropriate one and evaluate the resulting outcome to solve real-world issues.</p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/VIA.png)
-
-<p style="text-align: justify;">Click on this <a href="https://sites.google.com/moe.edu.sg/mdd2020/g-lettered-words/" target="_blank"><b>link</b></a> to view more hand drawn bookmarks by our students. (This was a VIA project executed by our secondary two students to promote the love for the English Language as well as to share good public speaking tips.)</p>
-
-#### Counselling Programme
-<p style="text-align: justify;">The purpose of Counselling Programme providing timely counselling support for the students. Supporting the programme are the ECG counsellor, school counsellors teacher counsellors and AED (LBS - Learning Behaviour Specialist).</p>
-
-#### National Education Programme
-<p style="text-align: justify;">The goal of the National Education Programme is to develop national cohesion, cultivate the instinct for survival as a nation and boost student confidence in our nation’s future.</p>
-
-![](/images/Department%20Photos/Character%20and%20Citizenship/NE%20Programme.png)
