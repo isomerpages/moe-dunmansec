@@ -222,4 +222,5 @@ Yong Jia Ying from 4D
 Under the guidance of our principal, Mr. Toh Thiam Chye, and HOD MTL, Mr. Tan Teck Meng, the lyrics were crafted to align with Dunman’s vision. Our teachers, Mr. Toh Hong Ming and Ms. Mabel Neo, contributed additional lyrics, unifying the theme of dreams and values.
 
 Watch the 《明心德行》 music video to experience this heartfelt celebration of Dunman’s values and aspirations.
-<p style="text-align: center;"><iframe width="560" height="315" src="https://youtu.be/Z_Alkzmhdww?si=aT1BWhle9ImVHMOB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z_Alkzmhdww?si=aT1BWhle9ImVHMOB" height="315" width="560"></iframe>
