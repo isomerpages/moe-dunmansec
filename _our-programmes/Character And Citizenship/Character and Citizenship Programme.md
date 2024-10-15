@@ -21,3 +21,11 @@ Classes actively participate in the community partnership program, collaborating
 # Secondary 4
 Students, in collaboration with the National Library Board, organize outreach event aimed at engaging the neighborhood in a positive and informative manner. The event covers essential topics such as the processes involved in farming, the growth of plants, and the origins of our food production. A primary emphasis of this outreach initiative is sustainability, highlighting the importance of environmentally responsible practices. Through this program, students will facilitate discussions that encourage community members to reflect on their relationship with food and the environment, fostering a deeper understanding of sustainable practices within the context of local agriculture.
 
+
+![](/images/CCE/Community_Partner_1.jpg)
+
+![](/images/CCE/Community_Partner_2.jpg)
+
+![](/images/CCE/Community_Partner_3.jpg)
+
+![](/images/CCE/Library_VIA.jpg)
