@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA Programme
 variant: markdown
 ---
-
+![](/images/CCA%20Photos/Badminton/badminton_image1.png)
 
 Our CCA aims to nurture disciplined and daring athletes, instilled with a strong sense of duty to their team. Our players compete with unwavering determination to succeed, balanced by discernment in fair play and sportsmanship. They are gracious in victory and resilient in defeat, embodying the values of sportsmanship both on and off the court.
 
@@ -21,6 +21,8 @@ Key achievements include:
 - 2022: St Patrick’s School Invitational Cup Champions
 - **2024: C Division National School Games (League 4) Champions**
 
+
+![](/images/CCA%20Photos/Badminton/badminton_image2.png)
  # Training
 
 Our training sessions take place every Tuesday and Friday, with an additional session on Fridays as competitions approach. To sharpen our players’ skills and mental toughness, we organise regular friendly matches with other schools. In addition to our demanding weekly physical training, these matches play a crucial role in building self-confidence and preparing our players for the intensity of competitive play.
