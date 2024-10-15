@@ -224,4 +224,4 @@ Under the guidance of our principal, Mr. Toh Thiam Chye, and HOD MTL, Mr. Tan Te
 Watch the 《明心德行》 music video to experience this heartfelt celebration of Dunman’s values and aspirations.
 
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z_Alkzmhdww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://youtu.be/Z_Alkzmhdww?si=MQ4E1BXVDnds8-U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
