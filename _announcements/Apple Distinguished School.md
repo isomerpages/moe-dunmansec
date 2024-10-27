@@ -4,7 +4,7 @@ permalink: /apple-distinguished-school/
 variant: markdown
 description: ""
 ---
-#### Dunman Secondary School has been designated as an Apple Distinguished School
+### Dunman Secondary School has been designated as an Apple Distinguished School
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wJqmbTWV_WU?si=_oCoTnDzlcCL4G6K" height="315" width="560"></iframe></center>
 
