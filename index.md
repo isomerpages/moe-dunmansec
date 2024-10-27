@@ -36,7 +36,7 @@ sections:
       title: Apple Distinguished School
       subtitle: We have been designated as an
       id: infobar
-      description: <img style="width:300px;height:300px;" alt="Dunman ADO"
+      description: <img style="width:300px;height:300px;" alt="Dunman ADS"
         src="https://file.for.edu.sg/dmnadslogo.jpeg">
       button: Click here to find out more
       url: /apple-distinguished-school/
