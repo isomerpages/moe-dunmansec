@@ -23,15 +23,6 @@ sections:
       url: e-open-house/programme-highlights/
       image: /images/E Open House/Truncated_Dunman_Open_House_Banner_2024.jpg
       alt: Image alt text
-  - infopic:
-      title: Apple Distinguished School
-      subtitle: We have been designated as an
-      id: infopic
-      description: 2024-2027
-      button: Find out more here
-      url: /apple-distinguished-school/
-      image: /images/ADS2024v3.jpg
-      alt: Image alt text
   - infobar:
       title: Apple Distinguished School
       subtitle: We have been designated as an
