@@ -24,6 +24,14 @@ sections:
       image: /images/E Open House/Truncated_Dunman_Open_House_Banner_2024.jpg
       alt: Image alt text
   - infobar:
+      title: Apple Distinguished School
+      subtitle: We have been designated as an
+      id: infobar
+      description: <img style="width:350px;height:350px;" alt="Dunman ADS"
+        src="https://file.for.edu.sg/dmnadslogo.jpeg">
+      button: Click here to find out more
+      url: /apple-distinguished-school/
+  - infobar:
       title: We are in the News!
       subtitle: "CNA: future of Learning"
       id: infobar
