@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: 2024-2027
       button: Find out more here
-      url: Test
+      url: /apple-distinguished-school/
       image: /images/ADS2024.jpg
       alt: Image alt text
   - infobar:
