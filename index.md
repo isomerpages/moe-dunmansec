@@ -30,7 +30,7 @@ sections:
       description: 2024-2027
       button: Find out more here
       url: /apple-distinguished-school/
-      image: /images/ADS2024.jpg
+      image: /images/ADS2024v3.jpg
       alt: Image alt text
   - infobar:
       title: We are in the News!
