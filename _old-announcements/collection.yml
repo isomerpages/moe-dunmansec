@@ -2,6 +2,7 @@ collections:
   old-announcements:
     output: true
     order:
+      - SGC (AY2022 graduates).md
       - Booklist for AY2024.md
       - Sec 3 End of Year Academic Programme 2023.md
       - Sec 1 to 3 EYE.md
