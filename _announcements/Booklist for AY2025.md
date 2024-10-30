@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>For the Secondary 2 Booklist and Stationery List, please click&nbsp;
-<a href="/files/Sec 1 Registration/Sec_5NA_Booklist_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="/files/Announcements/Booklist AY2025/2025_Sec_2_booklist.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@ description: ""
 <p>Express</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/2exp%20booklist%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_3_Express_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p>Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/2na%20booklist%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_3_Normal_Academic_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p>Normal (Technical)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/2nt%20booklist%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_3_Normal_Technical_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -79,7 +79,7 @@ description: ""
 <p>Express</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/3exp%20booklist%20and%20stationery%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_4_Express_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ description: ""
 <p>Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/3na%20booklist%20and%20stationery%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_4_Normal_Academic_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ description: ""
 <p>Normal (Technical)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Announcements/Booklist%20AY2024/3nt%20booklist%20and%20stationery%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Announcements/Booklist AY2025/2025_Sec_4_Normal_Tech_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
