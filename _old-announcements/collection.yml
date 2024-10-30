@@ -2,6 +2,7 @@ collections:
   old-announcements:
     output: true
     order:
+      - Booklist for AY2024.md
       - Sec 3 End of Year Academic Programme 2023.md
       - Sec 1 to 3 EYE.md
       - Prelim Timetable 2023.md
