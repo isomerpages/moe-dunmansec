@@ -8,7 +8,7 @@ variant: markdown
 
 <img src="/images/Department%20Photos/english%20language%20and%20literature%20department%20i.jpg" style="width:78%">
 
-### Mission/ Objectives of Department
+### Mission / Objectives of Department
 
 <p style="text-align: justify;">The department is committed to developing all Dunmanites to be effective and empathetic communicators who appreciate the English language, its literatures and cultures and who use the language creatively, critically, competently and ethically. The department also strives to develop all teachers of the English Language and/or English Literature to possess subject mastery and deliver effective and innovative teaching strategies that will imbue a love of learning for themselves and their students alike.</p>
 
