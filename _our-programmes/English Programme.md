@@ -54,6 +54,26 @@ variant: markdown
 
 ![](/images/Department%20Photos/English%20Language/image_8.jpeg)
 
+<img src="/images/Department%20Photos/English%20Language/1ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/2ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/3ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/4ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/5ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/6ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/7ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/8ellivelit24.jpg" style="width:50%">
+<br>
+<img src="/images/Department%20Photos/English%20Language/9ellivelit24.jpg" style="width:50%">
+
+
+
 **3)Talent Development Initiatives**<br>
 <p style="text-align: justify;">Through the Language League Committee, opportunities are curated for students to hone their potential and grow their passion. This year, we received Gold, Silver and Bronze awards for the Commonwealth Essay Writing Competition.</p>
 
