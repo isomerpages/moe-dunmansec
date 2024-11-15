@@ -5,10 +5,7 @@ description: ""
 variant: markdown
 ---
 #### Our Address
-
-|  **School Address** |   |  |
-|----|----|--------|
-| 21 Tampines Street 45, Singapore 529093  |   |
+21 Tampines Street 45, Singapore 529093 
 
 #### By Bus
 * Bus number: 18 / 29, alight at bus stop along Tampines Ave 9 (Bus stop B76349)
