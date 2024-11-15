@@ -4,9 +4,16 @@ permalink: /our-contacts/school-contact/
 description: ""
 variant: tiptap
 ---
+<h3>School Contact</h3>
+<p></p>
 <h3>Academic Year 2024</h3>
 <h4>School Leaders</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,7 +65,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Heads Of Department</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -230,7 +242,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Student Development Team</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -366,7 +383,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 1 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -522,7 +545,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 2 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -694,7 +723,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 3 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -857,7 +892,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 4 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1023,7 +1064,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 5 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
