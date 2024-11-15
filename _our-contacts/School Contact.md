@@ -5,7 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h3>School Contact</h3>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Number</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Fax</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dunman_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunman_ss@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6786 2668</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6784 2164</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Academic Year 2024</h3>
 <h4>School Leaders</h4>
 <table style="minWidth: 75px">
