@@ -2,6 +2,7 @@
 title: Bookshop and Uniform Vendors
 permalink: /our-contacts/bookshop-and-uniform-vendors/
 description: ""
+variant: markdown
 ---
 ### 1.&nbsp;&nbsp; &nbsp;School Bookshop Vendor
 
@@ -42,7 +43,7 @@ Overseas Associates Pte Ltd, c/o Dunman Secondary School
 </tbody>
 </table>
 
-For more information on the purchase of books and stationery from the School Bookshop, please click&nbsp;<a href="https://www.dunmansec.moe.edu.sg/announcements/booklist-for-ay-2024/" target="_blank">here</a>.
+For more information on the purchase of books and stationery from the School Bookshop, please click&nbsp;<a href="https://www.dunmansec.moe.edu.sg/announcements/booklist-for-ay-2025/" target="_blank">here</a>.
 
 ### 2.&nbsp;&nbsp; &nbsp;School Uniform Vendor
 
