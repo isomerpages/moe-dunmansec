@@ -43,7 +43,7 @@ Overseas Associates Pte Ltd, c/o Dunman Secondary School
 </tbody>
 </table>
 
-For more information on the purchase of books and stationery from the School Bookshop, please click&nbsp;<a href="https://www.dunmansec.moe.edu.sg/announcements/booklist-for-ay-2025/" target="_blank">here</a>.
+For more information on the purchase of books and stationery from the School Bookshop, please click&nbsp;<a href="https://www.dunmansec.moe.edu.sg/booklist-for-ay2025/" target="_blank">here</a>.
 
 ### 2.&nbsp;&nbsp; &nbsp;School Uniform Vendor
 
