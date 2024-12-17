@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Questions On | Contact Person's Name | Appointment | Contact Information |
 | -------- | -------- | -------- | -------- |
-| Student Matters    | Mr Hariharan   |  Year Head<br>(Lower Secondary)     | [phey_boon_yeow@moe.edu.sg](mailto:phey_boon_yeow@moe.edu.sg)     |
+| Student Matters    | Mr Hariharan   |  Year Head<br>(Lower Secondary)     | [hariharan_subramaniam@moe.edu.sg](mailto:hariharan_subramaniam@moe.edu.sg)     |
 | Student Matters    | Mr Chong Yau Kwang     | Year Head<br>(Upper Secondary)     | [chong_yau_kwang@moe.edu.sg](mailto:chong_yau_kwang@moe.edu.sg)     |
 | Special Needs Support     | Mr Thng Chin Ann    | Allied Educator<br>(Special Needs Support Officer)     |  [thng_chin_ann@moe.edu.sg](mailto:thng_chin_an@moe.edu.sg)     |
 | Financial Assistance     | Mr Muhammad Fairuz Djabar Ali     | Corporate Support Officer     |  [muhammad_fairuz_djabar_ali@moe.edu.sg](mailto:muhammad_fairuz_djabar_ali@moe.edu.sg)     |
