@@ -93,7 +93,7 @@ journey over the next four/ five years.</p>
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
+<p>Use the following link: <a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
 </p>
 <p></p>
 <p></p>
@@ -116,7 +116,7 @@ journey over the next four/ five years.</p>
 <p>Please use the following link to register in advance for the webinar:</p>
 <p><strong><u>2025 Sec 1 Parent Engagement</u></strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
+<p><a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
 </p>
 <p>After registering, you will receive a confirmation email containing information
 about joining the webinar.</p>
