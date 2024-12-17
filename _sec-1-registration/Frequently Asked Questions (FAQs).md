@@ -97,27 +97,26 @@ who are selected will be offered HMTL in Secondary 2.</p>
 </p>
 <p><strong>4. What is MTL LDL?</strong>
 </p>
-<p>Students with difficulties coping with MTL will have the option to offer
-it at a less demanding level based on their performance at the PSLE.</p>
+<p>Students who face exceptional difficulties coping with learning MTL will
+have the option to offer G1 or G2 MTL based on their performance at the
+PSLE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgMTLLDL.png">
 </div>
-<p>Students who have met the above PSLE MTL grade criteria can choose to
-offer MTL at level they prefer.</p>
-<p>With the provision to offer MTL at G1, G2 or G3 MTL ‘B’ is discontinued
-in secondary schools from 2024.</p>
+<p>With greater flexibility afforded by the MTL offerings at G1, G2 and G3,
+MTL 'B' will be discontinued in secondary schools from 2024.</p>
 <p><strong>Foreign Languages (FL) or Asian Languages (AL)&nbsp;<u>in lieu of Mother Tongue Language</u>&nbsp;(Not as 3rd&nbsp;Languages)</strong>
 </p>
 <p><strong>5. Do students who have gotten approval to take FL/AL subjects in lieu of MTL in Primary School need to re-apply for the approval?</strong>
 </p>
-<p>No. Secondary 1 students who have gotten approval to take a FL / AL&nbsp;<u>in lieu of MTL</u>&nbsp;in
+<p>No. Secondary 1 students who have gotten approval to take a FL/ AL&nbsp;<u>in lieu of MTL</u>&nbsp;in
 Primary School do not need to re-apply for approval.</p>
 <p><strong>6. Does the school provide AL/FL lessons in school?</strong>
 </p>
-<p>No. Students are required to learn the AL/FL privately at the secondary
+<p>No. Students are required to learn the AL/ FL privately at the secondary
 level, as instruction is not provided by MOE. Students are required to
 provide documentation (e.g. marked assignment, result slip, payment receipt)
-to the school to show that they are learning AL/FL regularly.</p>
+to the school to show that they are learning AL/ FL regularly.</p>
 <p><strong>Application for Third Languages - L3s (FL/ AL/ CSP/ MSP)</strong>
 </p>
 <p><strong>7. Who are eligible to take Third Languages?</strong>
@@ -134,7 +133,7 @@ applicants exceed the vacancies, applicants are selected based on PSLE
 results.)</p>
 <p><strong>8. Does the school provide L3s during school curriculum?</strong>
 </p>
-<p>No. Students will have to attend their L3s lessons after school curriculum
+<p>No. Students will have to attend their L3 lessons after school curriculum
 at the respective allocated Language Centres.
 <br>
 </p>
@@ -158,11 +157,11 @@ Foreign or Asian Language.</p>
 overall learning.</p>
 </li>
 </ul>
-<p>Students who wish to apply in Secondary School level, parents are to contact
-MTL HOD for further advice. Applicants with medical background or special
-needs will need to submit all reports when applying for exemption and all
-applications are subject to approval by MOE.</p>
-<p>Students who had been exempted in Primary School do not need to re-apply.</p>
+<p>Students who wish to apply for MTL exemption in secondary school are to
+contact HOD/ MTL for further advice. Applicants with medical conditions
+or special needs will need to submit all reports when applying for exemption
+and all applications are subject to approval by MOE.</p>
+<p>Students who were exempted in primary school do not need to re-apply.</p>
 <p></p>
 <h4>Full Subject-Based Banding (Full SBB)</h4>
 <p>With the implementation of Full SBB for Sec 1 students starting from 2024,
