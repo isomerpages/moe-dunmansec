@@ -12,7 +12,7 @@ about your new journey or a parent curious about the environment your child
 will thrive in, this tour is designed just for you.</p>
 <p></p>
 
-<p style="text-align: justify;">You can view the 360 tour from your computer or mobile devices. For interactive experience, you can click on the hotspot to visit different locations. For both immersive and interactive experience, you can view the 360 tour using Google Cardboard VR headset where you can go to different locations by pausing at the hotspot for 3 seconds.</p>
+
 
 <img src="/images/E%20Open%20House/virtual_sch_tour.png" style="width:90%">
 
