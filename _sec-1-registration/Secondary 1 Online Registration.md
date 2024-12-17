@@ -6,29 +6,27 @@ variant: tiptap
 ---
 <p>Dear Parent/ Guardian,</p>
 <p>We are delighted that your child/ ward has chosen to be part of our Dunman
-family. We understand that this transition stage from primary to secondary
-school will be a new experience for him/ her. Hence, we have planned a
-series of programmes to help your child/ ward settle comfortably into the
-next exciting phase of his/ her growing years.</p>
+family. We understand that the transition from primary to secondary school
+will be a new experience for him/ her. Hence, we have planned a series
+of programmes to help your child/ ward settle comfortably into the next
+exciting phase of his/ her growing years.</p>
 <p></p>
 <h4>1. Sec 1 e-Registration Exercise</h4>
-<p>We would require you to participate in the Sec 1 e-registration exercise
-by providing the school with necessary information by 23 December 2024
-for our Secondary 1 Orientation Experience planning and for other administrative
-purposes. Please click <a href="https://for.edu.sg/2025dmnsec1registration" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan the QR
-Code below:</p>
+<p>Please complete the Sec 1 e-registration exercise by 23 December 2024
+through the link <a href="https://for.edu.sg/2025dmnsec1registration" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+scan the QR Code below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
 </div>
 <h4>2. Sec 1 Parent Engagement Webinar</h4>
-<p>We will be conducting a webinar zoom session on <strong>Monday 30th December 2024</strong> from
-4:00 p.m. to 5:00 p.m. to engage our parents on the following:</p>
+<p>We will be conducting a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
+4:00 p.m. to 5:00 p.m. for parents/ guardians on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Welcome Address by School Principal</p>
 </li>
 <li>
-<p>Cohort Administration Briefing by Year Head</p>
+<p>Cohort Administration Briefing by Year Head (Lower Secondary)</p>
 </li>
 <li>
 <p>HMT Matters by HOD/MTL</p>
@@ -49,18 +47,17 @@ Code below:</p>
 <p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
 </p>
 <p>After registering, you will receive a confirmation email containing information
-about joining the ZOOM session.</p>
-<h4>3.&nbsp;Parents Gateway App</h4>
-<p>We strongly encourage parents/ guardians to download and install the Parents
-Gateway (PG) App. This is because we are using PG as our main mode of communication
-to all parents during your child’s/ward’s journey with the school.</p>
-<p>Please view the video <a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">here</a> for step-by-step
-guide to install the PG App.&nbsp;</p>
+about the session.</p>
+<h4>3.&nbsp;Parents Gateway (PG) Application</h4>
+<p>We strongly encourage parents/ guardians to download and install the PG
+App as PG is our main mode of communication with all parents/ guardians.</p>
+<p>Please view the video <a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">here</a> for the step-by-step
+guide to install PG.&nbsp;</p>
 <h4>4.&nbsp;Class Allocation</h4>
-<p>Your child/ ward class allocation will be reflected on Parents Gateway
-App by 27 December 2024. Alternatively, students can also view their class
-allocation from the noticeboard placed outside school’s general office
-during the first day of school.</p>
+<p>Your child/ ward class allocation will be reflected on PG by 27 December
+2024. Alternatively, students can also view their class allocation from
+the noticeboard placed outside school’s general office during the first
+day of school.</p>
 <p>Finally, if you have any additional queries, please contact the school’s
 general office at 6786 2668. We look forward to working with you closely
 in the best interests of your child/ ward as they embark on their Dunman
@@ -159,8 +156,8 @@ on 30 Dec 2024</p>
 <p><strong>Only for eligible students.</strong>
 </p>
 <p>Parents/ Guardians of eligible students will receive a Parents Gateway
-(PG) App message by 20 December 2024 to inform that your child/ ward if
-he/ she is offered to take subject(s) at a more demanding level (MDL).</p>
+(PG) message by 20 December 2024 to inform that your child/ ward if he/
+she is offered to take subject(s) at a more demanding level (MDL).</p>
 <p>Parents/ Guardians to respond directly via PG App by 24 December 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,8 +175,8 @@ he/ she is offered to take subject(s) at a more demanding level (MDL).</p>
 <p><strong>Only for eligible students.</strong>
 </p>
 <p>Parents/ Guardians of eligible students will receive a Parents Gateway
-(PG) App message by 20 December 2024 to inform that your child/ ward is
-eligible for HMT.</p>
+(PG) message by 20 December 2024 to inform that your child/ ward is eligible
+for HMT.</p>
 <p>Parents/ Guardians can view the form in PG app and accept the offer by
 giving consent via PG by 24 December.</p>
 </td>
