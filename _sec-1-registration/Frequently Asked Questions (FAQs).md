@@ -57,17 +57,17 @@ of appealing for secondary school transfer based on non-medical reasons.</p>
 </li>
 <li>
 <p>Students, with pending appeals, should still report to the posted secondary
-school on 2 January 2024.</p>
+school on 2 January 2025.</p>
 </li>
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the
-school by 3 January 2024.</p>
+school by 3 January 2025.</p>
 </li>
 </ul>
 <p><strong>Please click <a href="https://for.edu.sg/2025-sec1-transfer-appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>  <strong>or scan the QR Code to appeal to transfer to Dunman Secondary School.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025appeal.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025appeal.jpg">
 </div>
 <h4>Mother Tongue Languages (MTL)</h4>
 <p><strong>Higher Mother Tongue Languages (Higher Chinese/ Higher Malay/ Higher Tamil)</strong>
