@@ -6,7 +6,7 @@ description: ""
 ---
 #### Virtual Campus Tour
 
-<p>Step into the vibrant world of Dunman Secondary School with our interactive
+<p style="text-align: justify;">Step into the vibrant world of Dunman Secondary School with our interactive
 Virtual Campus Tour! Whether you're an eager Secondary 1 student excited
 about your new journey or a parent curious about the environment your child
 will thrive in, this tour is designed just for you.</p>
