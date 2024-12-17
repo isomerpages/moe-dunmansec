@@ -93,14 +93,12 @@ journey over the next four/ five years.</p>
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the following link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
+<p>Use the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
 </p>
 <p></p>
-<p>QR Code</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +138,7 @@ on 30 Dec 2024</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025parentqn.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025parentqn.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +232,8 @@ AEP/MEP Centres. In view of the extended Art/Music curriculum, AEP/ MEP
 students will not be offered Design and Technology (D&amp;T) and Food and
 Consumer Education (FCE) at the Lower Secondary level to ensure that their
 overall curriculum load is manageable.</p>
-<p>More information is available in web links provided on the left column.</p>
+<p></p>
+<p>More information is available in the following document <a href="/files/Sec 1 Registration/2025_AEP_and_MEP_Centre_Briefing_Slides_to_be_uploaded_to_website.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 January 2025</p>
