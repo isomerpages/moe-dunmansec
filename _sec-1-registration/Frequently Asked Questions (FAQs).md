@@ -164,11 +164,12 @@ and all applications are subject to approval by MOE.</p>
 <p>Students who were exempted in primary school do not need to re-apply.</p>
 <p></p>
 <h4>Full Subject-Based Banding (Full SBB)</h4>
-<p>With the implementation of Full SBB for Sec 1 students starting from 2024,
-students who offer most subjects at G1 or G2 are eligible to offer English
-Language (EL), Mother Tongue Languages (MTL), Mathematics (MA) and Science
-(SCI) at a more demanding level from the start of S1 if they have performed
-well in these subjects at the Primary School Leaving Examination (PSLE).</p>
+<p>With the implementation of Full SBB for Secondary 1 students starting
+from 2024, students who offer most subjects at G1 or G2 are eligible to
+offer English Language (EL), Mother Tongue Languages (MTL), Mathematics
+(MA) and Science (SCI) at a more demanding level from the start of Secondary
+1 if they have performed well in these subjects at the Primary School Leaving
+Examination (PSLE).</p>
 <p><strong>Offering Subjects at More Demanding Levels (MDL)</strong>
 </p>
 <p><strong>1. What are the criteria for a student to be offered to take subject at a more demanding level?</strong>
@@ -179,10 +180,9 @@ well in these subjects at the Primary School Leaving Examination (PSLE).</p>
 </div>
 <p><strong>2. How will I know if my child is offered with subject(s) at MDL?</strong>
 </p>
-<p>Students who are eligible for taking subject at MDL will be notified on
-the offer(s) through Parents’ Gateway (PG App) by <strong>20 December 2024.&nbsp; </strong>&nbsp;</p>
-<p><strong>3. For information on Full SBB, please visit our MOE Website: </strong>
+<p>Students who are eligible to take subject(s) at MDL will be notified through
+Parents’ Gateway (PG) by <strong>20 December 2024.&nbsp; </strong>&nbsp;</p>
+<p><strong>3. For information on Full SBB, please visit the MOE Website: </strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
-<p><strong>where you can find out all the information pertaining the Full SBB.</strong>
-</p>
+<p>where you can find out all the information pertaining the Full SBB.</p>
