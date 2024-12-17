@@ -106,7 +106,7 @@ One, Singapore 415934</p>
 <p>✓ During December period (Strictly by appointment) - 10:00 a.m. to 7:00
 p.m. (open daily including Sundays and Public Holiday)&nbsp;</p>
 <p></p>
-<p><strong>2025 Financial Assistance Scheme (FAS) </strong>
+<p><strong>2025 Financial Assistance Scheme (FAS)</strong>
 </p>
 <p>Students on 2025 FAS are required to collect their school attire at the
 uniform store in school. Please bring along the FAS approval letter and
