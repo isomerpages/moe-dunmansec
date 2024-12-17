@@ -43,7 +43,7 @@ Code below:</p>
 <p></p>
 <p>The link to register for the engagement session is as follow:</p>
 <p>Topic: 2025 Sec 1 Parent Engagement Session</p>
-<p>Registration Link: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
+<p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
 </p>
 <p>After registering, you will receive a confirmation email containing information
 about joining the ZOOM session.</p>
