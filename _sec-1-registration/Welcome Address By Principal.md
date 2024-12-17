@@ -19,11 +19,11 @@ At Dunman Secondary, we<br>
 
 <p style="text-align: justify;">Although the secondary school journey might seem challenging initially, with a wider range of subjects, Co-Curricular Activities and relatively longer school days, rest assured that your seniors and teachers will be there to support you and nurture you. We believe that every Dunmanite has the potential to grow into ethical leaders who bring about positive changes in the community.</p>
 
-<p style="text-align: justify;">To smoothen your transition from primary to secondary school life, our student councillors and peer support leaders will be conducting our unique <b>One Dunman Experience</b>, a 3-day non-residential camp from <b>3 to 5 January 2024</b> for our new Dunmanites.</p>
+<p style="text-align: justify;">To smoothen your transition from primary to secondary school life, our student councillors and peer support leaders will be conducting our unique <b>One Dunman Experience</b>, a distinctive 4-day non-residential camp for our new Dunmanites, taking place on the 3rd, 8th, 9th, and 10th of January 2025, culminating in an induction ceremony on the final day.</p>
 
 <p style="text-align: justify;">I would like to encourage you to invite your parents to join our Dunman Parent Support Group known as “Dedicated &amp; Supportive Parent” (DSP) Group. Our DSP is a strong network of parents who organise activities for parents such as Parent-Child Bonding Maker activities, mental well-being webinar series and sharing of good parenting strategies. Your parents’ involvement in school events also has a very positive impact on your growth and development at Dunman Secondary. We look forward to co-creating a stronger home-school partnership with your parents.</p>
 
-<p style="text-align: justify;">I look forward to welcoming you personally on your first day on 2 January 2024 at Dunman Secondary. </p>
+<p style="text-align: justify;">I look forward to welcoming you personally on your first day on 2 January 2025 at Dunman Secondary. </p>
 
 Mr Toh Thiam Chye<br>
 Principal<br>
