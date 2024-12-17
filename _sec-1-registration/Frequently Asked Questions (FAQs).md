@@ -12,8 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>There are&nbsp;<strong>three</strong>&nbsp;lists of FAQs available for
-parents.
+<p>There are&nbsp;<strong>three</strong>&nbsp;sections of FAQs available.
 <br>1)&nbsp; &nbsp; &nbsp;Transfer to Dunman Secondary School
 <br>2)&nbsp; &nbsp; &nbsp;Mother Tongue Languages (MTL)
 <br>3)&nbsp; &nbsp; &nbsp;Full Subject-Based Banding (Full SBB)
@@ -24,16 +23,17 @@ parents.
 </tbody>
 </table>
 <h4>Transfer to Dunman Secondary School</h4>
-<p><strong>1. My child/ ward has accepted an offer for DSA, can he/ she apply a transfer to Dunman Secondary School?</strong>
+<p><strong>1. My child/ ward has accepted an offer for DSA, can he/ she apply for a transfer to Dunman Secondary School?</strong>
 </p>
 <p>Direct School Admission – Secondary (DSA-Sec) students are expected to
 honour their commitments to study in the allocated DSA-Sec school for the
 entire duration of the programme they are admitted to.</p>
 <p><strong>2. Can my child/ ward apply for a transfer due to medical reasons?</strong>
 </p>
-<p>Please contact the school’s general offer @ 6786 2668. For appeals that
-are based on medical reasons (serious medical conditions or sever physical
-impairments), please request through the posted school before 12pm on&nbsp;<strong>19 December 2024</strong>.</p>
+<p>Please contact the school’s general office @ 6786 2668. For appeals that
+are based on medical reasons (serious medical conditions or severe physical
+impairments), please request through the posted school before 12:00 p.m.
+on&nbsp;<strong>19 December 2024</strong>.</p>
 <p>
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
@@ -49,14 +49,14 @@ admission criteria.</p>
 of appealing for secondary school transfer based on non-medical reasons.</p>
 </li>
 <li>
-<p>The deadline for the submission of appeals will be on&nbsp;<strong>24 December 2024</strong>,
-12pm. Late submission will not be allowed.</p>
+<p>The deadline for the submission of appeals will be on&nbsp;<strong>23 December 2024</strong>, <strong>5:00 p.m</strong>.
+Late submissions will not be allowed.</p>
 </li>
 <li>
-<p>School will not disclose reasons for selection/ non-selection of students.</p>
+<p>The school will not disclose reasons for selection/ non-selection of students.</p>
 </li>
 <li>
-<p>Students, with pending appeals, should still report to the posted secondary
+<p>Students with pending appeals should still report to the posted secondary
 school on 2 January 2025.</p>
 </li>
 <li>
@@ -79,28 +79,26 @@ held concurrently with MTL lessons during curriculum time.&nbsp;</p>
 <p><strong>2. Who are eligible to opt for HMTL subject in Sec 1?</strong>
 </p>
 <p>Students with a PSLE Score of 8 or better and offer MTL at PSLE, or&nbsp;students
-with a PSLE Score of 9-14 and obtained AL1/AL2 in MTL or Distinction/Merit&nbsp;in
-HMTL are eligible for HMTL.</p>
-<p>Incoming Sec 1 students were informed of their eligibility for SAP schools
-and HMTL via the Eligibility Letter after the release of PSLE Results.</p>
-<p><u>Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG App). Parents are expected to respond via PG App by&nbsp;</u><strong><u>24 December 2024</u></strong><u>&nbsp;to indicate if they accept the offer(s).</u>
+with a PSLE Score of 9-14 and obtained AL1/ AL2 in MTL or Distinction/
+Merit&nbsp;in HMTL are eligible for HMTL.</p>
+<p>Incoming Secondary 1 students were informed of their eligibility for HMTL
+via the Eligibility Letter after the release of PSLE Results.</p>
+<p><u>Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG). Parents are to respond via PG by&nbsp;</u><strong><u>24 December 2024</u></strong><u>&nbsp;to indicate if they accept the offer(s).</u>
 </p>
 <p><strong>3. For students who were not eligible for HMTL subject but are keen to take on HMTL, when can they apply for HMTL?</strong>
 </p>
-<p>For Secondary 1 students who are offered G3 MTL subject but not eligible
-at the beginning of the year, they may be offer HMTL subject at the end
-of their Secondary 1 academic year.</p>
+<p>For Secondary 1 students who are offered G3 MTL but not eligible at the
+beginning of the year, may be offered HMTL at the end of Secondary 1.</p>
 <p>The selection criteria will be based on their academic achievements in
-their end-of-year examination results (overall academic performance and
-MTL end of year results) and by recommendation from their subject teachers.
-Only students who are selected will be offer HMTL and they will start their
-lesson in Secondary 2.</p>
+their end-of-year examination (overall academic performance and MTL end-of-year
+results) and by recommendation from their subject teachers. Only students
+who are selected will be offered HMTL in Secondary 2.</p>
 <p><strong>Mother Tongue Language at a Less Demanding Level (LDL)</strong>
 </p>
 <p><strong>4. What is MTL LDL?</strong>
 </p>
-<p>Students with difficulties coping with the subject have the option to
-offer MTL at a less demanding level based on their performance at the PSLE.</p>
+<p>Students with difficulties coping with MTL will have the option to offer
+it at a less demanding level based on their performance at the PSLE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgMTLLDL.png">
 </div>
