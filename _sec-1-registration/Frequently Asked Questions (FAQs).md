@@ -38,7 +38,7 @@ impairments), please request through the posted school before 12pm on&nbsp;<stro
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
-in 2023 may use this link to appeal for transfer to Dunman Secondary School.
+in 2024 may use this link to appeal for transfer to Dunman Secondary School.
 Their PSLE score should meet the school’s cut-off point of the posting
 year. Transfer will be subjected to available vacancies and the school’s
 admission criteria.</p>
