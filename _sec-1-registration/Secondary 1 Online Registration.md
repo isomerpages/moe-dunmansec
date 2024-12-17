@@ -31,7 +31,10 @@ Code below:</p>
 <p>Cohort Administration Briefing by Year Head</p>
 </li>
 <li>
-<p>Full SBB/HMT Matters by HOD/MTL</p>
+<p>HMT Matters by HOD/MTL</p>
+</li>
+<li>
+<p>Full SBB Matters by HOD/C&amp;T</p>
 </li>
 <li>
 <p>Personal Learning Device (PLD) Updates by HOD/ICT</p>
