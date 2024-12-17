@@ -24,10 +24,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Secondary 1 Booklist, please click&nbsp;<a href="/files/Sec 1 Registration/Annex_B___Sec_1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For Secondary 1 Booklist, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Secondary 1 Stationery list, please click&nbsp;<a href="/files/Sec 1 Registration/Annex_C___Sec_1_Stationery_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For Secondary 1 Stationery list, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Stationery_List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Annex_D___Information_for_Sale_of_Uniforms_2024_DMNSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
