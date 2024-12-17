@@ -2,11 +2,11 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Virtual Campus Tour.md
       - Welcome Address By Principal.md
       - Secondary 1 Online Registration.md
       - Transition To Secondary School.md
       - First Day Of School.md
       - Purchases.md
       - Frequently Asked Questions (FAQs).md
+      - Virtual Campus Tour.md
       - Contact Information.md
