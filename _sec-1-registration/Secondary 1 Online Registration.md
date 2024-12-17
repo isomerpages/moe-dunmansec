@@ -93,7 +93,7 @@ journey over the next four/ five years.</p>
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the following link: <a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
+<p>Use the following link: <a href="https://for.edu.sg/2025dmnsec1registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
 </p>
 <p></p>
 <p></p>
