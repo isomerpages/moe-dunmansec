@@ -4,4 +4,140 @@ permalink: /sec-1-registration/purchases/
 description: ""
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><h4>Booklist</h4></th><th rowspan="1" colspan="1"><h4>Stationery list</h4></th><th rowspan="1" colspan="1"><h4>Uniforms</h4></th></tr><tr><td rowspan="1" colspan="1"><p>For Secondary 1 Booklist, please click&nbsp;<a href="/files/Sec 1 Registration/3a_sec_1_booklist_2024__final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p></td><td rowspan="1" colspan="1"><p>For Secondary 1 Stationery list, please click&nbsp;<a href="/files/Sec 1 Registration/3b_Sec_1_Stationery_List_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p></td><td rowspan="1" colspan="1"><p>For Secondary 1 School Uniforms, please click<a href="/files/Sec 1 Registration/3c_information_for_sale_of_uniforms_2024_dmnss.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;here</a>.</p></td></tr></tbody></table><h4>Purchase of Textbooks and School Uniforms</h4><p>Besides home delivery, to provide more flexibility and convenience to parents/guardians, you may also opt for onsite purchase or self-collection of books and school uniforms ordered online at the school. Please note</p><table><tbody><tr><td rowspan="1" colspan="1"><h4><strong>Textbooks</strong></h4><p><br><strong><u>Home Delivery Option</u></strong><br>Online purchase available from&nbsp;<strong>20 to 21 Dec&nbsp;2023</strong><br>Cost of home delivery is $13.00</p><p>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st week/ 2nd week of Jan)</p><p><br><strong><u>Self-Collection Option</u></strong><br>Online purchase available from&nbsp;<strong>20 to 21 Dec&nbsp;2023</strong><br>Collection available on&nbsp;<strong>21, 22, 26, 27,28 &nbsp;Dec 2023</strong><br><br><strong><u>Onsite Purchase Option</u></strong><br>Available from <strong>21, 22, 26, 27,28 &nbsp;Dec 2023</strong></p></td><td rowspan="1" colspan="1"><p><strong>Online purchase</strong><br>To purchase textbooks and to book a self-collection time slot, please click <a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan the QR code below.<br>Web site:&nbsp;<a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.oapl.sg/</a><br>Alternatively, you may scan the QR code below.</p><div class="isomer-image-wrapper"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Sec%201%20Registration/OnlinePurchase_OAPL.jpg"></div><p><br>You can make an appointment at the above website for Onsite walk-in purchase.<br>Priority will be given to customer with appointment.</p></td></tr><tr><td rowspan="1" colspan="1"><h4><strong>School Uniforms</strong></h4><p><br>Home Delivery Option<br>Online purchase available from&nbsp;20 Dec&nbsp;2023.</p><p>Cost of home delivery is $10.00</p><p>Home delivery timeframe is 3&nbsp;- 5 working days.<br><br><strong><u>Self-Collection Option</u></strong><br>Online purchase available from&nbsp;<strong>20 Dec 2023.</strong></p><p>Collection will be done at IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31 Enterprise One, Singapore 415934</p><p></p><p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong></p><p>Available on <strong>22, 26, 27, 28 Dec 2023</strong></p></td><td rowspan="1" colspan="1"><p>&nbsp;</p><p>To purchase school uniforms online, please visit website:&nbsp;<a href="http://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a><u> </u>(select Dunman Secondary School)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgFirstDay2024BooklistUniforms_1.png"></div><p>&nbsp;Walk-in purchase or Self-collection of uniforms can be done at the following address: IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31 Enterprise One, Singapore 415934</p><p>• Nearest MRT Station: DT27 UBI (Approx. 10 minutes’ walk)</p><p>• Only 1 adult can accompany the student into the retail store.</p><p>• Business Operation Hours:</p><p>✓ During November period - 10am to 6pm (Mondays to Fridays) - 10am to 3pm (Saturdays) - Closed on Sundays and Public Holidays</p><p>✓ During December period (Strictly by appointment) - 10am to 7pm (open daily include Sundays and Public Holiday&nbsp;</p><p></p><p><strong>2024 FAS students</strong></p><p>2024 FAS students are required to collect their school attire at the uniform store in school. Please bring along the FAS approval letter and refer to it for collection details.&nbsp;</p><p>For Enquiries or Assistance, please contact the vendor directly: School Uniforms: IN-TREND UNIFORMS Tel: 67410930 (refer to the above for business operation hours) Email: sales@itu.com.sg</p></td></tr></tbody></table><h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgFirstDay2024BooklistUniforms_2.png"></div><h4>Vistor Management Procedures</h4><ul data-tight="true" class="tight"><li><p>All visitors (including students) are required to scan the QR code at the security post (main school gate) for registration.</p></li><li><p>Accompanying adults or students who are unwell should not enter the school and should reschedule their appointment.</p></li><li><p>Please restrict the visiting areas to Block B (buying books) and Block C (buying school uniforms) only.</p></li></ul><h4>Parking Arrangement</h4><p>As car parks in school are reserved for season parking holders, you may park your vehicle in nearby HDB carparks next to the school.&nbsp;&nbsp;You may drive into the school to drop off or pick up passengers.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Booklist</h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4>Stationery List</h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4>Uniforms</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Secondary 1 Booklist, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Secondary 1 Stationery list, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Stationery_List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Annex_D___Information_for_Sale_of_Uniforms_2024_DMNSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Purchase of Textbooks and School Uniforms</h4>
+<p></p>
+<h4><strong>Textbooks</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Home Delivery Option</u></strong>
+<br>Online purchase is available from&nbsp;<strong>18 to 20 December&nbsp;2024 </strong>(Devlivery
+charges apply)
+<br>
+<br><strong><u>Onsite Purchase Option</u></strong>
+<br>Available from <strong>19, 20, 23, 26 and 27 December 2024.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Online purchase</u></strong>
+<br>To purchase textbooks and to book a self-collection time slot, please
+click <a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+scan the QR code below.
+<br>Website:&nbsp;<a href="http://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.oapl.sg/</a>
+<br>Alternatively, you may scan the QR code below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Sec%201%20Registration/OnlinePurchase_OAPL.jpg">
+</div>
+<p>
+<br>You can make an appointment at the above website for Onsite walk-in purchase.
+<br>Priority will be given to customer with appointment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>School Uniforms</strong></h4>
+<p>
+<br><strong><u>Home Delivery Option</u></strong>
+<br>Online purchase is available from&nbsp;<strong>18 December&nbsp;2024.</strong>
+</p>
+<p>Please allow for 3&nbsp;- 5 working days for home delivery.
+<br>
+<br><strong><u>Self-Collection Option</u></strong>
+<br>Online purchase is available from&nbsp;<strong>18 December 2024.</strong>
+</p>
+<p>Collection will be done at IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31
+Enterprise One, Singapore 415934</p>
+<p></p>
+<p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong>
+</p>
+<p>Available on <strong>19, 20, 23, 26 December 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>To purchase school uniforms online, please visit website:&nbsp;<a href="http://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a><u> </u>(select
+Dunman Secondary School)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgFirstDay2024BooklistUniforms_1.png">
+</div>
+<p>&nbsp;Walk-in purchase or self-collection of uniforms can be done at the
+following address: IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31 Enterprise
+One, Singapore 415934</p>
+<p>• Nearest MRT Station: DT27 UBI (Approx. 10 minutes walk)</p>
+<p>• Only 1 adult can accompany the student into the retail store.</p>
+<p>• Business Operation Hours:</p>
+<p>✓ During December period (Strictly by appointment) - 10:00 a.m. to 7:00
+p.m. (open daily including Sundays and Public Holiday)&nbsp;</p>
+<p></p>
+<p><strong>2025 Financial Assistance Scheme (FAS)</strong>
+</p>
+<p>Students on 2025 FAS are required to collect their school attire at the
+uniform store in school. Please bring along the FAS approval letter and
+refer to it for collection details.&nbsp;</p>
+<p>For enquiries or assistance, please contact the vendor directly: School
+Uniforms: IN-TREND UNIFORMS Tel: 67410930 (refer to the above for business
+operation hours) Email: sales@itu.com.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms in School</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/textbookuni2025updated.png">
+</div>
+<h4>Visitor Management Procedures</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>All visitors (including students) are required to scan the QR code at
+the security post (main school gate) for registration.</p>
+</li>
+<li>
+<p>Accompanying adults or students who are unwell should not enter the school
+and should reschedule their appointment.</p>
+</li>
+<li>
+<p>Please restrict the visiting areas to Block B (buying books) and Block
+C (buying school uniforms) only.</p>
+</li>
+</ul>
+<h4>Parking Arrangement</h4>
+<p>As car parks in school are reserved for season parking holders, you may
+park your vehicle in nearby HDB carparks next to the school.&nbsp;&nbsp;You
+may drive into the school to drop off or pick up passengers.</p>
