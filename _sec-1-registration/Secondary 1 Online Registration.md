@@ -175,7 +175,7 @@ he/ she is offered to take subject(s) at a more demanding level (MDL).</p>
 <p><strong>Only for eligible students.</strong>
 </p>
 <p>Parents/ Guardians of eligible students will receive a Parents Gateway
-(PG) App message by 22 December 2023 to inform that your child/ ward is
+(PG) App message by 20 December 2024 to inform that your child/ ward is
 eligible for HMT.</p>
 <p>Parents/ Guardians can view the form in PG app and accept the offer by
 giving consent via PG by 24 December.</p>
