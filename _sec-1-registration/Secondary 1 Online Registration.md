@@ -122,7 +122,7 @@ journey over the next four/ five years.</p>
 about joining the webinar.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 December 2023</p>
+<p>27 December 2024</p>
 </td>
 </tr>
 <tr>
