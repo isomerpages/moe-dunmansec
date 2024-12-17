@@ -126,7 +126,7 @@ operation hours) Email: sales@itu.com.sg</p>
 </table>
 <h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/textbookuni2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/textbookuni2025updated.png">
 </div>
 <h4>Vistor Management Procedures</h4>
 <ul data-tight="true" class="tight">
