@@ -36,9 +36,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Purchase of Textbooks and School Uniforms</h4>
-<p>Besides home delivery, to provide more flexibility and convenience to
-parents/guardians, you may also opt for onsite purchase or self-collection
-of books and school uniforms ordered online at the school.</p>
+<p></p>
 <h4><strong>Textbooks</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
@@ -50,13 +48,11 @@ of books and school uniforms ordered online at the school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Home Delivery Option</u></strong>
-<br>Online purchase available from&nbsp;<strong>18 to 20 Dec&nbsp;2024</strong>
-<br>Cost of home delivery is $13.00</p>
-<p>Home delivery timeframe is 7 - 10 working days (Orders may reach on 1st
-week/ 2nd week of Jan)
+<br>Online purchase is available from&nbsp;<strong>18 to 20 December&nbsp;2024 </strong>(Devlivery
+charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
-<br>Available from <strong>19, 20, 23, 26 and 27 &nbsp;Dec 2024.</strong>
+<br>Available from <strong>19, 20, 23, 26 and 27 December 2024.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,19 +75,19 @@ scan the QR code below.
 <h4><strong>School Uniforms</strong></h4>
 <p>
 <br><strong><u>Home Delivery Option</u></strong>
-<br>Online purchase available from&nbsp;<strong>18 Dec&nbsp;2024.</strong>
+<br>Online purchase is available from&nbsp;<strong>18 December&nbsp;2024.</strong>
 </p>
-<p>Home delivery timeframe is 3&nbsp;- 5 working days.
+<p>Please allow for 3&nbsp;- 5 working days for home delivery.
 <br>
 <br><strong><u>Self-Collection Option</u></strong>
-<br>Online purchase available from&nbsp;<strong>18 Dec 2024.</strong>
+<br>Online purchase is available from&nbsp;<strong>18 December 2024.</strong>
 </p>
 <p>Collection will be done at IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31
 Enterprise One, Singapore 415934</p>
 <p></p>
 <p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong>
 </p>
-<p>Available on <strong>19, 20, 23, 26 Dec 2024</strong>
+<p>Available on <strong>19, 20, 23, 26 December 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,34 +97,32 @@ Dunman Secondary School)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/imgFirstDay2024BooklistUniforms_1.png">
 </div>
-<p>&nbsp;Walk-in purchase or Self-collection of uniforms can be done at the
+<p>&nbsp;Walk-in purchase or self-collection of uniforms can be done at the
 following address: IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31 Enterprise
 One, Singapore 415934</p>
-<p>• Nearest MRT Station: DT27 UBI (Approx. 10 minutes’ walk)</p>
+<p>• Nearest MRT Station: DT27 UBI (Approx. 10 minutes walk)</p>
 <p>• Only 1 adult can accompany the student into the retail store.</p>
 <p>• Business Operation Hours:</p>
-<p>✓ During November period - 10am to 6pm (Mondays to Fridays) - 10am to
-3pm (Saturdays) - Closed on Sundays and Public Holidays</p>
-<p>✓ During December period (Strictly by appointment) - 10am to 7pm (open
-daily include Sundays and Public Holiday&nbsp;</p>
+<p>✓ During December period (Strictly by appointment) - 10:00 a.m. to 7:00
+p.m. (open daily including Sundays and Public Holiday)&nbsp;</p>
 <p></p>
-<p><strong>2025 FAS students</strong>
+<p><strong>2025 Financial Assistance Scheme (FAS) </strong>
 </p>
-<p>2025 FAS students are required to collect their school attire at the uniform
-store in school. Please bring along the FAS approval letter and refer to
-it for collection details.&nbsp;</p>
-<p>For Enquiries or Assistance, please contact the vendor directly: School
+<p>Students on 2025 FAS are required to collect their school attire at the
+uniform store in school. Please bring along the FAS approval letter and
+refer to it for collection details.&nbsp;</p>
+<p>For enquiries or assistance, please contact the vendor directly: School
 Uniforms: IN-TREND UNIFORMS Tel: 67410930 (refer to the above for business
 operation hours) Email: sales@itu.com.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms In School</h4>
+<h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms in School</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/textbookuni2025updated.png">
 </div>
-<h4>Vistor Management Procedures</h4>
+<h4>Visitor Management Procedures</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All visitors (including students) are required to scan the QR code at
