@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4>First Day of School</h4>
 <p>Secondary One First Day of School &amp; Orientation Experience (2 – 10
-January 2024)</p>
+January 2025)</p>
 <p>The orientation experience, organised by the student leaders under the
 guidance of their teachers, promises to be both meaningful and exciting.
 A series of activities, including team-building games, have been planned
