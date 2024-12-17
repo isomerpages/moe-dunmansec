@@ -134,7 +134,7 @@ on 30 Dec 2024</p>
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the following link: <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025-sec1-parent-questions</a>
+<p>Use the following link: <a href="https://for.edu.sg/2025-sec1-parent-questions" rel="noopener nofollow" target="_blank">https://for.edu.sg/2025-sec1-parent-questions</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
