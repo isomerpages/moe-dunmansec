@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Introduction
 
-
+![](/images/CCA%20Photos/Netball/COLLAGE_B_DIV.jpg)
+![](/images/CCA%20Photos/Netball/COLLAGE_C_DIV.jpg)
 <p style="text-align: justify;">If you thrive on teamwork, speed, and challenge, netball is the perfect game for you! Under the expert guidance of our coach, Ms. Vivian De Silva, you’ll gain invaluable experience while mastering key techniques and strategies.
 
 Our netballers also have the opportunity to build camaraderie at our bonding camp, where newcomers and teachers connect and form lasting friendships. We focus on holistic development, ensuring that our players not only enhance their skills but also grow in values and competencies.
