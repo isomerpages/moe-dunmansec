@@ -35,7 +35,7 @@ In the National School Games 2024, our netballers demonstrated unwavering commit
 2018- National 3rd Runner Up<br>
 2018- East Zone 1st Runner Up<br>
 
-### Trainings
+### Training Sessions
 Every Tuesday and Thursday (alternate week): 3-6pm<br>
 Friday: 2-5pm
 
