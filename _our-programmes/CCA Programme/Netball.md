@@ -39,7 +39,7 @@ In the National School Games 2024, our netballers demonstrated unwavering commit
 Every Tuesday and Thursday (alternate week): 3-6pm<br>
 Friday: 2-5pm
 
-### Teachers-in-charge:
+### Teachers-in-charge
 Overall in charge: Miss Fauzani Binte Kamsani  
 Ms Goh Witty  
 Miss Liew Jia Hui   
