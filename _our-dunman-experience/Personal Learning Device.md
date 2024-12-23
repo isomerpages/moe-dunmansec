@@ -20,8 +20,8 @@ variant: markdown
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J8naiGOWhtA"></iframe>
 </center>
 <p style="text-align: center;">MOE Singapore. (2020, March 4).&nbsp;<em>Minister Explains: The Refreshed Curriculum</em>. Available at: https://youtu.be/J8naiGOWhtA
-</p><h3>Our School's Microsite</h3>
-<p>To find out more of the NDLP at Dunman Secondary School, please click&nbsp;
+</p><h3>Our School's NDLP Microsite</h3>
+<p style="text-align: justify;">To find out more of the NDLP at Dunman Secondary School, please click&nbsp;
 <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to visit our school's NDLP Microsite.</p>
 
 <h3>Transforming Learning Through Technology: Apple Distinguished School</h3>
@@ -37,8 +37,7 @@ variant: markdown
 
 <h3>Device Management Application (DMA)</h3>
 <p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:00
-a.m. to 11:00 p.m. and school hours is from 6:00 a.m. to 6:00 p.m.&nbsp;The school determines the applications (apps) and programmes to be installed
-in the PLD to support teaching and learning.</p>
+a.m. to 11:00 p.m. and with school hours from 6:00 a.m. to 6:00 p.m. The school determines the applications (apps) and programmes to be installed in our students' PLD to support teaching and learning.</p> 
 <p style="text-align: justify;">All PLDs are pre-installed with a Device Management Application (DMA) to provide a safer digital environment for learning and safeguard our students' cyber wellness. Parents/Guardians can request to change the choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form <em>(The form will be available on this site from February 2025)</em>.</p>
 <p style="text-align: justify;"><strong>Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every school term.</strong>
 </p>
