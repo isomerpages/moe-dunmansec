@@ -48,7 +48,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Home Delivery Option</u></strong>
-<br>Online purchase is available from&nbsp;<strong>18 to 20 December&nbsp;2024 </strong>(Devlivery
+<br>Online purchase is available from&nbsp;<strong>18 to 20 December&nbsp;2024 </strong>(Delivery
 charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
