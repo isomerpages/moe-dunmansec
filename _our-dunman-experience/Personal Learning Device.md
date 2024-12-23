@@ -19,7 +19,7 @@ variant: markdown
 <center>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J8naiGOWhtA"></iframe>
 </center>
-<p style="text-align: center;">MOE Singapore. (2020, March 4).&nbsp;<em>Minister Explains: The Refreshed Curriculum</em>.Available at: https://youtu.be/J8naiGOWhtA
+<p style="text-align: center;">MOE Singapore. (2020, March 4).&nbsp;<em>Minister Explains: The Refreshed Curriculum</em>. Available at: https://youtu.be/J8naiGOWhtA
 </p><h3>Our School's Microsite</h3>
 <p>To find out more of the NDLP at Dunman Secondary School, please click&nbsp;
 <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to visit our school's NDLP Microsite.</p>
@@ -30,8 +30,10 @@ variant: markdown
 <p style="text-align: justify;">Apple Distinguished Schools are recognised as centres of educational excellence and leadership, driven by a clear vision for how technology-enriched environments support educational goals. In these schools, visionary leaders and their communities collaborate to make a positive impact on teaching and learning. By integrating technology into their lessons, teachers empower students to take charge of their learning, discover new opportunities, and work towards a better world.</p>
 
 <p style="text-align: justify;">Interested to know how learning is transformed through technology in our school? Watch the video to find out more!</p>
-	
-<p style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wJqmbTWV_WU?si=xgUrQFCM8s_y8-4C" height="315" width="560"></iframe>Available at: https://youtu.be/wJqmbTWV_WU</p>
+<center>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wJqmbTWV_WU?si=xgUrQFCM8s_y8-4C"></iframe>
+</center>
+<p style="text-align: center;">Available at: https://youtu.be/wJqmbTWV_WU</p>
 
 <h3>Device Management Application (DMA)</h3>
 <p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:00
