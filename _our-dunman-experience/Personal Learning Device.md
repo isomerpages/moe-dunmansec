@@ -37,12 +37,12 @@ variant: markdown
 
 <h3>Device Management Application (DMA)</h3>
 <p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:00
-a.m. to 11:00 p.m. and with school hours from 6:00 a.m. to 6:00 p.m. The school determines the applications (apps) and programmes to be installed in our students' PLD to support teaching and learning.</p> 
+a.m. to 11:00 p.m. and with school hours from 6:00 a.m. to 6:00 p.m. The school determines the applications (apps) to be installed in our students' PLD to support teaching and learning.</p> 
 <p style="text-align: justify;">All PLDs are pre-installed with a Device Management Application (DMA) to provide a safer digital environment for learning and safeguard our students' cyber wellness. Parents/Guardians can request to change the choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form <em>(The form will be available on this site from February 2025)</em>.</p>
 <p style="text-align: justify;"><strong>Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every school term.</strong>
 </p>
 <h3>DMA User Guides</h3>
-<p style="text-align: justify;">A Parent Portal is available for parents/guardians on After-School DMA Parent <strong>Option A</strong>. Parents/Guardians may refer to the following guides to navigate through the available features in each DMA parent option.</p>
+<p style="text-align: justify;">A Parent Portal is available for parents/guardians who have selected the After-School DMA Parent <strong>Option A</strong> for their child/ward. Parents/Guardians may refer to the following guides to navigate through the available features in each DMA parent option.</p>
 <p><strong>DMA Parent Option Guides</strong>
 </p>
 
