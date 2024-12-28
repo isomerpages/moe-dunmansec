@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Heads Of Department</h4>
+<h4>Heads of Department</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -587,7 +587,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yap Yen Leng Joyce</p>
+<p>Ms Yap Yen Leng Joyce</p>
 <p><a href="mailto:yap_yen_leng_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_yen_leng_joyce@moe.edu.sg</a>
 </p>
 </td>
@@ -1110,20 +1110,6 @@ variant: tiptap
 <p>Mdm Rozlinda Bte Abdul Rahim</p>
 <p><a href="mailto:rozlinda_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozlinda_abdul_rahim@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
