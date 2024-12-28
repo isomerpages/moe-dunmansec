@@ -4,9 +4,12 @@ permalink: /our-dunman-experience/sec-1-cca-selection/
 description: ""
 variant: markdown
 ---
-<p style="text-align: justify;">At Dunman Secondary School, our students’ Co-Curricular Activities (CCAs) programmes are full and varied. Dunmanites are keen learners in pursuit of their passion and interest, which the school supports whole-heartedly and thoroughly.</p>
+<p style="text-align: justify;">At Dunman Secondary School, our students’ Co-Curricular Activities (CCAs) programmes are diverse and engaging. Dunmanites are keen learners in pursuit of their passions and interests, which the school supports wholeheartedly and thoroughly.
 
-<p style="text-align: justify;">Dunmanites are truly keen on their many interests; be it Uniformed Groups, Sports &amp; Games, Performing Arts, or Clubs. Whichever CCA they are in, nurturing a sense of commitment and dedication to their craft is the culture here, and we want to&nbsp;engage them in a CCA which they can develop and excel in.</p>
+</p>
+
+<p style="text-align: justify;">Dunmanites are truly enthusiastic about their many interests, whether in **Uniformed Groups, Sports &amp; Games, Performing Arts**, or** Clubs**. Whichever CCA they join, nurturing a sense of commitment and dedication to their craft is part of the culture here. We aim to engage them in a CCA where they can grow, develop, and excel.
+Below are all the CCAs offered in Dunman Secondary School:.</p>
 
 #### Below are all the CCAs offered in Dunman Secondary School:
 
@@ -15,16 +18,20 @@ variant: markdown
 | NCC (Air) (Boys) |      Choir      |  Badminton (Boys) |  Infocomm Club |
 |       NPCC       |   Concert Band  |     Basketball    | Media Club Club |
 |     Red Cross    |      Drama      |  Football (Girls) |    Green Club   |
-|      Scouts      | Guitar Ensemble |  Netball (Girls)  |                 |
+|      Scouts      | Guitar Ensemble |  Netball (Girls)  |   Makers Club |
 |                  |   Modern Dance  | Volleyball (Boys) |                 |
 
 
-<p style="text-align: justify;">All Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.</p>
+<p style="text-align: justify;">All Dunmanites are required to join a core CCA offered by the school.
 
-<p style="text-align: justify;">In Secondary One, the school will organize performing arts&nbsp;auditions and sports trials at the beginning of the year to identify students’ area of strength. During the CCA Fair, there will be exhibition and performances from CCAs to provide students with more information about the CCAs, so that they can decide which CCA they would like to join.</p>
+</p>
 
-<p style="text-align: justify;">All Secondary 1 students will be allotted a CCA based on one of five choices that the students have selected and they are expected to remain in that CCA for the duration of their secondary school years unless they have medical reasons that preclude them from serving their commitments to the CCA.</p>
+<p style="text-align: justify;">At the start of Secondary One, the school organizes performing arts auditions and sports trials to identify students' strengths. During the CCA Fair, students can explore various CCAs, providing them with information to help them choose a CCA that suits their interests and abilities.</p>
 
-<p style="text-align: justify;">Students are reminded to make their choices wisely as they may not be allotted CCA of their first choice in cases where the CCA is oversubscribed and they may be allotted choices other than their 1st choice.</p>
+<p style="text-align: justify;">Each Secondary 1 student will be assigned a CCA based on their top five choices. Students are expected to stay in their selected CCA throughout their secondary school years unless they have valid medical reasons preventing them from fulfilling their commitments.
+</p>
 
-Please click&nbsp;[**here**](https://forms.moe.edu.sg/forms/eLdaXe)&nbsp;to submit your choices.
+<p style="text-align: justify;">
+Students are advised to make their choices carefully, as they may not always get their first choice if the CCA is oversubscribed. In such cases, they may be assigned one of their other selected choices.</p>
+
+Please click here[undefined](https://forms.moe.edu.sg/forms/eLdaXe) to submit your choices.
