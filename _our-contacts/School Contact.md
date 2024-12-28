@@ -793,7 +793,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3A/N(T)</strong>
+<p><strong>3A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -812,7 +812,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3B/N(A)</strong>
+<p><strong>3B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -831,7 +831,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3C/N(A)</strong>
+<p><strong>3C</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -850,7 +850,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3D/EXP</strong>
+<p><strong>3D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -867,7 +867,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3E/EXP</strong>
+<p><strong>3E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -884,7 +884,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3F/EXP</strong>
+<p><strong>3F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -901,7 +901,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3G/EXP</strong>
+<p><strong>3G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -945,7 +945,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4A/N(T)</strong>
+<p><strong>4A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -964,7 +964,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4B/N(A)</strong>
+<p><strong>4B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -983,7 +983,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4C/N(A)</strong>
+<p><strong>4C</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1002,7 +1002,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4D/EXP</strong>
+<p><strong>4D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1020,7 +1020,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4E/EXP</strong>
+<p><strong>4E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1039,7 +1039,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4F/EXP</strong>
+<p><strong>4F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1058,7 +1058,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4G/EXP</strong>
+<p><strong>4G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1103,7 +1103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5A/N(A)</strong>
+<p><strong>5A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
