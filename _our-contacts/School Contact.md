@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Academic Year 2024</h3>
+<h3>Academic Year 2025</h3>
 <h4>School Leaders</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -176,13 +176,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Xu Ruijun (Koh Swee Kun)</p>
+<p>Mr Wu Derui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_swee_kun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_swee_kun@moe.edu.sg</a>
+<p><a href="mailto:wu_derui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_derui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -248,13 +248,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ali Sharif Arshad</p>
+<p>Mr Hariharan s/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
+<p><a href="mailto:hariharan_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hariharan_subramaniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -263,7 +263,7 @@ variant: tiptap
 <p>Mr Chong Yau Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
@@ -272,7 +272,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Student Development Team</h4>
+<h4>Student Development and Management Team</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -305,13 +305,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ali Sharif Arshad</p>
+<p>Mr Hariharan s/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
+<p><a href="mailto:hariharan_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hariharan_subramaniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -336,6 +336,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_zheng_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vivian Lee Pooi San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_pooi_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pooi_san@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -389,7 +401,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bija Pareatumbee</p>
+<p>Ms Bijamati Pareatumbee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -401,13 +413,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wilfred Phillips James</p>
+<p>Mr Javian Tan Hong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:james_wilfred_phillips@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james_wilfred_phillips@moe.edu.sg</a>
+<p><a href="mailto:javian_tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">javian_tan_hong_kai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Ann Kessler</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kessler_stephanie_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kessler_stephanie_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
