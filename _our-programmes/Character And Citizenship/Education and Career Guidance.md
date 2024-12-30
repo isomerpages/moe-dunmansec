@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h3><strong>Education and Career Guidance (ECG)</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_logo.jpg">
+</div>
 <p>Education and Career Guidance (ECG) is about equipping students with the
 necessary knowledge, skills and values to make informed decisions at each
 key education stage for successful transition from school to further education
@@ -35,6 +38,9 @@ and interests can schedule a chat with our school's ECG Counsellor, Ms
 Pauline. To make an appointment, please click <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hblecg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_ECG_logo.jpg">
+</div>
 <p><strong>ACADEMIC PATHWAYS EXPLORATION</strong>
 </p>
 <table style="minWidth: 75px">
@@ -369,3 +375,4 @@ Alternatively, approach the School Counsellor.</p>
 </tbody>
 </table>
 <p><strong><br></strong>updated 27 Dec 2024</p>
+<p></p>
