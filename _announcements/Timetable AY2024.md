@@ -4,4 +4,4 @@ permalink: /announcements/tt2024/
 variant: tiptap
 description: ""
 ---
-<p>Please download the AY2024, Semester 2 Timetable by clicking <a href="/files/Announcements/2024_SEM_2_DMN_Class_Timeteble_120724.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>  <em>(Last Updated: 12-Jul-24)</em>.</p>
+<p>Please download the AY2025, Semester 1 Timetable by clicking <a href="/files/Announcements/Timetable 2025/Classes_TT_2025_SEM_1_301224.pdf" rel="noopener nofollow" target="_blank">here</a>  <em>(Last Updated: 30-Dec-24)</em>.</p>
