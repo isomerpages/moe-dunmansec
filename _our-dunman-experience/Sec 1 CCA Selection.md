@@ -34,4 +34,4 @@ Below are all the CCAs offered in Dunman Secondary School:.</p>
 <p style="text-align: justify;">
 Students are advised to make their choices carefully, as they may not always get their first choice if the CCA is oversubscribed. In such cases, they may be assigned one of their other selected choices.</p>
 
-Please click here[undefined](https://forms.moe.edu.sg/forms/eLdaXe) to submit your choices.
+Please click [here](https://forms.moe.edu.sg/forms/eLdaXe) to submit your choices.
