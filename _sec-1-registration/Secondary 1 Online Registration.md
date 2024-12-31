@@ -92,7 +92,7 @@ information</p>
 </table>
 <p><strong>Registration</strong>
 </p>
-<p>The link to register for the engagement session is as follow:</p>
+<p>The link to register for the engagement session is as follows:</p>
 <p>Topic: 2025 Sec 1 Parent Engagement Session</p>
 <p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
 </p>
