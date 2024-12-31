@@ -19,20 +19,21 @@ scan the QR Code below:</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
 </div>
 <h4>2. Sec 1 Parent Engagement Webinar</h4>
-<p>We will be conducting a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
+<p>We have conducted a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
 4:00 to 5:00 p.m. for parents/ guardians on the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Welcome Address by School Principal</p>
+<p>Welcome Address by School Principal (Click <a href="/files/Sec 1 Registration/2025_Welcome_Address_by_Principal_for_Sec_1_Parents___Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
 </li>
 <li>
-<p>Cohort Administration Briefing by Year Head (Lower Secondary)</p>
+<p>Cohort Administration Briefing by Year Head (Lower Secondary) (Click
+<a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___YH_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
 </li>
 <li>
-<p>HMT Matters by HOD/MTL</p>
+<p>HMT Matters by HOD/MTL (Click <a href="/files/Sec 1 Registration/2025_sec_1_parent_engagement_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
 </li>
 <li>
-<p>Full SBB Matters by HOD/C&amp;T</p>
+<p>Full SBB Matters by HOD/C&amp;T (Click <a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___Full_SBB_briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
 </li>
 <li>
 <p>Personal Learning Device (PLD) Updates by HOD/ICT (Please refer to the
