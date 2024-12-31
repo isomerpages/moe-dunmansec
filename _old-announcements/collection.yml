@@ -2,6 +2,7 @@ collections:
   old-announcements:
     output: true
     order:
+      - 60th Anniversary Celebration.md
       - Teachers' Day Appreciation Messages.md
       - End of Year Examinations AY2024.md
       - Preliminary Examinations AY2024.md
