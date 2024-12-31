@@ -35,7 +35,9 @@ scan the QR Code below:</p>
 <p>Full SBB Matters by HOD/C&amp;T</p>
 </li>
 <li>
-<p>Personal Learning Device (PLD) Updates by HOD/ICT</p>
+<p>Personal Learning Device (PLD) Updates by HOD/ICT (Please refer to the
+microsite <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" rel="noopener nofollow" target="_blank">here</a> for
+more information)</p>
 </li>
 <li>
 <p>Parent - Form Teacher Breakout Session</p>
