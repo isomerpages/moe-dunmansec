@@ -2,6 +2,10 @@ collections:
   old-announcements:
     output: true
     order:
+      - 60th Anniversary Celebration.md
+      - Teachers' Day Appreciation Messages.md
+      - End of Year Examinations AY2024.md
+      - Preliminary Examinations AY2024.md
       - SGC (AY2022 graduates).md
       - Booklist for AY2024.md
       - Sec 3 End of Year Academic Programme 2023.md

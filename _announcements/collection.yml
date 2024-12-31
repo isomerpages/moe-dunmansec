@@ -2,13 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - Timetable AY2025.md
       - Booklist for AY2025.md
       - Apple Distinguished School.md
       - MoneySense for Your Child.md
-      - End of Year Examinations AY2024.md
-      - Teachers' Day Appreciation Messages.md
-      - Preliminary Examinations AY2024.md
-      - Timetable AY2024.md
-      - 60th Anniversary Celebration.md
       - Invitation to Parents Gateway.md
       - Advisory For The School Holidays.md

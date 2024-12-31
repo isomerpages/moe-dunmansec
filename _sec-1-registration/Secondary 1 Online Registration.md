@@ -19,29 +19,79 @@ scan the QR Code below:</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
 </div>
 <h4>2. Sec 1 Parent Engagement Webinar</h4>
-<p>We will be conducting a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
+<p>We have conducted a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
 4:00 to 5:00 p.m. for parents/ guardians on the following:</p>
-<ul data-tight="true" class="tight">
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Items</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Reference Materials (if Any)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Welcome Address by School Principal</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Sec 1 Registration/2025_Welcome_Address_by_Principal_for_Sec_1_Parents___Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Cohort Administration Briefing by Year Head (Lower Secondary)</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___YH_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HMT Matters by HOD/MTL</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Sec 1 Registration/2025_sec_1_parent_engagement_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Full SBB Matters by HOD/C&amp;T</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___Full_SBB_briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Personal Learning Device (PLD) Updates by HOD/ICT</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the microsite <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" rel="noopener nofollow" target="_blank">here</a> for more
+information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Parent - Form Teacher Breakout Session</p>
-</li>
-</ul>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Registration</strong>
+</p>
 <p>The link to register for the engagement session is as follow:</p>
 <p>Topic: 2025 Sec 1 Parent Engagement Session</p>
 <p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
