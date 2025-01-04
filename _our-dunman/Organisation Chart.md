@@ -4,24 +4,20 @@ permalink: /our-dunman/organisation-chart/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation%20Chart/SLs_2024.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/HOD_2024g0.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation%20Chart/HOD_2024g1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="School Leaders" src="/images/Organisation Chart/2025/SL_Jan_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation%20Chart/HOD_2024g2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Heads of Department" src="/images/Organisation Chart/2025/HOD_Jan_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/AYH_STs_2024b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Level Head and Subject Heads" src="/images/Organisation Chart/2025/LHSH_Jan_2025.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assistant Year Heads" src="/images/Organisation Chart/2025/ayh jan 2025.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lead Teacher and Senior Teachers" src="/images/Organisation Chart/2025/STLT_Jan_2025.jpg">
+</div>
 <p></p>
