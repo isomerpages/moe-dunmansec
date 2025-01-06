@@ -14,20 +14,22 @@ Our CCA aims to nurture disciplined and daring athletes, instilled with a strong
 Our teams actively participate in the National School Games, regularly putting up fine displays of sportsmanship, echoing our school values of Discipline, Determination, and Discernment. Our latest achievement includes winning our very first National Championship title in 2024, when the C Division team emerged as National School Games (League 4) Champions.
 
 Key achievements include:
-- 2013: B Division East Zone Top Four
-- 2016: C Division East Zone Top Eight
-- 2017: B Division East Zone Top Eight
-- 2022: C Division East Zone Top Eight
-- 2022: St Patrick’s School Invitational Cup Champions
-- **2024: C Division National School Games (League 4) Champions**
+•	2024: C Division National School Games (League 4) Champions
+•	2022: St Patrick’s School Invitational Cup Champions
+•	2022: C Division East Zone Top Eight
+•	2017: B Division East Zone Top Eight
+•	2016: C Division East Zone Top Eight 
+•	2013: B Division East Zone Top Four
+
 
 
 ![](/images/CCA%20Photos/Badminton/badminton_image2.png)
  # Training
 
-Our training sessions take place every Tuesday and Friday, with an additional session on Fridays as competitions approach. To sharpen our players’ skills and mental toughness, we organise regular friendly matches with other schools. In addition to our demanding weekly physical training, these matches play a crucial role in building self-confidence and preparing our players for the intensity of competitive play.
+Our training sessions take place 2 to 3 times every week on Tuesday, Thursday and Friday. To sharpen our players’ skills and mental toughness, we organise regular friendly matches with other schools. In addition to our demanding weekly physical training, these matches play a crucial role in building self-confidence and preparing our players for the intensity of competitive play.
+
 
 # Teachers-in-charge
+Ms Witty Goh goh_wen_ti_witty@moe.edu.sg
 Mr Chern Meng Hock chern_meng_hock@moe.edu.sg
 Mr Leonard Wan wan_zhun_kai_leonard@moe.edu.sg
-Ms Kathy Chong  cheong_kah_keh_kathy@moe.edu.sg
