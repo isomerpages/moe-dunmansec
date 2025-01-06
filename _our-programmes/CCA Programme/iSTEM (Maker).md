@@ -86,7 +86,7 @@ for STEM and cultivating excellence among our members.</p>
 <p>Mr Mathivanan Murthy (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mathivanan_murthy@moe.edu.sg</u></a>)</p>
 </li>
 <li>
-<p>Mr William Wong (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_wai_fun_jacklyn@moe.edu.sg</u></a>)
+<p>Mr William Wong (<a href="wong_yu_kai_william@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_yu_kai_william@moe.edu.sg</a>)
 <br>
 <br>
 </p>
