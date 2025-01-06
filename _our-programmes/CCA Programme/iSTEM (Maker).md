@@ -25,38 +25,56 @@ and positively impact the world around us.</p>
 <p>Join us as we embark on a journey of discovery, innovation, and personal
 growth. Together, let's explore the endless possibilities that STEM has
 to offer and unlock our potential to shape a brighter future.</p>
+<p></p>
 <h4>Achievements</h4>
-<p>In 2023, our Maker's Club made remarkable strides by participating in
+<p>In 2024, our Maker's Club made remarkable strides by participating in
 various prestigious events and competitions, showcasing our members' passion
 and dedication to STEM exploration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_01.jpg">
 </div>
-<p>Community in Bloom (with Green Club): Collaborating with the Green Club,
-our members contributed to the Community in Bloom initiative, demonstrating
-our commitment to sustainable practices and environmental awareness.</p>
-<p>Science Centre UNTAME Competition: Our club excelled at the Science Centre
-UNTAME Competition, highlighting our innovative approach to problem-solving
-and scientific exploration.</p>
-<p>Hackathon Competition by National Institute of Education: We proudly secured
-a position in the top 5 teams at the Hackathon Competition organized by
-the National Institute of Education, showcasing our members' proficiency
-in technology and collaborative skills.</p>
+<p>STEM outreach at Tampines Regional Library: Collaborating with the Makerspace@Dunman,
+our members helped to facilitate a mini-bricks workshop at Tampines Regional
+Library.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_02.jpg">
 </div>
-<p>EPIC-STEM Science Symposium: Our participation in the EPIC-STEM Science
-Symposium was a resounding success, with our students earning accolades
-for the best poster and best presentation pitch, reaffirming our club's
-commitment to excellence in scientific communication and research.</p>
-<p>These achievements reflect the dedication and talent of our club members,
-and we look forward to continuing our journey of success and innovation
-in the field of STEM.</p>
+<p>Markers members took part in a STEM outreach program aimed at introducing
+simple STEM concepts to preschool students. During the session, our members
+engaged the children through fun, hands-on activities such as building
+basic cardboard structures.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_03.jpg">
 </div>
+<p>Our CCA had the privilege of hosting a group of students and teachers
+from Vietnam for an educational exchange. As part of the visit, our members
+facilitated a workshop on hydroponics using our school's vertical farming
+system.</p>
+<p>During the workshop, we introduced the fundamentals of hydroponic farming,
+highlighting its advantages and applications in sustainable agriculture.
+Our members demonstrated how to set up and maintain a hydroponic system,
+explaining the role of water, nutrients, and light in plant growth. The
+visitors also had hands-on experience planting seedlings and observing
+the functioning of our vertical farming setup.</p>
+<p>This collaboration provided a unique opportunity for cross-cultural learning,
+allowing our members to share their knowledge and skills while learning
+about agricultural practices in Vietnam.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_04.jpg">
+</div>
+<p>Our CCA recently participated in the Science Fair organized by A*STAR
+and Victoria Junior College (VJC). Three of our teams showcased their innovative
+projects, which highlighted creativity, scientific inquiry, and teamwork.</p>
+<p>We are proud to share that one of our teams achieved a Silver Award, a
+testament to their dedication and hard work. The experience provided all
+participants with valuable insights into scientific research and the opportunity
+to learn from other talented teams.</p>
+<p>This accomplishment reflects our CCA’s commitment to fostering a passion
+for STEM and cultivating excellence among our members.</p>
 <h4>Trainings</h4>
 <p>Every Tuesday 3 – 5:30 pm</p>
 <h4>Teachers-in-Charge</h4>
@@ -65,10 +83,10 @@ in the field of STEM.</p>
 <p>Ms Loi Yen Siew (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loi_yen_siew@moe.edu.sg</u></a>)&nbsp;</p>
 </li>
 <li>
-<p>Ms Jacklyn Kong (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_wai_fun_jacklyn@moe.edu.sg</u></a>)</p>
+<p>Mr Mathivanan Murthy (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mathivanan_murthy@moe.edu.sg</u></a>)</p>
 </li>
 <li>
-<p>Mr Mathivanan Murthy (<a href="mailto:loi_yen_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mathivanan_murthy@moe.edu.sg</u></a>)
+<p>Mr William Wong (<a href="wong_yu_kai_william@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_yu_kai_william@moe.edu.sg</a>)
 <br>
 <br>
 </p>
