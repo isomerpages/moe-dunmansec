@@ -31,17 +31,41 @@ to offer and unlock our potential to shape a brighter future.</p>
 various prestigious events and competitions, showcasing our members' passion
 and dedication to STEM exploration.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_01.jpg">
+</div>
 <p>STEM outreach at Tampines Regional Library: Collaborating with the Makerspace@Dunman,
 our members helped to facilitate a mini-bricks workshop at Tampines Regional
 Library.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_02.jpg">
+</div>
 <p>Markers members took part in a STEM outreach program aimed at introducing
 simple STEM concepts to preschool students. During the session, our members
 engaged the children through fun, hands-on activities such as building
 basic cardboard structures.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_03.jpg">
+</div>
+<p>Our CCA had the privilege of hosting a group of students and teachers
+from Vietnam for an educational exchange. As part of the visit, our members
+facilitated a workshop on hydroponics using our school's vertical farming
+system.</p>
+<p>During the workshop, we introduced the fundamentals of hydroponic farming,
+highlighting its advantages and applications in sustainable agriculture.
+Our members demonstrated how to set up and maintain a hydroponic system,
+explaining the role of water, nutrients, and light in plant growth. The
+visitors also had hands-on experience planting seedlings and observing
+the functioning of our vertical farming setup.</p>
+<p>This collaboration provided a unique opportunity for cross-cultural learning,
+allowing our members to share their knowledge and skills while learning
+about agricultural practices in Vietnam.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/istem25_04.jpg">
+</div>
 <p>Our CCA recently participated in the Science Fair organized by A*STAR
 and Victoria Junior College (VJC). Three of our teams showcased their innovative
 projects, which highlighted creativity, scientific inquiry, and teamwork.</p>
