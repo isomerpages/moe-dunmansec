@@ -69,37 +69,33 @@ Best Presentation Bronze Award
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic_14_Best_Presentation_Bronze_Award_2024a.jpg)
 
  
-**CCA Programme 2024 
-**
+## CCA Programme 2025 
 
 **Sec1 Level Programme (iSTEM Academy Infocomm Club Experience) **
-
 Introduction to LEGO Robotics
 
 [Click Here](https://drive.google.com/file/d/1RJvwP4HfwmBcYe12TM3OxU2YapiGgbRc/view?usp=drive_link) for the Level Programme Schedule.
 
-Sec2 Level Programme
+**Sec2 Level Programme**
+
 LEGO Robotics (Basic) 
 
 [Click Here](https://drive.google.com/file/d/1G9IBis2riHVD5Xg1S7Y9GQEEgaTswwG2/view?usp=sharing) for the Level Programme and Schedule
 
-Sec3 Level Programme
+**Sec3 Level Programme**
+
 Drone Coding & LEGO Robotics (Intermediate) 
 
 [Click Here](https://drive.google.com/file/d/1vSLBMsb6yB4CsmzrrBSksfGQEI_UT-0X/view?usp=sharing) for the Level Programme and Schedule
 
 
-Sec4 Level Programme
+**Sec4 Level Programme**
 
 [Click Here](https://drive.google.com/file/d/1jOm-IogrjPL_OADU2oukktd9Fs5bdwVw/view?usp=drive_link) for the Level Programme and Schedule
 
 
 **Teachers-in-charge**
 
-
 * Mrs Soh Sok Hoon (IC) [chua\_sok\_hoon@moe.edu.sg](mailto:chua_sok_hoon@moe.edu.sg) 
-
-* Ms Jane Si [si\_hsiao\_wei\_jane@moe.edu.sg](mailto:si_hsiao_wei_jane@moe.edu.sg)**
-
+* Ms Jane Si [si\_hsiao\_wei\_jane@moe.edu.sg](mailto:si_hsiao_wei_jane@moe.edu.sg)
 * Mr Toh Hong Ming [toh\_hong_ming@moe.edu.sg](mailto:ton_hong_ming@moe.edu.sg)
-
