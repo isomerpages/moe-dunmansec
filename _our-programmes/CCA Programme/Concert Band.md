@@ -36,11 +36,10 @@ to bring the Band to greater heights.</p>
 </li>
 <li>
 <p>2015 SYF Arts Presentation: Certificate of Accomplishment</p>
+<p></p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <h3>Trainings</h3>
 <p>Band practices are held on Tuesday and Friday afternoons. Additional practices
 on Saturday mornings may be scheduled in preparation for the SYF Arts Presentation
@@ -56,9 +55,6 @@ on different days.</p>
 </li>
 <li>
 <p>Mrs Lim Hui Ling [<a href="mailto:tay_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_ling@moe.edu.sg</a>]</p>
-</li>
-<li>
-<p>Mrs Rajwinder [<a href="mailto:Rajwinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rajwinder_kaur@moe.edu.sg</a>]</p>
 </li>
 <li>
 <p>Ms Mazlinah [<a href="mailto:mazlinah_subandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mazlinah_subandi@moe.edu.sg</a>]</p>
