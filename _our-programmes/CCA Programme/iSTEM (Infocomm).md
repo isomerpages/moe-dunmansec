@@ -20,6 +20,8 @@ The students will also be challenged to apply their learning through their parti
 
 The students will also be challenged to apply their learning through their participation in competitions and Values-In Action (VIA) platforms. 
 
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_5_Final_Challenge_In_Action.jpg)
+
 ![](/images/CCA%20Photos/Pic_5_DOC_Final__Challenge_In_Action_.jpg)  
 
 **Challenge In Action (Finals)** 
