@@ -68,6 +68,7 @@ Best Presentation Silver Award
 Best Presentation Bronze Award
 ![](/images/CCA%20Photos/Infocomm%20Club/Pic_14_Best_Presentation_Bronze_Award_2024a.jpg)
 
+![](/images/CCA%20Photos/Infocomm%20Club/Pic_15_Sec1_iSTEM_Programme__Students_Work_a.png)
  
 ## CCA Programme 2025 
 
