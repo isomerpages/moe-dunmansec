@@ -8,7 +8,7 @@ variant: markdown
 
 </p>
 
-<p style="text-align: justify;">Dunmanites are truly enthusiastic about their many interests, whether in **Uniformed Groups, Sports &amp; Games, Performing Arts**, or** Clubs**. Whichever CCA they join, nurturing a sense of commitment and dedication to their craft is part of the culture here. We aim to engage them in a CCA where they can grow, develop, and excel.
+<p style="text-align: justify;">Dunmanites are truly enthusiastic about their many interests, whether in <b>Uniformed Groups, Sports &amp; Games</b>, <b>Performing Arts</b>, or <b>Clubs</b>. Whichever CCA they join, nurturing a sense of commitment and dedication to their craft is part of the culture here. We aim to engage them in a CCA where they can grow, develop, and excel.
 Below are all the CCAs offered in Dunman Secondary School:.</p>
 
 #### Below are all the CCAs offered in Dunman Secondary School:
