@@ -320,7 +320,7 @@ variant: tiptap
 <p>Mr Chong Yau Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
