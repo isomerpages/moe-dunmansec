@@ -8,7 +8,7 @@ variant: markdown
 
 </p>
 
-<p style="text-align: justify;">Dunmanites are truly enthusiastic about their many interests, whether in **Uniformed Groups, Sports &amp; Games, Performing Arts**, or** Clubs**. Whichever CCA they join, nurturing a sense of commitment and dedication to their craft is part of the culture here. We aim to engage them in a CCA where they can grow, develop, and excel.
+<p style="text-align: justify;">Dunmanites are truly enthusiastic about their many interests, whether in <b>Uniformed Groups, Sports &amp; Games</b>, <b>Performing Arts</b>, or <b>Clubs</b>. Whichever CCA they join, nurturing a sense of commitment and dedication to their craft is part of the culture here. We aim to engage them in a CCA where they can grow, develop, and excel.
 Below are all the CCAs offered in Dunman Secondary School:.</p>
 
 #### Below are all the CCAs offered in Dunman Secondary School:
@@ -34,4 +34,4 @@ Below are all the CCAs offered in Dunman Secondary School:.</p>
 <p style="text-align: justify;">
 Students are advised to make their choices carefully, as they may not always get their first choice if the CCA is oversubscribed. In such cases, they may be assigned one of their other selected choices.</p>
 
-Please click [here](https://forms.moe.edu.sg/forms/eLdaXe) to submit your choices.
+Please click [here](https://forms.moe.edu.sg/forms/v88VrO) to submit your choices.
