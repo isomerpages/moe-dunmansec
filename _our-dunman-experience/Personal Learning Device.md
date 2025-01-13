@@ -10,7 +10,7 @@ variant: markdown
 <p>Future-Ready Ethical Digital Learners.</p>
 <h3>National Digital Literacy Programme (NDLP)</h3>
 <p style="text-align: justify;">The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive&nbsp;by&nbsp;equipping students with the digital literacies&nbsp;to be future-ready.
-
+	
 </p><p style="text-align: justify;">The NDLP aims to equip our students with Digital Literacies. Digital Literacies better enable our students, at different stages of their education journey, to acquire the digital skills required to navigate the digital age through four mutually reinforcing components in the ‘Find,&nbsp;Think,&nbsp;Apply&nbsp;and&nbsp;Create’ framework.</p>
 <p style="text-align: center;">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Student%20Life/Personal%20Learning%20Device/Find%20Think%20Apply%20Create.png">
@@ -38,8 +38,8 @@ variant: markdown
 <h3>Device Management Application (DMA)</h3>
 <p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:00
 a.m. to 11:00 p.m. and with school hours from 6:00 a.m. to 6:00 p.m. The school determines the applications (apps) to be installed in our students' PLD to support teaching and learning.</p> 
-<p style="text-align: justify;">All PLDs are pre-installed with a Device Management Application (DMA) to provide a safer digital environment for learning and safeguard our students' cyber wellness. Parents/Guardians can request to change the choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form <em>(The form will be available on this site from February 2025)</em>.</p>
-<p style="text-align: justify;"><strong>Please take note that changes to the After-School DMA Parent Options will only take effect at the start of every school term.</strong>
+<p style="text-align: justify;">All PLDs are pre-installed with a Device Management Application (DMA) to provide a safer digital environment for learning and safeguard our students' cyber wellness. Parents/Guardians can request to change the choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form <a href="https://go.gov.sg/dmndmachange" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p></p>
+<p style="text-align: justify;"><strong>Please take note that changes to the After-School DMA Parent Options should only be done by the parent/guardian of the student (SingPass authentication required). The new option will only take effect at the start of the next school term.</strong>
 </p>
 <h3>DMA User Guides</h3>
 <p style="text-align: justify;">A Parent Portal is available for parents/guardians who have selected the After-School DMA Parent <strong>Option A</strong> for their child/ward. Parents/Guardians may refer to the following guides to navigate through the available features in each DMA parent option.</p>
