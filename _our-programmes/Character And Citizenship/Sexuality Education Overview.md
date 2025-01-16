@@ -47,8 +47,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of DUNMAN SECONDARY SCHOOL’S Sexuality Education Programme for 2025</strong>
-</p>
+<h4><strong>Overview of DUNMAN SECONDARY SCHOOL’S Sexuality Education Programme for 2025</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -84,9 +83,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">At Dunman Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</a></strong>
 </p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 1</strong>
@@ -224,8 +221,7 @@ flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 2&nbsp;</strong>
@@ -359,41 +355,7 @@ consequences, both offline and online</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 3</strong>
@@ -537,8 +499,7 @@ our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 4</strong>
@@ -703,30 +664,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </table>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>&nbsp;2025 Sexuality Education Lessons in CCE</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 5</strong>
@@ -797,13 +735,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
@@ -879,14 +811,7 @@ decision-making</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br>Information for Parents</strong>
-</p>
+<h4><strong>&nbsp;Information for Parents</strong></h4>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
