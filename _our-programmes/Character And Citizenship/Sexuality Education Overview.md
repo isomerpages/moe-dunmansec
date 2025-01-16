@@ -43,7 +43,7 @@ decisions for yourself, your family and society; and</p>
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -52,8 +52,8 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality
 include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
@@ -81,11 +81,11 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">At Dunman Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</a></strong>
-</p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
-<p><strong>&nbsp;Secondary 1&nbsp;</strong>
-</p>
+<p></p>
+<h4>At Dunman Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1_s001.png">
+</div>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -216,12 +216,9 @@ flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Secondary 2&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2_s001.png">
+</div>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -351,11 +348,9 @@ consequences, both offline and online</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Secondary 3</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec3_s001.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
@@ -495,11 +490,9 @@ our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Secondary 4</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4_s001.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
@@ -821,7 +814,7 @@ here (please upload parents opt-out form found in Annex B and insert a
 hyperlink for parents to download the form). &nbsp;The completed form is
 to be submitted by 21/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6786-2668
-or <a href="mailto:dunman_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dunman_ss@moe.edu.sg</a> for
+or <a href="dunman_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">dunman_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p>&nbsp;</p>
