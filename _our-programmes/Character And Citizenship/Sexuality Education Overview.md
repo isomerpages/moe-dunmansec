@@ -809,9 +809,8 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
+<p><strong>Information for Parents</strong>
 </p>
-<h4><strong>&nbsp;Information for Parents</strong></h4>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
