@@ -9,13 +9,13 @@ variant: markdown
 
 ![](/images/CCA%20Photos/Football/football.jpg)
 
-![](/images/CCA%20Photos/Football/Website2.jpg)
+![](/images/CCA%20Photos/Football/2nd_pic.jpg)
 
-![](/images/CCA%20Photos/Football/Website3.jpg)
+![](/images/CCA%20Photos/Football/3rd.jpg)
 
-![](/images/CCA%20Photos/Football/Website4.jpg)
+![](/images/CCA%20Photos/Football/4th.jpg)
 
-![](/images/CCA%20Photos/Football/cr%20Football%20Camp%202019.jpg)
+![](/images/CCA%20Photos/Football/5th.jpg)
 
 ### Our Mission Statement
 
