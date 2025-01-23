@@ -9,13 +9,13 @@ variant: markdown
 
 ![](/images/CCA%20Photos/Football/football.jpg)
 
-![](/images/CCA%20Photos/Football/Website2.jpg)
+![](/images/CCA%20Photos/Football/2nd_pic.jpg)
 
-![](/images/CCA%20Photos/Football/Website3.jpg)
+![](/images/CCA%20Photos/Football/3rd.jpg)
 
-![](/images/CCA%20Photos/Football/Website4.jpg)
+![](/images/CCA%20Photos/Football/4th.jpg)
 
-![](/images/CCA%20Photos/Football/cr%20Football%20Camp%202019.jpg)
+![](/images/CCA%20Photos/Football/5th.jpg)
 
 ### Our Mission Statement
 
@@ -54,13 +54,12 @@ We are football players who are:
 
 ### Trainings
 
-Tuesday: 
-C Div: 3.00pm to 4.30pm
-B Div: 4.30pm to 6.00pm
+Trainings
+•	Tuesday: 3:00 PM to 5:00 PM
+•	Friday: 2:00 PM to 4:00 PM
 
-Friday: 
-C Div: 2.00pm to 3.30pm
-B Div: 3.30pm to 5.00pm
+Please note that during the peak season, training sessions may end later.
+
 
 ### CCA Teachers-In-Charge
   

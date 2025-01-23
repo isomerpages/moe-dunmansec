@@ -85,10 +85,11 @@ choir would not have achieved all that it has today.</p>
 <h3>Trainings</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday (1500hr – 1830hr)</p>
+<p>Tuesday (1500hr – 1800hr)</p>
 </li>
 <li>
-<p>Friday (1330hr – 1700hr)</p>
+<p>Friday (1400hr – 1700hr)</p>
+<p></p>
 </li>
 </ul>
 <div class="iframe-wrapper">
@@ -104,10 +105,7 @@ choir would not have achieved all that it has today.</p>
 </li>
 <li>
 <p>Ms Melissa Wan, email: <a href="mailto:yap_yen_leng_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wan_yuting_melissa@moe.edu.sg</u></a>&nbsp;</p>
-</li>
-<li>
-<p>Mr Toh Hong Ming, email: <a href="mailto:yap_yen_leng_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_hong_ming@moe.edu.sg</u></a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
