@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - ELIXiR.md
       - Sec 2 Cohort Subject Selection Exercise.md
       - Table Tennis.md
       - String Ensemble.md
