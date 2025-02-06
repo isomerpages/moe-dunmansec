@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ELIXiR/.keep
-      - ELIXiR/Sec 4 Programme.md
       - ELIXiR/School Wide Programme.md
       - ELIXiR PLUS.md
       - STEMviaDT.md
