@@ -2,7 +2,7 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - ELIXiR PLUS.md
+      - STEM Talent Development.md
       - STEMviaDT.md
       - Student Leadership.md
       - Heritage Module.md
