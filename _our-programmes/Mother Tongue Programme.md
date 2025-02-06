@@ -302,10 +302,10 @@ Jiang</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Mother Tongue Language/Pic_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Mother Tongue Language/Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Pic_6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Mother Tongue Language/Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Pic_7.jpg">
 </div>
 <p>
 <br>
