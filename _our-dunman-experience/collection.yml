@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ELIXiR/.keep
-      - ELIXiR/Sec 2 Programme.md
       - ELIXiR/Sec 3 Programme.md
       - ELIXiR/Sec 4 Programme.md
       - ELIXiR/School Wide Programme.md
