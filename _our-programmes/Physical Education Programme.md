@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/physical%20education%20and%20cca%20department%20i.jpg" style="width:78%">
+<img src="/images/Department%20Photos/2024/physical_education_department_2.jpg" style="width:78%">
 
 ### Mission/ Objectives of Department
 <p style="text-align: justify;">Every child will leave the school as a physically fit individual with skills and passion to live a healthy lifestyle.</p>
