@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Members
 
-<img src="/images/Department%20Photos/2024/english_language_and_literature_department_2.jpg" style="width:78%">
+<img src="/images/Department%20Photos/2024/humanities_department_1.jpg" style="width:78%">
 
 ### Mission / Objectives of Department
 
