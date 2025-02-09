@@ -10,7 +10,7 @@ variant: markdown
 Empathetic Leaders, Impactful Innovators  
 
 #### <span style="color: black"> <b>Mission</b></span>
-Nurturing self-directed and inquisitive Dunmanites to lead change in communities.
+Nurturing self-directed and inquisitive Dunmanites to lead change in communities
 
 #### <span style="color: black"> <b>Values</b></span>
 Discernment, Daring, Discipline, Determination, Duty
