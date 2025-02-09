@@ -32,12 +32,12 @@ variant: markdown
 ### Programmes and Activities
 <p style="text-align: justify;">Our STEM Talent Development Programme aims to create a positive STEM immersion experience for our students, through the following programmes:</p>
   
-#### 1) STEM-infused Science Curriculum (SiSc)
+#### STEM-infused Science Curriculum (SiSc)
 <p style="text-align: justify;">STEM stands for Science, Technology, Engineering and Mathematics. It is important for our students to be exposed to STEM as “…scientific and technological innovations have become increasingly important as we face the benefits and challenges of both globalization and a knowledge-based economy. To succeed in this new information-based and highly technological society, students need to develop their capabilities in STEM to level much beyond what was consider acceptable in the past” (National Science Foundation, 2007)</p>
 
 <p style="text-align: justify;">We are currently developing our four-year STEM-infused Science curriculum. By infusing STEM in our science curriculum, it provides a platform for students to acquire the fundamental ideas essential for the understanding of Science and thereby building a strong science fundamental. In addition, it also allows the students to see the connectivity across various subject disciplines and hopefully to pursue STEM for future learning and work.</p>
 
 <img src="/images/Department%20Photos/Science/Sci%20Students%20presenting%20prototype.jpg" style="width:65%">
 
-#### 2) ELIXiR STEM Programme
+#### ELIXiR STEM Programme
 For more information on this programme, click on the link <a href="/our-dunman-experience/ELIXiR/" target="_blank">here</a>.
