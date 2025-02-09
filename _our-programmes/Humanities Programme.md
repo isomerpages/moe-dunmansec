@@ -2,11 +2,11 @@
 title: Humanities Programme
 permalink: /our-programmes/humanities-programme/
 description: ""
+variant: markdown
 ---
 ### Members
 
-<img src="/images/Department%20Photos/humanities%20department%20i.jpg"
-		 style="width:78%">
+<img src="/images/Department%20Photos/2024/mathematics_department_1.jpg" style="width:78%">
 		 
 ### Mission / Objectives of Department
 #### Our Vision
@@ -50,29 +50,29 @@ description: ""
 
 ![](/images/Department%20Photos/Humanities/Sec%201%20HI%202019%201.jpg)
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pZyY8eDiR68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pZyY8eDiR68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 **Sensory Skills Programme**
 <p style="text-align: justify;">The Geography Unit from the Humanities Department introduced an initiative named the ‘<b>Sensory Skills Programme (SSP)</b>’ in 2019. It is linked to the <b>NSS</b> (Nature Society Singapore)-<b>ESN</b> (Every Singaporean A Naturalist) Biodiversity programme where lower secondary students were encouraged to monitor the urban biodiversity, particularly the bird biodiversity, in and around the school. The data they collected were uploaded on an online citizenry platform called iNaturalist for scientists and naturalist around the world to use for data interpretation of the biodiversity of the world.</p>
 
 <p style="text-align: justify;">To deepen the students’ observational and reflective skills especially during the Circuit Breaker period, the students were introduced to a mindful activity called <b>Nature Journaling</b> in 2020. In 2022, to further create greater awareness of the biodiversity of Dunman Secondary School environment, a few praiseworthy nature journals were selected and published into postcards as part of the school’s outreach efforts to primary schools.</p>
 
-<p style="text-align: justify;">To create greater interest in the biodiversity of Singapore, the students in the programme have been exposed to a number of external competitions and activities organised by Nature Society Singapore. Our students made the school proud by emerging champions in the ‘<b>35th Bird Race for the Secondary School Category</b>’ in 2019 and the ‘<b>Inaugural Biodiversity Race in 2022</b>’. In addition, a few of the student’s nature journals were used as decorations in the ‘<b>Tree of the World 2021</b>’ fund raising project at Singapore Botanic Gardens.  This is in support of Singapore’s ‘One Million Tree Movement’.</p>
+<p style="text-align: justify;">To create greater interest in the biodiversity of Singapore, the students in the programme have been exposed to a number of external competitions and activities organised by Nature Society Singapore. Our students made the school proud by emerging champions in the ‘<b>35th Bird Race for the Secondary School Category</b>’ in 2019 and the ‘<b>Inaugural Biodiversity Race in 2022</b>’. In addition, a few of the student’s nature journals were used as decorations in the ‘<b>Tree of the World 2021</b>’ fund raising project at Singapore Botanic Gardens.&nbsp; This is in support of Singapore’s ‘One Million Tree Movement’.</p>
 
 <p style="text-align: justify;">Lastly, the Sec 2 students have also been invited to share their nature journaling experiences in this year’s <b>Inaugural NSS-ESN Symposium</b> to be held on the 4th of November 2022. To engage and stimulate interest in the biodiversity of Dunman Secondary School, the students have also created a game called ‘<b>Avian Watch</b>’ using the online gamification tool called ‘Genially’. This game will be used in the future as an outreach activity with external organisations especially primary schools and kindergartens.</p>
 
 **Comments by students :**
 
->Honestly speaking, this programme was one of the best things about Secondary school. I have benefited in many ways from this programme such as understanding bird sounds and identifying the birds from their unique features, by learning the parts of a bird. Nature journaling has helped me learn how to proportionally draw birds and understand their diet and habitats of the bird. I have gained new knowledge from the research I have done on the different birds.<br>Before I joined the programme, birds used to be present around me but just unobserved. Since the programme, every single bird and animal started to catch my eye and gradually sparked my interest for me to go to parks around Singapore and even overseas to take a look at the variety of species present. All it takes is to notice the great flora and fauna around us.<br>\-Sanjana , 2F<br>
+&gt;Honestly speaking, this programme was one of the best things about Secondary school. I have benefited in many ways from this programme such as understanding bird sounds and identifying the birds from their unique features, by learning the parts of a bird. Nature journaling has helped me learn how to proportionally draw birds and understand their diet and habitats of the bird. I have gained new knowledge from the research I have done on the different birds.<br>Before I joined the programme, birds used to be present around me but just unobserved. Since the programme, every single bird and animal started to catch my eye and gradually sparked my interest for me to go to parks around Singapore and even overseas to take a look at the variety of species present. All it takes is to notice the great flora and fauna around us.<br>\-Sanjana , 2F<br>
 
->I signed up to be part of this programme because I felt it would deepen my knowledge on birds and nature in general. It would also be an opportunity to improve my presentation skills. I can create a greater awareness of the biodiversity of the environment via social media, that way many people will be able to access what I share. Additionally, taking part in more opportunities like this would be able to provide me a platform to spread greater awareness about the biodiversity of the environment.<br>\- Natalie Ng, 2F
+&gt;I signed up to be part of this programme because I felt it would deepen my knowledge on birds and nature in general. It would also be an opportunity to improve my presentation skills. I can create a greater awareness of the biodiversity of the environment via social media, that way many people will be able to access what I share. Additionally, taking part in more opportunities like this would be able to provide me a platform to spread greater awareness about the biodiversity of the environment.<br>\- Natalie Ng, 2F
 
 
 
-### Competitions & Achievements
+### Competitions &amp; Achievements
 <p style="text-align: justify;">The Dunman Humanities Department provides every Humanities student with opportunities to achieve their fullest potential.</p>
 
-#### (1) Geography Competitions
+#### (1)&nbsp;Geography Competitions
 
 **NUS Geography Challenge**
 
@@ -89,7 +89,7 @@ description: ""
 
 ![](/images/Department%20Photos/Humanities/Nature%20Watch%20write%20up.jpeg)
 
-#### (2) History Competitions
+#### (2)&nbsp;History Competitions
 **Inter-School War and Diplomacy Card Game Challenge**
 * 2015: Certificate of Participation
 * 2016: 2nd Runner-up – Individual Category

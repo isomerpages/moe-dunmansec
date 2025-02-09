@@ -2,9 +2,7 @@
 title: Sec 3 Programme
 permalink: /our-dunman-experience/ELIXiR/sec-3-programme/
 description: ""
-third_nav_title: ELIXiR
 ---
-
 ### Programmes and Activities
 
 <b><u>Innovations in Science - Secondary 3 Programme</u></b>
@@ -25,4 +23,4 @@ third_nav_title: ELIXiR
 <p style="text-align: justify;">In addition, there are enrichment programmes for students to learn certain scientific principles outside of their classroom for a more enhanced learning experience!</p>
 
 1. Curie Me Away! Musical
-2. NKF Health Booth Kidney Dialysis Talks _(Collaboration with National Kidney Foundation)_
+2. NKF Health Booth Kidney Dialysis Talks&nbsp;_(Collaboration with National Kidney Foundation)_

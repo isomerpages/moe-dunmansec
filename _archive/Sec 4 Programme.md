@@ -2,9 +2,7 @@
 title: Sec 4 Programme
 permalink: /our-dunman-experience/ELIXiR/sec-4-programme/
 description: ""
-third_nav_title: ELIXiR
 ---
-
 ### Programmes and Activities
 
 <b><u>eXcel in Science- Secondary 4/5 Programme</u></b>

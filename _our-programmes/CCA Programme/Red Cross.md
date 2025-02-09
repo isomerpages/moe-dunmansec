@@ -56,7 +56,7 @@ Championship</p>
 </ul>
 <h3>Trainings</h3>
 <p>Every Friday – 2:30PM to 5:30PM</p>
-<h3>Teacher-in-Charge</h3>
+<h3>Teachers-in-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Chandramita Halder: <a href="mailto:chandramita_halder@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandramita_halder@moe.edu.sg</a>

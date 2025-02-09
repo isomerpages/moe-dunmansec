@@ -2,18 +2,11 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - ELIXiR/.keep
-      - ELIXiR/ELIXiR.md
-      - ELIXiR/Sec 1 Programme.md
-      - ELIXiR/Sec 2 Programme.md
-      - ELIXiR/Sec 3 Programme.md
-      - ELIXiR/Sec 4 Programme.md
-      - ELIXiR/School Wide Programme.md
-      - ELIXiR PLUS.md
+      - STEM Talent Development.md
       - STEMviaDT.md
       - Student Leadership.md
       - Heritage Module.md
-      - Sport and Recreation Club.md
+      - Sport and Recreation Activities.md
       - makerspace@library.md
       - Our Student Life.md
       - Home Based Learning.md

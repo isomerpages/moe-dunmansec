@@ -2,9 +2,10 @@
 title: Mathematics Programme
 permalink: /our-programmes/mathematics-programme/
 description: ""
+variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/mathematics%20department%20i.jpg" style="width:78%">
+<img src="/images/Department%20Photos/2024/mathematics_department_1.jpg" style="width:78%">
 
 ### Mission / Objectives of Department
 <p style="text-align: justify;">Our department is committed to providing positive and meaningful experiences in mathematics for our students. Our mission is to develop students into problem solvers, equipped with the ability to apply mathematical concepts in real-world contexts.
