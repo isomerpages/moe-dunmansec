@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Student Management.md
       - School Wide Programme.md
       - Sec 4 Programme.md
       - Sec 3 Programme.md
