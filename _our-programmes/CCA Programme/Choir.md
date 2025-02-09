@@ -61,9 +61,6 @@ and resilience required in choir and teamwork activities.</p>
 <p>We are thankful and blessed for the constant support from the school,
 parents and family, as well as the Dunman Choir alumni, without which the
 choir would not have achieved all that it has today.</p>
-<p>
-<br>
-</p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
