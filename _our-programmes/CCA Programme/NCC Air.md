@@ -10,7 +10,7 @@ variant: tiptap
 honor and mutual respect. We aim to do our best in all our endeavors, be
 it in competitions or involving our cadets in enriching activities.</p>
 <h3>Achievements</h3>
-<p>IIn 2023, we received our 21st consecutive Distinction Award for our performance
+<p>In 2023, we received our 21st consecutive Distinction Award for our performance
 in 2022 in the Unit Recognition (UR) award. We thank our cadets for their
 dedication and perseverance in training, and the parents and teachers of
 our cadets for their continuous support and dedication to the unit.</p>
@@ -79,7 +79,16 @@ Appreciation Day</p>
 <p>Fridays – 3 PM to 6 PM – For all cadets</p>
 </li>
 </ul>
-<h4>Teacher OIC Contact</h4>
-<p> <a href="muhammad_fadhly_pathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fadhly_pathi@moe.edu.sg</a>
-</p>
+<h4>Teachers-in-Charge</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Muhammad Fadhly</p>
+</li>
+<li>
+<p>Mr John Lawrence</p>
+</li>
+<li>
+<p>Mr Elvin Tay</p>
+</li>
+</ul>
 <p></p>
