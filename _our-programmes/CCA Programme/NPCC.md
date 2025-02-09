@@ -169,7 +169,7 @@ throughout the day.</p>
 <p>Every Friday: 2:00 pm to 6 pm.
 <br>Every Even Week Tuesday: 3:30pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
-<h3><strong>Contact Details</strong></h3>
+<h3><strong>Teachers-in-Charge</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>(Mr.) Chu Khoon Hwa - OC and 4/5 Squad IC&nbsp;</p>
