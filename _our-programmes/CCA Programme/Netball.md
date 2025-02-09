@@ -19,7 +19,7 @@ With numerous chances to compete in friendly matches and the National School tou
 </p><p>
 In the National School Games 2024, our netballers demonstrated unwavering commitment and resilience. Each match was an opportunity to showcase their skills, hard work, and the spirit of Dunman. They met each challenge head-on with a positive attitude, playing each game with pride and leaving a lasting impression on all who watched. This has resulted in the B Division players emerging as champions for the East Zone Netball Competition and C Division as 1st runner up in the National School Games. 
 </p><p>
-**B Division**<br>
+	<b>Achievements</b> <br>
 2024- East Zone Champion <br>
 2023- East Zone Top 8 <br>
 2023- Champions (NETOPS Carnival)<br>
@@ -27,7 +27,7 @@ In the National School Games 2024, our netballers demonstrated unwavering commit
 2019- East Zone 3rd Runner Up<br>
 2018- East Zone Champion<br>
 <br>
-**C Division**<br>
+	<b>C Division</b><br>
 2024- 1st Runner Up <br>
 2023- East Zone Top 8 <br>
 2022- East Zone 1st Runner Up <br>
@@ -40,9 +40,9 @@ Every Tuesday and Thursday (alternate week): 3-6pm<br>
 Friday: 2-5pm
 
 ### Teachers-in-charge
-Overall in charge: Miss Fauzani Binte Kamsani  
-Ms Goh Witty  
-Miss Liew Jia Hui   
+* Overall in charge: Miss Fauzani Binte Kamsani  
+* Ms Goh Witty  
+* Miss Liew Jia Hui   
 
 
 </p>
