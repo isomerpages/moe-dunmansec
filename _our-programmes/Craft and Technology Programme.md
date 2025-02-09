@@ -4,20 +4,20 @@ permalink: /our-programmes/craft-and-technology-programme/
 description: ""
 variant: markdown
 ---
-![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_1.jpg)
+### Members
+<img src="/images/Department%20Photos/2024/craft_and_technology_department_2" style="width:78%">
 
-# **Mission / Objectives of Department**
+### Mission / Objectives of Department
 
 The Craft &amp; Technology department is a closely-knit department where every teacher contributes willingly and selflessly to motivate and engage students to learn in class. We firmly believe every child can learn and we work hard at ensuring that the child not only learns but most importantly enjoys the learning process. Through the process, we hope to instill and nurture our students with values like determination, perseverance, respect, time management and teamwork which will see them through their journey in life.
 
-# **Vision Of The Department**
+### Vision of the Department
 
 **Students**
 
 The Department aims to develop students to become empathetic, self-directed learners, critical and innovative problem solvers who can face and handle life challenges confidently. We also aim to nurture students to appreciate and enjoy the aesthetics and culture in their environment and are willing to use the skills which they have learnt to serve and give back to the community.
 
-# **Teachers**
-# 
+### Teachers
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_2.jpg)
 
 **Macron Art Jamming in Dept Retreat 2023&nbsp;**
@@ -41,7 +41,7 @@ These subjects are common curriculum based subject for the lower secondary level
 
 The main approach that teachers adopt in engaging student learning are Design Thinking and Inquiry based learning. Through Design Thinking, students are taught to empathize with the user and look at the problem from various perspective to tackle them. Through the usage of Authentic learning, students get to learn the concepts and make the connections so that the lesson becomes alive to them and hence they are more self-directed in their learning. A range of both Formative and Summative assessments are used to assess students’ learning and understanding so that progress is made.
 
-# Design &amp; Technology (D&amp;T)
+### Design &amp; Technology
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert_Pic_3.jpg)
 
@@ -72,7 +72,7 @@ This immersive experience not only made learning engaging but also translated th
 
 In Design and Technology, we believe in learning by doing, and our students have proven, time and again, that this approach sparks their creativity and passion for design.
 
-# **Food and Consumer Education (FCE)**
+### Food and Consumer Education (FCE)
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/Insert_pic_9.jpg)
 
@@ -80,7 +80,7 @@ In Design and Technology, we believe in learning by doing, and our students have
 
 Students in lower FCE programme are engaged in problem-based learning activities whereby they are given case studies of people with certain health conditions and to research on and work out suitable healthy meals. They will learn various noteworthy nutritional facts and perform practical cooking sessions to whip up significant dishes. They will then use their acquired knowledge to come up with interesting recipes in their FCE lessons. <p></p>
 
-# Art (Lower Secondary)
+### Art (Lower Secondary)
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_10.jpg)
 
@@ -109,7 +109,7 @@ The students have discovered the power of technology, witnessing how it can elev
 
 To enhance their gallery experience, the students were provided with VR Goggles, immersing themselves fully in their artistic world. Additionally, the students have embarked on a gallery lesson, diligently filling out worksheets to capture and reflect upon their experiences.<p></p>
 
-## Music (Lower Secondary)
+### Music (Lower Secondary)
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_Pic_14.png)
 
@@ -126,7 +126,7 @@ For Secondary 2, the students will use their creative ideas to come up with cove
 
 For the Upper Secondary Programme, only NFS and D&amp;T are offered as electives to students and the subjects are taught independently to prepare the pupils for the GCE 'N' and 'O' Level Examinations. The subjects are coursework based whereby pupils are to research and design an artefact for D&amp;T and design nutrition meals for NFS. In the aim to enhance student's learning, field trips and enrichment classes are also organised to expose students to the different learning environments.
 
-## **D&amp;T AWARD**
+### D&amp;T Award
 
 ![](/images/Department%20Photos/Craft%20&amp;%20Tech/insert_pic_17a.png)
 
@@ -146,7 +146,3 @@ Creative Aesthetics: &nbsp;Gabriella Fatima Zenisa Ramli (4F, 2023)
 |2021 &amp; 2020|Event disrupted by Covid-19||
 |2019|Creative Innovation: Joey Heng Zhuo yu (5A, 2018) Creative Adaptation: Uwais Alqarni Bin Abdul Rahman (4B, 2018) | Chayarnee Marnee-In
 2019 | Javier Lai Mao Sheng (4C, 2018) ; Tang Jing Yi (4G, 2018) |Elvin Tay Ng Aik Koon
-
-
-
-
