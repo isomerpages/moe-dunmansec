@@ -2,9 +2,9 @@
 title: Administrative Team
 permalink: /our-dunman/administrative-team/
 description: ""
+variant: markdown
 ---
-<img src="/images/Department%20Photos/eas%20i.jpg"
-     style="width:78%">
+<img src="/images/Department%20Photos/2024/executive_and_administrative_staff_2.jpg" style="width:78%">
 <p style="text-align: center;"><i>“We Don’t Just Do Our Job – It’s How We Make A Difference To You.”</i></p>
 
 ### Mission
@@ -21,11 +21,11 @@ description: ""
 
 ### Our Service Excellence Model
 
-<p style="text-align: justify;">A common goal unites all of us in our daily work. It is to go the extra mile and deliver a positive impact to our students and teachers through the core value of service excellence. To realize this goal, the Team has developed a unique service excellence model with the acronym, ‘DUNMAN’. Each staff in his or her own area of work and conduct are guided by the following core beliefs:</p>
+<p style="text-align: justify;">A common goal unites all of us in our daily work. It is to go the extra mile and deliver a positive impact to our students and teachers through the core value of service excellence. To realize this goal, the Team has developed a unique service excellence model with the acronym, ‘DUNMAN’.&nbsp;Each staff in his or her own area of work and conduct are guided by the following core beliefs:</p>
 
-*   Strive to **D**elight others whom we serve.
-*   Seek to **U**nderstand others whom we serve and their needs first.
-*   Be **N**urturing in our approach towards others and one another.
+*   Strive to&nbsp;**D**elight others whom we serve.
+*   Seek to&nbsp;**U**nderstand others whom we serve and their needs first.
+*   Be&nbsp;**N**urturing in our approach towards others and one another.
 *   **M**ake a difference in how we serve others.
-*   Be **A**ccurate and **A**ccountable in discharging our responsibilities and performing tasks.
+*   Be&nbsp;**A**ccurate and&nbsp;**A**ccountable in discharging our responsibilities and performing tasks.
 *   **N**ever stop seeking improvements in our work and service.
