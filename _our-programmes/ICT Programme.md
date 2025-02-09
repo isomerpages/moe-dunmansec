@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/infocomm%20technology%20department%20i.jpg" style="width:78%">
+<img src="/images/Department%20Photos/2024/information_and_communication_technology_department_1.jpg" style="width:78%">
 
 ### Mission / Objectives of Department
 1. Students as Innovative and Discerning users of IT.
