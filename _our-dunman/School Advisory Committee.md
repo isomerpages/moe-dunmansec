@@ -2,5 +2,9 @@
 title: School Advisory Committee
 permalink: /our-dunman/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-![](/images/SAC/SAC2023v3.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Template_Crop.png">
+</div>
+<p></p>
