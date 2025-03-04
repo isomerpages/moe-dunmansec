@@ -144,15 +144,7 @@ on the NSS-ESN Programme .</p>
 <p><strong>Comments by students :</strong>
 </p>
 <blockquote>
-<p>‘I felt that there is a variety of biodiversity in Singapore such as birds
-like Javan Myna, Spotted Doves, that could be noticed if we pay close attention
-to it. There are also some birds who we may not have noticed normally but
-they still are a part of the biodiversity which is also a part of learning
-such as their habitats and diet which allow me to understand the biodiversity
-of Singapore. My experience has been great from participating in the NSS-ESN
-programme so far and I thought it is beneficial as we could understand
-the bird species more and improve on our observational skills which helps
-us to identify the birds easier and faster.
+<p><sub>‘I felt that there is a variety of biodiversity in Singapore such as birds like Javan Myna, Spotted Doves, that could be noticed if we pay close attention to it. There are also some birds who we may not have noticed normally but they still are a part of the biodiversity which is also a part of learning such as their habitats and diet which allow me to understand the biodiversity of Singapore. My experience has been great from participating in the NSS-ESN programme so far and I thought it is beneficial as we could understand the bird species more and improve on our observational skills which helps us to identify the birds easier and faster. </sub>
 <br>
 </p>
 </blockquote>
