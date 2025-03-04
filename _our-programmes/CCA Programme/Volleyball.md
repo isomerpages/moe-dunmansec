@@ -21,7 +21,7 @@ a strong focus on inculcating character-building values.</p>
 <p>This includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Emphasis on skills development</p>
+&lt;&gt;Emphasis on skills development<p></p>
 </li>
 <li>
 <p>Meticulous tactical training</p>
@@ -103,10 +103,7 @@ to overcome obstacles and grow together as a team to achieve their goals.</p>
 <p>Friday 3 PM to 6 PM</p>
 </li>
 </ul>
-<p><strong>Volleyball Teachers</strong>
+<strong>Volleyball Teachers</strong>
 <br>Ms Koh Meng Geok: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_meng_geok@moe.edu.sg</u></a>
-</p>
-<p>Ms Lim Chean Chean: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chean_chean@moe.edu.sg</u></a>
-</p>
-<p>Mr Phey Boon Yeow: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phey_boon_yeow@moe.edu.sg</u></a>
-</p>
+<br>Ms Lim Chean Chean: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chean_chean@moe.edu.sg</u></a>
+<br>Mr Phey Boon Yeow: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phey_boon_yeow@moe.edu.sg</u></a>
