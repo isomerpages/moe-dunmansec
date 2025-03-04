@@ -3,7 +3,7 @@ title: Volleyball
 permalink: /our-programmes/cca-programme/volleyball/
 description: ""
 third_nav_title: CCA Programme
-variant: markdown
+variant: tiptap
 ---
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
@@ -21,7 +21,7 @@ a strong focus on inculcating character-building values.</p>
 <p>This includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-&lt;&gt;Emphasis on skills development<p></p>
+<p>Emphasis on skills development</p>
 </li>
 <li>
 <p>Meticulous tactical training</p>
@@ -103,7 +103,8 @@ to overcome obstacles and grow together as a team to achieve their goals.</p>
 <p>Friday 3 PM to 6 PM</p>
 </li>
 </ul>
-<strong>Volleyball Teachers</strong>
+<p><strong>Volleyball Teachers</strong>
 <br>Ms Koh Meng Geok: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_meng_geok@moe.edu.sg</u></a>
 <br>Ms Lim Chean Chean: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chean_chean@moe.edu.sg</u></a>
 <br>Mr Phey Boon Yeow: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>phey_boon_yeow@moe.edu.sg</u></a>
+</p>
