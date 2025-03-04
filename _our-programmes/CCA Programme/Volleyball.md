@@ -45,266 +45,64 @@ a strong focus on inculcating character-building values.</p>
 </div>
 <p>Our volleyball players are also provided numerous opportunities to compete
 in friendly matches leading up to the National School tournaments.</p>
-<p><strong><u>Our Coaches</u></strong>
-</p>
-<p>Mr Shen Ke Qin, an&nbsp;<strong>ex-National Team player for China &amp; Singapore</strong>.
-Mr Shen brings with him a wealth of experience from his time as a national
-team player &amp; coach from&nbsp;<strong>1981 to 1993</strong>. Over the
-years, he has continually adapted and refined his coaching approach to
-engage the student athletes. At the same time, he places&nbsp;<strong>strong emphasis on the character development</strong>&nbsp;of
-the athletes in the program. Mr Shen has consistently guided our ‘B’ Division
-teams to greater heights, cementing our position as a major contender in
-the volleyball arena.</p>
-<p>Mdm Chen Yi Yi, an&nbsp;<strong>ex-Shanghai State Team player from 1981 to 1985</strong>.
-With her specialised coaching for&nbsp;<strong>developing strong foundational skills</strong>,
-she has since led our ‘C’ Division girls to 6 East Zone and 1 National
-titles, after making our maiden appearance in the Girls competition in
-2008.</p>
+<p></p>
 <h3>Achievements</h3>
-<p>With four teams representing the school each year, we are always proud
+<p>With two teams representing the school each year, we are always proud
 to see our students displaying great perseverance, determination and teamwork
 to overcome obstacles and grow together as a team to achieve their goals.</p>
-<p><strong>Boys Volleyball</strong>
+<p><strong>B Division</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>B Boys National</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>B Boys Zonal</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>C Boys National</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>C Boys Zonal</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Girls Volleyball</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 – East Zone 3rd</p>
+</li>
+<li>
+<p>2023 – East Zone 3rd</p>
+</li>
+<li>
+<p>2022 – East Zone 2nd&nbsp;</p>
+</li>
+<li>
+<p>2021 – 2nd&nbsp;</p>
+</li>
+<li>
+<p>2019 – East Zone 2nd, National 2nd&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>C Division</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>B Girls National</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>B Girls Zonal</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>C Girls National</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>C Girls Zonal</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>2019 – East Zone 2<sup>nd</sup>
+</p>
+</li>
+</ul>
 <h3>Trainings</h3>
-<p><strong>C Division Boys/Girls</strong>
-<br>Tuesday: 2pm to 4pm
-<br>Thursday: 2pm to 4pm
-<br>Friday: 1pm to 3pm
-<br>Saturday: During Competition Season</p>
-<p><strong>B Division Boys/Girls</strong>
-<br>Tuesday: 4pm to 6pm
-<br>Thursday: 4pm to 6pm
-<br>Friday: 4pm to 6pm
-<br>Saturday: During Competition Season</p>
+<p>Odd Weeks:</p>
+<ul>
+<li>
+<p>Tuesday 3 PM to 6 PM</p>
+</li>
+<li>
+<p>Thursday 3 PM to 6 PM (Only during Competition Season)</p>
+</li>
+<li>
+<p>Friday 3 PM to 6 PM</p>
+</li>
+</ul>
+<p>Even Weeks:</p>
+<ul>
+<li>
+<p>Tuesday 3 PM to 6 PM</p>
+</li>
+<li>
+<p>Thursday 3 PM to 6 PM</p>
+</li>
+<li>
+<p>Friday 3 PM to 6 PM</p>
+</li>
+</ul>
 <p><strong>Volleyball Teachers</strong>
 <br>Ms Koh Meng Geok: <a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_meng_geok@moe.edu.sg</u></a>
 </p>
