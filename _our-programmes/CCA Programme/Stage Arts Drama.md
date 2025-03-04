@@ -57,7 +57,7 @@ in situations within and beyond the school context.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SYF Awards</p>
+<p>SYF Arts Presentation results</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -65,11 +65,11 @@ in situations within and beyond the school context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2019</strong>
+<p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -81,7 +81,7 @@ in situations within and beyond the school context.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,19 +93,7 @@ in situations within and beyond the school context.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2015</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acomplishment</p>
+<p>Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -172,16 +160,13 @@ in situations within and beyond the school context.</p>
 <h4>Teachers-in-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Neeta</p>
+<p>Ms Norhayati</p>
 </li>
 <li>
 <p>Ms Angelina Tang</p>
 </li>
 <li>
-<p>Ms Diyana</p>
-</li>
-<li>
-<p>Ms Norhayati
+<p>Ms Neo Wee Khee
 <br>
 </p>
 </li>
