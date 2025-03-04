@@ -61,10 +61,6 @@ responsibly to the society and world they live in.</p>
 to appreciate real-world application of geographical knowledge and help
 them acquire 21st Century Competencies. From Secondary 1 to Secondary 3,
 Geography students carry out inquiry-based learning on various issues.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/HUmanities/HUmGI.jpg">
-</div>
 <p>The Secondary One cohort at Dunman Secondary School embarked on a comprehensive
 geographical investigation focused on assessing water quality within their
 school environment. This project aimed to emphasise the critical role of
@@ -76,9 +72,8 @@ how water quality influences the well-being of living organisms. Through
 hands-on data collection, teamwork, and discussions, students linked textbook
 knowledge to real-world applications, reinforcing their learning through
 experiential engagement.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/HUmanities/HumGI3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/HUmanities/HumGI3.jpg">
 </div>
 <p>Building on this investigative approach, Secondary Two students participated
 in an interdisciplinary project exploring the inquiry question: “How do
@@ -117,7 +112,7 @@ and are also doing research on other bird species found in different environment
 other than Dunman Secondary School.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/HUmanities/Hum1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Dunman Experience/HUmanities/Hum1.png">
 </div>
 <p>There are two main achievements so far by the students in the programme.
 Firstly, two teams from the secondary 1 and 2 level achieved the top two
