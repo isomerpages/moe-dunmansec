@@ -36,18 +36,15 @@ a strong focus on inculcating character-building values.</p>
 <p>Integration of Social-Emotional Learning through Sportsmanship and Leadership</p>
 </li>
 </ul>
-<p>Our volleyball players are also provided numerous opportunities to compete
-in friendly matches leading up to the National School tournaments.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture3-min.jpg">
 </div>
-<p>Our volleyball players are also provided vast opportunities to compete
-in friendly matches leading up to the National School&nbsp;tournaments.
-We also work closely with post-secondary institutions, Junior Colleges
-(Nanyang JC), and Polytechnics for Direct School&nbsp;Admission (DSA).</p>
+<p>Our volleyball players are also provided numerous opportunities to compete
+in friendly matches leading up to the National School tournaments.</p>
 <p><strong><u>Our Coaches</u></strong>
 </p>
 <p>Mr Shen Ke Qin, an&nbsp;<strong>ex-National Team player for China &amp; Singapore</strong>.
