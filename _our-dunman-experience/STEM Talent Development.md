@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>STEM Talent Development</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Special Programmes/StemTalentDev/stemtalentdev_.png">
+</div>
 <p>As part of the Centre’s effort to outreach to schools in the East Zone
 and to cultivate the passion for learning Science, the ELIXiR<sup>+</sup> Science
 Programme is extended to Upper Primary Students from schools in the East
@@ -66,23 +70,23 @@ for DSA-STEM to Dunman Secondary School in 2022.</p>
 <p>Students who are posted to Dunman Secondary School through the DSA-STEM
 programme will join a STEM related CCA as well as students in this CCA
 will be part of the ELIXiR<sup>+</sup>&nbsp;programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Special Programmes/StemTalentDev/stemtalentdev4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Special Programmes/StemTalentDev/stemtalentdev3.png">
+</div>
 <p>The ELIXiR+ program aims to develop and support our Dunmanities from young
 STEM Innovators to STEM leaders. The table summarises some of the activities
 that students have participated in previous years to grow their STEM competencies.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Lower Secondary</strong>
@@ -112,9 +116,6 @@ without tape/glue</p>
 <p>Science-Geography STEM Outdoor Learning at Tampines Ecogreen</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -143,4 +144,7 @@ Race, IgNITE challenge and other national platforms</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Special Programmes/StemTalentDev/stemtalentdev2.png">
+</div>
 <p></p>
