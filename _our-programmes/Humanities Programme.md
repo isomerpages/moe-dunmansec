@@ -143,6 +143,7 @@ of the future.</p>
 on the NSS-ESN Programme .</p>
 <p><strong>Comments by students :</strong>
 </p>
+<blockquote>
 <p>‘I felt that there is a variety of biodiversity in Singapore such as birds
 like Javan Myna, Spotted Doves, that could be noticed if we pay close attention
 to it. There are also some birds who we may not have noticed normally but
@@ -154,6 +155,7 @@ the bird species more and improve on our observational skills which helps
 us to identify the birds easier and faster.
 <br>
 </p>
+</blockquote>
 <h3>Competitions &amp; Achievements</h3>
 <p></p>
 <p>The Dunman Humanities Department provides every Humanities student with
