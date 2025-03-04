@@ -45,7 +45,6 @@ a strong focus on inculcating character-building values.</p>
 </div>
 <p>Our volleyball players are also provided numerous opportunities to compete
 in friendly matches leading up to the National School tournaments.</p>
-<p></p>
 <h3>Achievements</h3>
 <p>With two teams representing the school each year, we are always proud
 to see our students displaying great perseverance, determination and teamwork
@@ -69,7 +68,6 @@ to overcome obstacles and grow together as a team to achieve their goals.</p>
 <p>2019 – East Zone 2nd, National 2nd&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p><strong>C Division</strong>
 </p>
 <ul data-tight="true" class="tight">
