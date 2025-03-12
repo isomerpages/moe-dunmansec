@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G2 G3 Humanities</p>
+<p>G2/G3 Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec 2 eStreaming/2025/G2_G3_Humanities.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G2 G3 Literature in English</p>
+<p>G2/G3 Literature in English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec 2 eStreaming/2025/G2_G3_Literature_in_Englishv2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G2 G3 Principles of Accounts (POA)</p>
+<p>G2/G3 Principles of Accounts (POA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec 2 eStreaming/2025/G2___G3_Principles_of_Accounts__POA_.pdf" rel="noopener nofollow" target="_blank">here</a>
@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G1 G2 G3 Science</p>
+<p>G1/G2/G3 Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Sec 2 eStreaming/2025/G1_G2_G3_Science.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
