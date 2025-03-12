@@ -57,7 +57,7 @@ variant: tiptap
 <p>G1 Design and Technology (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec 2 eStreaming/2025/G1_D_T_compressed.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 2 eStreaming/2025/G1_D_T_2025v2_compressed.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
