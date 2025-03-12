@@ -89,7 +89,7 @@ variant: tiptap
 <p>G2 G3 Literature in English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec 2 eStreaming/2025/G2_G3_Literature_in_English.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 2 eStreaming/2025/G2_G3_Literature_in_Englishv2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
