@@ -2,7 +2,6 @@ collections:
   our-dunman-experience:
     output: true
     order:
-      - Sec 2 Cohort Subject Selection Exercise.md
       - STEM Talent Development.md
       - STEMviaDT.md
       - Student Leadership.md
@@ -13,5 +12,6 @@ collections:
       - Home Based Learning.md
       - Personal Learning Device.md
       - Sec 1 CCA Selection.md
+      - Sec 2 Cohort Subject Selection Exercise.md
       - Our Success Stories.md
       - School Calendar.md
