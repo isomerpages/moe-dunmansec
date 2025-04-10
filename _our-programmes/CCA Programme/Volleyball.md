@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_NSG_B_Division_3rd_Placing.jpg">
 </div>
 <p>Dunman's Volleyball CCA provides a vibrant and enriching experience for
 our student athletes. We value competitive sports for the lessons they
@@ -38,7 +38,11 @@ a strong focus on inculcating character-building values.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_B_Division_East_Zone_Competition_2024.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_NSG_B_Division_East_Zone_3rd_pacing.jpg">
 </div>
 <p>Our volleyball players are also provided numerous opportunities to compete
 in friendly matches leading up to the National School tournaments.</p>
