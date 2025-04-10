@@ -40,9 +40,6 @@ a strong focus on inculcating character-building values.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Volleyball/Picture3-min.jpg">
-</div>
 <p>Our volleyball players are also provided numerous opportunities to compete
 in friendly matches leading up to the National School tournaments.</p>
 <h3>Achievements</h3>
