@@ -49,7 +49,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Leong Sen Tieng</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">leong_sen_tieng@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:leong_sen_tieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_sen_tieng@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
@@ -68,7 +68,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fauzani Bte Kamsani</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">fauzani_kamsani@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:fauzani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauzani_kamsani@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Meng Geok</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">koh_meng_geok@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:koh_meng_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_meng_geok@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Witty Goh</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">goh_wen_ti_witty@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:goh_wen_ti_witty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wen_ti_witty@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -107,7 +107,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Harris Alexander</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:harris_alexander@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ai Bee Jeanette</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">tan_ai_bee_jeanette@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:tan_ai_bee_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_bee_jeanette@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ May.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wu Shu Long</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">wu_shulong@moe.edu.sg</a>)</p>
+<p>(<a href="mailto:wu_shulong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_shulong@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +169,7 @@ or CCA Leader.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joshua Chow</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">chow_weiliang_joshua@moe.gov.sg</a>)</p>
+<p>(<a href="mailto:chow_weiliang_joshua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_weiliang_joshua@moe.gov.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
