@@ -182,14 +182,33 @@ and conferences.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p>For general DSA enquiry, please contact:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Teo Khong Beng</p>
 <p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:teo_khong_beng@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_khong_beng@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Harris Alexander</p>
 <p>SH PE/CCA</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:harris_alexander@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
