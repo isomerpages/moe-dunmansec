@@ -218,7 +218,7 @@ the DSA-Sec online portal.
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joyce Yap Yen Leng
-<br>(<a href="mailto:yap_yen_leng_joyce@moe.edusg" rel="noopener noreferrer nofollow" target="_blank">yap_yen_leng_joyce@moe.edusg</a>)</p>
+<br>(<a href="mailto:yap_yen_leng_joyce@moe.edusg" rel="noopener noreferrer nofollow" target="_blank">yap_yen_leng_joyce@moe.edu.sg</a>)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
