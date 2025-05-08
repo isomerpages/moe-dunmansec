@@ -24,13 +24,11 @@ sections:
       button: Click here to find out more
       url: /apple-distinguished-school/
   - infobar:
-      title: We are in the News!
-      subtitle: "CNA: future of Learning"
+      title: Begin Your Journey at Dunman through DSA
+      subtitle: From Passion to Purpose
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/mAQt8-JHEgE?si=aY-7zzfbdSclU0vN"
-        height="315" width="560"></iframe>  <br>  <i>Extracted from CNA
-        Singapore Watch Segment 20 September 2023</i>
+      description: From Passion to Purpose – Join Dunman via DSA and grow in a vibrant
+        school that nurtures values, talent, and character.
+      button: 👉 Click here to find out more about DSA@Dunman
+      url: https://www.dunmansec.moe.edu.sg/our-contacts/direct-school-admission-for-2025-intake/
 ---
