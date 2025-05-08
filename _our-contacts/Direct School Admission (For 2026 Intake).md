@@ -302,7 +302,7 @@ the DSA-Sec online portal.
 </p>
 <p></p>
 <p>Mr Harris Alexander
-<br>SH CCA/Leadership
+<br>SH PE/CCA (Internal)
 <br><a rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a>
 </p>
 <p></p>
