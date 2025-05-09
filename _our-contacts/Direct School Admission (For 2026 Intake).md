@@ -41,14 +41,16 @@ time of trial/audition and interview. Shortlisting criteria:&nbsp;&nbsp;&nbsp;&n
 through the email listed below (Optional).
 <br>*Please note that meeting all criteria does not guarantee the student
 will be shortlisted.</p>
-<p>&nbsp;</p>
-<p><strong><u>Registration</u></strong>
-<br>Please submit your registration for the school’s consideration between
-the periods <strong><u>7 May (11am) to 3 Jun (3pm) 2025</u></strong> through
-the DSA-Sec online portal.
-<br>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p></p>
+<p><strong><u>Below are some dates which you may want to take note</u></strong>
+<br>
 </p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA" src="/images/DSA_2025_table.png">
+</div>
+<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
 <p><strong><u>Information on various talent areas</u>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
