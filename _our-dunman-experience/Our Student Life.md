@@ -2,33 +2,153 @@
 title: Our Student Life
 permalink: /our-dunman-experience/our-student-life/
 description: ""
+variant: tiptap
 ---
-
-# Our Student Life
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
+<h1>Our Student Life</h1>
+<h4><strong>Dunman Insider</strong></h4>
+<p></p>
+<h4><strong>Photos</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td style="text-align: center;"><strong>2015</strong><img src="/images/Our%20Student%20Life/2015.png" alt="2015.PNG"><BR>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157650202286507/" target="_blank">here</a>.<br><br></td>
-    <td style="text-align: center;"><strong>2016</strong><img src="/images/Our%20Student%20Life/2016.png" alt="2016.PNG"><BR>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157661893601593/" target="_blank">here</a>.<br><br></td>
-    <td style="text-align: center;"><strong>2017</strong><img src="/images/Our%20Student%20Life/2017.png" alt="2017.PNG"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157676416368984/" target="_blank">here</a>.<br><br></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>2018</strong><img src="/images/Our%20Student%20Life/2018.png" alt="2018.PNG"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157711370788906/" target="_blank">here</a>.<br><br></td>
-    <td style="text-align: center;"><strong>2019</strong><img src="/images/Our%20Student%20Life/2019.png" alt="2019.PNG"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157711371341647/" target="_blank">here</a>.<br><br></td>
-    <td style="text-align: center;"><strong>2020</strong><img src="/images/Our%20Student%20Life/2020.png" alt="2020.PNG"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157717046618511/" target="_blank">here</a>.<br><br></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>2021</strong><img src="/images/Our%20Student%20Life/2021.png" alt="2021.JPG"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157719745220144/" target="_blank">here</a>.<br><br></td>
- <td style="text-align: center;"><strong>2022</strong><img src="/images/Our%20Student%20Life/2022.png" alt="2022.png"><br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157721180438009/" target="_blank">here</a>.<br><br></td>
-    <td> <br><br></td>
-    <td> <br></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2015.PNG" src="/images/Our%20Student%20Life/2015.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157650202286507/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2016.PNG" src="/images/Our%20Student%20Life/2016.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157661893601593/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2017.PNG" src="/images/Our%20Student%20Life/2017.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157676416368984/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2018.PNG" src="/images/Our%20Student%20Life/2018.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157711370788906/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2019.PNG" src="/images/Our%20Student%20Life/2019.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157711371341647/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2020.PNG" src="/images/Our%20Student%20Life/2020.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157717046618511/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2021.JPG" src="/images/Our%20Student%20Life/2021.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157719745220144/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2022.png" src="/images/Our%20Student%20Life/2022.png">
+</div>
+<p>
+<br>Please click <a href="https://www.flickr.com/photos/dunmansecondary/collections/72157721180438009/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023 - 2025</strong>
+</p>
+<p></p>
+<p>Please click <a href="https://www.flickr.com/photos/dunmansecondary/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
