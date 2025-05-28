@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - Apple Distinguished School.md
+      - Advisory For The School Holidays.md
+      - Invitation to Parents Gateway.md
+      - MoneySense for Your Child.md
       - Timetable AY2025.md
       - Booklist for AY2025.md
-      - Apple Distinguished School.md
-      - MoneySense for Your Child.md
-      - Invitation to Parents Gateway.md
-      - Advisory For The School Holidays.md
