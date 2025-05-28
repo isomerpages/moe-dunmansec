@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Exam Timetable.md
       - Apple Distinguished School.md
       - Advisory For The School Holidays.md
       - Invitation to Parents Gateway.md
