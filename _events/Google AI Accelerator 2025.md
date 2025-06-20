@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Dunman Secondary School: School Partner of the Google AI Accelerator 2025</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_20_at_1_55_39_PM.jpg">
+</div>
 <h4>Empowering Future-Ready Learners through Real-World AI Applications</h4>
 <p>From 16 to 28 June 2025, Dunman Secondary School is proud to serve as
 the official school partner for the inaugural Google AI Accelerator 2025
@@ -16,6 +19,10 @@ of Singapore (NUS).</p>
 schools and junior colleges across Singapore for an immersive, hands-on
 learning experience in Python programming, Artificial Intelligence (AI),
 and Machine Vision.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_20_215833.png">
+</div>
 <h4>Bridging Classroom Learning with Real-World Impact</h4>
 <p>During the first week, students are engaged in 48 hours of instructor-led
 training in Python and AI, using real-world tools such as Google Colab
@@ -27,6 +34,10 @@ real-life solutions.</p>
 Singapore, where students will present their work to professionals in the
 tech and healthcare sectors – a rare opportunity to experience authentic,
 high-impact learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_20_215824.png">
+</div>
 <h4>Aligned with Dunman’s Vision for STEM Education</h4>
 <p>Our involvement in the Google AI Accelerator 2025 reflects this vision
 – providing our students with opportunities to apply their knowledge to
