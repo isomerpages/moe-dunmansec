@@ -4,7 +4,7 @@ permalink: /google-ai-accelerator-2025/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Dunman Secondary School: School Partner of the Google AI Accelerator 2025</strong></h3>
+<h3><strong>Dunman Secondary School: School Partner of the Inaugural Google AI Accelerator 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_20_at_1_55_39_PM.jpg">
 </div>
@@ -38,11 +38,11 @@ high-impact learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_20_215824.png">
 </div>
-<h4>Aligned with Dunman’s Vision for STEM Education</h4>
+<h4>Aligned with Dunman’s Vision for STEM-Design Thinking Education</h4>
 <p>Our involvement in the Google AI Accelerator 2025 reflects this vision
 – providing our students with opportunities to apply their knowledge to
-real-world issues, collaborate across disciplines, and grow into confident,
-future-ready learners who lead with purpose.</p>
+problem solving real-world issues, collaborate across disciplines, and
+grow into confident, future-ready learners who lead with purpose.</p>
 <h4>Let’s Hear from our Students</h4>
 <p></p>
 <div class="isomer-image-wrapper">
