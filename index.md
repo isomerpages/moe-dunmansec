@@ -24,6 +24,13 @@ sections:
       button: Click here to find out more
       url: /apple-distinguished-school/
   - infobar:
+      title: Google AI Accelerator 2025
+      subtitle: School partner for
+      id: infobar
+      description: Find out more about our involvement in this programme
+      button: Click here
+      url: https://dunmansec.moe.edu.sg/google-ai-accelerator-2025/
+  - infobar:
       title: Begin Your Journey at Dunman through DSA
       subtitle: From Passion to Purpose
       id: infobar
