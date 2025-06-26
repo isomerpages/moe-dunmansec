@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - Exam Timetable.md
       - Apple Distinguished School.md
+      - Timetable AY2025.md
+      - Exam Timetable.md
       - Advisory For The School Holidays.md
       - Invitation to Parents Gateway.md
       - MoneySense for Your Child.md
-      - Timetable AY2025.md
       - Booklist for AY2025.md
