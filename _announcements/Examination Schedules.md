@@ -1,5 +1,5 @@
 ---
-title: Exam Timetable
+title: Examination Schedules
 permalink: /exam-timetable/
 variant: tiptap
 description: ""
