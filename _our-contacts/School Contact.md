@@ -841,7 +841,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Kong Khin</p>
+<p>Mr Tay Yong Khin</p>
 <p><a href="mailto:tay_yong_khin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yong_khin@moe.edu.sg</a>
 </p>
 </td>
@@ -860,7 +860,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Sin Xin Xian</p>
+<p>Ms Sin Xin Xian</p>
 <p><a href="mailto:sim_xin_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_xin_xian@moe.edu.sg</a>
 </p>
 </td>
@@ -879,7 +879,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Tiah Tao Koon</p>
+<p>Mr Tiah Tao Koon</p>
 <p><a href="mailto:tiah_tao_koon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tiah_tao_koon_a@moe.edu.sg</a>
 </p>
 </td>
