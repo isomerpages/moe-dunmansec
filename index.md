@@ -38,10 +38,4 @@ sections:
         school that nurtures values, talent, and character.
       button: 👉 Click here to find out more about DSA@Dunman
       url: https://www.dunmansec.moe.edu.sg/our-contacts/direct-school-admission-for-2025-intake/
-  - infobar:
-      title: "🎨 Dunman x FIGMA SG60: A Design Showcase!"
-      subtitle: "#DesignTheFuture"
-      id: infobar
-      description: "Bold ideas, sleek UI/UX & vibrant energy—catch it on 11 Jul,
-        2–5PM! 💻✨ In collab with IMDA & Tinkercademy. #DesignTheFuture"
 ---
