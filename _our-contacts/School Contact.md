@@ -900,7 +900,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sutha d/o Rajasekaran</p>
+<p>Ms Sutha d/o Rajasekaran</p>
 <p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a>
 </p>
 </td>
