@@ -836,7 +836,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wan Yuting Melissa</p>
+<p>Ms Wan Yuting Melissa</p>
 <p><a href="mailto:wan_yuting_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_yuting_melissa@moe.edu.sg</a>
 </p>
 </td>
@@ -860,7 +860,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sin Xin Xian</p>
+<p>Ms Sim Xin Xian</p>
 <p><a href="mailto:sim_xin_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_xin_xian@moe.edu.sg</a>
 </p>
 </td>
@@ -900,7 +900,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sutha d/o Rajasekaran</p>
+<p>Ms Sutha d/o Rajasekaran</p>
 <p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a>
 </p>
 </td>
@@ -1002,7 +1002,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Xin Yi</p>
-<p></p>
+<p><a href="mailto:lim_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_yi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
