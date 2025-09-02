@@ -65,6 +65,18 @@ in situations within and beyond the school context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -78,18 +90,6 @@ in situations within and beyond the school context.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2017</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,8 @@ in situations within and beyond the school context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p><strong>Tuesday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30 pm – 5.30 pm</p>
@@ -149,10 +150,11 @@ in situations within and beyond the school context.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p><strong>Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 pm – 5.00 pm</p>
+<p>2.00 pm – 4.00 pm</p>
 </td>
 </tr>
 </tbody>
