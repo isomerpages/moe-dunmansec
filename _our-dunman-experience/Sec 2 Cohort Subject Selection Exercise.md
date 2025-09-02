@@ -4,13 +4,27 @@ permalink: /our-dunman-experience/sec-2-subjectselectionex/
 description: ""
 variant: tiptap
 ---
-<p><strong>Note: Information updated as of 12 March 2025.</strong>
+<p><strong>Note: Information updated as of 2 September 2025.</strong>
 </p>
 <h4>Important Dates</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar_of_Events_SS_for_Sec_3_AY2026.png">
 </div>
+<p></p>
+<h4>Overview of Subject Combinations</h4>
+<p>Updated as of 2 September 2025</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G1_Majority.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G2_Majority.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3_Majority.jpg">
+</div>
+<p></p>
 <h4>Materials</h4>
 <p><strong>Briefing Slides (Subjects)</strong>
 </p>
@@ -111,7 +125,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Sec 2 Subject Selection Parents Engagement Briefing Slides</strong>
+<p><strong>Sec 2 Subject Selection Briefing Slides (Updated: 2 September 2025)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -132,7 +146,7 @@ variant: tiptap
 <p>Whole Cohort</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Sec 2 eStreaming/2025/Sec_2_Subject_Selection_Parents_Engagement_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please click <a href="/files/Sec 2 eStreaming/2025/DMN_Finalised_Subject_Combination_2_September_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
