@@ -8,6 +8,8 @@ variant: tiptap
 <h4><strong>Dunman Insider</strong></h4>
 <p><a href="/files/Our Student Life/Dunman Insider/The_Dunman_Insider_Issue_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Dunman Insider Issue 1 (2025)</a>
 </p>
+<p><a href="/files/Our Student Life/Dunman Insider/The_Dunman_Insider_Issue_2_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dunman Insider Issue 2 (2025)</a>
+</p>
 <p></p>
 <h4><strong>Photos</strong></h4>
 <table style="minWidth: 100px">
