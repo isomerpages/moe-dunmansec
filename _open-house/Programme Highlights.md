@@ -27,7 +27,8 @@ variant: markdown
 | 1030 to 1130     | Guided School Tour and STEM Experiential Learning
 | 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
 
-Note:
+<b>Note:</b>
+<br>
 
 | Time | Event |
 | -------- | -------- |
