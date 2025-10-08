@@ -56,7 +56,7 @@ variant: markdown
 
 Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
-**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?**
+**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary School?**
 
 Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
 
