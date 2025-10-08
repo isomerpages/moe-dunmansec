@@ -32,6 +32,7 @@ variant: markdown
 | -------- | -------- |
 | 0900 to 1200     | CCA Roadshow (Ongoing)
 
+
 ![](/images/E%20Open%20House/Makerspace_Experiential_Learning_Poster.png) 
 
 ![](/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png)
