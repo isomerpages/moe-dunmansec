@@ -22,7 +22,7 @@ variant: markdown
 | Time | Event |
 | -------- | -------- |
 | 0900 to 1000     | Guided School Tour and STEM Experiential Learning
-| 1000 to 1015 | CCA Performance in MPH
+| 1000 to 1015 | CCA Performances in MPH
 | 1015 to 1030     | Introduction by Principal, Mr Toh Thiam Chye (Session 1) |
 | 1030 to 1130     | Guided School Tour and STEM Experiential Learning
 | 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
