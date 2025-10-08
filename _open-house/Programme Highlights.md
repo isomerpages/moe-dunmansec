@@ -27,10 +27,13 @@ variant: markdown
 | 1030 to 1130     | Guided School Tour and STEM Experiential Learning
 | 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
 
-<b>Note:</b>
+Note:
+
 | Time | Event |
 | -------- | -------- |
-| 0900 to 1200     | CCA Roadshow (Ongoing) |
+| 0900 to 1200  | CCA Roadshow (Ongoing) |
+
+
 
 
 <br>
