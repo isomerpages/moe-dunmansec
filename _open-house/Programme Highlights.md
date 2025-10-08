@@ -33,9 +33,13 @@ variant: markdown
 | 0900 to 1200     | CCA Roadshow (Ongoing)
 
 
-![](/images/E%20Open%20House/Makerspace_Experiential_Learning_Poster.png) 
+<br>
 
-![](/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png)
+<img src="/images/E%20Open%20House/Makerspace_Experiential_Learning_Poster.png" style="width:100%">
+
+<br>
+
+<img src="/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png" style="width:100%">
 
 #### Frequently Asked Questions
 **1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2024 for Dunman Secondary School?**
