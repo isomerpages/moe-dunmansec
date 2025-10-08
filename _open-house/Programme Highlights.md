@@ -27,19 +27,21 @@ variant: markdown
 | 1030 to 1130     | Guided School Tour and STEM Experiential Learning
 | 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
 
-<b>Note:</b> 
+<b>Note:</b>
 | Time | Event |
 | -------- | -------- |
 | 0900 to 1200     | CCA Roadshow (Ongoing)
 
-<img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
+![](/images/E%20Open%20House/Makerspace_Experiential_Learning_Poster.png) 
+
+![](/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png)
 
 #### Frequently Asked Questions
 **1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2024 for Dunman Secondary School?**
 
 |  | PSLE AL Range |
 | -------- | -------- |
-| **Posting Group 3**     | 9 - 14     |
+| **Posting Group 3**     | 11 - 13     |
 | **Posting Group 2**     | 21 - 23     |
 | **Posting Group 1**     | 25 - 27     |
 
