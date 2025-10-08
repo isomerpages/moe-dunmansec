@@ -4,27 +4,33 @@ permalink: /e-open-house/programme-highlights/
 description: ""
 variant: markdown
 ---
-#### Open House 2024
+#### Open House 2025
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/dunmanoh2024bannerv2.png" style="width:70%">
+<img src="/images/E%20Open%20House/oh2025main.png" style="width:70%">
 
 #### Programme Highlights
 
 <br>
 
-1. STEM Experiential Workshops
-2. Talk by School Principal, Mr Toh Thiam Chye
-3. CCA Performances
-4. Guided School Tour
+1. School Guided Tour
+2. STEM Experiential Learning
+3. Talk by School Principal, Mr Toh Thiam Chye
+4. CCA Performances and Roadshow
 
 | Time | Event |
 | -------- | -------- |
-| 0900 to 1000     | STEM Experiential Workshops OR Guided School Tour
-| 1000 to 1020     | Introduction by Principal, Mr Toh Thiam Chye |
-| 1020 to 1100     | CCA Performances and Roadshow |
-| 1100 to 1200    | STEM Experiential Workshops OR Guided School Tour     |
+| 0900 to 1000     | Guided School Tour and STEM Experiential Learning
+| 1000 to 1015 | CCA Performance in MPH
+| 1015 to 1030     | Introduction by Principal, Mr Toh Thiam Chye (Session 1) |
+| 1030 to 1130     | Guided School Tour and STEM Experiential Learning
+| 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
+
+<b>Note:</b> 
+| Time | Event |
+| -------- | -------- |
+| 0900 to 1200     | CCA Roadshow (Ongoing)
 
 <img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
 
