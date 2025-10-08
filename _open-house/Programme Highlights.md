@@ -46,7 +46,7 @@ variant: markdown
 <img src="/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png" style="width:100%">
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2025 for Dunman Secondary School?**
+**1. Under the New PSLE Scoring System, what is the 2025 PSLE Achievement Level (AL) range for Dunman Secondary School?**
 
 |  | PSLE AL Range |
 | -------- | -------- |
