@@ -22,7 +22,7 @@ sections:
       description: Dunman Secondary School
       button: Find out more
       url: /e-open-house/programme-highlights/
-      image: /images/E Open House/Dunman_Secondary_School_Open_House_2025__Final_.png
+      image: /images/E Open House/oh2025main.png
       alt: Open House Banner
   - infobar:
       title: Apple Distinguished School
