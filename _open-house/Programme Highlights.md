@@ -69,6 +69,7 @@ Students are reminded to make their choices wisely as they may not be allocated 
 Find out more about our CCA programme <b><a href="/our-programmes/cca-programme/green-club/" target="_blank">here</a></b>.
 
 **3.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What are the signature programmes of Dunman Secondary?**
+
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
 
 Please click <b><a href="/our-programmes/science-programme/" target="_blank">here</a></b> to learn more about our Science curriculum.
