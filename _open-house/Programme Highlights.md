@@ -30,7 +30,7 @@ variant: markdown
 <b>Note:</b>
 | Time | Event |
 | -------- | -------- |
-| 0900 to 1200     | CCA Roadshow (Ongoing)
+| 0900 to 1200     | CCA Roadshow (Ongoing) |
 
 
 <br>
