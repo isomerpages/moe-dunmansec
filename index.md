@@ -19,7 +19,7 @@ sections:
       title: Open House 2025
       subtitle: Join Us on 8 November!
       id: infopic
-      description: Dunman Secondary School
+      description: Empathetic Leaders | Impactful Innovators
       button: Find out more
       url: /e-open-house/programme-highlights/
       image: /images/E Open House/oh2025main.png
