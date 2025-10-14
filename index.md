@@ -15,6 +15,15 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
+  - infopic:
+      title: Open House 2025
+      subtitle: Join Us on 8 November!
+      id: infopic
+      description: Empathetic Leaders | Impactful Innovators
+      button: Find out more
+      url: /e-open-house/programme-highlights/
+      image: /images/E Open House/oh2025main.png
+      alt: Open House Banner
   - infobar:
       title: Apple Distinguished School
       subtitle: We have been designated as an

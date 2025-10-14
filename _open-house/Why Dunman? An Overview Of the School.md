@@ -29,4 +29,5 @@ variant: markdown
 
 Click <b><a href="https://www.instagram.com/dunmansec/?hl=en" target="_blank">here</a></b> to follow us on Instagram and be the first to catch our creation!
 
-<img src="/images/E%20Open%20House/dmn_insta24.png" style="width:70%">
+<img src="/images/E%20Open%20House/dmninsta25.png" style="width:70%">
+

@@ -4,42 +4,59 @@ permalink: /e-open-house/programme-highlights/
 description: ""
 variant: markdown
 ---
-#### Open House 2024
+#### Open House 2025
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Fo5tR2yaDM?autoplay=1&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<img src="/images/E%20Open%20House/dunmanoh2024bannerv2.png" style="width:70%">
+<img src="/images/E%20Open%20House/oh2025main.png" style="width:90%">
 
 #### Programme Highlights
 
 <br>
 
-1. STEM Experiential Workshops
-2. Talk by School Principal, Mr Toh Thiam Chye
-3. CCA Performances
-4. Guided School Tour
+1. School Guided Tour
+2. STEM Experiential Learning
+3. Talk by School Principal, Mr Toh Thiam Chye
+4. CCA Performances and Roadshow
 
 | Time | Event |
 | -------- | -------- |
-| 0900 to 1000     | STEM Experiential Workshops OR Guided School Tour
-| 1000 to 1020     | Introduction by Principal, Mr Toh Thiam Chye |
-| 1020 to 1100     | CCA Performances and Roadshow |
-| 1100 to 1200    | STEM Experiential Workshops OR Guided School Tour     |
+| 0900 to 1000     | Guided School Tour and STEM Experiential Learning
+| 1000 to 1015 | CCA Performances in MPH
+| 1015 to 1030     | Introduction by Principal, Mr Toh Thiam Chye (Session 1) |
+| 1030 to 1130     | Guided School Tour and STEM Experiential Learning
+| 1130 to 1200     | Introduction by Principal, Mr Toh Thiam Chye (Session 2) |
 
-<img src="/images/E%20Open%20House/ohsee2024.jpg" style="width:200%">
+<b>Note:</b>
+<br>
+
+| Time | Event |
+| -------- | -------- |
+| 0900 to 1200  | CCA Roadshow (Ongoing) |
+
+
+
+
+<br>
+
+<img src="/images/E%20Open%20House/Makerspace_Experiential_Learning_Poster.png" style="width:100%">
+
+<br>
+
+<img src="/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png" style="width:100%">
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the PSLE Achievement Level (AL) range of 2024 for Dunman Secondary School?**
+**1. Under the New PSLE Scoring System, what is the 2025 PSLE Achievement Level (AL) range for Dunman Secondary School?**
 
 |  | PSLE AL Range |
 | -------- | -------- |
-| **Posting Group 3**     | 9 - 14     |
+| **Posting Group 3**     | 11 - 13     |
 | **Posting Group 2**     | 21 - 23     |
 | **Posting Group 1**     | 25 - 27     |
 
 Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
 
-**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary?**
+**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary School?**
 
 Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
 
@@ -52,6 +69,7 @@ Students are reminded to make their choices wisely as they may not be allocated 
 Find out more about our CCA programme <b><a href="/our-programmes/cca-programme/green-club/" target="_blank">here</a></b>.
 
 **3.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What are the signature programmes of Dunman Secondary?**
+
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
 
 Please click <b><a href="/our-programmes/science-programme/" target="_blank">here</a></b> to learn more about our Science curriculum.
@@ -80,7 +98,7 @@ We provide a vibrant school-based curriculum such as MEDAL (Mastering English, D
 
 In Dunman, we believe that language learning should not take place in silos and should be done through authentic learning platforms. Students are provided with opportunities to apply their learning in varied settings and to different audiences. We also leverage on the teaching of literature to enhance communication skills. For the lower secondary students, we have a two-year programme, MEDAL (Mastering English, Drama, the Art of Communication and Literature) which uses drama-based pedagogy to teach communication skills. By taking on the perspective of the characters, students will develop social emotional competencies and empathy. Hence, through both the English and Literature curriculum we aim to develop confident and empathetic communicators who will in turn grow to become ethical change-makers.
 
-For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives.. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects.&nbsp;
+For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects.&nbsp;
 
 **5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
 
