@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Stage%20Arts%20Drama/arts_drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/To_place_under_the_INTRODUCTION_heading.jpg">
 </div>
 <p>StageArts Drama train our members to live in the spirit of performance,
 encompassing the following aims:</p>
@@ -42,8 +42,14 @@ with members throughout their lives and allow them to apply these skills
 in situations within and beyond the school context.</p>
 <p>Each StageArts Drama member is known as a Drama StageArtisan.</p>
 <h3>Achievements</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Stage%20Arts%20Drama/syf2_2023_001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/To_place_under_the_ACHIEVEMENT_heading___1.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -102,7 +108,11 @@ in situations within and beyond the school context.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Stage%20Arts%20Drama/syf_2023_img002.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/To_place_under_the_ACHIEVEMENT_heading___2.jpg">
+</div>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/To_place_under_the_ACHIEVEMENT_heading___3.jpg">
 </div>
 <h3>Trainings</h3>
 <p><strong>We learn:</strong>
