@@ -115,6 +115,9 @@ in situations within and beyond the school context.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/To_place_under_the_ACHIEVEMENT_heading___3.jpg">
 </div>
 <h3>Trainings</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wj_8t5RR8O8?si=LbFDaABfwmtHBOPO"></iframe>
+</div>
 <p><strong>We learn:</strong>
 </p>
 <ul data-tight="true" class="tight">
