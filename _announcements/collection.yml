@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Booklist 2026.md
       - Update on 60th Anniversary Coffee Table Book.md
       - Apple Distinguished School.md
       - Booklist for AY2025.md
