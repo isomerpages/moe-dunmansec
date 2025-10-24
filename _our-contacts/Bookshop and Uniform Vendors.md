@@ -87,7 +87,7 @@ variant: tiptap
 <p>Address:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
+<p>21 Tampines Street 45 Singapore 529093</p>
 </td>
 </tr>
 <tr>
