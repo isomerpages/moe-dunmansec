@@ -2,86 +2,128 @@
 title: Bookshop and Uniform Vendors
 permalink: /our-contacts/bookshop-and-uniform-vendors/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### 1.&nbsp;&nbsp; &nbsp;School Bookshop Vendor
-
-Overseas Associates Pte Ltd, c/o Dunman Secondary School
-
-<table style="undefined;table-layout: fixed; width: 382px">
+<h3>1.&nbsp;&nbsp; &nbsp;School Uniform Vendor</h3>
+<p>In-Trend Uniforms</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 110px">
-<col style="width: 272px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Address:</td>
-    <td>21 Tampines Street 45, Singapore 529093</td>
-  </tr>
-  <tr>
-    <td>Phone:</td>
-    <td>6382 6789</td>
-  </tr>
-  <tr>
-    <td>Fax:</td>
-    <td>6382 9537</td>
-  </tr>
-  <tr>
-    <td>Email:</td>
-    <td>sales@oapl.sg</td>
-  </tr>
-  <tr>
-    <td>Website:</td>
-    <td><a href="https://www.oapl.sg/" target="_blank">https://www.oapl.sg/</a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phone:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67410930</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Website:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">http://www.intrenduniforms.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information on purchase of uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Our_Contacts/Information_for_Sale_of_Uniforms_2025_DMNSS__23_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-For more information on the purchase of books and stationery from the School Bookshop, please click&nbsp;<a href="https://www.dunmansec.moe.edu.sg/booklist-for-ay2025/" target="_blank">here</a>.
-
-### 2.&nbsp;&nbsp; &nbsp;School Uniform Vendor
-
-Intrend Uniforms
-
-<table style="undefined;table-layout: fixed; width: 382px">
+<p></p>
+<h3>2.&nbsp;&nbsp; &nbsp;School Bookshop Vendor</h3>
+<p>Overseas Associates Pte Ltd, c/o Dunman Secondary School</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 110px">
-<col style="width: 272px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Address:</td>
-    <td>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</td>
-  </tr>
-  <tr>
-    <td>Phone:</td>
-    <td>6741 0930</td>
-  </tr>
-  <tr>
-    <td>Fax:</td>
-    <td>6744 7689</td>
-  </tr>
-  <tr>
-    <td>Email:</td>
-    <td>sales@itu.com.sg</td>
-  </tr>
-  <tr>
-    <td>Website:</td>
-    <td><a href="https://www.intrenduniforms.com/" target="_blank">https://www.intrenduniforms.com/</a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phone:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6382 6789</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fax:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6382 9537</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@oapl.sg" rel="noopener noreferrer nofollow" target="_blank">sales@oapl.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information on purchase of books and stationery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.dunmansec.moe.edu.sg/booklist-2026/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-For more information on the purchase of school uniform , please click [here](/files/Our_Contacts/School%20Booklists%202024/information%20for%20sale%20of%20uniforms%202024_dmnss.pdf)
+<p></p>
