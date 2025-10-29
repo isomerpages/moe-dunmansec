@@ -4,10 +4,29 @@ permalink: /our-dunman/dedicated-n-supportive-parents-dsp/
 description: ""
 variant: markdown
 ---
-![](/images/DSP/1%20v2.png)
 
-![](/images/DSP/v_2.png)
+![](/images/DSP_website_infograpic_1.jpg)
+![](/images/DSP_website_infograpic_2.jpg)
 
-Click [here](https://forms.gle/eB9TERe6fGzCWyQ3A)&nbsp;to sign up and find us at&nbsp;<a href="https://www.facebook.com/DunmanDSP?fref=ts" target="_blank">Facebook</a>&nbsp;today!
+![](/images/DSP_infographic_3.jpg)
 
-![](/images/Screenshot_DSP.png)
+
+**Our Events**
+
+![](/images/Event__Sec_1_Networking_Session_.png)
+Secondary 1 Networking Session
+
+![](/images/Event__EL_Lit_Weel_.png)
+EL Live Lit Week  
+
+![](/images/Event__Cross_Country_.png)
+Dunman Cross Country
+
+![](/images/Event___Mid_Autumn_Celebration_.png)
+Mid Autumn Celebration
+
+![](/images/Event_DSP_Support_for_Graduating_Cohort.png)
+DSP support for our graduating students
+
+Join us by scanning the QR code below!
+![](/images/QR_code_for_DSP_Registration__Join_Us_.png)
