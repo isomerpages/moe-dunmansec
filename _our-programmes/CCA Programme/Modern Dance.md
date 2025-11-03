@@ -6,15 +6,6 @@ third_nav_title: CCA Programme
 variant: markdown
 ---
 ### Introduction
-
-![](/images/CCA%20Photos/Modern%20Dance/dance%20jubilee%201.jpg)
-
-Dunman Dancers' Core Values: Discipline; Responsibility; Respect; Humility
-
-
-Started out as an Interest Group in 2013 with only 7 dancers and 1 teacher, the journey of Dunman Modern Dance CCA is an inspiring story to passionate Dunmanites in keeping the faith and passion for dance. With no professional background and instructors' guidance in 2013, the dancers believed in trying their best in coming together to choreograph their own dance moves to perform at school celebrations. They subsequently performed for our 50th anniversary celebrations which also marked their debut as a united One Dunman Dance Team.
-
-### Introduction
 ​
 ![](/images/CCA%20Photos/Modern%20Dance/dance%20jubilee%201.jpg)
 ​
