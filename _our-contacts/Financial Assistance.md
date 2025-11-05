@@ -2,56 +2,63 @@
 title: Financial Assistance
 permalink: /our-contacts/financial-assistance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### MOE FINANCIAL ASSISTANCE SCHEME (FAS)
-
-<p style="text-align: justify;">The objective of the Financial Assistance Scheme (FAS) is to help needy Singaporean students to meet their basic schooling expenses. The FAS could be funded by MOE or the school.</p>
-
-<p style="text-align: justify;">Detailed information about the household income requirements and benefits can be found on the MOE website: MOE financial assistance scheme <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></p>
-
-### MOE FAS Application Exercise 2025
-
-<p style="text-align: justify;">The MOE Financial Assistance (FAS) Application is now open for application for 2024.</p>
-
-**1.** We have attached the [FAS Application Form](/files/Administration/MOE_FAS_2025.pdf)
-for submission. All compulsory documents must be submitted together with your completed application form for approval. Parents may choose either to apply MOE FAS through
-
-(i) eFAS <a href="https://go.gov.sg/moe-efas" target="_blank">https://go.gov.sg/moe-efas</a>
-
-**or&nbsp; (ii) <a href="/files/Administration/MOE_FAS_2025.pdf" target="_blank">Hardcopy form</a>.**
-
-**2.** Both the link for eFAS and hardcopy application form is attached in this notification.
-
-**3.** Please submit the completed hardcopy FAS forms and supporting documents at the General Office or via eFAS link,&nbsp;**as soon as possible.**
-
-**Application strictly via hardcopy form is required for below scenario:**
-
-**a.** families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
-
-**b.** family with more than 5 children in govt school
-
-**c.** family with more than 4 unmarried children not in govt school
-
-**d.** family with more than 3 grandparents in the household
-
-
-**Note:**
-
-**i.** If your child is a ComCare recipient, you do not need to submit the application form for MOE FAS as MOE FAS will be auto granted to ComCare beneficiaries.
-
-**ii.** School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.
-
-**iii.** Please get ready all softcopy supporting documents to be prepared in advance.  
-
-**School reserves the rights to request for any other documents as and when required for the purpose of verifying the income and other status.**
-
-If you have any queries, please contact the school at Tel: 6786 2668 or you can email us at&nbsp;[dunman\_ss@moe.edu.sg](mailto:dunman_ss@moe.edu.sg).
-
-Parents who want to know more about MOE FAS and the eligibility calculator can visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.
-
-### SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (FAS)
-
-<p style="text-align: justify;">Students who are not eligible for MOE FAS but require assistance, may approach the school General Office for further information and assistance.</p>
-
-<p style="text-align: justify;">Completed forms with supporting documents can be submitted through the school to be processed. Applicants will then be informed by the school of the outcome.</p>
+<h3>MOE FINANCIAL ASSISTANCE SCHEME (FAS)</h3>
+<p><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS)</strong>
+</p>
+<p>Singapore Citizens in financial need can receive assistance with school
+fees and other expenses. The FAS may be funded by MOE or the school.</p>
+<p>Detailed information about household income requirements and benefits
+can be found on the MOE website: MOE Financial Assistance Scheme <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+</p>
+<p></p>
+<p><strong>MOE FAS Application Exercise 2026</strong>
+</p>
+<p>The MOE Financial Assistance Scheme (FAS) application is now open for
+2026.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please submit the eFAS Application Form via FormSG at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.
+All compulsory documents must be submitted together with your completed
+application form for approval.</p>
+</li>
+<li>
+<p>Submissions should be made as soon as possible.</p>
+</li>
+<li>
+<p>If you need assistance with the application, please approach the General
+Office.</p>
+</li>
+</ol>
+<p><strong>Note:</strong>
+</p>
+<p>i. If your child is a ComCare recipient, you do not need to submit the
+application form for MOE FAS, as MOE FAS will be automatically granted
+to ComCare beneficiaries.</p>
+<p>ii. Please prepare all softcopy supporting documents in advance.</p>
+<p>iii. The school reserves the right to request additional documents as
+and when required for the purpose of verifying income and other status.</p>
+<p>If you have any queries, please contact the school at Tel: 6786 2668 or
+email us at <a rel="noopener noreferrer nofollow" target="_blank">dunman_ss@moe.edu.sg</a>
+</p>
+<p>Parents who want to know more about MOE FAS and the eligibility calculator
+can visit the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
+<p></p>
+<p><strong>SCHOOL-BASED FINANCIAL ASSISTANCE SCHEME (SBFAS)</strong>
+</p>
+<p>Students who are not eligible for MOE FAS through their application via
+MOE FormSG will be considered for SBFAS by the school if they meet the
+eligibility criteria. If you require assistance, you may approach the school
+General Office for further information and support.</p>
+<p>Completed forms with supporting documents can be submitted to the school
+for processing. Applicants will then be informed by the school of the outcome.</p>
+<p></p>
+<p><strong><u>Contact Details</u></strong>
+</p>
+<p>(Mdm) Noraishah Abd Rahim – AM
+<br><a rel="noopener noreferrer nofollow" target="_blank">noraishah_abdul_rahim@moe.edu.sg</a> (Ext
+#105)
+<br>(Mr) Daniel Yip – AM
+<br><a rel="noopener noreferrer nofollow" target="_blank">daniel_yip@schools.moe.edu.sg</a>(Ext
+#106)</p>
