@@ -46,17 +46,7 @@ variant: markdown
 <img src="/images/E%20Open%20House/Dunman_Secondary_School_Open_House_2025__Alternative_.png" style="width:100%">
 
 #### Frequently Asked Questions
-**1. Under the New PSLE Scoring System, what is the 2025 PSLE Achievement Level (AL) range for Dunman Secondary School?**
-
-|  | PSLE AL Range |
-| -------- | -------- |
-| **Posting Group 3**     | 11 - 13     |
-| **Posting Group 2**     | 21 - 23     |
-| **Posting Group 1**     | 25 - 27     |
-
-Extracted from:&nbsp;[https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=dunman-secondary-school)
-
-**2. How do the students select their CCA and what are the CCAs offered in Dunman Secondary School?**
+**1. How do the students select their CCA and what are the CCAs offered in Dunman Secondary School?**
 
 Dunmanites are required to take up a CCA from one of the core CCAs offered in Dunman.
 
@@ -68,7 +58,7 @@ Students are reminded to make their choices wisely as they may not be allocated 
 
 Find out more about our CCA programme <b><a href="/our-programmes/cca-programme/green-club/" target="_blank">here</a></b>.
 
-**3.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What are the signature programmes of Dunman Secondary?**
+**2.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What are the signature programmes of Dunman Secondary?**
 
 The school has a high-end Life Science Research Centre and an exciting programme ‘ELIXIR’ (Explore, Life, Innovations, eXcel, Individual Responsibility).
 
@@ -94,13 +84,13 @@ The Science enrichment programme is available for all students. You can click&nb
 
 We provide a vibrant school-based curriculum such as MEDAL (Mastering English, Drama, the Art of Communication and Literature), which integrates English, Drama and Literature.
 
-**4.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Apart from the Science programmes offered, what are the other programmes offered for the other core (English and Mathematics) subjects?**
+**3.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Apart from the Science programmes offered, what are the other programmes offered for the other core (English and Mathematics) subjects?**
 
 In Dunman, we believe that language learning should not take place in silos and should be done through authentic learning platforms. Students are provided with opportunities to apply their learning in varied settings and to different audiences. We also leverage on the teaching of literature to enhance communication skills. For the lower secondary students, we have a two-year programme, MEDAL (Mastering English, Drama, the Art of Communication and Literature) which uses drama-based pedagogy to teach communication skills. By taking on the perspective of the characters, students will develop social emotional competencies and empathy. Hence, through both the English and Literature curriculum we aim to develop confident and empathetic communicators who will in turn grow to become ethical change-makers.
 
 For Mathematics, we seek to elicit the joy of learning the subject by understanding how Mathematics is part and parcel of our daily lives. For the Lower Secondary students, we have organised Maths Trails to relate Mathematics concepts to everyday life. To stretch the higher ability students, we provide training and enroll them in Math Olympiads. In the Upper Secondary classes, we teach Mathematics and Additional Mathematics as one integrated subject to allow students to see the connections between relevant topics in the two subjects. To reinforce students’ learning, we also have Alternative Assessments in which students have to apply their classroom knowledge in carefully chosen projects.&nbsp;
 
-**5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
+**4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the disciplinary approach in Dunman?**
 
 The school adopts a whole-school, multi-pronged approach to student development and management through the following key strategies:
 
@@ -110,17 +100,17 @@ The school adopts a whole-school, multi-pronged approach to student development 
 *   Providing&nbsp;**intervention support**&nbsp;for specific groups of students who require help in managing their behaviours and to address other developmental and intrapersonal needs.
 *   Providing&nbsp;**capacity building opportunities for teachers**&nbsp;to enable them to carry out their disciplinary role effectively.
 
-**6.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
+**5.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;What is the eligibility for Higher Mother Tongue (HMT) and is it possible to appeal?**
 
 Secondary 1 students who are newly posted to the school will be given the option to accept or reject Higher Mother Tongue Languages (HMTL) course if they receive the offer letter from MOE based on their PSLE results when they report on Secondary 1 registration day.
 
 For students who are not offered HMTL course by MOE, the school may offer HMTL if they meet the selection criteria as determined by the school Mother Tongue Language Department at the end of their Secondary 1 course.
 
-**7. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
+**6. &nbsp; &nbsp;What are the Science combinations offered at the end of Secondary 2?**
 
 Information for the subject combination for Secondary 2 this year can be found on our website. Please click <b><a href="/our-dunman-experience/sec-2-subjectselectionex/" target="_blank">here</a></b> for more information.
 																												 
-**8.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
+**7.&nbsp;&nbsp; &nbsp;&nbsp; Apart from academic achievements, how does Dunman Secondary School provide a holistic environment that also inculcates life skills?**
 
 Dunman Secondary School aims to provide a holistic environment that inculcates life skills through three approaches – education, experiences and empowerment.
 
