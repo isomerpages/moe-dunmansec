@@ -4,13 +4,58 @@ permalink: /our-dunman-experience/sec-2-subjectselectionex/
 description: ""
 variant: tiptap
 ---
-<p><strong>Note: Information updated as of 2 September 2025.</strong>
+<p><strong>Note: Information updated as of 10 November 2025.</strong>
 </p>
 <h4>Important Dates</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar_of_Events_SS_for_Sec_3_AY2026.png">
 </div>
+<p></p>
+<h4>Timeline</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timeline.png">
+</div>
+<p></p>
+<h4>Subject Selection Results</h4>
+<p>Students can check their final subject allocation by visiting the website
+below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Majority G1 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDW4ZE</a>
+</p>
+</li>
+<li>
+<p>Majority G2 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ePbkXg</a>
+</p>
+</li>
+<li>
+<p>Majority G3 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J5DrKz</a>
+</p>
+</li>
+</ul>
+<p>Please note that students will need their login credentials to access
+their results.</p>
+<h4>Appeal Process</h4>
+<p>If you wish to appeal your child's subject allocation, you may do so via</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appeal for Majority G1 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f9de65804f2ecada20d942</a>
+</p>
+</li>
+<li>
+<p>Appeal for Majority G2 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f9e0c302df01dbcb9f0028</a>
+</p>
+</li>
+<li>
+<p>Appeal for Majority G3 Students: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68f9e34d72edf970f207e806</a>
+</p>
+</li>
+</ul>
+<p>Please note that all appeals will be processed based on available vacancies
+and are subject to the school's final decision. No further appeals will
+be allowed after the results are released on 19 November.</p>
 <p></p>
 <h4>Overview of Subject Combinations</h4>
 <p>Updated as of 2 September 2025</p>
@@ -24,7 +69,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3_Majority.jpg">
 </div>
-<p></p>
 <h4>Materials</h4>
 <p><strong>Briefing Slides (Subjects)</strong>
 </p>
