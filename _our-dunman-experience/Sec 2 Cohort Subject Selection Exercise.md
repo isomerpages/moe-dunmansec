@@ -4,7 +4,7 @@ permalink: /our-dunman-experience/sec-2-subjectselectionex/
 description: ""
 variant: tiptap
 ---
-<p><strong>Note: Information updated as of 2 September 2025.</strong>
+<p><strong>Note: Information updated as of 10 November 2025.</strong>
 </p>
 <h4>Important Dates</h4>
 <p></p>
