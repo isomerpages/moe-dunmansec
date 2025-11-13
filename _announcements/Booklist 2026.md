@@ -25,7 +25,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For the Secondary 3 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Sec_3_booklist_wef_5_Nov_25.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For the Secondary 3 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Sec_3_Booklist_wef_12_Nov_25.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
