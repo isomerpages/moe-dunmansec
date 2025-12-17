@@ -4,19 +4,15 @@ permalink: /sec-1-registration/purchases/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Booklist</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Stationery List</h4>
+<h4>Booklist and Stationery List</h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Uniforms</h4>
@@ -24,10 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Secondary 1 Booklist, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For Secondary 1 Stationery list, please click&nbsp;<a href="/files/Sec 1 Registration/Secondary_1_Stationery_List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For Secondary 1 Booklist and Stationery List, please click&nbsp;<a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Annex_D___Information_for_Sale_of_Uniforms_2024_DMNSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -36,9 +29,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Purchase of Textbooks and School Uniforms</h4>
-<p></p>
 <h4><strong>Textbooks</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,7 +43,7 @@ variant: tiptap
 charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
-<br>Available from <strong>19, 20, 23, 26 and 27 December 2024.</strong>
+<br>Available from <strong>19, 22, 23 and 26 December 2025.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +78,7 @@ Enterprise One, Singapore 415934</p>
 <p></p>
 <p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong>
 </p>
-<p>Available on <strong>19, 20, 23, 26 December 2024</strong>
+<p>Available on <strong>19, 20, 23, 26 December 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,9 +97,9 @@ One, Singapore 415934</p>
 <p>✓ During December period (Strictly by appointment) - 10:00 a.m. to 7:00
 p.m. (open daily including Sundays and Public Holiday)&nbsp;</p>
 <p></p>
-<p><strong>2025 Financial Assistance Scheme (FAS)</strong>
+<p><strong>2026 Financial Assistance Scheme (FAS)</strong>
 </p>
-<p>Students on 2025 FAS are required to collect their school attire at the
+<p>Students on 2026 FAS are required to collect their school attire at the
 uniform store in school. Please bring along the FAS approval letter and
 refer to it for collection details.&nbsp;</p>
 <p>For enquiries or assistance, please contact the vendor directly: School
@@ -120,7 +111,7 @@ operation hours) Email: sales@itu.com.sg</p>
 </table>
 <h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms in School</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/textbookuni2025updated.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fas2026.png">
 </div>
 <h4>Visitor Management Procedures</h4>
 <ul data-tight="true" class="tight">
