@@ -33,12 +33,12 @@ entire duration of the programme they are admitted to.</p>
 <p>Please contact the school’s general office @ 6786 2668. For appeals that
 are based on medical reasons (serious medical conditions or severe physical
 impairments), please request through the posted school before 12:00 p.m.
-on&nbsp;<strong>19 December 2024</strong>.</p>
+on&nbsp;<strong>19 December 2025</strong>.</p>
 <p>
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
-in 2024 may use this link to appeal for transfer to Dunman Secondary School.
+in 2025 may use this link to appeal for transfer to Dunman Secondary School.
 Their PSLE score should meet the school’s cut-off point of the posting
 year. Transfer will be subjected to available vacancies and the school’s
 admission criteria.</p>
@@ -49,26 +49,19 @@ admission criteria.</p>
 of appealing for secondary school transfer based on non-medical reasons.</p>
 </li>
 <li>
-<p>The deadline for the submission of appeals will be on&nbsp;<strong>23 December 2024</strong>, <strong>5:00 p.m</strong>.
-Late submissions will not be allowed.</p>
-</li>
-<li>
 <p>The school will not disclose reasons for selection/ non-selection of students.</p>
 </li>
 <li>
 <p>Students with pending appeals should still report to the posted secondary
-school on 2 January 2025.</p>
+school on 2 January 2026.</p>
 </li>
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the
-school by 3 January 2025.</p>
+school by 3 January 2026.</p>
 </li>
 </ul>
-<p><strong>Please click <a href="https://for.edu.sg/2025-sec1-transfer-appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>  <strong>or scan the QR Code to appeal to transfer to Dunman Secondary School.</strong>
+<p><strong>Please click <a href="https://go.gov.sg/dmns1appeal2026" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>  <strong>to appeal to transfer to Dunman Secondary School.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025appeal.jpg">
-</div>
 <h4>Mother Tongue Languages (MTL)</h4>
 <p><strong>Higher Mother Tongue Languages (Higher Chinese/ Higher Malay/ Higher Tamil)</strong>
 </p>
@@ -181,7 +174,7 @@ Examination (PSLE).</p>
 <p><strong>2. How will I know if my child is offered with subject(s) at MDL?</strong>
 </p>
 <p>Students who are eligible to take subject(s) at MDL will be notified through
-Parents’ Gateway (PG) by <strong>20 December 2024.&nbsp; </strong>&nbsp;</p>
+Parents’ Gateway (PG) by <strong>22 December 2025.&nbsp; </strong>&nbsp;</p>
 <p><strong>3. For information on Full SBB, please visit the MOE Website: </strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
