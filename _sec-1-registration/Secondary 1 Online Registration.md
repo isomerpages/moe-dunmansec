@@ -12,15 +12,11 @@ of programmes to help your child/ ward settle comfortably into the next
 exciting phase of his/ her growing years.</p>
 <p></p>
 <h4>1. Sec 1 e-Registration Exercise</h4>
-<p>Please complete the Sec 1 e-registration exercise by 23 December 2024
-through the link <a href="https://for.edu.sg/2025dmnsec1registration" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-scan the QR Code below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
-</div>
+<p>Please complete the Sec 1 e-registration exercise by 23 December 2025
+through the link <a href="https://go.gov.sg/dmns1registration2026" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>2. Sec 1 Parent Engagement Webinar</h4>
-<p>We have conducted a Zoom webinar session on <strong>Monday 30 December 2024</strong> from
-4:00 to 5:00 p.m. for parents/ guardians on the following:</p>
+<p>We will be conducting a webinar session on <strong>Monday 29 December 2025</strong> from
+4:00 to 6:00 p.m. for parents/ guardians on the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +28,7 @@ scan the QR Code below:</p>
 <p>Items</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Reference Materials (if Any)</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -40,8 +36,7 @@ scan the QR Code below:</p>
 <p>Welcome Address by School Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/Sec 1 Registration/2025_Welcome_Address_by_Principal_for_Sec_1_Parents___Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -49,8 +44,7 @@ more information</p>
 <p>Cohort Administration Briefing by Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___YH_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -58,8 +52,7 @@ more information</p>
 <p>HMT Matters by HOD/MTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/Sec 1 Registration/2025_sec_1_parent_engagement_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -67,8 +60,7 @@ more information</p>
 <p>Full SBB Matters by HOD/C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/Sec 1 Registration/2025_S1_Parent_Engagement_Session___Full_SBB_briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -76,16 +68,7 @@ more information</p>
 <p>Personal Learning Device (PLD) Updates by HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to the microsite <a href="https://sites.google.com/moe.edu.sg/dmnndlp/home" rel="noopener nofollow" target="_blank">here</a> for more
-information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parent - Form Teacher Breakout Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -93,8 +76,8 @@ information</p>
 <p><strong>Registration</strong>
 </p>
 <p>The link to register for the engagement session is as follows:</p>
-<p>Topic: 2025 Sec 1 Parent Engagement Session</p>
-<p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
+<p>Topic: 2026 Sec 1 Parent Engagement Session</p>
+<p>Registration Link: &nbsp;<a href="https://go.gov.sg/s1parentengagement2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2026</a>
 </p>
 <p>After registering, you will receive a confirmation email containing information
 about the session.</p>
@@ -105,7 +88,7 @@ App as PG is our main mode of communication with all parents/ guardians.</p>
 guide to install PG.&nbsp;</p>
 <h4>4.&nbsp;Class Allocation</h4>
 <p>Your child's/ ward's allocated Secondary 1 class will be reflected on
-PG by 27 December 2024. Alternatively, students can also view their class
+PG by 26 December 2025. Alternatively, students can also view their class
 allocation at the noticeboard placed outside school’s general office on
 the first day of school.</p>
 <p>Finally, if you have any additional queries, please contact the school’s
@@ -143,55 +126,27 @@ journey over the next four/ five years.</p>
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the following link: <a href="https://for.edu.sg/2025dmnsec1registration" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/2025dmnsec1registration</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dmns1registration2026</a>
 </p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025sec1regqrcode.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 December 2024</p>
+<p>23 December 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registration for the Sec 1 Parent Engagement Webinar on 30 December 2024,
-4:00 to 5:00 p.m.</p>
+<p>Registration for the Sec 1 Parent Engagement Webinar on 29 December 2025,
+4:00 to 6:00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zoom</p>
+<p>MSTeams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please use the following link to register for the webinar:</p>
-<p><a href="https://go.gov.sg/s1parentengagement2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2025</a>
+<p><a href="https://go.gov.sg/s1parentengagement2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1parentengagement2026</a>
 </p>
-<p>After registering, you will receive a confirmation email containing information
-about the session.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 December 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Questions to ask during the Sec 1 Parent Engagement Webinar on 30 December
-2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FormSG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use the following link: <a href="https://for.edu.sg/2025-sec1-parent-questions" rel="noopener nofollow" target="_blank">https://for.edu.sg/2025-sec1-parent-questions</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025parentqn.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 December 2024</p>
+<p>27 December 2025</p>
 </td>
 </tr>
 <tr>
@@ -199,17 +154,17 @@ about the session.</p>
 <p>Eligibility to take subject(s) at a more demanding level (MDL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PG</p>
+<p>Parents Gateway</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Only for eligible students.</strong>
 </p>
-<p>Parents/ Guardians will receive a PG message by 20 December 2024 to inform
+<p>Parents/ Guardians will receive a PG message by 22 December 2025 to inform
 you that your child/ ward is eligible to take subject(s) at MDL.</p>
-<p>Please respond directly via PG by 24 December 2024.</p>
+<p>Please respond directly via PG by 26 December 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 December 2024</p>
+<p>26 December 2025</p>
 </td>
 </tr>
 <tr>
@@ -222,12 +177,12 @@ you that your child/ ward is eligible to take subject(s) at MDL.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Only for eligible students.</strong>
 </p>
-<p>Parents/ Guardians will receive a PG message by 20 December 2024 to inform
+<p>Parents/ Guardians will receive a PG message by 22 December 2025 to inform
 you that your child/ ward is eligible to take HMT.</p>
-<p>Please respond directly via PG by 24 December 2024.</p>
+<p>Please respond directly via PG by 26 December 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 December 2024</p>
+<p>26 December 2025</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +195,7 @@ you that your child/ ward is eligible to take HMT.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Only for selected students.</strong>
 </p>
-<p>Parents/ Guardians will receive a PG message by 20 December 2024 to inform
+<p>Parents/ Guardians will receive a PG message by 22 December 2025 to inform
 you that your child/ ward is selected to take 3rd Language.</p>
 <p>Students will have to register online with the respective centres: MOE
 Language Centre (MOELC) or Malay/ Chinese Special Programme (MSP/ CSP)
@@ -270,7 +225,7 @@ she can apply for the Art Elective Programme (AEP) or Music Elective Programme
 <p>MEP Centres (Anglo-Chinese School (Independent) or Dunman High School)</p>
 </li>
 </ul>
-<p>All applications are to be submitted to Arts Education Branch by <u>15 January 2025,</u> Monday. <em>(Late applications will not be accepted)</em>
+<p>All applications are to be submitted to Arts Education Branch by <u>15 January 2026,</u> Thursday. <em>(Late applications will not be accepted)</em>
 </p>
 <p>Successful applicants will attend weekly lessons in the afternoon at the
 AEP/MEP Centres. In view of the extended Art/Music curriculum, AEP/ MEP
@@ -281,7 +236,7 @@ overall curriculum load is manageable.</p>
 <p>More information is available in the following document <a href="/files/Sec 1 Registration/2025_AEP_and_MEP_Centre_Briefing_Slides_to_be_uploaded_to_website.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 January 2025</p>
+<p>15 January 2026</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +254,7 @@ overall curriculum load is manageable.</p>
 to the school’s general office.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 December 2024</p>
+<p>26 December 2025</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +270,7 @@ office. Complete and submit the application form back to the school’s general
 office.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 December 2024</p>
+<p>26 December 2025</p>
 </td>
 </tr>
 </tbody>
