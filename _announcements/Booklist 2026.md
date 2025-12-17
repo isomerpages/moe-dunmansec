@@ -4,6 +4,19 @@ permalink: /booklist-2026/
 variant: tiptap
 description: ""
 ---
+<h4>Secondary 1</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For the Secondary 1 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Secondary 2</h4>
 <table style="minWidth: 25px">
 <colgroup>
