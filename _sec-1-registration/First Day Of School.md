@@ -29,7 +29,7 @@ modifications to the uniform are not allowed. Students are also required
 to wear their name tag (students will collect from the bookshop at a later
 date) and white school shoes at all times.</p>
 <h4>Co–Curriculum Activity (CCA) Performing Arts Audition &amp; Sports Trial</h4>
-<p>There will be CCA Auditions held in the afternoon of 5 and 6 January 2025
+<p>There will be CCA Auditions held in the afternoon of 5 and 6 January 2026
 for Secondary 1 students. Please be reminded to bring along a pair of PE
 attire, as reflected in the packing list. Attendance is compulsory. Further
 details will be provided to students during the administrative briefing
