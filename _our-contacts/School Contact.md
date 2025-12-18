@@ -401,6 +401,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Simran Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:simran_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">simran_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Bijamati Pareatumbee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -428,7 +440,7 @@ variant: tiptap
 <p>Ms Stephanie Ann Kessler</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>FAJ School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kessler_stephanie_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kessler_stephanie_ann@moe.edu.sg</a>
