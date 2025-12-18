@@ -179,7 +179,7 @@ you that your child/ ward is eligible to take HMT.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for 3rd Language</p>
+<p>Application for 3<sup>rd</sup> Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents Gateway App</p>
