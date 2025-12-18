@@ -22,15 +22,15 @@ of activities during the ONE Dunman Experience from 2 to 9 January 2026.
 Annex A.</p>
 <h4>General School Rules</h4>
 <p>Students are required to put on the full school uniform with the school
-tie every Monday. They may wear the school’s Polo T-Shirt, with school
-pants/ skirts on other days if they wish to do so. Please note that as
-the prescribed school uniform is an important part of school identity,
-modifications to the uniform are not allowed. Students are also required
-to wear their name tag (students will collect from the bookshop at a later
+tie every Monday. They may wear the school’s Polo-Tee, with school pants/
+skirts on other days if they wish to do so. Please note that as the prescribed
+school uniform is an important part of school identity, modifications to
+the uniform are not allowed. Students are also required to wear their name
+tag (students will collect their name tags from the bookshop at a later
 date) and white school shoes at all times.</p>
 <h4>Co–Curriculum Activity (CCA) Performing Arts Audition &amp; Sports Trial</h4>
 <p>There will be CCA Auditions held in the afternoon of 5 and 6 January 2026
 for Secondary 1 students. Please be reminded to bring along a pair of PE
-attire, as reflected in the packing list. Attendance is compulsory. Further
-details will be provided to students during the administrative briefing
-on 2 January 2026.</p>
+attire, which will also be reflected in the packing list. Attendance is
+compulsory. Further details will be provided to students during the administrative
+briefing on 2 January 2026.</p>
