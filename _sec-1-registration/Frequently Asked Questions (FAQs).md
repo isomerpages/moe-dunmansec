@@ -38,10 +38,10 @@ on&nbsp;<strong>22 December 2025</strong>.</p>
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
-in 2025 may use this link to appeal for transfer to Dunman Secondary School.
-Their PSLE score should meet the school’s cut-off point of the posting
-year. Transfer will be subjected to available vacancies and the school’s
-admission criteria.</p>
+in 2025 may use the link below to appeal for transfer to Dunman Secondary
+School. Their PSLE score should meet the school’s cut-off point of the
+posting year. Transfer will be subjected to available vacancies and the
+school’s admission criteria.</p>
 <p>Do note the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,8 +76,8 @@ in Higher Mother Tongue Language (HMT), are eligible to study Higher Chinese/Hig
 Malay/Higher Tamil at secondary school level.</p>
 <p>Students who are eligible for HMTL will be invited to opt-in or opt-out
 of the HMTL offer through Parents’ Gateway (PG) <strong>by 22 December 2025</strong>.
-Parents are to respond via PG by <strong>26 December 2025</strong> to indicate
-if they accept the offer(s).</p>
+Parents/ Guardians are to respond via PG by <strong>26 December 2025</strong> to
+indicate if they accept the offer(s).</p>
 <p><strong>3. For students who were not eligible for HMTL subject but are keen to take on HMTL, when can they apply for HMTL?</strong>
 </p>
 <p>For Secondary 1 students who are offered G3 MTL but not eligible at the
@@ -118,8 +118,9 @@ to the school to show that they are learning AL/ FL regularly.</p>
 Form. If a particular L3 is not indicated, it means they are not eligible
 for that L3.&nbsp; Students should have indicated the choices of L3 via
 (i) the S1 Internet System or (ii) through his/her primary school.</p>
-<p><u>Students who had applied for L3, will be informed of the results of their applications through Parents’ Gateway (PG App). For successful applicants, they will also be informed of the registration matters.</u>
-</p>
+<p>Students who had applied for L3, will be informed of the results of their
+applications through Parents’ Gateway (PG App). For successful applicants,
+they will also be informed of the registration matters.</p>
 <p>(For Foreign Languages (FL) such as French, German, Japanese and Spanish,
 students must obtain a PSLE Score of 8 or better. However, if number of
 applicants exceed the vacancies, applicants are selected based on PSLE
@@ -174,7 +175,9 @@ Examination (PSLE).</p>
 <p><strong>2. How will I know if my child is offered with subject(s) at MDL?</strong>
 </p>
 <p>Students who are eligible to take subject(s) at MDL will be notified through
-Parents’ Gateway (PG) by <strong>22 December 2025</strong>. <strong>Parents are to respond via PG by 26 December 2025 to indicate if they accept the offer(s).</strong>&nbsp;</p>
+Parents’ Gateway (PG) by <strong>22 December 2025</strong>. Parents/ Guardians
+are to respond via PG by <strong>26 December 2025</strong> to indicate if
+they accept the offer(s).&nbsp;</p>
 <p><strong>3. For information on Full SBB, please visit the MOE Website: </strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
