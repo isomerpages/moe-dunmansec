@@ -18,7 +18,7 @@ of activities during the ONE Dunman Experience from 2 to 9 January 2026.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fdos2026dmn.png">
 </div>
-<p>Please click <a href="/files/Sec 1 Registration/Annex_A___Sec_1_Programme_for_Week_0_and_1_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Sec 1 Registration/Annex_A_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Annex A.</p>
 <h4>General School Rules</h4>
 <p>Students are required to put on the full school uniform with the school
