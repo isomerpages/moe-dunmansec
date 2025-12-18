@@ -80,7 +80,7 @@ App as PG is our main mode of communication with all parents/ guardians.</p>
 guide to install PG.&nbsp;</p>
 <h4>4.&nbsp;Class Allocation</h4>
 <p>Your child's/ ward's allocated Secondary 1 class will be reflected on
-PG by 26 December 2025. Alternatively, students can also view their class
+PG by 30 December 2025. Alternatively, students can also view their class
 allocation at the noticeboard placed outside school’s general office on
 the first day of school.</p>
 <p>Finally, if you have any additional queries, please contact the school’s
@@ -227,7 +227,7 @@ students will not be offered Design and Technology (D&amp;T) and Food and
 Consumer Education (FCE) at the Lower Secondary level to ensure that their
 overall curriculum load is manageable.</p>
 <p></p>
-<p>More information is available in the following document <a href="/files/Sec 1 Registration/2025_AEP_and_MEP_Centre_Briefing_Slides_to_be_uploaded_to_website.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>More information is available in the following document <a href="/files/Sec 1 Registration/2026_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 January 2026</p>
