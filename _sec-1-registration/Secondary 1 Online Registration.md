@@ -185,13 +185,15 @@ you that your child/ ward is eligible to take HMT.</p>
 <p>Parents Gateway App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Only for selected students.</strong>
-</p>
+<p>For students who applied for 3rd Language,</p>
 <p>Parents/ Guardians will receive a PG message by 22 December 2025 to inform
-you that your child/ ward is selected to take 3rd Language.</p>
-<p>Students will have to register online with the respective centres: MOE
-Language Centre (MOELC) or Malay/ Chinese Special Programme (MSP/ CSP)
-Zonal Centres.</p>
+you whether your child's/ward's application is successful.</p>
+<p>Students whose applications are successful will have to register online
+with the respective centres: MOE Language Centre (MOELC) or Malay/Chinese
+Special Programme (MSP/CSP) Zonal Centres.</p>
+<p>More information on how to register will be provided via Parent Gateway
+to those who are successful in their application.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
