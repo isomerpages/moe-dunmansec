@@ -23,7 +23,7 @@ variant: tiptap
 <p>For Secondary 1 Booklist and Stationery List, please click&nbsp;<a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Annex_D___Information_for_Sale_of_Uniforms_2024_DMNSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Information_for_Sale_of_Uniforms_2025_DMNSS_1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -39,11 +39,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Home Delivery Option</u></strong>
-<br>Online purchase is available from&nbsp;<strong>18 to 20 December&nbsp;2024 </strong>(Delivery
+<br>Online purchase is available on&nbsp;<strong>19 and 20 December&nbsp;2025 </strong>(Delivery
 charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
-<br>Available from <strong>19, 22, 23 and 26 December 2025.</strong>
+<br>Available from <strong>19, 22, 23, 26 and 29 December 2025.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,12 +66,12 @@ scan the QR code below.
 <h4><strong>School Uniforms</strong></h4>
 <p>
 <br><strong><u>Home Delivery Option</u></strong>
-<br>Online purchase is available from&nbsp;<strong>18 December&nbsp;2024.</strong>
+<br>Online purchase is available from&nbsp;<strong>19 December&nbsp;2025.</strong>
 </p>
 <p>Please allow for 3&nbsp;- 5 working days for home delivery.
 <br>
 <br><strong><u>Self-Collection Option</u></strong>
-<br>Online purchase is available from&nbsp;<strong>18 December 2024.</strong>
+<br>Online purchase is available from&nbsp;<strong>19 December 2025.</strong>
 </p>
 <p>Collection will be done at IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-30/31
 Enterprise One, Singapore 415934</p>
@@ -110,8 +110,9 @@ operation hours) Email: sales@itu.com.sg</p>
 </tbody>
 </table>
 <h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms in School</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/fas2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/books2026.png">
 </div>
 <h4>Visitor Management Procedures</h4>
 <ul data-tight="true" class="tight">
