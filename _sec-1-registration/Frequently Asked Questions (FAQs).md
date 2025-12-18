@@ -33,7 +33,7 @@ entire duration of the programme they are admitted to.</p>
 <p>Please contact the school’s general office @ 6786 2668. For appeals that
 are based on medical reasons (serious medical conditions or severe physical
 impairments), please request through the posted school before 12:00 p.m.
-on&nbsp;<strong>19 December 2025</strong>.</p>
+on&nbsp;<strong>22 December 2025</strong>.</p>
 <p>
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
@@ -71,13 +71,13 @@ school by 3 January 2026.</p>
 held concurrently with MTL lessons during curriculum time.&nbsp;</p>
 <p><strong>2. Who are eligible to opt for HMTL subject in Sec 1?</strong>
 </p>
-<p>Students with a PSLE Score of 8 or better and offer MTL at PSLE, or&nbsp;students
-with a PSLE Score of 9-14 and obtained AL1/ AL2 in MTL or Distinction/
-Merit&nbsp;in HMTL are eligible for HMTL.</p>
-<p>Incoming Secondary 1 students were informed of their eligibility for HMTL
-via the Eligibility Letter after the release of PSLE Results.</p>
-<p><u>Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG). Parents are to respond via PG by&nbsp;</u><strong><u>24 December 2024</u></strong><u>&nbsp;to indicate if they accept the offer(s).</u>
-</p>
+<p>Students who attained AL1/AL2 in Mother Tongue Language (MTL) or Distinction/Merit
+in Higher Mother Tongue Language (HMT), are eligible to study Higher Chinese/Higher
+Malay/Higher Tamil at secondary school level.</p>
+<p>Students who are eligible for HMTL will be invited to opt-in or opt-out
+of the HMTL offer through Parents’ Gateway (PG) <strong>by 22 December 2025</strong>.
+Parents are to respond via PG by <strong>26 December 2025</strong> to indicate
+if they accept the offer(s).</p>
 <p><strong>3. For students who were not eligible for HMTL subject but are keen to take on HMTL, when can they apply for HMTL?</strong>
 </p>
 <p>For Secondary 1 students who are offered G3 MTL but not eligible at the
@@ -174,7 +174,7 @@ Examination (PSLE).</p>
 <p><strong>2. How will I know if my child is offered with subject(s) at MDL?</strong>
 </p>
 <p>Students who are eligible to take subject(s) at MDL will be notified through
-Parents’ Gateway (PG) by <strong>22 December 2025.&nbsp; </strong>&nbsp;</p>
+Parents’ Gateway (PG) by <strong>22 December 2025</strong>. <strong>Parents are to respond via PG by 26 December 2025 to indicate if they accept the offer(s).</strong>&nbsp;</p>
 <p><strong>3. For information on Full SBB, please visit the MOE Website: </strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
