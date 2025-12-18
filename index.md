@@ -15,6 +15,12 @@ sections:
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
+  - infobar:
+      title: 2026 Secondary 1 Registration Infosite
+      subtitle: welcome dunmanities!
+      id: infobar
+      button: find out more
+      url: /sec-1-registration/secondary-1-online-registration/
   - infopic:
       title: Open House 2025
       subtitle: Join Us on 8 November!
