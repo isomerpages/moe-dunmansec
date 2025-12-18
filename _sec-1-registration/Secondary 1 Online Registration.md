@@ -41,7 +41,15 @@ through the link <a href="https://go.gov.sg/dmns1registration2026" rel="noopener
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cohort Administration Briefing by Assistant Year Head (Lower Secondary)</p>
+<p>Cohort Administration Briefing by Assistant Year Head (Secondary 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full SBB Matters by Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
