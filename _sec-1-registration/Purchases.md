@@ -78,7 +78,7 @@ Enterprise One, Singapore 415934</p>
 <p></p>
 <p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong>
 </p>
-<p>Available on <strong>19, 20, 23, 26 December 2025</strong>
+<p>Available on <strong>19, 20, 23, 26 and 29 December 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
