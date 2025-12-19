@@ -16,7 +16,7 @@ of activities during the ONE Dunman Experience from 2 to 9 January 2026.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Fdos_dmn2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Screenshot_2025_12_19_080511.png">
 </div>
 <p>Please click <a href="/files/Sec 1 Registration/Annex_A_18dec.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Annex A.</p>
