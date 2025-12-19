@@ -45,7 +45,7 @@ variant: tiptap
 charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
-<br>Available from <strong>19, 22, 23, 26 and 29 December 2025.</strong>
+<br>Available from<strong> 22, 23, 26 and 29 December 2025.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
