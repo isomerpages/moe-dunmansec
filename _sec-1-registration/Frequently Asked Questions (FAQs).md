@@ -33,15 +33,15 @@ entire duration of the programme they are admitted to.</p>
 <p>Please contact the school’s general office @ 6786 2668. For appeals that
 are based on medical reasons (serious medical conditions or severe physical
 impairments), please request through the posted school before 12:00 p.m.
-on&nbsp;<strong>19 December 2024</strong>.</p>
+on&nbsp;<strong>22 December 2025</strong>.</p>
 <p>
 <br><strong>3. Can my child/ ward apply for a transfer to Dunman Secondary School due to any other non-medical reasons?</strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
-in 2024 may use this link to appeal for transfer to Dunman Secondary School.
-Their PSLE score should meet the school’s cut-off point of the posting
-year. Transfer will be subjected to available vacancies and the school’s
-admission criteria.</p>
+in 2025 may use the link below to appeal for transfer to Dunman Secondary
+School. Their PSLE score should meet the school’s cut-off point of the
+posting year. Transfer will be subjected to available vacancies and the
+school’s admission criteria.</p>
 <p>Do note the following:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,26 +49,19 @@ admission criteria.</p>
 of appealing for secondary school transfer based on non-medical reasons.</p>
 </li>
 <li>
-<p>The deadline for the submission of appeals will be on&nbsp;<strong>23 December 2024</strong>, <strong>5:00 p.m</strong>.
-Late submissions will not be allowed.</p>
-</li>
-<li>
 <p>The school will not disclose reasons for selection/ non-selection of students.</p>
 </li>
 <li>
 <p>Students with pending appeals should still report to the posted secondary
-school on 2 January 2025.</p>
+school on 2 January 2026.</p>
 </li>
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the
-school by 3 January 2025.</p>
+school by 3 January 2026.</p>
 </li>
 </ul>
-<p><strong>Please click <a href="https://for.edu.sg/2025-sec1-transfer-appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>  <strong>or scan the QR Code to appeal to transfer to Dunman Secondary School.</strong>
+<p><strong>Please click <a href="https://go.gov.sg/dmns1appeal2026" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>  <strong>to appeal to transfer to Dunman Secondary School.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/2025appeal.jpg">
-</div>
 <h4>Mother Tongue Languages (MTL)</h4>
 <p><strong>Higher Mother Tongue Languages (Higher Chinese/ Higher Malay/ Higher Tamil)</strong>
 </p>
@@ -78,13 +71,13 @@ school by 3 January 2025.</p>
 held concurrently with MTL lessons during curriculum time.&nbsp;</p>
 <p><strong>2. Who are eligible to opt for HMTL subject in Sec 1?</strong>
 </p>
-<p>Students with a PSLE Score of 8 or better and offer MTL at PSLE, or&nbsp;students
-with a PSLE Score of 9-14 and obtained AL1/ AL2 in MTL or Distinction/
-Merit&nbsp;in HMTL are eligible for HMTL.</p>
-<p>Incoming Secondary 1 students were informed of their eligibility for HMTL
-via the Eligibility Letter after the release of PSLE Results.</p>
-<p><u>Students who are eligible for HMTL will be invited to opt-in or opt-out of the HMTL offer through Parents’ Gateway (PG). Parents are to respond via PG by&nbsp;</u><strong><u>24 December 2024</u></strong><u>&nbsp;to indicate if they accept the offer(s).</u>
-</p>
+<p>Students who attained AL1/AL2 in Mother Tongue Language (MTL) or Distinction/Merit
+in Higher Mother Tongue Language (HMT), are eligible to study Higher Chinese/Higher
+Malay/Higher Tamil at secondary school level.</p>
+<p>Students who are eligible for HMTL will be invited to opt-in or opt-out
+of the HMTL offer through Parents’ Gateway (PG) <strong>by 22 December 2025</strong>.
+Parents/ Guardians are to respond via PG by <strong>26 December 2025</strong> to
+indicate if they accept the offer(s).</p>
 <p><strong>3. For students who were not eligible for HMTL subject but are keen to take on HMTL, when can they apply for HMTL?</strong>
 </p>
 <p>For Secondary 1 students who are offered G3 MTL but not eligible at the
@@ -125,8 +118,9 @@ to the school to show that they are learning AL/ FL regularly.</p>
 Form. If a particular L3 is not indicated, it means they are not eligible
 for that L3.&nbsp; Students should have indicated the choices of L3 via
 (i) the S1 Internet System or (ii) through his/her primary school.</p>
-<p><u>Students who had applied for L3, will be informed of the results of their applications through Parents’ Gateway (PG App). For successful applicants, they will also be informed of the registration matters.</u>
-</p>
+<p>Students who had applied for L3, will be informed of the results of their
+applications through Parents’ Gateway (PG App). For successful applicants,
+they will also be informed of the registration matters.</p>
 <p>(For Foreign Languages (FL) such as French, German, Japanese and Spanish,
 students must obtain a PSLE Score of 8 or better. However, if number of
 applicants exceed the vacancies, applicants are selected based on PSLE
@@ -181,7 +175,9 @@ Examination (PSLE).</p>
 <p><strong>2. How will I know if my child is offered with subject(s) at MDL?</strong>
 </p>
 <p>Students who are eligible to take subject(s) at MDL will be notified through
-Parents’ Gateway (PG) by <strong>20 December 2024.&nbsp; </strong>&nbsp;</p>
+Parents’ Gateway (PG) by <strong>22 December 2025</strong>. Parents/ Guardians
+are to respond via PG by <strong>26 December 2025</strong> to indicate if
+they accept the offer(s).&nbsp;</p>
 <p><strong>3. For information on Full SBB, please visit the MOE Website: </strong>
 <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
