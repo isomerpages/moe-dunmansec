@@ -12,11 +12,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For the Secondary 1 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For the Secondary 1 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.1</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><em><sup>1</sup>Only for Secondary 1 students: Please wait for confirmation of your child's/ward's More Demanding Level subject offerings via Parents Gateway App on 22 December 2025 before purchasing the relevant textbooks and materials.</em>
+</p>
 <h4>Secondary 2</h4>
 <table style="minWidth: 25px">
 <colgroup>
