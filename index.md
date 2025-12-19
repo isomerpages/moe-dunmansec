@@ -17,7 +17,7 @@ sections:
           url: /events/events-highlight/
   - infobar:
       title: 2026 Secondary 1 Registration Infosite
-      subtitle: welcome dunmanities!
+      subtitle: welcome dunmanites!
       id: infobar
       button: find out more
       url: /sec-1-registration/secondary-1-online-registration/
