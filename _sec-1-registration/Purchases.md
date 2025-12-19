@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><em>Please wait for confirmation of your child's More Demanding Level subject offerings via Parents Gateway App on 22 December 2025 before purchasing the relevant textbooks and materials.</em>
+<p><em>Please wait for confirmation of your child's/ward's More Demanding Level subject offerings via Parents Gateway App on 22 December 2025 before purchasing the relevant textbooks and materials.</em>
 </p>
 <h4>Purchase of Textbooks and School Uniforms</h4>
 <h4><strong>Textbooks</strong></h4>
