@@ -12,7 +12,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For the Secondary 1 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.1</p>
+<p>For the Secondary 1 Booklist and Stationery List, please click <a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.<sup>1</sup>
+</p>
 </td>
 </tr>
 </tbody>
