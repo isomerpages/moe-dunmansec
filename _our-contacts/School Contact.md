@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Si Hsiao Wei Jane</p>
+<p>Mdm Si Hsiao Wei Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Languages</p>
@@ -230,7 +230,7 @@ variant: tiptap
 <p>HOD/Information &amp; Communications Technology (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nathaniel_dylan_lim_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">im_zhi@moe.edu.sg</a>
+<p><a href="mailto:nathaniel_dylan_lim_zhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nathaniel_dylan_lim_zhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
