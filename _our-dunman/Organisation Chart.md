@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/SL_18Dec.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/HOD_18Dec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HOD.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Organisation Chart/SH_18Decv2.jpg">
