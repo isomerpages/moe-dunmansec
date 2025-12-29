@@ -36,8 +36,8 @@ variant: markdown
 <p style="text-align: center;">Available at: https://youtu.be/wJqmbTWV_WU</p>
 
 <h3>Device Management Application (DMA)</h3>
-<p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:00
-a.m. to 11:00 p.m. and with school hours from 6:00 a.m. to 6:00 p.m. The school determines the applications (apps) to be installed in our students' PLD to support teaching and learning.</p> 
+<p style="text-align: justify;">Personal Learning Device (PLD) usage time for students is set from 6:30
+a.m. to 10:30 p.m. and with school hours from 6:30 a.m. to 6:00 p.m. The school determines the applications (apps) to be installed in our students' PLD to support teaching and learning.</p> 
 <p style="text-align: justify;">All PLDs are pre-installed with a Device Management Application (DMA) to provide a safer digital environment for learning and safeguard our students' cyber wellness. Parents/Guardians can request to change the choice of After-School DMA Parent Option. Parents/Guardians may inform the school by filling up an online form <a href="https://go.gov.sg/dmndmachange" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p></p>
 <p style="text-align: justify;"><strong>Please take note that changes to the After-School DMA Parent Options should only be done by the parent/guardian of the student (SingPass authentication required). The new option will only take effect at the start of the next school term.</strong>
 </p>
