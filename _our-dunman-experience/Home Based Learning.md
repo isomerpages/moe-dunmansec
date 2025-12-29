@@ -5,11 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>HBL (Home-Based Learning) Schedule</h3>
-<p>Main Learning Portal: Student Learning Space (SLS)
-<br>Supporting Learning Portal: Google G Suite (student.edu.sg)
-<br>For HBL timetable, please refer to the school's timetable.
-<br>
-</p>
+<p><strong>Main Learning Portal</strong>: Student Learning Space (SLS)
+<br><strong>Supporting Learning Portal:</strong> Google G Suite (student.edu.sg)</p>
+<p>For more details on HBL matters, such as timetables and tasks, please
+visit the HBL@Dunman infosite <a href="https://for.edu.sg/hbldunman" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>Learning Portals</h3>
 <p>Please click&nbsp;<strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 login to SLS.
@@ -26,7 +25,7 @@ click <strong><a href="https://go.gov.sg/sls-troubleshoot-guide" rel="noopener n
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong>
+<p><strong>Mondays - Fridays: 8:00 a.m. - 4:00 p.m.</strong>
 </p>
 </li>
 <li>
@@ -35,16 +34,12 @@ Helpline&nbsp;for SLS queries including all SLS access matters such as
 password reset and unlocking of accounts.</p>
 </li>
 <li>
-<p><strong>School-based Helpline:</strong>&nbsp;Please click <strong><a href="https://form.gov.sg/#!/5e3b9317ae17b00011e6b7ff" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p><strong>School-based Helpline (for MIMS / SLS password reset):</strong>&nbsp;Please
+click <strong><a href="https://go.gov.sg/dmnmimsslsreset" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/Our%20Student%20Life/Home%20Based%20Learning/SchBasedHelpline.png">
-</div>
-<ul data-tight="true" class="tight">
 <li>
 <p>For queries regarding lessons/ assignments, students may contact the General
-Office at 6786 2668.</p>
+Office at 6786 2668 or through their teachers' emails at <a href="https://www.dunmansec.moe.edu.sg/our-contacts/school-contact/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>For other matters, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
