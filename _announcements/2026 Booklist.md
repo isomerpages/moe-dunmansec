@@ -1,5 +1,5 @@
 ---
-title: Booklist 2026
+title: 2026 Booklist
 permalink: /booklist-2026/
 variant: tiptap
 description: ""

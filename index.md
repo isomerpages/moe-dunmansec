@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /apple-distinguished-school/
+          url: /2026-timetable/
         - title: Events
           description: Click here for upcoming events
           url: /events/events-highlight/
