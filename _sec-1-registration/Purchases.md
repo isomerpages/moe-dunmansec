@@ -23,7 +23,7 @@ variant: tiptap
 <p>For Secondary 1 Booklist and Stationery List, please click&nbsp;<a href="/files/Announcements/Booklist2026/Booklist_2026_DMS_S1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Information_for_Sale_of_Uniforms_2025_DMNSS_1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For Secondary 1 School Uniforms, please click <a href="/files/Sec 1 Registration/Information_for_Sale_of_Uniforms_2025_DMNSS_2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -46,6 +46,9 @@ charges apply)
 <br>
 <br><strong><u>Onsite Purchase Option</u></strong>
 <br>Available from<strong> 22, 23, 26 and 29 December 2025.</strong>
+</p>
+<p></p>
+<p>Available from <strong>2, 5 to 9 January 2026.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,8 +83,12 @@ Enterprise One, Singapore 415934</p>
 <p></p>
 <p><strong><u>Onsite Purchase Option @ Dunman Secondary School</u></strong>
 </p>
-<p>Available on <strong>19, 20, 23, 26 and 29 December 2025</strong>
+<p>Available on <strong>19, 20, 23, 26 and 29 December 2025.</strong>
 </p>
+<p></p>
+<p>Available on <strong>2, 5 to 9 January 2026.</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -112,10 +119,10 @@ operation hours) Email: sales@itu.com.sg</p>
 </tbody>
 </table>
 <h4>Instructions for Onsite Purchase or Self-Collection of Textbooks and Uniforms in School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/books2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Registration/Screenshot_2025_12_31_081634.png">
 </div>
+<p></p>
 <h4>Visitor Management Procedures</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,8 +134,8 @@ the security post (main school gate) for registration.</p>
 and should reschedule their appointment.</p>
 </li>
 <li>
-<p>Please restrict the visiting areas to Block B (buying books) and Block
-C (buying school uniforms) only.</p>
+<p>Please restrict the visiting areas to School Bookshop (buying school books)
+and Design Nexus (buying school uniforms) only</p>
 </li>
 </ul>
 <h4>Parking Arrangement</h4>
