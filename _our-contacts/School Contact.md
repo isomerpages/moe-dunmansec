@@ -413,6 +413,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kenn Thng Chin Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thng_chin_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_chin_ann@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Bijamati Pareatumbee</p>
 </td>
 <td rowspan="1" colspan="1">
