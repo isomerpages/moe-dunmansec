@@ -78,11 +78,9 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<hr>
 <h4><strong>At Dunman Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_1.png">
 </div>
@@ -218,8 +216,6 @@ flouting copyright laws, etc.)</p>
 </table>
 <p></p>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2.png">
@@ -666,7 +662,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </table>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_5.png">
 </div>
@@ -753,8 +748,6 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Dunman Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -807,7 +800,6 @@ way, including avenues for help-seeking.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
 of a risky situation by applying skills of assertiveness and responsible
 decision-making</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
