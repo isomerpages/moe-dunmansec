@@ -186,20 +186,25 @@ when overcoming obstacles such as the low ropes and high ropes challenge.</p>
 <br>Every Even Week Tuesday: 3:30pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
 <h3><strong>Teachers-in-Charge</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Ms.) Sutha D/O Rajasekaran
-– OC and Sec 4/5 Squad
-<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>(Ms.) Sutha D/O Rajasekaran – OC and Sec 4/5 Squad <a rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mr.) Huang Yanmou –
-DyOC and Sec 1 Squad
-<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">huang_yanmou@moe.edu.sg</a>
+</li>
+<li>
+<p>(Mr.) Huang Yanmou – DyOC and Sec 1 Squad
+<br><a rel="noopener noreferrer nofollow" target="_blank">huang_yanmou@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mr.) Toh Zheng Han
-– Sec 3 Squad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IC&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a>&nbsp;</p>
-<p>·&nbsp; (Mr.) Chiam Chien an Russell – Sec 2 Squad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;
-<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chiam_chien_an_russell@moe.edu.sg</a>
+</li>
+<li>
+<p>(Mr.) Toh Zheng Han – Sec 3 Squad&nbsp;
+<br><a rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a>&nbsp;</p>
+</li>
+<li>
+<p>(Mr.) Chiam Chien an Russell – Sec 2 Squad&nbsp;&nbsp;&nbsp;
+<br><a rel="noopener noreferrer nofollow" target="_blank">chiam_chien_an_russell@moe.edu.sg</a>
 </p>
+</li>
+</ul>
 <p></p>
 <p></p>
