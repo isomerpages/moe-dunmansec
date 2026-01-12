@@ -41,16 +41,20 @@ achieved stellar results in the Unit Overall Proficiency Award (UOPA).</p>
 <li>
 <p>2023 – Distinction</p>
 </li>
+<li>
+<p>2024 - Distinction</p>
+</li>
 </ul>
 <h3><strong>Trainings</strong></h3>
-<p>We aim to provide students with authentic learning experiences which will
-help them to develop important qualities based on the NPCC values of RISE
-–&nbsp;Resilience, Integrity, Service and Excellence.</p>
-<p>As the COVID situation improves in 2022, the Corps actively participated
-in many interesting events to engage our cadets and challenge them. On
-top of drills and campcraft, cadets can expect to immerse in a range of
-holistic courses such as those relating to Police Knowledge and National
-Education, and Values-in-Action Programme.</p>
+<p>Our goal is to provide students with meaningful and authentic learning
+experiences that nurture essential qualities aligned with the NPCC core
+values of RISE: Resilience, Integrity, Service, and Excellence.</p>
+<p>The NPCC curriculum is thoughtfully designed to focus on key areas such
+as law enforcement, leadership, resilience, national education, and personal
+development. Through a variety of engaging activities and events, students
+gain valuable skills and experiences, enabling them to grow and excel in
+these areas throughout their NPCC journey.</p>
+<p></p>
 <p></p>
 <h3><strong>Enrichments</strong></h3>
 <ul data-tight="true" class="tight">
@@ -60,25 +64,27 @@ Education, and Values-in-Action Programme.</p>
 <li>
 <p>Secondary 2 1-Star Kayaking</p>
 </li>
+<li>
+<p>Secondary 3: Air Pistol Shoot</p>
+</li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc_1.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 3 Air Pistol Shoot</p>
 <p></p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc2.png">
+</div>
 <h3><strong>Courses/Events</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1 Police Heritage Centre Visit</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc3.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -93,13 +99,6 @@ Education, and Values-in-Action Programme.</p>
 and the public in collaboration with Tampines NPC. Through the experience,
 our cadets gain valuable communication skills and achieve a better understanding
 of the all-rounded nature of police work.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Picture6.png">
-</div>
 <h3><strong>Competitions</strong></h3>
 <ul>
 <li>
@@ -111,9 +110,16 @@ of the all-rounded nature of police work.</p>
 <li>
 <p>Inter-unit Crime Scene Investigation Competition (2023)</p>
 </li>
+<li>
+<p>Inter-Unit Drills Competition (2024)</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
 </div>
 <h3><strong>Camps</strong></h3>
 <ul>
@@ -124,27 +130,33 @@ of the all-rounded nature of police work.</p>
 <p>Area Training Camp (for Secondary 2 Cadets)</p>
 </li>
 </ul>
-<p>Our Secondary 3 cadet leaders’ first challenge of the year was to plan
-for the Unit Camp which was held over 2 days in Term 1 Week 9 this year,
-involving the Secondary 1 and 2 cadets as participants.&nbsp;</p>
+<p>The NPCC cadets got their first opportunity to bond and learn together
+through the annual unit camp which took place in Term 1, Week 10. The unit
+camp allows cadets to develop strong teamwork and camaraderie among members
+of the unit through group activities, challenges, and tasks that require
+collaboration and trust. The camp experience, with its structured routines
+and physical activities, helps instill discipline and mental resilience
+in cadets, preparing them for challenges both in and outside the NPCC.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p>The annual 3-days 2-nights camp Adventure Training Camp (ATC) at Pulau
-Ubin is one of the highlights for Secondary 2 cadets. With the segmented
-resumption of camps and face-to-face activities, our Secondary 2 and 3
-cadets embarked on an abridged one-day ATC at Pulau Ubin. The cadets were
-challenged with a 3km hike to the NPCC Campsite and then engaged in a series
-of activities which include a pioneering competition and field cooking.
-The cadets had an enriching experience and displayed much perseverance
-throughout the day.</p>
+<p>The annual 3-day 2-nights camp Adventure Training Camp (ATC) at Pulau
+Ubin’s Camp Resilience is one of the highlights for Secondary 2 cadets.
+In achieving its objectives in building resilience among its campers, Camp
+Resilience encourages outdoor activities, ranging from obstacle courses
+to sea activities, to allow the cadets to enjoy an outdoor experiential
+learning during their stay and also work together with their teammates
+when overcoming obstacles such as the low ropes and high ropes challenge.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
 </div>
 <h3><strong>Others</strong></h3>
 <ul data-tight="true" class="tight">
@@ -161,8 +173,12 @@ throughout the day.</p>
 <p>Overseas Education Visits to Brunei/Hong Kong</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA Photos/NPCC/npcc_2023_img8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
 </div>
 <p>*subjected to selection test outcomes</p>
 <h3><strong>Training Details</strong></h3>
@@ -170,27 +186,20 @@ throughout the day.</p>
 <br>Every Even Week Tuesday: 3:30pm to 6pm.</p>
 <p>Adhoc HQ and Area 5 events on other dates.</p>
 <h3><strong>Teachers-in-Charge</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>(Mr.) Chu Khoon Hwa - OC and 4/5 Squad IC&nbsp;</p>
-<p><a href="mailto:chu_khoon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_khoon_hwa@moe.edu.sg</a>&nbsp;(Ext
-#167)</p>
-</li>
-<li>
-<p>(Ms.) Mabel Neo Yu Qian – DyOC and Sec 3 Squad IC&nbsp;</p>
-<p><a href="mailto:mabel_neo_yu_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mabel_neo_yu_qian@moe.edu.sg</a>&nbsp;(Ext
-#142)</p>
-</li>
-<li>
-<p>(Mr.) Toh Zheng Han – Sec 1 Squad&nbsp;IC&nbsp;</p>
-<p><a href="mailto:toh_zheng_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a> &nbsp;(Ext
-#179)</p>
-</li>
-<li>
-<p>(Ms.) Sutha D/O Rajasekaran – Sec 2 Squad IC&nbsp;</p>
-<p><a href="mailto:sutha_rajasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a> (Ext
-#148)</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Ms.) Sutha D/O Rajasekaran
+– OC and Sec 4/5 Squad
+<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sutha_rajasekaran@moe.edu.sg</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mr.) Huang Yanmou –
+DyOC and Sec 1 Squad
+<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">huang_yanmou@moe.edu.sg</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mr.) Toh Zheng Han
+– Sec 3 Squad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IC&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">toh_zheng_han@moe.edu.sg</a>&nbsp;</p>
+<p>·&nbsp; (Mr.) Chiam Chien an Russell – Sec 2 Squad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+<br>IC&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chiam_chien_an_russell@moe.edu.sg</a>
+</p>
 <p></p>
 <p></p>
