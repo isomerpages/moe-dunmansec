@@ -3,68 +3,85 @@ title: Football
 permalink: /our-programmes/cca-programme/football/
 description: ""
 third_nav_title: CCA Programme
-variant: markdown
+variant: tiptap
 ---
-### Introduction
-
-![](/images/CCA%20Photos/Football/football.jpg)
-
-![](/images/CCA%20Photos/Football/2nd_pic.jpg)
-
-![](/images/CCA%20Photos/Football/3rd.jpg)
-
-![](/images/CCA%20Photos/Football/4th.jpg)
-
-![](/images/CCA%20Photos/Football/5th.jpg)
-
-### Our Mission Statement
-
-<p style="text-align: justify;">Our mission is to provide an inclusive, fun-loving and nurturing environment for our players to hone their football skills while upholding the highest standards of sportsmanship and character.</p>
-
-### Our Philosophy
-
-<p style="text-align: justify;">We love the fun in football! However, we also understand the importance of respect, commitment and teamwork and strive to achieve excellence in character and skill.</p>
-
-### Our Identity
-
-We are football players who are:  
-\- united in our Goals  
-\- committed to play football to our best ability  
-\- willing to overcome any difficulties  
-\- respectful towards our team members, coaches and opponents
-
-### Achievements
-
-![](/images/CCA%20Photos/Football/NSG%20C%20Division%20National%204th.jpg)
-
-![](/images/CCA%20Photos/Football/Futsal%20U14%20National%202nd.jpg)
-
-**2017**  
-
-*   NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2017 (Participation)
-
-**2018**  
-
-*   NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2018 (Participation)
-
-**2019**   
-*   NSG B DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2019 (Participation)  
-*   NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2019 (4th)   
-*   SINGAPORE POOLS – FAS ISFC U14 FUTSAL 2019 (2nd)
-
-### Trainings
-
-Trainings
-•	Tuesday: 3:00 PM to 5:00 PM
-•	Friday: 2:00 PM to 4:00 PM
-
-Please note that during the peak season, training sessions may end later.
-
-
-### CCA Teachers-In-Charge
-  
-Mr Harris Alexander, email:&nbsp;**[harris\_alexander@moe.edu.sg](mailto:harris_alexander@moe.edu.sg)**
-
-Mdm Siti Nur Nadirah Asmadi, email:&nbsp;**[siti\_nur\_nadirah\_asmadi@moe.edu.sg](mailto:siti_nur_nadirah_asmadi@moe.edu.sg)**
-
-Ms Hafizah Hashim, email:&nbsp;**[hafizah\_hashim@moe.edu.sg](mailto:hafizah_hashim@moe.edu.sg)**
+<h3>Introduction</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Football/football.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Introduction__Replace_2nd_pic_from_the_top_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Introduction__Replace_3rd_pic_from_the_top.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Introduction__Replace_4th_pic_from_the_top_.jpg">
+</div>
+<h3>Our Mission Statement</h3>
+<p>Our mission is to provide an inclusive, fun-loving and nurturing environment
+for our players to hone their football skills while upholding the highest
+standards of sportsmanship and character.</p>
+<h3>Our Philosophy</h3>
+<p>We love the fun in football! However, we also understand the importance
+of respect, commitment and teamwork and strive to achieve excellence in
+character and skill.</p>
+<h3>Our Identity</h3>
+<p>We are football players who are:
+<br>- united in our Goals
+<br>- committed to play football to our best ability
+<br>- willing to overcome any difficulties
+<br>- respectful towards our team members, coaches and opponents</p>
+<h3>Achievements</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement__new_pic_to_add_2nd_from_the_bottom.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement__new_pic_to_add_at_bottom.jpg">
+</div>
+<p><strong>2017</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2017 (Participation)</p>
+</li>
+</ul>
+<p><strong>2018</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2018 (Participation)</p>
+</li>
+</ul>
+<p><strong>2019</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG B DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2019 (Participation)</p>
+</li>
+<li>
+<p>NSG C DIVISION GIRLS' FOOTBALL CHAMPIONSHIP 2019 (4th)</p>
+</li>
+<li>
+<p>SINGAPORE POOLS – FAS ISFC U14 FUTSAL 2019 (2nd)</p>
+</li>
+</ul>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG B DIVISION GIRLS’ FOOTBALL CHAMPIONSHIP 2025 (League 2 Champion)</p>
+</li>
+</ul>
+<h3>Trainings</h3>
+<p>• Tuesday: 3:00 PM to 5:00 PM
+<br>• Friday: 2:00 PM to 4:00 PM</p>
+<p>Please note that during the peak season, training sessions may end later.</p>
+<h3>CCA Teachers-In-Charge</h3>
+<p>Mr Harris Alexander, email:&nbsp;<strong><a href="mailto:harris_alexander@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harris_alexander@moe.edu.sg</a></strong>
+</p>
+<p>Ms Simran Kaur, email:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">simran_kaur@moe.edu.sg</a></strong>
+</p>
+<p>Ms Jocelyn Tan, email:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tan_si_hui_jocelyn@moe.edu.sg</a></strong>
+</p>
