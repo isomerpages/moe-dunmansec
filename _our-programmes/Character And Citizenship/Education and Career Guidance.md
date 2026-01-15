@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>Education and Career Guidance (ECG)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ECG_2026.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECG_2026.png">
 </div>
 <p>Education and Career Guidance (ECG) is about equipping students with the
 necessary knowledge, skills and values to make informed decisions at each
