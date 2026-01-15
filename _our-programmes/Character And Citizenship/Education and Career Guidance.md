@@ -31,7 +31,6 @@ education and career opportunities while respecting the value of all occupations
 <p>Build students’ adaptability and resilience to embrace the need for lifelong
 learning</p>
 <p></p>
-<p></p>
 <p><strong>ECG COUNSELLING</strong>
 </p>
 <p>We have a school-based ECG Counsellor available to provide support to
