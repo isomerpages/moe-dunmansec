@@ -125,7 +125,7 @@ about the course (modules and career prospects), etc.
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a> 
 <br>
-<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions</a> 
+<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#changes-to-post-secondary-admissions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,9 +369,8 @@ Education Institution (PEI)</p>
 <td rowspan="1" colspan="1">
 <p>For students who would like to have someone to talk to in times of need.
 Alternatively, please approach the School Counsellor.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><br></strong>updated 06 Oct 2025</p>
+<p>updated 06 Oct 2025</p>
