@@ -13,22 +13,26 @@ variant: tiptap
 necessary knowledge, skills and values to make informed decisions at each
 key education stage for successful transition from school to further education
 or work. The goals of ECG are to support students in:</p>
+<p></p>
 <p><strong>Discovering Purpose – Who am I?</strong>
 </p>
 <p>Nurture students’ self-awareness to support them in discovering how they
 can meaningfully play a part in their community</p>
+<p></p>
 <p></p>
 <p><strong>Exploring Opportunities – Where do I want to go?</strong>
 </p>
 <p>Develop students’ self-directedness and confidence to explore and leverage
 education and career opportunities while respecting the value of all occupations</p>
 <p></p>
+<p></p>
 <p><strong>Staying Relevant – How do I get there?</strong>
 </p>
 <p>Build students’ adaptability and resilience to embrace the need for lifelong
 learning</p>
 <p></p>
-<p>&nbsp;<strong>ECG COUNSELLING</strong>
+<p></p>
+<p><strong>ECG COUNSELLING</strong>
 </p>
 <p>We have a school-based ECG Counsellor available to provide support to
 students, either individually or in small groups. Students who are interested
