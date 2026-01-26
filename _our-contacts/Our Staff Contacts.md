@@ -1,5 +1,5 @@
 ---
-title: School Contact
+title: Our Staff Contacts
 permalink: /our-contacts/school-contact/
 description: ""
 variant: tiptap
