@@ -21,15 +21,6 @@ sections:
       id: infobar
       button: find out more
       url: /sec-1-registration/secondary-1-online-registration/
-  - infopic:
-      title: Open House 2025
-      subtitle: Join Us on 8 November!
-      id: infopic
-      description: Empathetic Leaders | Impactful Innovators
-      button: Find out more
-      url: /e-open-house/programme-highlights/
-      image: /images/E Open House/oh2025main.png
-      alt: Open House Banner
   - infobar:
       title: Apple Distinguished School
       subtitle: We have been designated as an
