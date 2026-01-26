@@ -10,4 +10,4 @@ variant: markdown
 
 
 
-WE ARE CELEBRATED OUR 60th Anniversary in 2023!
+WE CELEBRATED OUR 60th Anniversary in 2023!
