@@ -2,15 +2,11 @@
 title: Mother Tongue Programme
 permalink: /our-programmes/mother-tongue-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Members</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-
-<img src="/images/Department%20Photos/2024/mother_tongue_language_department_2.jpg" style="width:78%">
-	
-	
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/MTL.png">
 </div>
 <h3>Mission / Objectives of Department</h3>
 <h4>Our Vision:</h4>
@@ -67,18 +63,14 @@ and comics etc.</p>
 <p>Traditional Festivals’ Celebrations</p>
 </li>
 </ul>
-<p>
-
-</p>
+<p></p>
 <p>Please head to the link to see the crosstalk(相声) videos performed by our
-students!  <a href="https://read.bookcreator.com/DkrvKpx5IDdqBuWyUSERvJlUCVC3/uiPVdVUQRmqWgxrREgPKeA/NOlRocwgSUeKejJ4QtaHeQ" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to view the videos
-</p>
-<p>
-</p>
+students! <a href="https://read.bookcreator.com/DkrvKpx5IDdqBuWyUSERvJlUCVC3/uiPVdVUQRmqWgxrREgPKeA/NOlRocwgSUeKejJ4QtaHeQ" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a> to
+view the videos</p>
+<p></p>
 <p>Please click <a href="https://mingming2017.wixsite.com/my-site" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 see our students’ work!</p>
-<p>
-</p>
+<p></p>
 <h3>Awards and Accolades</h3>
 <p>
 <br>
