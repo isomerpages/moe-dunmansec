@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Members</h3>
 <div class="isomer-image-wrapper">
-<img style="width:78%" height="auto" width="100%" src="/images/Department%20Photos/2024/humanities_department_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/Hum.png">
 </div>
 <h3>Mission / Objectives of Department</h3>
 <h4>Our Vision</h4>
@@ -98,7 +98,7 @@ key historical concepts in a meaningful way.</p>
 <p><strong>HI Highlights</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pZyY8eDiR68"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pZyY8eDiR68"></iframe>
 </div>
 <p><strong>Sensory Skills Programme</strong>
 </p>
