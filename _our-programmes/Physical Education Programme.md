@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/2024/physical_education_department_2.jpg" style="width:78%">
+![](/images/Department%20Photos/PE.png)
 
 ### Mission/ Objectives of Department
 <p style="text-align: justify;">Every child will leave the school as a physically fit individual with skills and passion to live a healthy lifestyle.</p>
