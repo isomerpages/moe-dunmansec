@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Members
-<img src="/images/Department%20Photos/2024/craft_and_technology_department_2.jpg" style="width:78%">
+![](/images/Department%20Photos/Craft_Tech_1.png)
 
 ### Mission / Objectives of Department
 
