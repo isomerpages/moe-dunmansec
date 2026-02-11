@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2026 Sec 1 OALC.md
       - 2026 CCA Schedule.md
       - 2026 Timetable.md
       - "December 2025: School Operating Hours (Eve of Public Holidays).md"
