@@ -16,12 +16,6 @@ sections:
           description: Click here for upcoming events
           url: /events/events-highlight/
   - infobar:
-      title: 2026 Secondary 1 Registration Infosite
-      subtitle: welcome dunmanites!
-      id: infobar
-      button: find out more
-      url: /sec-1-registration/secondary-1-online-registration/
-  - infobar:
       title: Apple Distinguished School
       subtitle: We have been designated as an
       id: infobar
