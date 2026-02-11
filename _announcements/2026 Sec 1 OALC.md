@@ -46,7 +46,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Valuables will be collected for safekeeping before departure to campsite</p>
+<p>Valuables will be collected for safekeeping before departure to campsite.</p>
 </td>
 </tr>
 </tbody>
