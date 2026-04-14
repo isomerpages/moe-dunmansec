@@ -19,6 +19,5 @@ skills and passion to live a healthy lifestyle.</p>
 <h4>NAPFA</h4>
 <p>You can download NAPFA Standards&nbsp;<a href="/files/pe_napfa.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Annual School Run 2026</h4>
-<p>You can download the briefing slides for the Annual School Run&nbsp;
-<a href="/files/pe_napfa.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You can download the briefing slides for the Annual School Run <a href="/files/2026__Cross_country_Student_briefing_14_April_finalised.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
