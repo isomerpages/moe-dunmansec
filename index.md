@@ -30,12 +30,4 @@ sections:
       description: Find out more about our involvement in this programme
       button: Click here
       url: https://dunmansec.moe.edu.sg/google-ai-accelerator-2025/
-  - infobar:
-      title: Begin Your Journey at Dunman through DSA
-      subtitle: From Passion to Purpose
-      id: infobar
-      description: From Passion to Purpose – Join Dunman via DSA and grow in a vibrant
-        school that nurtures values, talent, and character.
-      button: 👉 Click here to find out more about DSA@Dunman
-      url: https://www.dunmansec.moe.edu.sg/our-contacts/direct-school-admission-for-2025-intake/
 ---
