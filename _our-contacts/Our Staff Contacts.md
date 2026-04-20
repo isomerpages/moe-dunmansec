@@ -642,9 +642,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ali Arshad</p>
-<p><a href="mailto:ali_sharif_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ali_sharif_arshad@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1024,12 +1022,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Su Min Cheryl</p>
-<p><a href="mailto:tan_su_min_cheryl_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_min_cheryl_a@moe.edu.sg</a>
+<p>Mdm Simran Kaur</p>
+<p><a href="mailto:simran_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">simran_kaur@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Su Min Cheryl</p>
+<p><a href="mailto:tan_su_min_cheryl_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_min_cheryl_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1114,14 +1114,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Simran Kaur</p>
-<p><a href="mailto:simran_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">simran_kaur@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Wu Shulong</p>
 <p><a href="mailto:wu_shulong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_shulong@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1214,8 +1212,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Shyong Yaw</p>
-<p><a href="mailto:chan_shyong_yaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_shyong_yaw@moe.edu.sg</a>
+<p>Mr Tiah Tao Koon</p>
+<p><a href="mailto:tiah_tao_koon_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tiah_tao_koon_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

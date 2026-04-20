@@ -34,7 +34,7 @@ sections:
       title: DIRECT SCHOOL ADMISSION (DSA)
       subtitle: For admission in 2027
       id: infobar
-      description: Click the link below to find out more
+      description: To find out more, click on the link below
       button: DSA in Dunman
       url: /direct-school-admissions-for-admission-in-2027/
 ---
