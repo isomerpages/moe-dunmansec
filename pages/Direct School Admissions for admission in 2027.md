@@ -82,8 +82,7 @@ will be shortlisted/given an offer.</p>
 <p>b)&nbsp;&nbsp;&nbsp; If your child has been shortlisted to undergo Direct
 School Admission (DSA) selection, you will receive notification within
 the stipulated period.</p>
-<p>&nbsp;</p>
-<p>For more details, please refer to MOE website – <a href="" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+<p>&nbsp;For more details, please refer to MOE website – <a href="" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
 <p></p>
