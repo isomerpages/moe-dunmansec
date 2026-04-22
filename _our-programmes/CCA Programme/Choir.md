@@ -12,12 +12,13 @@ school choir to clinch Gold in the demanding Singapore Youth Festival (SYF)
 Choral Competition in 1997. Since then, the Choir continues to attain Gold
 at SYF in 1999, 2003, and 2005, the prestigious Gold (with Honours) award
 in 2007, 2009 and 2011 at the SYF and the Distinction award at the 2013,
-2015, 2017, 2019 and 2023 Singapore Youth Festival Arts Presentations (SYF
-AP). Together with other school choirs, despite the challenges of the worldwide
-COVID-19 situation, we also participated in SYF AP 2021, where our choir
-members experienced recording our choice piece for the first time.</p>
+2015, 2017, 2019, 2023 and 2025. Singapore Youth Festival Arts Presentations
+(SYF AP). Together with other school choirs, despite the challenges of
+the worldwide COVID-19 situation, we also participated in SYF AP 2021,
+where our choir members experienced recording our choice piece for the
+first time.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Choir/1img_0725.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LimeLight_Dunman_2.png">
 </div>
 <p>The inaugural overseas tour to Sydney in 1996 was featured in Straits
 Times, a first among the neighbourhood school then.&nbsp; The past overseas
@@ -34,8 +35,8 @@ Children's category and won&nbsp;2 special awards&nbsp;(Conductor's Prize&nbsp;a
 for&nbsp;Dramaturgy). We have also invited world-class maestros to our
 school and conduct choral workshops for our choir members.</p>
 <p>Members are also given various opportunities to perform for the public.
-In 2010, 2012, 2015, 2017, 2020, and 2023, the Choir was invited by the
-Esplanade to put up a full-length concert, under the Limelight series,
+In 2010, 2012, 2015, 2017, 2020, 2023 and 2026, the Choir was invited by
+the Esplanade to put up a full-length concert, under the Limelight series,
 at the world-class Esplanade Concert Hall, all of which were very well-received.
 The Choir also holds annual combined concerts with choirs from Mayflower
 Secondary School, St Joseph’s Institution, Raffles Institution and Catholic
@@ -51,7 +52,7 @@ to promote bonding among members. Through these activities, members experience
 the importance of good leadership and teamwork, as well as the opportunity
 to develop into mature individuals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Choir/58image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LimeLight_Dunman.png">
 </div>
 <p>We believe in character building and leadership training through musical
 pursuits.&nbsp;Many of our students have benefited from past activities
@@ -63,6 +64,9 @@ parents and family, as well as the Dunman Choir alumni, without which the
 choir would not have achieved all that it has today.</p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 - Distinction</p>
+</li>
 <li>
 <p>2023 – Distinction</p>
 </li>
@@ -90,7 +94,7 @@ choir would not have achieved all that it has today.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HPJu5noq_gA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bmQ9VGdqxvs?si=vmNu2Jwmmz3rXtaa"></iframe>
 </div>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
