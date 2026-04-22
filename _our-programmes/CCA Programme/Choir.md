@@ -18,7 +18,7 @@ the worldwide COVID-19 situation, we also participated in SYF AP 2021,
 where our choir members experienced recording our choice piece for the
 first time.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Choir/1img_0725.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LimeLight_Dunman_2.png">
 </div>
 <p>The inaugural overseas tour to Sydney in 1996 was featured in Straits
 Times, a first among the neighbourhood school then.&nbsp; The past overseas
@@ -52,7 +52,7 @@ to promote bonding among members. Through these activities, members experience
 the importance of good leadership and teamwork, as well as the opportunity
 to develop into mature individuals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Choir/58image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LimeLight_Dunman.png">
 </div>
 <p>We believe in character building and leadership training through musical
 pursuits.&nbsp;Many of our students have benefited from past activities
