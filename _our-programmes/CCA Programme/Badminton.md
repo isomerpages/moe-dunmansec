@@ -5,24 +5,49 @@ description: ""
 third_nav_title: CCA Programme
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
 <p>Our CCA aims to nurture disciplined and daring athletes, instilled with
 a strong sense of duty to their team. Our players compete with unwavering
 determination to succeed, balanced by discernment in fair play and sportsmanship.
 They are gracious in victory and resilient in defeat, embodying the values
 of sportsmanship both on and off the court.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
+</div>
 <h1>Achievements</h1>
 <p>Our teams actively participate in the National School Games, regularly
 putting up fine displays of sportsmanship, echoing our school values of
 Discipline, Determination, and Discernment. Our latest achievement includes
 winning our very first National Championship title in 2024, when the C
 Division team emerged as National School Games (League 4) Champions.</p>
-<p>Key achievements include: • 2024: C Division National School Games (League
-4) Champions • 2022: St Patrick’s School Invitational Cup Champions • 2022:
-C Division East Zone Top Eight • 2017: B Division East Zone Top Eight •
-2016: C Division East Zone Top Eight • 2013: B Division East Zone Top Four</p>
+<p>Key achievements include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025: Changkat Changi Badminton Invitationals 2025 Champions</p>
+</li>
+<li>
+<p>2024: C Division National School Games (League 4) Champions</p>
+</li>
+<li>
+<p>2022: St Patrick’s School Invitational Cup Champion</p>
+</li>
+<li>
+<p>2022: C Division East Zone Top Eight</p>
+</li>
+<li>
+<p>2017: B Division East Zone Top Eight</p>
+</li>
+<li>
+<p>2016: C Division East Zone Top Eight</p>
+</li>
+<li>
+<p>2013: B Division East Zone Top Four</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo2.jpg">
 </div>
@@ -36,8 +61,9 @@ play.</p>
 <h1>Teachers-in-charge</h1>
 <p>Ms Witty Goh <a href="mailto:goh_wen_ti_witty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wen_ti_witty@moe.edu.sg</a> 
 <br>Mr Leonard Wan <a href="mailto:wan_zhun_kai_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_zhun_kai_leonard@moe.edu.sg</a>
-<br>Miss Sim Xin Xian
-<br>Mr Jefferson Goh</p>
+<br>Miss Sim Xin Xian <a href="mailto:sim_xin_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_xin_xian@moe.edu.sg</a>
+<br>Mr Jefferson Goh <a href="mailto:wei_jie_jefferson_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_jie_jefferson_goh@moe.edu.sg</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
