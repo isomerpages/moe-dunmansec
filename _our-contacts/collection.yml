@@ -2,6 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
+      - Direct School Admissions for admission in 2027.md
       - School Canteen Information.md
       - Financial Assistance.md
       - Bookshop and Uniform Vendors.md
