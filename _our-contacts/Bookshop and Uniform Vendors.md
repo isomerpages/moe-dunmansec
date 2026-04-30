@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>1.&nbsp;&nbsp; &nbsp;School Uniform Vendor</h3>
-<p>In-Beau Voix Uniform</p>
+<p>Beau Voix Uniform</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
