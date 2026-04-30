@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>1.&nbsp;&nbsp; &nbsp;School Uniform Vendor</h3>
-<p>In-Trend Uniforms</p>
+<p>Beau Voix Uniform</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Address:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
+<p>2 Sims Close, Gemini@Sims, #03-08, S(387298)</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Phone:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>67410930</p>
+<p>6743 6645</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
+<p><a href="mailto:info@beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@beauvoix.com.sg</a>
 </p>
 </td>
 </tr>
@@ -50,17 +50,16 @@ variant: tiptap
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">http://www.intrenduniforms.com</a>
+<p><a href="http://www.beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information on purchase of uniforms</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/Our_Contacts/Information_for_Sale_of_Uniforms_2025_DMNSS__23_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
