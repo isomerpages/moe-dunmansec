@@ -80,8 +80,68 @@ Leader, Class Monitor).</p>
 <p>a)&nbsp;&nbsp;&nbsp; Meeting all criteria does not guarantee the student
 will be shortlisted/given an offer.</p>
 <p>b)&nbsp;&nbsp;&nbsp; If your child has been shortlisted to undergo Direct
-School Admission (DSA) selection, you will receive notification within
-the stipulated period.</p>
+School Admission (DSA) selection, you will receive notification by <strong>10 July</strong>.</p>
+<p>&nbsp;</p>
+<p><strong><u>Below are some dates which you may want to take note</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PERIOD</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 May (11am) to 2 Jun (4.30pm)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Interview/Trial (only for shortlisted applicants)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 Jul to 28 Aug</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Selection outcome release dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>17 Aug to 28 Aug</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School preference submission period</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>19 Oct to 23 Oct</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p></p>
