@@ -128,7 +128,7 @@ without tape/glue</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Science Olympiads, with training provided</p>
+<p>Science Olympiads</p>
 </li>
 <li>
 <p>Youth Digital Currency Programme for coding fundamentals with Temasek
