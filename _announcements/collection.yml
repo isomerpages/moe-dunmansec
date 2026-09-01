@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - End of Year Examination Schedule 2026.md
       - Preliminary Examination Schedule 2026.md
       - 2026 Sec 1 OALC.md
       - 2026 CCA Schedule.md
